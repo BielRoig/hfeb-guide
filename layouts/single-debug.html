@@ -1,0 +1,9 @@
+{{ define "main" }}
+<div style="background: yellow; padding: 20px; margin: 20px;">
+  <p>DEBUG INFO:</p>
+  <p>.Section: {{ .Section }}</p>
+  <p>.Type: {{ .Type }}</p>
+  <p>sectionNav: {{ site.Params.doks.sectionNav }}</p>
+  <p>Is in sectionNav: {{ in site.Params.doks.sectionNav .Section }}</p>
+</div>
+{{ end }}

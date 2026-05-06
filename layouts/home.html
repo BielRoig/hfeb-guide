@@ -1,0 +1,63 @@
+{{ define "main" }}
+<section class="section container-fluid mt-n3 pb-3">
+  <div class="row justify-content-center">
+    <div class="col-lg-12 text-center">
+      <h1>{{ .Title }}</h1>
+    </div>
+    <div class="col-lg-9 col-xl-8 text-center">
+      <p class="lead">{{ .Params.lead | safeHTML }}</p>
+      <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/docs/introduction/" role="button">Read the Guide</a>
+      {{ .Content }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ define "sidebar-prefooter" }}
+  {{ if site.Params.doks.backgroundDots -}}
+  <div class="d-flex justify-content-start">
+    <div class="bg-dots"></div>
+  </div>
+  {{ end -}}
+  <section class="section section-md section-features">
+    <div class="container">
+      <div class="row justify-content-center text-center">
+        <div class="col-lg-5">
+          <h2 class="h4"><a href="/docs/introduction/">Home</a></h2>
+          <p>Introduction to the deck and its game plan.</p>
+        </div>
+        <div class="col-lg-5">
+          <h2 class="h4"><a href="/docs/lists/">Lists</a></h2>
+          <p>Decklists and card choices explained.</p>
+        </div>
+        <div class="col-lg-5">
+          <h2 class="h4"><a href="/docs/how-to-play/">How to Play</a></h2>
+          <p>Core concepts and sequencing for the combo.</p>
+        </div>
+        <div class="col-lg-5">
+          <h2 class="h4"><a href="/docs/lines/">Lines</a></h2>
+          <p>Key lines and decision trees.</p>
+        </div>
+        <div class="col-lg-5">
+          <h2 class="h4"><a href="/docs/matchups/">Matchups</a></h2>
+          <p>How to approach each matchup in the format.</p>
+        </div>
+        <div class="col-lg-5">
+          <h2 class="h4"><a href="/docs/sideboard-guide/">Sideboard Guide</a></h2>
+          <p>What to bring in and cut for every matchup.</p>
+        </div>
+        <div class="col-lg-5">
+          <h2 class="h4"><a href="/docs/resources/">Resources</a></h2>
+          <p>Download the PDF and find external links.</p>
+        </div>
+        <div class="col-lg-5">
+          <h2 class="h4"><a href="/docs/contact/">Contact</a></h2>
+          <p>Get in touch with the author.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}
+
+{{ define "sidebar-footer" }}
+{{ end }}

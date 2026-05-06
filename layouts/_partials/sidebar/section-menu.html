@@ -1,0 +1,4 @@
+{{- /* Custom override to explicitly render sidebar_docs menu */ -}}
+{{- with index site.Menus "sidebar_docs" }}
+    {{ partial "sidebar/render-section-menu.html" (dict "currentPage" $ "nodes" .) }}
+{{- end }}

@@ -1,0 +1,73 @@
+[[main]]
+  name = "Guide"
+  url = "/docs/introduction/"
+  weight = 10
+
+[[main]]
+  name = "Download PDF"
+  url = "/docs/resources/"
+  weight = 20
+
+[[social]]
+  name = "GitHub"
+  pre = '<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5"></path></svg>'
+  url = "https://github.com/yourusername/HFEB-GUIDE"
+  weight = 10
+
+[[footer]]
+  name = "Privacy Policy"
+  url = "/privacy/"
+  weight = 10
+
+[[footer]]
+  name = "Contact"
+  url = "/docs/contact/"
+  weight = 20
+
+[[sidebar_docs]]
+  name = "Home"
+  weight = 10
+  identifier = "introduction"
+  pageRef = "/docs/introduction"
+
+[[sidebar_docs]]
+  name = "Lists"
+  weight = 20
+  identifier = "lists"
+  pageRef = "/docs/lists"
+
+[[sidebar_docs]]
+  name = "How to Play"
+  weight = 30
+  identifier = "how-to-play"
+  pageRef = "/docs/how-to-play"
+
+[[sidebar_docs]]
+  name = "Lines"
+  weight = 40
+  identifier = "lines"
+  pageRef = "/docs/lines"
+
+[[sidebar_docs]]
+  name = "Matchups"
+  weight = 50
+  identifier = "matchups"
+  pageRef = "/docs/matchups"
+
+[[sidebar_docs]]
+  name = "Sideboard Guide"
+  weight = 60
+  identifier = "sideboard-guide"
+  pageRef = "/docs/sideboard-guide"
+
+[[sidebar_docs]]
+  name = "Resources"
+  weight = 70
+  identifier = "resources"
+  pageRef = "/docs/resources"
+
+[[sidebar_docs]]
+  name = "Contact"
+  weight = 80
+  identifier = "contact"
+  pageRef = "/docs/contact"
