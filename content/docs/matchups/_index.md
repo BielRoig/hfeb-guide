@@ -14,13 +14,13 @@ With a non-summoning sick Shapeshifter and Survival of the Fittest, you can gene
 **Graveyard order (top to bottom):** Battlefield Scrounger → Phyrexian Devourer
 
 <div class="card-row">
-{{< card name="Survival of the Fittest" set="exo" >}}
-{{< card name="Volrath's Shapeshifter" set="str" >}}
-{{< card name="Hermit Druid" set="tmp" >}}
-{{< card name="Battlefield Scrounger" set="ody" >}}
-{{< card name="Phyrexian Devourer" set="all" >}}
-{{< card name="Triskelion" set="atq" >}}
-{{< card name="Krosan Reclamation" set="ody" >}}
+{{< card name="Survival of the Fittest" set="exo" />}}
+{{< card name="Volrath's Shapeshifter" set="str" />}}
+{{< card name="Hermit Druid" set="tmp" />}}
+{{< card name="Battlefield Scrounger" set="ody" />}}
+{{< card name="Phyrexian Devourer" set="all" />}}
+{{< card name="Triskelion" set="atq" />}}
+{{< card name="Krosan Reclamation" set="ody" />}}
 </div>
 
 1. *(If needed, discard a creature to Survival → get Hermit Druid)*
@@ -43,13 +43,13 @@ A Scrounger-based line that works around most graveyard hate without needing a s
 **Graveyard order (top to bottom):** Battlefield Scrounger → Psychatog → Phyrexian Devourer
 
 <div class="card-row">
-{{< card name="Survival of the Fittest" set="exo" >}}
-{{< card name="Volrath's Shapeshifter" set="str" >}}
-{{< card name="Hermit Druid" set="tmp" >}}
-{{< card name="Battlefield Scrounger" set="ody" >}}
-{{< card name="Psychatog" set="ody" >}}
-{{< card name="Phyrexian Devourer" set="all" >}}
-{{< card name="Triskelion" set="atq" >}}
+{{< card name="Survival of the Fittest" set="exo" />}}
+{{< card name="Volrath's Shapeshifter" set="str" />}}
+{{< card name="Hermit Druid" set="tmp" />}}
+{{< card name="Battlefield Scrounger" set="ody" />}}
+{{< card name="Psychatog" set="ody" />}}
+{{< card name="Phyrexian Devourer" set="all" />}}
+{{< card name="Triskelion" set="atq" />}}
 </div>
 
 1. *(If needed, discard a creature to Survival → get Hermit Druid)*
@@ -74,14 +74,14 @@ Scrounger means you are no longer limited to a single avenue of lethal. Here is 
 **Graveyard order (top to bottom):** Karmic Guide → Psychatog → Battlefield Scrounger → Wall of Roots → Phyrexian Devourer → Triskelion
 
 <div class="card-row">
-{{< card name="Hermit Druid" set="tmp" >}}
-{{< card name="Volrath's Shapeshifter" set="str" >}}
-{{< card name="Krosan Reclamation" set="ody" >}}
-{{< card name="Karmic Guide" set="usg" >}}
-{{< card name="Psychatog" set="ody" >}}
-{{< card name="Battlefield Scrounger" set="ody" >}}
-{{< card name="Phyrexian Devourer" set="all" >}}
-{{< card name="Triskelion" set="atq" >}}
+{{< card name="Hermit Druid" set="tmp" />}}
+{{< card name="Volrath's Shapeshifter" set="str" />}}
+{{< card name="Krosan Reclamation" set="ody" />}}
+{{< card name="Karmic Guide" set="usg" />}}
+{{< card name="Psychatog" set="ody" />}}
+{{< card name="Battlefield Scrounger" set="ody" />}}
+{{< card name="Phyrexian Devourer" set="all" />}}
+{{< card name="Triskelion" set="atq" />}}
 </div>
 
 **6 mana — 1 turn kill / 3 mana — 2 turn kill:**
@@ -102,12 +102,12 @@ Aura Thief can beat Solitary Confinement and most other Enchantress locks. This 
 **Graveyard order (top to bottom):** Karmic Guide → *(Wall of Roots × 2)* → Aura Thief
 
 <div class="card-row">
-{{< card name="Hermit Druid" set="tmp" >}}
-{{< card name="Volrath's Shapeshifter" set="str" >}}
-{{< card name="Unearth" set="uds" >}}
-{{< card name="Karmic Guide" set="usg" >}}
-{{< card name="Psychatog" set="ody" >}}
-{{< card name="Cabal Therapy" set="ody" >}}
+{{< card name="Hermit Druid" set="tmp" />}}
+{{< card name="Volrath's Shapeshifter" set="str" />}}
+{{< card name="Unearth" set="uds" />}}
+{{< card name="Karmic Guide" set="usg" />}}
+{{< card name="Psychatog" set="ody" />}}
+{{< card name="Cabal Therapy" set="ody" />}}
 </div>
 
 **Line A:**
@@ -152,8 +152,8 @@ Engineered Plague directly attacks several of hFEB's most important creatures. O
 The most direct answer to all three is **Uktabi Orangutan** or **Naturalize**. But removal is not always available — here is how to navigate each one.
 
 <div class="card-row">
-{{< card name="Uktabi Orangutan" set="vis" >}}
-{{< card name="Naturalize" set="ons" >}}
+{{< card name="Uktabi Orangutan" set="vis" />}}
+{{< card name="Naturalize" set="ons" />}}
 </div>
 
 ### Null Rod

@@ -14,13 +14,13 @@ The typical combat kill assembled with Hermit Druid.
 **Graveyard order (top to bottom):** Karmic Guide → ...
 
 <div class="card-row">
-{{< card name="Hermit Druid" set="tmp" >}}
-{{< card name="Volrath's Shapeshifter" set="str" >}}
-{{< card name="Unearth" set="uds" >}}
-{{< card name="Karmic Guide" set="usg" >}}
-{{< card name="Psychatog" set="ody" >}}
-{{< card name="Cabal Therapy" set="ody" >}}
-{{< card name="Akroma, Angel of Wrath" set="lgn" >}}
+{{< card name="Hermit Druid" set="tmp" />}}
+{{< card name="Volrath's Shapeshifter" set="str" />}}
+{{< card name="Unearth" set="uds" />}}
+{{< card name="Karmic Guide" set="usg" />}}
+{{< card name="Psychatog" set="ody" />}}
+{{< card name="Cabal Therapy" set="ody" />}}
+{{< card name="Akroma, Angel of Wrath" set="lgn" />}}
 </div>
 
 1. Activate Hermit Druid and put Karmic Guide on top of your graveyard
@@ -38,10 +38,10 @@ The typical combat kill assembled with Hermit Druid.
 The basis of Full English Breakfast. Straightforward and devastating when assembled.
 
 <div class="card-row">
-{{< card name="Survival of the Fittest" set="exo" >}}
-{{< card name="Volrath's Shapeshifter" set="str" >}}
-{{< card name="Phyrexian Devourer" set="all" >}}
-{{< card name="Triskelion" set="atq" >}}
+{{< card name="Survival of the Fittest" set="exo" />}}
+{{< card name="Volrath's Shapeshifter" set="str" />}}
+{{< card name="Phyrexian Devourer" set="all" />}}
+{{< card name="Triskelion" set="atq" />}}
 </div>
 
 1. Start with Survival and Shapeshifter in play
@@ -61,10 +61,10 @@ A simple line using both Hermit Druid and Volrath's Shapeshifter on the battlefi
 **Graveyard order (top to bottom):** Psychatog → ...
 
 <div class="card-row">
-{{< card name="Hermit Druid" set="tmp" >}}
-{{< card name="Volrath's Shapeshifter" set="str" >}}
-{{< card name="Psychatog" set="ody" >}}
-{{< card name="Akroma, Angel of Wrath" set="lgn" >}}
+{{< card name="Hermit Druid" set="tmp" />}}
+{{< card name="Volrath's Shapeshifter" set="str" />}}
+{{< card name="Psychatog" set="ody" />}}
+{{< card name="Akroma, Angel of Wrath" set="lgn" />}}
 </div>
 
 1. Activate Hermit Druid
@@ -86,9 +86,9 @@ Activate Shapeshifter/Devourer while retaining priority, then discard a card so 
 **Graveyard order (top to bottom):** Phyrexian Devourer → ...
 
 <div class="card-row">
-{{< card name="Volrath's Shapeshifter" set="str" >}}
-{{< card name="Phyrexian Devourer" set="all" >}}
-{{< card name="Akroma, Angel of Wrath" set="lgn" >}}
+{{< card name="Volrath's Shapeshifter" set="str" />}}
+{{< card name="Phyrexian Devourer" set="all" />}}
+{{< card name="Akroma, Angel of Wrath" set="lgn" />}}
 </div>
 
 1. *(Discard Devourer from your hand)*
@@ -108,11 +108,11 @@ Useful when you have Survival of the Fittest out but only one creature in hand. 
 **Graveyard order (top to bottom):** Karmic Guide → Phyrexian Devourer → Triskelion
 
 <div class="card-row">
-{{< card name="Survival of the Fittest" set="exo" >}}
-{{< card name="Volrath's Shapeshifter" set="str" >}}
-{{< card name="Karmic Guide" set="usg" >}}
-{{< card name="Phyrexian Devourer" set="all" >}}
-{{< card name="Triskelion" set="atq" >}}
+{{< card name="Survival of the Fittest" set="exo" />}}
+{{< card name="Volrath's Shapeshifter" set="str" />}}
+{{< card name="Karmic Guide" set="usg" />}}
+{{< card name="Phyrexian Devourer" set="all" />}}
+{{< card name="Triskelion" set="atq" />}}
 </div>
 
 1. Start with Survival out and a creature in hand
@@ -135,12 +135,12 @@ A mana-efficient line using Palinchron to cheat on mana costs. Can be started on
 **Graveyard order (top to bottom):** Volrath's Shapeshifter → Palinchron
 
 <div class="card-row">
-{{< card name="Survival of the Fittest" set="exo" >}}
-{{< card name="Palinchron" set="usg" >}}
-{{< card name="Volrath's Shapeshifter" set="str" >}}
-{{< card name="Phyrexian Devourer" set="all" >}}
-{{< card name="Triskelion" set="atq" >}}
-{{< card name="Unearth" set="uds" >}}
+{{< card name="Survival of the Fittest" set="exo" />}}
+{{< card name="Palinchron" set="usg" />}}
+{{< card name="Volrath's Shapeshifter" set="str" />}}
+{{< card name="Phyrexian Devourer" set="all" />}}
+{{< card name="Triskelion" set="atq" />}}
+{{< card name="Unearth" set="uds" />}}
 </div>
 
 1. Start with Survival in play and Palinchron in hand

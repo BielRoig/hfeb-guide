@@ -51,7 +51,7 @@ For Psychatog and Survival of the Fittest, discarding is part of the activation 
 ### How to Use Krosan Reclamation
 
 <div class="card-row">
-{{< card name="Krosan Reclamation" set="ody" >}}
+{{< card name="Krosan Reclamation" set="ody" />}}
 </div>
 
 Most commonly used to put any card on top of the library after activating Hermit Druid without a reanimation spell in hand — whether Shapeshifter, Unearth, or Animate Dead. Beyond this, Krosan Reclamation can manipulate the top of your graveyard or interact with an opponent's Reanimate or Quiet Speculation.
@@ -69,7 +69,7 @@ Deploy Volrath's Shapeshifter as early as possible — you never have to worry a
 ### How to Use Psychatog
 
 <div class="card-row">
-{{< card name="Psychatog" set="ody" >}}
+{{< card name="Psychatog" set="ody" />}}
 </div>
 
 Psychatog is one of the most versatile cards in the deck. It can function as a real clock, stall the board by threatening to become the largest creature in play, or pick off attackers one by one.
@@ -87,7 +87,7 @@ Psychatog in play guarantees instant speed, uncounterable discard and a way to m
 ### How to Use Cabal Therapy
 
 <div class="card-row">
-{{< card name="Cabal Therapy" set="ody" >}}
+{{< card name="Cabal Therapy" set="ody" />}}
 </div>
 
 Name counterspells if the plan is to combo with Hermit Druid, or disenchant effects if Survival of the Fittest needs to stay on the battlefield. Removal, opponent's combo pieces, or problematic creatures like Withered Wretch are all valid alternatives. If you have both Cabal Therapy and Duress or Mesmeric Fiend, always use the guaranteed discard effect first.
@@ -109,7 +109,7 @@ Against other combo decks (Enchantress, Storm, etc.), Druid gives you the speed 
 ### How Does Unearth Work?
 
 <div class="card-row">
-{{< card name="Unearth" set="uds" >}}
+{{< card name="Unearth" set="uds" />}}
 </div>
 
 Beyond combo execution, Unearth can reanimate a Hermit Druid that was countered earlier, or bring back a Wall of Roots to block Elephant tokens again.

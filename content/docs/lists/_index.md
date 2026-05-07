@@ -11,7 +11,7 @@ draft: false
 
 [View and download on Moxfield](https://moxfield.com/decks/mGYHLDh0wkiscnWHk55oNw)
 
-{{< highlight text >}}
+{{< highlight text />}}
 MAINBOARD
 1  Akroma, Angel of Wrath
 1  Animate Dead
@@ -53,38 +53,38 @@ SIDEBOARD
 2  Swords to Plowshares
 1  Uktabi Orangutan
 2  Xantid Swarm
-{{< /highlight >}}
+{{< /highlight />}}
 
 ---
 
 ## Key Cards
 
 <div class="card-row">
-{{< card name="Volrath's Shapeshifter" set="str" >}}
-{{< card name="Survival of the Fittest" set="exo" >}}
-{{< card name="Hermit Druid" set="tmp" >}}
-{{< card name="Battlefield Scrounger" set="ody" >}}
+{{< card name="Volrath's Shapeshifter" set="str" />}}
+{{< card name="Survival of the Fittest" set="exo" />}}
+{{< card name="Hermit Druid" set="tmp" />}}
+{{< card name="Battlefield Scrounger" set="ody" />}}
 </div>
 
 <div class="card-row">
-{{< card name="Phyrexian Devourer" set="all" >}}
-{{< card name="Triskelion" set="atq" >}}
-{{< card name="Psychatog" set="ody" >}}
-{{< card name="Akroma, Angel of Wrath" set="lgn" >}}
+{{< card name="Phyrexian Devourer" set="all" />}}
+{{< card name="Triskelion" set="atq" />}}
+{{< card name="Psychatog" set="ody" />}}
+{{< card name="Akroma, Angel of Wrath" set="lgn" />}}
 </div>
 
 <div class="card-row">
-{{< card name="Karmic Guide" set="usg" >}}
-{{< card name="Unearth" set="uds" >}}
-{{< card name="Animate Dead" set="lea" >}}
-{{< card name="Krosan Reclamation" set="ody" >}}
+{{< card name="Karmic Guide" set="usg" />}}
+{{< card name="Unearth" set="uds" />}}
+{{< card name="Animate Dead" set="lea" />}}
+{{< card name="Krosan Reclamation" set="ody" />}}
 </div>
 
 <div class="card-row">
-{{< card name="Cabal Therapy" set="ody" >}}
-{{< card name="Palinchron" set="usg" >}}
-{{< card name="Squee, Goblin Nabob" set="mmq" >}}
-{{< card name="Birds of Paradise" set="lea" >}}
+{{< card name="Cabal Therapy" set="ody" />}}
+{{< card name="Palinchron" set="usg" />}}
+{{< card name="Squee, Goblin Nabob" set="mmq" />}}
+{{< card name="Birds of Paradise" set="lea" />}}
 </div>
 
 ---
@@ -94,11 +94,11 @@ SIDEBOARD
 All lands are non-basic — required for the Hermit combo to function.
 
 <div class="card-row">
-{{< card name="City of Brass" set="arb" >}}
-{{< card name="Gemstone Mine" set="tmp" >}}
-{{< card name="Llanowar Wastes" set="9ed" >}}
-{{< card name="Yavimaya Coast" set="9ed" >}}
-{{< card name="Reflecting Pool" set="tmp" >}}
+{{< card name="City of Brass" set="arb" />}}
+{{< card name="Gemstone Mine" set="tmp" />}}
+{{< card name="Llanowar Wastes" set="9ed" />}}
+{{< card name="Yavimaya Coast" set="9ed" />}}
+{{< card name="Reflecting Pool" set="tmp" />}}
 </div>
 
 ---
