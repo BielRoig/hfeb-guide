@@ -11,7 +11,7 @@ draft: false
 
 [View and download on Moxfield](https://moxfield.com/decks/mGYHLDh0wkiscnWHk55oNw)
 
-{{< highlight text />}}
+```
 MAINBOARD
 1  Akroma, Angel of Wrath
 1  Animate Dead
@@ -53,7 +53,7 @@ SIDEBOARD
 2  Swords to Plowshares
 1  Uktabi Orangutan
 2  Xantid Swarm
-{{< /highlight />}}
+```
 
 ---
 

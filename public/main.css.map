@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/bielroigsolvas/HFEB-GUIDE",
+	"sourceRoot": "/Users/bielroigsolvas/Documents/GitHub/hfeb-guide",
 	"sources": [
 		"node_modules/@thulite/doks-core/assets/scss/app.scss",
 		"node_modules/bootstrap/scss/_functions.scss",
