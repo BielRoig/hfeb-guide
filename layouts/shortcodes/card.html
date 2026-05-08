@@ -1,17 +1,13 @@
 {{ $name := .Get "name" }}
 {{ $set := .Get "set" | default "" }}
+
 {{ $encodedName := $name | urlquery }}
-{{ $src := printf "https://api.scryfall.com/cards/named?exact=%s&format=image&version=normal" $encodedName }}
+{{ $encodedSet := $set | urlquery }}
+
 {{ if $set }}
-{{ $src = printf "https://api.scryfall.com/cards/named?exact=%s&set=%s&format=image&version=normal" $encodedName $set }}
+  <img src="https://api.scryfall.com/cards/named?exact={{ $encodedName }}&set={{ $encodedSet }}&format=image&version=normal" alt="{{ $name }}" class="card-image" loading="lazy" />
+{{ else }}
+  <img src="https://api.scryfall.com/cards/named?exact={{ $encodedName }}&format=image&version=normal" alt="{{ $name }}" class="card-image" loading="lazy" />
 {{ end }}
-<span class="card-inline">
-  <img
-    src="{{ $src }}"
-    alt="{{ $name }}"
-    class="card-image"
-    loading="lazy"
-    onerror="this.style.display='none'"
-  />
-  <span class="card-name">{{ $name }}</span>
-</span>
+
+<span class="card-name">{{ $name }}</span>
