@@ -34,8 +34,20 @@
   margin: 1.5rem 0;
 }
 
-// Hide the mobile TOC entirely — it was creating a narrow side column on
-// phones and a duplicate nav at the lg breakpoint where the sidebar shows.
-.toc-mobile {
-  display: none !important;
+// Hide mobile TOC at lg+ where the sidebar already provides navigation.
+@media (min-width: 992px) {
+  .toc-mobile {
+    display: none !important;
+  }
+}
+
+// On phones, override sticky positioning which was creating a narrow side
+// column. Render it as a normal full-width block above the content instead.
+@media (max-width: 991px) {
+  .toc-mobile-sticky {
+    position: static !important;
+    top: auto !important;
+    margin: 0 0 1.5rem 0 !important;
+    width: 100% !important;
+  }
 }

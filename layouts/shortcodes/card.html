@@ -1,0 +1,1 @@
+{{ $name := .Get "name" }}{{ $set := .Get "set" | default "" }}<div class="card-inline" data-card-name="{{ $name }}" data-card-set="{{ $set }}"><span class="card-name">{{ $name }}</span></div>{{- .Inner -}}{{ if not (.Page.Store.Get "scryfall-js") }}{{ .Page.Store.Set "scryfall-js" true }}<script src="/js/scryfall-card.js" defer></script>{{ end }}
