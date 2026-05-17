@@ -156,8 +156,8 @@ A mana-efficient line using Palinchron to cheat on mana costs. Can be started on
 > If not using Unearth, pay {2}{U} to cast Shapeshifter and then untap at least 2 lands to discard Devourer and Triskelion.
 
 
+- - -
 
-1. Shoot the opponent with Shifter/Triskelion
 
 ## New line
 
