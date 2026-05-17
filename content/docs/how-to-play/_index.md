@@ -1,7 +1,7 @@
 ---
-title: "How to Play"
-description: "Core lines and recurring patterns for Hermit Full English Breakfast."
-lead: "An overview of hFEB's core lines and recurring patterns."
+title: How to Play2
+description: Core lines and recurring patterns for Hermit Full English Breakfast.
+lead: An overview of hFEB's core lines and recurring patterns.
 date: 2026-05-05T00:00:00+00:00
 lastmod: 2026-05-05T00:00:00+00:00
 draft: false
