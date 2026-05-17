@@ -1,0 +1,127 @@
+backend:
+  name: github
+  repo: BielRoig/hfeb-guide
+  branch: main
+  base_url: https://api.decapcms.org
+
+media_folder: static/images/uploads
+public_folder: /images/uploads
+
+collections:
+  - name: docs
+    label: Docs
+    editor:
+      preview: false
+    files:
+      - label: Introduction
+        name: introduction
+        file: content/docs/introduction/_index.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Lead, name: lead, widget: string }
+          - { label: Date, name: date, widget: datetime }
+          - { label: Last Modified, name: lastmod, widget: datetime }
+          - { label: Draft, name: draft, widget: boolean, default: false }
+          - { label: Body, name: body, widget: markdown }
+
+      - label: How to Play
+        name: how-to-play
+        file: content/docs/how-to-play/_index.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Lead, name: lead, widget: string }
+          - { label: Date, name: date, widget: datetime }
+          - { label: Last Modified, name: lastmod, widget: datetime }
+          - { label: Draft, name: draft, widget: boolean, default: false }
+          - { label: Body, name: body, widget: markdown }
+
+      - label: Lines
+        name: lines
+        file: content/docs/lines/_index.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Lead, name: lead, widget: string }
+          - { label: Date, name: date, widget: datetime }
+          - { label: Last Modified, name: lastmod, widget: datetime }
+          - { label: Draft, name: draft, widget: boolean, default: false }
+          - { label: Body, name: body, widget: markdown }
+
+      - label: Lists
+        name: lists
+        file: content/docs/lists/_index.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Lead, name: lead, widget: string }
+          - { label: Date, name: date, widget: datetime }
+          - { label: Last Modified, name: lastmod, widget: datetime }
+          - { label: Draft, name: draft, widget: boolean, default: false }
+          - { label: Body, name: body, widget: markdown }
+
+      - label: Matchups
+        name: matchups
+        file: content/docs/matchups/_index.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Lead, name: lead, widget: string }
+          - { label: Date, name: date, widget: datetime }
+          - { label: Last Modified, name: lastmod, widget: datetime }
+          - { label: Draft, name: draft, widget: boolean, default: false }
+          - { label: Body, name: body, widget: markdown }
+
+      - label: Sideboard Guide
+        name: sideboard-guide
+        file: content/docs/sideboard-guide/_index.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Lead, name: lead, widget: string }
+          - { label: Date, name: date, widget: datetime }
+          - { label: Last Modified, name: lastmod, widget: datetime }
+          - { label: Draft, name: draft, widget: boolean, default: false }
+          - { label: Body, name: body, widget: markdown }
+
+      - label: Resources
+        name: resources
+        file: content/docs/resources/_index.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Lead, name: lead, widget: string }
+          - { label: Date, name: date, widget: datetime }
+          - { label: Last Modified, name: lastmod, widget: datetime }
+          - { label: Draft, name: draft, widget: boolean, default: false }
+          - { label: Body, name: body, widget: markdown }
+
+      - label: Contact
+        name: contact
+        file: content/docs/contact/_index.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Lead, name: lead, widget: string }
+          - { label: Date, name: date, widget: datetime }
+          - { label: Last Modified, name: lastmod, widget: datetime }
+          - { label: Draft, name: draft, widget: boolean, default: false }
+          - { label: Body, name: body, widget: markdown }
+
+  - name: blog
+    label: Blog Posts
+    folder: content/blog
+    create: true
+    path: "{{slug}}/index"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Description, name: description, widget: string }
+      - { label: Summary, name: summary, widget: string }
+      - { label: Date, name: date, widget: datetime }
+      - { label: Last Modified, name: lastmod, widget: datetime }
+      - { label: Draft, name: draft, widget: boolean, default: false }
+      - { label: Body, name: body, widget: markdown }
