@@ -34,11 +34,8 @@
   margin: 1.5rem 0;
 }
 
-// At lg breakpoint both the left sidebar and mobile TOC are visible,
-// squeezing content. Hide the mobile TOC since the sidebar already
-// provides navigation.
-@media (min-width: 992px) {
-  .toc-mobile {
-    display: none !important;
-  }
+// Hide the mobile TOC entirely — it was creating a narrow side column on
+// phones and a duplicate nav at the lg breakpoint where the sidebar shows.
+.toc-mobile {
+  display: none !important;
 }
