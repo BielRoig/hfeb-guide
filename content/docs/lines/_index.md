@@ -14,14 +14,14 @@ If you can't go into combat to kill with Akroma, you can still use Hermit and sh
 **Graveyard order (top to bottom):** Karmic Guide → Battlefield Scrounger → Phyrexian Devourer → Triskelion
 
 <div class="card-row">
-{{< card name="Hermit Druid" set="tmp" />}}
-{{< card name="Volrath's Shapeshifter" set="str" />}}
-{{< card name="Unearth" set="uds" />}}
-{{< card name="Karmic Guide" set="usg" />}}
-{{< card name="Psychatog" set="ody" />}}
-{{< card name="Battlefield Scrounger" set="ody" />}}
-{{< card name="Phyrexian Devourer" set="all" />}}
-{{< card name="Triskelion" set="atq" />}}
+{{< scryfall-card name="Hermit Druid" set="tmp" />}}
+{{< scryfall-card name="Volrath's Shapeshifter" set="str" />}}
+{{< scryfall-card name="Unearth" set="uds" />}}
+{{< scryfall-card name="Karmic Guide" set="usg" />}}
+{{< scryfall-card name="Psychatog" set="ody" />}}
+{{< scryfall-card name="Battlefield Scrounger" set="ody" />}}
+{{< scryfall-card name="Phyrexian Devourer" set="all" />}}
+{{< scryfall-card name="Triskelion" set="atq" />}}
 </div>
 
 1. Activate Hermit Druid and put Karmic Guide on top of your graveyard
@@ -44,14 +44,14 @@ Probably the highest amount of damage achievable with 2 reanimation spells in a 
 **Graveyard order (top to bottom):** Karmic Guide → Phyrexian Devourer
 
 <div class="card-row">
-{{< card name="Hermit Druid" set="tmp" />}}
-{{< card name="Volrath's Shapeshifter" set="str" />}}
-{{< card name="Unearth" set="uds" />}}
-{{< card name="Karmic Guide" set="usg" />}}
-{{< card name="Battlefield Scrounger" set="ody" />}}
-{{< card name="Triskelion" set="atq" />}}
-{{< card name="Phyrexian Devourer" set="all" />}}
-{{< card name="Cabal Therapy" set="ody" />}}
+{{< scryfall-card name="Hermit Druid" set="tmp" />}}
+{{< scryfall-card name="Volrath's Shapeshifter" set="str" />}}
+{{< scryfall-card name="Unearth" set="uds" />}}
+{{< scryfall-card name="Karmic Guide" set="usg" />}}
+{{< scryfall-card name="Battlefield Scrounger" set="ody" />}}
+{{< scryfall-card name="Triskelion" set="atq" />}}
+{{< scryfall-card name="Phyrexian Devourer" set="all" />}}
+{{< scryfall-card name="Cabal Therapy" set="ody" />}}
 </div>
 
 1. Activate Hermit Druid and put Karmic Guide on top of your graveyard
@@ -81,10 +81,10 @@ With Survival of the Fittest and Volrath's Shapeshifter in play, Battlefield Scr
 > ⚠️ **Rules note:** This line involves activating Wall of Roots multiple times via Shifter. See the [Rules Disclaimer](/docs/matchups/#rules-disclaimer) for full details on the legality of this interaction.
 
 <div class="card-row">
-{{< card name="Survival of the Fittest" set="exo" />}}
-{{< card name="Volrath's Shapeshifter" set="str" />}}
-{{< card name="Battlefield Scrounger" set="ody" />}}
-{{< card name="Wall of Roots" set="mir" />}}
+{{< scryfall-card name="Survival of the Fittest" set="exo" />}}
+{{< scryfall-card name="Volrath's Shapeshifter" set="str" />}}
+{{< scryfall-card name="Battlefield Scrounger" set="ody" />}}
+{{< scryfall-card name="Wall of Roots" set="mir" />}}
 </div>
 
 1. Discard WoR#1 to Survival → get Scrounger
@@ -115,11 +115,11 @@ A finite but large pump that also reshuffles most of your graveyard back into th
 > ⚠️ **Rules note:** See the [Rules Disclaimer](/docs/matchups/#rules-disclaimer) for details on the legality of activating Wall of Roots multiple times via Shifter.
 
 <div class="card-row">
-{{< card name="Survival of the Fittest" set="exo" />}}
-{{< card name="Hermit Druid" set="tmp" />}}
-{{< card name="Volrath's Shapeshifter" set="str" />}}
-{{< card name="Battlefield Scrounger" set="ody" />}}
-{{< card name="Wall of Roots" set="mir" />}}
+{{< scryfall-card name="Survival of the Fittest" set="exo" />}}
+{{< scryfall-card name="Hermit Druid" set="tmp" />}}
+{{< scryfall-card name="Volrath's Shapeshifter" set="str" />}}
+{{< scryfall-card name="Battlefield Scrounger" set="ody" />}}
+{{< scryfall-card name="Wall of Roots" set="mir" />}}
 </div>
 
 1. *(Discard a creature to Survival → get Scrounger)*

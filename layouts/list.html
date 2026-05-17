@@ -21,9 +21,12 @@
 	{{ else -}}
 	<main class="docs-content col-lg-11 col-xl-9 mx-xl-auto">
 	{{ end -}}
-		{{ if ne .Params.toc false -}}
+		{{ if and (ne .Params.toc false) .TableOfContents -}}
 		<nav class="toc-mobile toc-mobile-sticky d-xl-none" aria-label="Quaternary navigation">
-			{{ partial "sidebar/docs-toc-mobile.html" . }}
+			<details>
+				<summary>On this page</summary>
+				<div class="page-links">{{ .TableOfContents }}</div>
+			</details>
 		</nav>
 		{{ end -}}
 		{{ if site.Params.doks.breadcrumbTrail -}}

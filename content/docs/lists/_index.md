@@ -60,31 +60,31 @@ SIDEBOARD
 ## Key Cards
 
 <div class="card-row">
-{{< card name="Volrath's Shapeshifter" set="str" />}}
-{{< card name="Survival of the Fittest" set="exo" />}}
-{{< card name="Hermit Druid" set="tmp" />}}
-{{< card name="Battlefield Scrounger" set="ody" />}}
+{{< scryfall-card name="Volrath's Shapeshifter" set="str" />}}
+{{< scryfall-card name="Survival of the Fittest" set="exo" />}}
+{{< scryfall-card name="Hermit Druid" set="tmp" />}}
+{{< scryfall-card name="Battlefield Scrounger" set="ody" />}}
 </div>
 
 <div class="card-row">
-{{< card name="Phyrexian Devourer" set="all" />}}
-{{< card name="Triskelion" set="atq" />}}
-{{< card name="Psychatog" set="ody" />}}
-{{< card name="Akroma, Angel of Wrath" set="lgn" />}}
+{{< scryfall-card name="Phyrexian Devourer" set="all" />}}
+{{< scryfall-card name="Triskelion" set="atq" />}}
+{{< scryfall-card name="Psychatog" set="ody" />}}
+{{< scryfall-card name="Akroma, Angel of Wrath" set="lgn" />}}
 </div>
 
 <div class="card-row">
-{{< card name="Karmic Guide" set="usg" />}}
-{{< card name="Unearth" set="uds" />}}
-{{< card name="Animate Dead" set="lea" />}}
-{{< card name="Krosan Reclamation" set="ody" />}}
+{{< scryfall-card name="Karmic Guide" set="usg" />}}
+{{< scryfall-card name="Unearth" set="uds" />}}
+{{< scryfall-card name="Animate Dead" set="lea" />}}
+{{< scryfall-card name="Krosan Reclamation" set="ody" />}}
 </div>
 
 <div class="card-row">
-{{< card name="Cabal Therapy" set="ody" />}}
-{{< card name="Palinchron" set="usg" />}}
-{{< card name="Squee, Goblin Nabob" set="mmq" />}}
-{{< card name="Birds of Paradise" set="lea" />}}
+{{< scryfall-card name="Cabal Therapy" set="ody" />}}
+{{< scryfall-card name="Palinchron" set="usg" />}}
+{{< scryfall-card name="Squee, Goblin Nabob" set="mmq" />}}
+{{< scryfall-card name="Birds of Paradise" set="lea" />}}
 </div>
 
 ---
@@ -94,11 +94,11 @@ SIDEBOARD
 All lands are non-basic — required for the Hermit combo to function.
 
 <div class="card-row">
-{{< card name="City of Brass" set="arb" />}}
-{{< card name="Gemstone Mine" set="tmp" />}}
-{{< card name="Llanowar Wastes" set="9ed" />}}
-{{< card name="Yavimaya Coast" set="9ed" />}}
-{{< card name="Reflecting Pool" set="tmp" />}}
+{{< scryfall-card name="City of Brass" set="arb" />}}
+{{< scryfall-card name="Gemstone Mine" set="tmp" />}}
+{{< scryfall-card name="Llanowar Wastes" set="9ed" />}}
+{{< scryfall-card name="Yavimaya Coast" set="9ed" />}}
+{{< scryfall-card name="Reflecting Pool" set="tmp" />}}
 </div>
 
 ---

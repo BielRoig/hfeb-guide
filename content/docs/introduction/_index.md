@@ -18,9 +18,9 @@ These two combos share a similar structure, each composed of three fundamental p
 ## The FEB Combo
 
 <div class="card-row">
-{{< card name="Survival of the Fittest" set="exo" />}}
-{{< card name="Phyrexian Devourer" set="all" />}}
-{{< card name="Triskelion" set="atq" />}}
+{{< scryfall-card name="Survival of the Fittest" set="exo" />}}
+{{< scryfall-card name="Phyrexian Devourer" set="all" />}}
+{{< scryfall-card name="Triskelion" set="atq" />}}
 </div>
 
 The engine is **Survival of the Fittest**, which lets us discard creature cards from hand and tutor creatures from the deck — changing Shifter's form and cycling through threats. The two combo pieces are **Phyrexian Devourer** and **Triskelion**.
@@ -32,9 +32,9 @@ When Phyrexian Devourer is on top of the graveyard, Shapeshifter can exile cards
 ## The Hermit Combo
 
 <div class="card-row">
-{{< card name="Hermit Druid" set="tmp" />}}
-{{< card name="Psychatog" set="ody" />}}
-{{< card name="Akroma, Angel of Wrath" set="lgn" />}}
+{{< scryfall-card name="Hermit Druid" set="tmp" />}}
+{{< scryfall-card name="Psychatog" set="ody" />}}
+{{< scryfall-card name="Akroma, Angel of Wrath" set="lgn" />}}
 </div>
 
 The engine is **Hermit Druid**, which mills the entire library since all our lands are non-basic. With a full graveyard, **Psychatog** takes the role of Devourer — exiling graveyard cards in exchange for +1/+1 pumps. Since these are not counters, Triskelion can't be the finisher, so **Akroma** closes the game in combat instead. Her haste, evasion, and trample are essential to convert those pumps into lethal damage.
@@ -44,7 +44,7 @@ The engine is **Hermit Druid**, which mills the entire library since all our lan
 ## The Bridge: Battlefield Scrounger
 
 <div class="card-row">
-{{< card name="Battlefield Scrounger" set="ody" />}}
+{{< scryfall-card name="Battlefield Scrounger" set="ody" />}}
 </div>
 
 The newest addition to the deck, **Battlefield Scrounger** bridges both combos. It allows using Hermit Druid for a FEB kill, or using Devourer/Survival to pump Akroma for a combat kill. You'll see a lot of Scrounger throughout this guide.
