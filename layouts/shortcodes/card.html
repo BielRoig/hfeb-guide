@@ -1,13 +1,42 @@
 {{ $name := .Get "name" }}
 {{ $set := .Get "set" | default "" }}
 
-{{ $encodedName := $name | urlquery }}
-{{ $encodedSet := $set | urlquery }}
+<div class="card-inline" data-card-name="{{ $name }}" data-card-set="{{ $set }}">
+  <span class="card-name">{{ $name }}</span>
+</div>
 
-{{ if $set }}
-  <img src="https://api.scryfall.com/cards/named?exact={{ $encodedName }}&set={{ $encodedSet }}&format=image&version=normal" alt="{{ $name }}" class="card-image" loading="lazy" />
-{{ else }}
-  <img src="https://api.scryfall.com/cards/named?exact={{ $encodedName }}&format=image&version=normal" alt="{{ $name }}" class="card-image" loading="lazy" />
-{{ end }}
-
-<span class="card-name">{{ $name }}</span>
+<script>
+(function() {
+  function loadCardImage(cardEl) {
+    const name = cardEl.getAttribute('data-card-name');
+    const set = cardEl.getAttribute('data-card-set') || '';
+    
+    let url = `https://api.scryfall.com/cards/named?exact=${encodeURIComponent(name)}`;
+    if (set) url += `&set=${encodeURIComponent(set)}`;
+    
+    fetch(url)
+      .then(r => r.json())
+      .then(data => {
+        const imgUrl = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
+        if (imgUrl) {
+          const img = document.createElement('img');
+          img.src = imgUrl;
+          img.alt = name;
+          img.className = 'card-image';
+          img.loading = 'lazy';
+          cardEl.insertBefore(img, cardEl.firstChild);
+        }
+      })
+      .catch(e => console.warn(`Card image error for ${name}:`, e.message));
+  }
+  
+  // Load immediately if DOM ready, or wait
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => {
+      document.querySelectorAll('.card-inline[data-card-name]').forEach(loadCardImage);
+    });
+  } else {
+    document.querySelectorAll('.card-inline[data-card-name]').forEach(loadCardImage);
+  }
+})();
+</script>

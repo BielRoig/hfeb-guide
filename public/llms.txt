@@ -2,29 +2,29 @@
 
 > A comprehensive primer for Hermit Full English Breakfast in Premodern format.
 
-- [Page not found](http://localhost:51776/404/): The page you're looking for doesn’t exist or has moved. Check the URL, use the navigation to browse sections, or return to the homepage.
-- [Privacy Policy](http://localhost:51776/privacy/): Learn how we collect, use, and protect your personal data, what rights you have over your information, and how to contact us with questions.
-- [Blog](http://localhost:51776/blog/): Read product updates, release highlights, and practical tips that explain what’s new, why it matters, and how to get the most value from this project.
-- [HFEB Guide](http://localhost:51776/docs/): A comprehensive primer for Hermit Full English Breakfast in Premodern format.
+- [Page not found](http://localhost:55490/404/): The page you're looking for doesn’t exist or has moved. Check the URL, use the navigation to browse sections, or return to the homepage.
+- [Privacy Policy](http://localhost:55490/privacy/): Learn how we collect, use, and protect your personal data, what rights you have over your information, and how to contact us with questions.
+- [Blog](http://localhost:55490/blog/): Read product updates, release highlights, and practical tips that explain what’s new, why it matters, and how to get the most value from this project.
+- [HFEB Guide](http://localhost:55490/docs/): A comprehensive primer for Hermit Full English Breakfast in Premodern format.
 
 ## Blog
 
 > Read product updates, release highlights, and practical tips that explain what’s new, why it matters, and how to get the most value from this project.
 
-- [Example Post](http://localhost:51776/blog/example-post/): Learn how to write clear, structured product update posts that explain what changed, why it matters, and how users can successfully adopt new features.
+- [Example Post](http://localhost:55490/blog/example-post/): Learn how to write clear, structured product update posts that explain what changed, why it matters, and how users can successfully adopt new features.
 
 ## HFEB Guide
 
 > A comprehensive primer for Hermit Full English Breakfast in Premodern format.
 
-- [Battlefield Scrounger Lines](http://localhost:51776/docs/lines/): Advanced lines using Battlefield Scrounger in Hermit Full English Breakfast.
-- [Contact](http://localhost:51776/docs/contact/): Get in touch.
-- [How to Beat Hate?](http://localhost:51776/docs/matchups/): A practical guide to navigating disruption in Hermit Full English Breakfast.
-- [How to Play](http://localhost:51776/docs/how-to-play/): Core lines and recurring patterns for Hermit Full English Breakfast.
-- [Introduction](http://localhost:51776/docs/introduction/): An introduction to Hermit Full English Breakfast in Premodern format.
-- [Lists](http://localhost:51776/docs/lists/): Decklists for Hermit Full English Breakfast.
-- [Resources](http://localhost:51776/docs/resources/): Downloads, videos, and useful links for Hermit Full English Breakfast.
-- [Tips, Tricks & Missing Pieces](http://localhost:51776/docs/sideboard-guide/): Tips, tricks, and what to do when key pieces are missing.
+- [Battlefield Scrounger Lines](http://localhost:55490/docs/lines/): Advanced lines using Battlefield Scrounger in Hermit Full English Breakfast.
+- [Contact](http://localhost:55490/docs/contact/): Get in touch.
+- [How to Beat Hate?](http://localhost:55490/docs/matchups/): A practical guide to navigating disruption in Hermit Full English Breakfast.
+- [How to Play](http://localhost:55490/docs/how-to-play/): Core lines and recurring patterns for Hermit Full English Breakfast.
+- [Introduction](http://localhost:55490/docs/introduction/): An introduction to Hermit Full English Breakfast in Premodern format.
+- [Lists](http://localhost:55490/docs/lists/): Decklists for Hermit Full English Breakfast.
+- [Resources](http://localhost:55490/docs/resources/): Downloads, videos, and useful links for Hermit Full English Breakfast.
+- [Tips, Tricks & Missing Pieces](http://localhost:55490/docs/sideboard-guide/): Tips, tricks, and what to do when key pieces are missing.
 
 ### Battlefield Scrounger Lines
 
