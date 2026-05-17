@@ -50,6 +50,7 @@ const purgecss = purgeCSSPlugin({
         'not-content',
         'copy',
         'btn-copy',
+        'card-image',
     ]
 });
 
