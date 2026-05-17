@@ -2,7 +2,7 @@ backend:
   name: github
   repo: BielRoig/hfeb-guide
   branch: main
-  base_url: https://api.decapcms.org
+  base_url: https://decap-proxy.hfeb-guide.workers.dev
 
 media_folder: static/images/uploads
 public_folder: /images/uploads
