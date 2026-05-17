@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HFEB Guide</title>
-    <link>http://localhost:55490/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on HFEB Guide</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2020-2026 Thulite</copyright>
     <lastBuildDate>Tue, 17 Feb 2026 13:06:19 +0100</lastBuildDate>
-    <atom:link href="http://localhost:55490/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example Post</title>
-      <link>http://localhost:55490/blog/example-post/</link>
+      <link>http://localhost:1313/blog/example-post/</link>
       <pubDate>Mon, 16 Feb 2026 16:31:32 +0100</pubDate>
-      <guid>http://localhost:55490/blog/example-post/</guid>
+      <guid>http://localhost:1313/blog/example-post/</guid>
       <description>Use blog posts to communicate product updates and new features in a clear and consistent format.</description>
     </item>
     <item>
       <title>Page not found</title>
-      <link>http://localhost:55490/404/</link>
+      <link>http://localhost:1313/404/</link>
       <pubDate>Tue, 17 Feb 2026 13:06:19 +0100</pubDate>
-      <guid>http://localhost:55490/404/</guid>
-      <description>&lt;p&gt;Sorry, we can&amp;rsquo;t find the page you&amp;rsquo;re looking for.&lt;/p&gt;&#xA;&lt;p&gt;Use the navigation above or go back to the &#xD;&#xA;&#xD;&#xA;&lt;a class=&#34;link link--text&#34; href=&#34;http://localhost:55490/&#34;&gt;homepage&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/404/</guid>
+      <description>&lt;p&gt;Sorry, we can&amp;rsquo;t find the page you&amp;rsquo;re looking for.&lt;/p&gt;&#xA;&lt;p&gt;Use the navigation above or go back to the &#xD;&#xA;&#xD;&#xA;&lt;a class=&#34;link link--text&#34; href=&#34;http://localhost:1313/&#34;&gt;homepage&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:55490/privacy/</link>
+      <link>http://localhost:1313/privacy/</link>
       <pubDate>Thu, 07 Sep 2023 17:19:07 +0200</pubDate>
-      <guid>http://localhost:55490/privacy/</guid>
+      <guid>http://localhost:1313/privacy/</guid>
       <description>&lt;p&gt;We value your privacy and are committed to protecting your personal data. This Privacy Policy explains what information we collect, how we use it, and the choices you have.&lt;/p&gt;</description>
     </item>
   </channel>
