@@ -55,6 +55,12 @@
   pageRef = "/docs/matchups"
 
 [[sidebar_docs]]
+  name = "Matchup Spread"
+  weight = 55
+  identifier = "matchup-spread"
+  pageRef = "/docs/matchup-spread"
+
+[[sidebar_docs]]
   name = "Sideboard Guide"
   weight = 60
   identifier = "sideboard-guide"
