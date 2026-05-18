@@ -1,12 +1,11 @@
 ---
-title: "How to Beat Hate?"
-description: "A practical guide to navigating disruption in Hermit Full English Breakfast."
-lead: "Identify which hate matters, how to play around it, and when to change lines."
+title: How to Beat Hate?
+description: A practical guide to navigating disruption in Hermit Full English Breakfast.
+lead: Identify which hate matters, how to play around it, and when to change lines.
 date: 2026-05-05T00:00:00+00:00
 lastmod: 2026-05-05T00:00:00+00:00
 draft: false
 ---
-
 ## Survival & Shifter vs Tormod's Crypt — without Tog
 
 With a non-summoning sick Shapeshifter and Survival of the Fittest, you can generate a hate-proof chain that wins cleanly. This line works against any one-shot graveyard hate and requires 5 mana.
@@ -32,7 +31,7 @@ With a non-summoning sick Shapeshifter and Survival of the Fittest, you can gene
 
 > Scrounger's library-filling is part of the activation cost — the opponent cannot prevent those cards from going back. There is no relevant window for the opponent to use a single Furnace or Crypt to stop this sequence.
 
----
+- - -
 
 ## Survival & Shifter vs Multiple Graveyard Hate
 
@@ -63,7 +62,7 @@ A Scrounger-based line that works around most graveyard hate without needing a s
 
 > Every action in this line is part of an activation cost. The opponent has no window to meaningfully interact once the sequence begins. Pre-triggering the sacrifice clause guarantees all Devourer activations resolve above the sacrifice trigger — none can be blocked!
 
----
+- - -
 
 ## Hermit Lines Against Furnace
 
@@ -93,7 +92,7 @@ Scrounger means you are no longer limited to a single avenue of lethal. Here is 
 5. Assuming Tog enters, you now have Hermit, Shifter, Guide, and Tog in play. Check whether opponent has exiled any card up to now — if they have (and it wasn't Akroma), sac Tog to Therapy, pump, and attack for lethal. If Akroma was exiled, use Scrounger to put Palinchron + Squee + ESG (16 CMC) back. Next upkeep put Scrounger + WoR + WoR (25 CMC total) and FEB for lethal.
 6. Assuming opponent still has Furnace up: Scrounge Palinchron + Akroma + ESG (21 CMC) and pass the turn. If opponent tries to exile anything, use Tog to reveal Devourer and kill with the 21 CMC. Otherwise on their upkeep, Scrounge Scrounger + Squee + WoR (10 more CMC) and attempt FEB kill.
 
----
+- - -
 
 ## Aura Thief vs Enchantress Lock
 
@@ -111,6 +110,7 @@ Aura Thief can beat Solitary Confinement and most other Enchantress locks. This 
 </div>
 
 **Line A:**
+
 1. Activate Hermit Druid and put Karmic Guide on top of graveyard *(use Krosan Reclamation if no reanimation spell in hand)*
 2. Cast Unearth targeting Shapeshifter
 3. Shifter/Guide enters and targets Guide itself
@@ -127,11 +127,12 @@ Aura Thief can beat Solitary Confinement and most other Enchantress locks. This 
 
 **Line B (with Wall of Roots in graveyard pile):**
 1-3. Same as Line A through Shifter/Guide targeting Guide, Guide targeting Psychatog
+
 4. Remove Unearth from top of graveyard, leave: WoR → WoR → Aura Thief
 5. Pass the turn. During opponent's draw step: activate Shifter/Wall, remove Wall#1 with Tog, activate Shifter/Wall, remove Wall#2 with Tog, let Shifter/Thief die to state-based action → steal all enchantments
 6. Untap and proceed as Line A
 
----
+- - -
 
 ## Engineered Plague: What's the Plan?
 
@@ -145,7 +146,7 @@ Engineered Plague directly attacks several of hFEB's most important creatures. O
 >
 > **Niche exception:** If you have Psychatog, Battlefield Scrounger, or Krosan Reclamation available, you can remove Unearth in response to the ETB trigger — Shifter will have already died and gone to the graveyard, making it a valid reanimation target for the Guide trigger.
 
----
+- - -
 
 ## Null Rod, Ensnaring Bridge, and Cursed Totem
 
@@ -157,15 +158,18 @@ The most direct answer to all three is **Uktabi Orangutan** or **Naturalize**. B
 </div>
 
 ### Null Rod
+
 Null Rod shuts down the FEB kill (Devourer and Triskelion are artifact creatures) but does not disrupt the rest of the deck. Shift your win condition to classic Hermit Druid lines and combat with Akroma. Null Rod also guarantees Crypts and Furnaces won't disrupt your Hermit lines — treat it as a speed bump, not a hard lock.
 
 ### Ensnaring Bridge
+
 Bridge's impact depends on cards in hand and creatures available. The FEB portion of the deck is unaffected — Triskelion can always ping for lethal without combat. For combat wins: declare attacks with a Shifter not affected by summoning sickness, then pump with Psychatog after attackers are declared. Psychatog itself can grow above the Bridge threshold during combat and reset at end of turn. Scrounger pumps can also turn a harmless Shifter/Birds of Paradise into a lethal Akroma — cycle the same Scrounger 5 times with Survival for a 21/21 Akroma!
 
 ### Cursed Totem
+
 The most disruptive of the three — shuts down both primary kill plans and disables Birds of Paradise and Wall of Roots, slowing mana significantly. Deploy Survival only when you have enough mana to immediately fetch Uktabi Orangutan, even under removal pressure. If removal is unavailable, buy time, develop mana, hard-cast threats, and use Karmic Guide to reanimate Akroma.
 
----
+- - -
 
 ## Activation Covering
 
@@ -177,7 +181,7 @@ In traditional FEB lines with a full library, covering is rarely an issue — th
 
 **Solution 2 — Pre-trigger the sacrifice clause:** Pump Shapeshifter with Psychatog or Scrounger until it has 7+ power before revealing Devourer. The sacrifice trigger goes to the stack immediately — all subsequent Devourer activations exist above it. Activate Devourer in response to any hate and keep resolving. Just make sure to produce Triskelion on top of the graveyard before the sacrifice trigger resolves!
 
----
+- - -
 
 ## Appendix: Rules Disclaimer {#rules-disclaimer}
 
@@ -185,8 +189,8 @@ Volrath's Shapeshifter is one of the most unique cards in the game. It is the on
 
 An unintended result is that interactions between Shifter and "activate once each turn" abilities (like Wall of Roots) are rules-ambiguous. After consulting with 10+ judges and the MTG Rules Architect Jess Dunks, the current consensus is:
 
-- **Scenario A:** Same Wall of Roots goes to top, you activate it, discard a card and exile it, same Wall revealed again — *rules cannot offer a unique solution; likely allowed by most judges but not rules-backed*
-- **Scenario B:** Discard a new Wall of Roots to top — *likely legal under rule 602.5c*
-- **Scenario C:** Unearth Wall and sacrifice it to Therapy to put it on top again — *likely legal under rule 602.5c*
+* **Scenario A:** Same Wall of Roots goes to top, you activate it, discard a card and exile it, same Wall revealed again — *rules cannot offer a unique solution; likely allowed by most judges but not rules-backed*
+* **Scenario B:** Discard a new Wall of Roots to top — *likely legal under rule 602.5c*
+* **Scenario C:** Unearth Wall and sacrifice it to Therapy to put it on top again — *likely legal under rule 602.5c*
 
 **How this affects you:** These interactions appear in the Infinite Pump line and in certain Hermit-Scrounger lines. Ask your event's judge before playing these lines to avoid misunderstandings.
