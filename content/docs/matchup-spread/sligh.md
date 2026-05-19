@@ -98,6 +98,8 @@ La regola pratica è:
 
 Gestire il numero di nonbasic in campo è una parte fondamentale del matchup. Contro Sligh non stiamo solo giocando contro il board e le burn spell: stiamo anche giocando contro il range improvviso di Price of Progress.
 
+<div class="matchup-summary" markdown="1">
+
 ## Sintesi del matchup
 
 Contro Sligh il piano principale è **Survival**, non Hermit Druid.
@@ -111,3 +113,5 @@ Il matchup si gioca su tre assi principali:
 - assemblare una linea Survival rapida ma resistente alle removal.
 
 Non bisogna cercare la linea più bella: bisogna cercare la linea che vince prima che i nostri punti vita diventino una risorsa esaurita.
+
+</div>
