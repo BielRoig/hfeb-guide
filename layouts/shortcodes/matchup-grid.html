@@ -1,25 +1,10 @@
-{{- $all := site.AllPages -}}
-{{- $regular := site.RegularPages -}}
-{{- $allMatchups := where $all "Params.layout" "matchup" -}}
-{{- $regularMatchups := where $regular "Params.layout" "matchup" -}}
+{{- /* Renders an automatic grid of matchup cards. */ -}}
 
-<div style="background:yellow; padding:1rem; color:black; font-family:monospace; margin:1rem 0;">
-  <strong>DEBUG:</strong><br>
-  Totale AllPages: {{ len $all }}<br>
-  Totale RegularPages: {{ len $regular }}<br>
-  Matchup in AllPages: {{ len $allMatchups }}<br>
-  Matchup in RegularPages: {{ len $regularMatchups }}<br>
-  <br>
-  <strong>Pagine in AllPages con layout=matchup:</strong><br>
-  {{- range $allMatchups }}
-    - {{ .Title }} ({{ .RelPermalink }})<br>
-  {{- else }}
-    NESSUNA TROVATA<br>
-  {{- end }}
-</div>
+{{- $matchups := where site.AllPages "Params.kind" "matchup" -}}
+{{- $matchups = sort $matchups "Title" -}}
 
 <div class="matchup-grid">
-{{- range $allMatchups }}
+{{- range $matchups }}
   {{- $slug := path.BaseName .File.LogicalName }}
   {{- $favorability := .Params.favorability | default "even" }}
   <a href="{{ .RelPermalink }}" class="matchup-card matchup-card--{{ $favorability }}">
