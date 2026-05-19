@@ -209,7 +209,7 @@ It's not just about knowing the combo. It's about understanding, turn after turn
     <span>UB Psychatog</span>
   </a>
   
-  <a href="/docs/matchup-spread/rock/" class="matchup-card matchup-card--favorable">
+  <a href="/docs/matchup-spread/the-rock/" class="matchup-card matchup-card--favorable">
     <img src="/images/matchups/rock.jpg" alt="The Rock">
     <span>The Rock</span>
   </a>
