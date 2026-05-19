@@ -1,143 +1,141 @@
 ---
 title: "Matchup Spread"
 description: "Overview of hFEB matchups in the Premodern meta."
-lead: "Clicca su un matchup per leggere la guida dettagliata."
+lead: "Click on a matchup to read the detailed guide."
 date: 2026-05-18T00:00:00+00:00
 lastmod: 2026-05-19T00:00:00+00:00
 draft: false
 ---
 
 <details class="collapsible">
-<summary>📖 Introduzione alla Matchup Guide</summary>
+<summary>📖 Introduction to the Matchup Guide</summary>
 <div markdown="1">
 
-hFEB è un mazzo estremamente versatile. Una delle sue caratteristiche più importanti è la capacità di adattarsi rapidamente al piano dell'avversario, cambiando asse di gioco a seconda della mano iniziale, del matchup e delle prime informazioni che riceviamo durante la partita.
+hFEB is an extremely versatile deck. One of its most important traits is the ability to quickly adapt to the opponent's plan, shifting axes based on the opening hand, the matchup, and the early information gathered during the game.
 
-Il mazzo dispone di otto veri motori principali: **quattro Hermit Druid** e **quattro Survival of the Fittest**. Queste carte non fanno esattamente la stessa cosa, ma rappresentano entrambe un modo per trasformare una mano iniziale in una linea di vittoria.
+The deck has eight true engines: **four Hermit Druid** and **four Survival of the Fittest**. These cards don't do exactly the same thing, but they both represent ways to turn an opening hand into a winning line.
 
-**Hermit Druid** è il piano più veloce. Quando non viene interrotto, punta spesso a chiudere la partita tra il terzo e il quarto turno, a volte anche prima con le mani migliori. È un piano esplosivo, diretto, e molto potente contro avversari che non possono rimuovere subito il Druid o non hanno abbastanza pressione per costringerci a cambiare direzione.
+**Hermit Druid** is the faster plan. When uninterrupted, it often closes the game on turn three or four, sometimes even earlier with the best hands. It's an explosive, direct plan, and it's very strong against opponents who can't remove the Druid right away or don't apply enough pressure to force you to change direction.
 
-**Survival of the Fittest**, invece, è un piano leggermente più lento ma molto più flessibile. Può comunque vincere in tempi rapidi, anche di terzo o quarto turno con le carte giuste, ma il suo vero valore sta nella capacità di adattarsi: trova creature specifiche, costruisce linee alternative, gioca meglio intorno all'hate e permette di convertire quasi ogni creatura in mano in una risorsa utile.
+**Survival of the Fittest**, on the other hand, is a slightly slower but much more flexible plan. It can still win quickly — even on turn three or four with the right cards — but its real value lies in its adaptability: it tutors specific creatures, builds alternative lines, plays better around hate, and turns nearly every creature in hand into a useful resource.
 
-In generale, gli approcci principali sono due.
+In general, there are two main approaches.
 
-Il primo è un approccio più **conservativo**. Questo succede soprattutto quando la nostra mano contiene più discard spell, come **Duress** o **Cabal Therapy**. In questi casi possiamo scegliere di usare prima gli scartini per capire la mano dell'avversario, rimuovere le carte più problematiche e solo successivamente appoggiare il nostro pezzo combo. È un piano più lento, ma riduce il rischio di perdere da una singola interazione.
+The first is a more **conservative** approach. This applies especially when your hand contains multiple discard spells, like **Duress** or **Cabal Therapy**. In these cases, you can use the discard first to learn the opponent's hand, strip the most problematic cards, and only then deploy your combo piece. It's a slower plan, but it reduces the risk of losing to a single interaction.
 
-Il secondo è un approccio più **esplosivo**, basato sul bypassare l'interazione dell'avversario prima che abbia il tempo di svilupparla. Un esempio classico è usare **Elvish Spirit Guide** per giocare Hermit Druid di primo turno e provare a chiudere la partita già dal turno successivo con **Unearth** o una linea equivalente. Questo piano è più rischioso, ma in certi matchup o in certe mani è il modo migliore per vincere.
+The second is a more **explosive** approach, built around bypassing the opponent's interaction before they have time to develop it. A classic example is using **Elvish Spirit Guide** to play Hermit Druid on turn one and try to close the game the very next turn with **Unearth** or an equivalent line. It's a riskier plan, but in some matchups or with certain hands, it's the best way to win.
 
 </div>
 </details>
 
 <details class="collapsible">
-<summary>Il ruolo della mano iniziale</summary>
+<summary>The Role of the Opening Hand</summary>
 <div markdown="1">
 
-Tutti i matchup dipendono moltissimo dalla mano iniziale.
+Every matchup depends heavily on the opening hand.
 
-hFEB è un mazzo che mulliga abbastanza bene, e può vincere anche da mulligan a quattro. Detto questo, è evidente che tenere cinque, sei o sette carte aumenta in modo significativo le nostre probabilità di vittoria. Per questo bisogna valutare con attenzione quali mani sono realmente funzionali e quali invece sembrano giocabili ma non portano da nessuna parte.
+hFEB mulligans fairly well and can win even on a four-card mulligan. That said, keeping five, six, or seven cards significantly increases your chances of winning. For this reason, you need to carefully evaluate which hands are actually functional and which only look playable but lead nowhere.
 
-In generale, una mano senza nessuno degli otto motori principali — quindi senza **Hermit Druid** e senza **Survival of the Fittest** — è spesso una mano da mulligare. Ci sono eccezioni, soprattutto post-side o in matchup molto specifici, ma come regola generale il mazzo ha bisogno di una carta che trasformi le sue risorse in un piano concreto.
+In general, a hand without any of the eight main engines — meaning no **Hermit Druid** and no **Survival of the Fittest** — is usually a mulligan. There are exceptions, especially post-board or in very specific matchups, but as a rule the deck needs a card that turns its resources into a concrete plan.
 
-Il problema è che non tutte le mani buone si allineano bene contro tutti gli avversari.
+The catch is that not every good hand lines up well against every opponent.
 
-Può capitare di tenere una mano con uno o due **Hermit Druid** e poi trovarsi contro Sligh o Goblins, dove il Druid è molto più fragile a causa di removal, Mogg Fanatic o pressione immediata. Allo stesso modo, possiamo tenere una mano con **Survival**, magari ottima contro un mazzo midrange o control, e scoprire di essere contro Reanimator, dove il clock avversario può essere più veloce del nostro setup.
+You may keep a hand with one or two **Hermit Druid** and then sit down across from Sligh or Goblins, where the Druid is much more fragile due to removal, Mogg Fanatic, or immediate pressure. Likewise, you may keep a hand with **Survival** — maybe great against a midrange or control deck — and discover you're facing Reanimator, where the opponent's clock can be faster than your setup.
 
-Per questo, la valutazione della mano iniziale non è mai astratta. Una mano può essere potente, ma non essere adatta al piano che il matchup richiede.
+For this reason, evaluating an opening hand is never abstract. A hand can be powerful and still not match the plan the matchup demands.
 
 </div>
 </details>
 
 <details class="collapsible">
-<summary>Cambiare piano durante la partita</summary>
+<summary>Switching Plans Mid-Game</summary>
 <div markdown="1">
 
-Una delle abilità più importanti con hFEB è saper cambiare piano.
+One of the most important skills with hFEB is knowing how to switch plans.
 
-Immaginiamo una mano con:
+Imagine a hand with:
 
-> Hermit Druid, Unearth, landa, landa, Survival of the Fittest.
+> Hermit Druid, Unearth, land, land, Survival of the Fittest.
 
-In astratto, il piano è semplice: giocare Hermit Druid al secondo turno e provare a chiudere al terzo. Ma se l'avversario apre con **Mountain, Mogg Fanatic**, quel piano cambia immediatamente. Hermit Druid non è più una linea affidabile, perché l'avversario ha già una risposta pulita in campo.
+In the abstract, the plan is simple: play Hermit Druid on turn two and try to close on turn three. But if the opponent opens with **Mountain, Mogg Fanatic**, that plan changes immediately. Hermit Druid is no longer a reliable line, because the opponent already has a clean answer on board.
 
-A quel punto dobbiamo riconoscere che la partita non va più giocata sul piano Hermit, ma sul piano Survival. La stessa mano che prima sembrava una mano da kill rapida diventa una mano da setup, in cui Survival ci permette di costruire una linea più resistente.
+At that point, you have to recognize that the game is no longer being played on the Hermit plan but on the Survival plan. The same hand that looked like a fast-kill hand now becomes a setup hand, where Survival lets you build a more resilient line.
 
-Allo stesso modo, se abbiamo Hermit Druid ma non Survival, non è sempre automatico giocarlo come bloccante o come minaccia immediata. A volte può essere corretto tenerlo in mano, osservare le pescate successive e capire se possiamo sviluppare un altro piano. Se peschiamo un muro, per esempio, possiamo usare quello per guadagnare tre o quattro turni. Se invece peschiamo Survival, l'Hermit Druid rimasto in mano può diventare una creatura da scartare per iniziare la catena.
+Likewise, if you have Hermit Druid but no Survival, it isn't always automatic to play it as a blocker or an immediate threat. Sometimes it's correct to hold it, watch your draws, and see whether you can develop another plan. If you draw a wall, for example, you can use it to buy three or four turns. If you draw Survival, the Hermit Druid in hand can become a creature to discard and start the chain.
 
-La forza del mazzo sta proprio qui: una carta che in un contesto è un pezzo combo, in un altro può diventare un'esca, un bloccante, una risorsa da scartare o semplicemente un modo per comprare tempo.
+The strength of the deck lies exactly here: a card that's a combo piece in one context can become bait, a blocker, a discard fodder, or simply a way to buy time in another.
 
 </div>
 </details>
 
 <details class="collapsible">
-<summary>Sequenziare correttamente le terre</summary>
+<summary>Sequencing Your Lands Correctly</summary>
 <div markdown="1">
 
-Un altro aspetto fondamentale è il sequencing delle terre.
+Another fundamental aspect is land sequencing.
 
-La manabase di hFEB è potente, ma può infliggerci molti danni. Contro alcuni mazzi questo dettaglio è secondario; contro altri, come Sligh o Goblins, può decidere la partita.
+hFEB's manabase is powerful, but it can deal you a lot of damage. Against some decks this detail is minor; against others, like Sligh or Goblins, it can decide the game.
 
-Spesso apriremo mani con **Reflecting Pool** e un'altra landa. Se non abbiamo una giocata di primo turno, può essere corretto partire proprio da Reflecting Pool, in modo da ottimizzare i colori nei turni successivi e ridurre i danni presi dalle painlands.
+You'll often open hands with **Reflecting Pool** and another land. If you have no turn-one play, it can be correct to lead with Reflecting Pool to optimize your colors in the following turns and reduce damage taken from painlands.
 
-In generale, dobbiamo cercare di prendere il minor danno possibile dalle nostre terre. Questo vale soprattutto quando usiamo **Survival of the Fittest**. Anche se abbiamo accesso a due fonti verdi, non siamo obbligati ad attivare Survival due volte nello stesso turno se la seconda attivazione non migliora davvero il nostro piano.
+In general, you want to take as little damage as possible from your own lands. This matters especially when using **Survival of the Fittest**. Even if you have access to two green sources, you aren't forced to activate Survival twice in the same turn if the second activation doesn't actually improve your plan.
 
-Ogni punto vita è una risorsa. A volte pagare due danni in più per accelerare una linea è corretto; altre volte è solo un modo per entrare nel range dell'avversario senza un vero vantaggio.
+Every life point is a resource. Sometimes paying two extra damage to accelerate a line is correct; other times, it's just a way to walk into the opponent's range with no real upside.
 
-La domanda da farsi è:
+The question to ask is:
 
-> Questa attivazione aggiuntiva cambia davvero la mia linea, o sto solo spendendo punti vita perché posso farlo?
+> Does this extra activation actually change my line, or am I just spending life because I can?
 
 </div>
 </details>
 
 <details class="collapsible">
-<summary>Versatilità post-sideboard</summary>
+<summary>Post-Sideboard Versatility</summary>
 <div markdown="1">
 
-Il mazzo diventa ancora più versatile dopo la sideboard.
+The deck becomes even more versatile after sideboarding.
 
-Post-side, Survival migliora ulteriormente perché abbiamo accesso a più creature specifiche da tutorare. Questo ci permette di rispondere a molte categorie diverse di permanenti e interazioni.
+Post-board, Survival improves further because you have access to more specific creatures to tutor for. This lets you answer many different categories of permanents and interactions.
 
-A seconda della configurazione, possiamo avere:
+Depending on the configuration, you can have:
 
-- **Monk Realist**, per rimuovere enchantment problematici;
-- **Uktabi Orangutan**, per distruggere artefatti;
-- **Ghitu Slinger**, per rimuovere creature con costituzione bassa;
-- **Xantid Swarm**, per proteggere le linee contro counter e removal;
-- altre creature o risposte specifiche a seconda del metagame.
+- **Monk Realist**, to remove problematic enchantments;
+- **Uktabi Orangutan**, to destroy artifacts;
+- **Ghitu Slinger**, to remove low-toughness creatures;
+- **Xantid Swarm**, to protect your lines against counters and removal;
+- other creatures or specific answers depending on the metagame.
 
-Questo significa che post-side non siamo soltanto un mazzo combo più protetto. Siamo anche un mazzo capace di cercare risposte mirate, cambiare asse di gioco e forzare l'avversario a rispettare più piani contemporaneamente.
+This means post-board you're not just a more protected combo deck. You're also a deck capable of tutoring for targeted answers, switching axes, and forcing the opponent to respect multiple plans at once.
 
-L'avversario può prepararsi contro Hermit Druid, ma perdere da Survival. Può prepararsi contro Survival, ma lasciare una finestra a Hermit. Può portare graveyard hate, ma trovarsi costretto a gestire una creatura hardcastata o una linea più midrange.
+The opponent can prepare for Hermit Druid and lose to Survival. They can prepare for Survival and leave a window open for Hermit. They can bring graveyard hate but find themselves having to handle a hardcast creature or a more midrange line.
 
 </div>
 </details>
 
 <details class="collapsible">
-<summary>Come leggere questa sezione</summary>
+<summary>How to Read This Section</summary>
 <div markdown="1">
 
-Le sezioni matchup che seguono non vanno lette come istruzioni rigide.
+The matchup sections that follow are not meant to be read as rigid instructions.
 
-hFEB non è un mazzo che si pilota seguendo sempre la stessa linea. Ogni matchup richiede di capire quale piano è più adatto in quello specifico contesto: a volte bisogna essere esplosivi, a volte bisogna rallentare, a volte bisogna usare una carta combo come esca, e altre volte bisogna semplicemente sopravvivere abbastanza da pescare il pezzo giusto.
+hFEB is not a deck that's piloted by always following the same line. Each matchup requires you to figure out which plan is most suitable in that specific context: sometimes you need to be explosive, sometimes you need to slow down, sometimes you use a combo card as bait, and other times you simply need to survive long enough to draw the right piece.
 
-Per ogni matchup, quindi, l'obiettivo non è solo dire quali carte entrano o escono, ma spiegare:
+For each matchup, then, the goal is not just to say which cards come in and out, but to explain:
 
-- quale piano vogliamo seguire;
-- quali carte dell'avversario dobbiamo rispettare;
-- quando Hermit Druid è affidabile;
-- quando Survival è il piano migliore;
-- quali mani sono keepabili;
-- come cambia la partita post-side;
-- quali errori evitare.
+- which plan you want to follow;
+- which opponent's cards you have to respect;
+- which hands are keepable;
+- how the game changes post-board;
+- which mistakes to avoid.
 
-La cosa più importante da ricordare è che hFEB premia l'adattabilità.
+The most important thing to remember is that hFEB rewards adaptability.
 
-Non si tratta solo di conoscere la combo. Si tratta di capire, turno dopo turno, quale delle nostre linee ha più probabilità di arrivare fino in fondo.
+It's not just about knowing the combo. It's about understanding, turn after turn, which of your lines has the best chance of going all the way.
 
 </div>
 </details>
 
-## I matchup
+## The Matchups
 
 <div class="matchup-grid">
 
