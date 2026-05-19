@@ -94,18 +94,27 @@
     text-decoration: none;
   }
 
-  // Favorability border
-  border-bottom: 4px solid transparent;
+// Favorability glow effect (visible on hover only)
+  transition: box-shadow 0.25s ease, transform 0.15s ease;
 
-  &--favorable {
-    border-bottom-color: #22c55e; // green
+  &--favorable:hover {
+    box-shadow:
+      0 0 8px rgba(34, 197, 94, 0.6),
+      0 0 20px rgba(34, 197, 94, 0.5),
+      0 0 40px rgba(34, 197, 94, 0.3);
   }
 
-  &--even {
-    border-bottom-color: #eab308; // yellow
+  &--even:hover {
+    box-shadow:
+      0 0 8px rgba(234, 179, 8, 0.6),
+      0 0 20px rgba(234, 179, 8, 0.5),
+      0 0 40px rgba(234, 179, 8, 0.3);
   }
 
-  &--unfavorable {
-    border-bottom-color: #ef4444; // red
+  &--unfavorable:hover {
+    box-shadow:
+      0 0 8px rgba(239, 68, 68, 0.6),
+      0 0 20px rgba(239, 68, 68, 0.5),
+      0 0 40px rgba(239, 68, 68, 0.3);
   }
 }
