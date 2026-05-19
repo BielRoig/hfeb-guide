@@ -14,11 +14,11 @@ _build:
 
 The matchup against **Goblins** is often harder in **Game 1**, mostly because it depends heavily on the opponent's opening.
 
-Goblins can have relatively slow hands, built around cards like **Goblin Piledriver**, **Goblin Matron**, **Goblin Ringleader**, **Rishadan Port**, or **Wasteland**. These hands are dangerous in the long run, but they don't always interact with your creatures right away. In those cases, it's pretty realistic to win with **Hermit Druid**, especially if you can break the mana parity with a **Wall**, a **Birds of Paradise**, or a **mana elf**.
+Goblins can have relatively slow hands, built around cards like **Goblin Piledriver**, **Goblin Matron**, **Goblin Ringleader**, **Rishadan Port**, or **Wasteland**. These hands are dangerous in the long run, but they don't always interact with your creatures right away. In those cases, it's pretty realistic to win with **Hermit Druid**, especially if you can break the mana parity with a **Wall** or a **Birds of Paradise**.
 
 When Goblins doesn't have an immediate answer to Hermit Druid, your plan can be very fast. Sometimes all it takes is a small acceleration, dropping Druid on the board, and forcing the opponent to find a specific answer in a very tight window.
 
-**Survival of the Fittest** is also an excellent plan, but slightly less safe than it is against Sligh. The reason is that many versions of Goblins, especially the ones running green, can play **Naturalize**. Survival usually resolves easily, because Goblins doesn't interact on the stack, but you never have full certainty about how long it'll stay in play.
+**Survival of the Fittest** is also an excellent plan, but slightly less safe than it is against Sligh. The reason is that the versions of Goblins running green can play **Naturalize**. Survival always resolves, because Goblins doesn't interact on the stack, but you never have full certainty about how long it'll stay in play.
 
 So the general plan is simple: in Game 1 you can often win with Hermit Druid if the opponent doesn't have an explosive start or immediate removal. Survival is very strong, but it has to be treated as a powerful engine, not necessarily a permanent one.
 
@@ -40,7 +40,7 @@ Some Goblins openings are almost unbeatable, especially Game 1. A sequence like:
 
 > Mountain, Goblin Lackey.
 > Pass.
-> Mogg Fanatic.
+> Wasteland, Mogg Fanatic.
 > Lackey connects, putting Siege-Gang Commander into play.
 
 is extremely hard to beat for your deck, especially pre-board, when you don't yet have access to enough removal or sweepers.
