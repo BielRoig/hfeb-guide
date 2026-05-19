@@ -1,5 +1,6 @@
 ---
 title: "Sligh"
+favorability: "even"
 description: "Guida al matchup di hFEB contro Burn."
 layout: "matchup"
 date: 2026-05-18T00:00:00+00:00
