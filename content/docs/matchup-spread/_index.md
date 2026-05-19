@@ -149,12 +149,12 @@ It's not just about knowing the combo. It's about understanding, turn after turn
     <span>Dreadnought</span>
   </a>
 
-  <a href="/docs/matchup-spread/enchantress/" class="matchup-card matchup-card--even">
+  <a href="/docs/matchup-spread/enchantress/" class="matchup-card matchup-card--favorable">
     <img src="/images/matchups/enchantress.jpg" alt="Enchantress">
     <span>Enchantress</span>
   </a>
 
-  <a href="/docs/matchup-spread/gat/" class="matchup-card matchup-card--even">
+  <a href="/docs/matchup-spread/gat/" class="matchup-card matchup-card--unfavorable">
     <img src="/images/matchups/gat.jpg" alt="GAT">
     <span>GAT</span>
   </a>
@@ -174,12 +174,12 @@ It's not just about knowing the combo. It's about understanding, turn after turn
     <span>Landstill</span>
   </a>
 
-  <a href="/docs/matchup-spread/mono-black/" class="matchup-card matchup-card--even">
+  <a href="/docs/matchup-spread/mono-black/" class="matchup-card matchup-card--unfavorable">
     <img src="/images/matchups/mono-black.jpg" alt="Mono Black">
     <span>Mono Black</span>
   </a>
 
-  <a href="/docs/matchup-spread/ponza/" class="matchup-card matchup-card--even">
+  <a href="/docs/matchup-spread/ponza/" class="matchup-card matchup-card--unfavorable">
     <img src="/images/matchups/ponza.jpg" alt="Ponza">
     <span>Ponza</span>
   </a>
@@ -194,19 +194,19 @@ It's not just about knowing the combo. It's about understanding, turn after turn
     <span>Sligh</span>
   </a>
 
-  <a href="/docs/matchup-spread/stasis/" class="matchup-card matchup-card--even">
+  <a href="/docs/matchup-spread/stasis/" class="matchup-card matchup-card--favorable">
     <img src="/images/matchups/stasis.jpg" alt="Stasis">
     <span>Stasis</span>
   </a>
 
-  <a href="/docs/matchup-spread/terrageddon/" class="matchup-card matchup-card--even">
+  <a href="/docs/matchup-spread/terrageddon/" class="matchup-card matchup-card--unfavorable">
     <img src="/images/matchups/terrageddon.jpg" alt="TerraGeddon">
     <span>TerraGeddon</span>
   </a>
 
-  <a href="/docs/matchup-spread/ub-psychatog/" class="matchup-card matchup-card--even">
-    <img src="/images/matchups/ub-psychatog.jpg" alt="U/B Psychatog">
-    <span>U/B Psychatog</span>
+  <a href="/docs/matchup-spread/ub-psychatog/" class="matchup-card matchup-card--favorable">
+    <img src="/images/matchups/ub-psychatog.jpg" alt="UB Psychatog">
+    <span>UB Psychatog</span>
   </a>
 
 </div>
