@@ -1,5 +1,6 @@
 ---
 title: "Goblins"
+favorability: "even"
 description: "GOBLIIIINS"
 layout: "matchup"
 date: 2026-05-18T00:00:00+00:00
