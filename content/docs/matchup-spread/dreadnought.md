@@ -22,7 +22,7 @@ For this reason, the matchup is a very technical race: you have to figure out wh
 
 ## Game 1
 
-### How You Interact with the Dreadnought
+  ## ⮩ How You Interact with the Dreadnought
 
 In Game 1, your main way to interact with the Dreadnought plan is through discard spells:
 
@@ -42,7 +42,7 @@ The most common calls are:
 
 Lately you see fewer versions with **Chain of Vapor**, but it's still a card to consider. It's important to remember, though, that once the opponent has a Dreadnought in play, Chain of Vapor becomes riskier for them too. If they use it to bounce a lethal **Volrath's Shapeshifter**, you can sacrifice a land, copy Chain of Vapor, and bounce their Dreadnought back. From there the situation can get much more complex for both sides.
 
-### Your Main Plans
+  ## ⮩ Your Main Plans
 
 In Game 1, as in many other matchups, both **Hermit Druid** and **Survival of the Fittest** are valid plans.
 
@@ -56,7 +56,7 @@ The point is that resolving an engine isn't enough: you have to convert it into 
 
 ## Cards to Respect
 
-### Counterspell, Foil, and Classic Interaction
+  ## ⮩ Counterspell, Foil, and Classic Interaction
 
 The first category of interaction is obvious: counters.
 
@@ -69,7 +69,7 @@ Mono U Dreadnought can stop your key pieces with:
 
 These are the easiest interactions to read: if the opponent leaves mana open, you have to ask yourself whether you can afford to walk into a counter, or whether you should first go through Duress or Cabal Therapy.
 
-### Stifle
+  ## ⮩ Stifle
 
 **Stifle** is one of the most important cards to respect.
 
@@ -88,7 +88,7 @@ For example, if you try to win with Hermit Druid and the opponent has Stifle, th
 
 Likewise, if you cast Volrath's Shapeshifter with Palinchron on top of the graveyard and you're counting on the trigger to untap your lands, a Stifle on that trigger can completely break your sequence.
 
-### Vision Charm
+  ## ⮩ Vision Charm
 
 **Vision Charm** is a particularly problematic card, and often a less intuitive one.
 
@@ -104,7 +104,7 @@ It can also interfere with Volrath's Shapeshifter. For example, if you have **Pa
 
 Against Mono U Dreadnought you therefore have to respect Vision Charm not just as the opponent's combo card, but as real interaction against your lines.
 
-### Brain Freeze
+  ## ⮩ Brain Freeze
 
 Some versions can play **Brain Freeze**.
 
@@ -138,7 +138,7 @@ The cards that usually come in are:
 
 **Swords to Plowshares** is very reasonable in this matchup. Giving the opponent 12 life is rarely the main problem: if you've removed the Dreadnought, you've probably bought enough time to win with one of your combos.
 
-### Post-Sideboard Plan
+  ## ⮩ Post-Sideboard Plan
 
 Post-board your plan is similar to Game 1, but with more tools.
 
@@ -156,7 +156,7 @@ An ideal sequence can be:
 
 If you simply try to remove the Dreadnought without first checking the opponent's hand, you risk losing to a single counter.
 
-### Xantid Swarm
+  ## ⮩ Xantid Swarm
 
 **Xantid Swarm** is very strong in the matchup because it forces Mono U Dreadnought to interact preemptively.
 
@@ -164,7 +164,7 @@ If Xantid attacks and the trigger resolves, you can try to win that same turn wi
 
 Xantid also works as a psychological threat: the opponent has to decide whether to counter it, bounce it, or let it resolve, knowing that if it sticks they might lose the ability to interact on the decisive turn.
 
-### Back to Basics
+  ## ⮩ Back to Basics
 
 Post-board you also have to consider **Back to Basics**, present in some lists.
 
