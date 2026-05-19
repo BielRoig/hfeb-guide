@@ -1,7 +1,7 @@
 {{- /* Renders an automatic grid of matchup cards. */ -}}
-{{- /* Reads all child pages of the current section that have layout=matchup. */ -}}
+{{- /* Reads all sibling pages of the current page (i.e. pages in the same folder). */ -}}
 
-{{- $matchups := where .Page.Site.RegularPages "Section" "docs" -}}
+{{- $matchups := .Page.Parent.Pages -}}
 {{- $matchups = where $matchups "Params.layout" "matchup" -}}
 {{- $matchups = sort $matchups "Title" -}}
 
