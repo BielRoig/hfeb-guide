@@ -1,5 +1,5 @@
 ---
-title: "⚡Sligh"
+title: "Sligh"
 favorability: "unfavorable"
 description: "Guida al matchup di hFEB contro Sligh."
 layout: "matchup"
