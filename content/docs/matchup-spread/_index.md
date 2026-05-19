@@ -139,14 +139,9 @@ It's not just about knowing the combo. It's about understanding, turn after turn
 
 <div class="matchup-grid">
 
-  <a href="/docs/matchup-spread/sligh/" class="matchup-card matchup-card--unfavorable">
-    <img src="/images/matchups/sligh.jpg" alt="Sligh">
-    <span>Sligh</span>
-  </a>
-
-  <a href="/docs/matchup-spread/goblins/" class="matchup-card matchup-card--favorable">
-    <img src="/images/matchups/goblins.jpg" alt="Goblins">
-    <span>Goblins</span>
+  <a href="/docs/matchup-spread/deadguy-ale/" class="matchup-card matchup-card--even">
+    <img src="/images/matchups/deadguy-ale.jpg" alt="Deadguy Ale">
+    <span>Deadguy Ale</span>
   </a>
 
   <a href="/docs/matchup-spread/dreadnought/" class="matchup-card matchup-card--favorable">
@@ -154,9 +149,65 @@ It's not just about knowing the combo. It's about understanding, turn after turn
     <span>Dreadnought</span>
   </a>
 
+  <a href="/docs/matchup-spread/enchantress/" class="matchup-card matchup-card--even">
+    <img src="/images/matchups/enchantress.jpg" alt="Enchantress">
+    <span>Enchantress</span>
+  </a>
+
+  <a href="/docs/matchup-spread/gat/" class="matchup-card matchup-card--even">
+    <img src="/images/matchups/gat.jpg" alt="GAT">
+    <span>GAT</span>
+  </a>
+
+  <a href="/docs/matchup-spread/goblins/" class="matchup-card matchup-card--favorable">
+    <img src="/images/matchups/goblins.jpg" alt="Goblins">
+    <span>Goblins</span>
+  </a>
+
+  <a href="/docs/matchup-spread/hfeb-mirror/" class="matchup-card matchup-card--even">
+    <img src="/images/matchups/hfeb-mirror.jpg" alt="hFEB Mirror">
+    <span>hFEB Mirror</span>
+  </a>
+
   <a href="/docs/matchup-spread/landstill/" class="matchup-card matchup-card--even">
     <img src="/images/matchups/landstill.jpg" alt="Landstill">
     <span>Landstill</span>
   </a>
 
+  <a href="/docs/matchup-spread/mono-black/" class="matchup-card matchup-card--even">
+    <img src="/images/matchups/mono-black.jpg" alt="Mono Black">
+    <span>Mono Black</span>
+  </a>
+
+  <a href="/docs/matchup-spread/ponza/" class="matchup-card matchup-card--even">
+    <img src="/images/matchups/ponza.jpg" alt="Ponza">
+    <span>Ponza</span>
+  </a>
+
+  <a href="/docs/matchup-spread/replenish/" class="matchup-card matchup-card--even">
+    <img src="/images/matchups/replenish.jpg" alt="Replenish">
+    <span>Replenish</span>
+  </a>
+
+  <a href="/docs/matchup-spread/sligh/" class="matchup-card matchup-card--unfavorable">
+    <img src="/images/matchups/sligh.jpg" alt="Sligh">
+    <span>Sligh</span>
+  </a>
+
+  <a href="/docs/matchup-spread/stasis/" class="matchup-card matchup-card--even">
+    <img src="/images/matchups/stasis.jpg" alt="Stasis">
+    <span>Stasis</span>
+  </a>
+
+  <a href="/docs/matchup-spread/terrageddon/" class="matchup-card matchup-card--even">
+    <img src="/images/matchups/terrageddon.jpg" alt="TerraGeddon">
+    <span>TerraGeddon</span>
+  </a>
+
+  <a href="/docs/matchup-spread/ub-psychatog/" class="matchup-card matchup-card--even">
+    <img src="/images/matchups/ub-psychatog.jpg" alt="U/B Psychatog">
+    <span>U/B Psychatog</span>
+  </a>
+
 </div>
+
