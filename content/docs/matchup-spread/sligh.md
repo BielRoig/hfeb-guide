@@ -81,7 +81,7 @@ The most important defensive creatures are the **walls**.
 
 Walls have two fundamental functions:
 
-- they block the opponent's aggressive creatures effectively, thanks to the 0/4 body;
+- they block the opponent's aggressive creatures effectively, thanks to the 0/5 body;
 - they produce mana without dealing you damage.
 
 This combination is exactly what you want in the matchup: slow down the clock while developing your plan without losing additional life.
