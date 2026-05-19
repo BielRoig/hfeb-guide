@@ -284,11 +284,11 @@
 }
 
 // ============================================
-// Tipografia: titoli sotto-paragrafo (h2) -15%
+// Tipografia: gerarchia titoli nel contenuto
 // ============================================
-// Riduce del 15% la dimensione di tutti gli h2 nel contenuto del sito,
-// per evitare che dominino troppo nelle pagine con molte sezioni.
-// Targeting solo il contenuto delle pagine, non gli h2 di UI/sidebar.
+// Riduce h2 e h3 nel contenuto del sito per mantenere una gerarchia
+// coerente e leggibile. h3 deve essere visibilmente più piccolo di h2.
+// Targeting solo il contenuto delle pagine, non titoli di UI/sidebar.
 
 .docs-content h2,
 .page-content h2,
@@ -296,6 +296,11 @@ main h2 {
   font-size: 1.5rem; // ~85% del default Bootstrap (1.75rem)
 }
 
+.docs-content h3,
+.page-content h3,
+main h3 {
+  font-size: 1.2rem; // ~80% del default Bootstrap (1.5rem)
+}
 
 // ============================================
 // Collassabili (intro Matchup Spread)
