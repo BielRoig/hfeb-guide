@@ -2,10 +2,10 @@
 {{- $data := dict "start" .Page.Params.start "steps" .Page.Params.steps -}}
 
 <div class="flowchart-wizard">
-  <div class="flowchart-breadcrumb">
-    <div class="flowchart-breadcrumb__path"></div>
-    <button type="button" class="flowchart-breadcrumb__restart">Restart</button>
+  <div class="flowchart-toolbar">
+    <button type="button" class="flowchart-toolbar__restart">Restart</button>
   </div>
+  <div class="flowchart-history"></div>
   <div class="flowchart-step"></div>
   <script type="application/json">{{ $data | jsonify | safeJS }}</script>
 </div>
