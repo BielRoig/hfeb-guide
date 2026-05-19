@@ -126,7 +126,6 @@ collections:
     folder: content/docs/matchup-spread
     create: true
     slug: "{{slug}}"
-    filter: { field: "title", value_type: "not_index" }
     editor:
       preview: false
     fields:
