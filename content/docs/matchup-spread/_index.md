@@ -24,4 +24,9 @@ draft: false
     <span>Dreadnought</span>
   </a>
 
+  <a href="/docs/matchup-spread/standstill/" class="matchup-card">
+    <img src="/images/matchups/standstill.jpg" alt="Standstill">
+    <span>Standstill</span>
+  </a>
+
 </div>
