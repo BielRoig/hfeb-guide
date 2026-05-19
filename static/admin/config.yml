@@ -135,6 +135,13 @@ collections:
       - { label: Layout, name: layout, widget: hidden, default: "matchup" }
       - { label: Date, name: date, widget: datetime }
       - { label: Draft, name: draft, widget: boolean, default: false }
+      - label: Build
+        name: _build
+        widget: object
+        collapsed: true
+        fields:
+          - { label: List, name: list, widget: hidden, default: "never" }
+          - { label: Render, name: render, widget: hidden, default: "always" }
       - { label: Body, name: body, widget: markdown }
 
   - name: blog
