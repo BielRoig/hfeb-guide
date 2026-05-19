@@ -2,7 +2,7 @@
 title: "Goblins"
 favorability: "even"
 description: "GOBLIIIINS"
-kind: "matchup"
+layout: "matchup"
 date: 2026-05-18T00:00:00+00:00
 draft: false
 _build:
