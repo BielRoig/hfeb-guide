@@ -10,17 +10,17 @@ draft: false
 <div class="matchup-grid">
 
   <a href="/docs/matchup-spread/sligh/" class="matchup-card">
-    <img src="/images/matchups/sligh.png" alt="Sligh">
+    <img src="/images/matchups/sligh.jpg" alt="Sligh">
     <span>Sligh</span>
   </a>
 
   <a href="/docs/matchup-spread/goblins/" class="matchup-card">
-    <img src="/images/matchups/goblins.png" alt="Goblins">
+    <img src="/images/matchups/goblins.jpg" alt="Goblins">
     <span>Goblins</span>
   </a>
 
   <a href="/docs/matchup-spread/dreadnought/" class="matchup-card">
-    <img src="/images/matchups/dreadnought.png" alt="Dreadnought">
+    <img src="/images/matchups/dreadnought.jpg" alt="Dreadnought">
     <span>Dreadnought</span>
   </a>
 
