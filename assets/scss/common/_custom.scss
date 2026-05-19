@@ -300,6 +300,15 @@ main h2 {
 .page-content h3,
 main h3 {
   font-size: 1.2rem; // ~80% del default Bootstrap (1.5rem)
+
+  // Aggiunge automaticamente l'icona ⮩ davanti a ogni h3
+  // per segnalare visivamente la gerarchia sotto-paragrafo
+  &::before {
+    content: "⮩";
+    margin-right: 0.5rem;
+    color: var(--bs-secondary-color);
+    font-weight: normal;
+  }
 }
 
 // ============================================
