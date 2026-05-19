@@ -1,5 +1,5 @@
 ---
-title: Standstill
+title: Landstill
 description: Prova
 layout: matchup
 favorability: even
