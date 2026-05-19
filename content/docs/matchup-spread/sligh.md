@@ -52,4 +52,66 @@ If the answer is yes, you probably need to find a different line or wait until y
 
 On one hand, it can be excellent in defensive situations. For example, you can block with a wall, let the opponent spend a removal on it, and then bring it back with Unearth to recreate a blocker and buy time. In this sense, Unearth can become a form of positive attrition: the opponent spends burn, you rebuild the board.
 
-On the other hand, Unearth can create dangerous windows in combo lines. If you're building a sequence with **Karmic Guide**, **Palinchron**, or other creatures with triggers on the stack, you have to
+On the other hand, Unearth can create dangerous windows in combo lines. If you're building a sequence with **Karmic Guide**, **Palinchron**, or other creatures with triggers on the stack, you have to remember that at certain moments **Volrath's Shapeshifter can revert to being a 0/1**. In those windows, Sligh can easily punish you with any burn spell.
+
+So Unearth shouldn't be treated simply as a shortcut to the combo. It's a powerful card, but against Sligh every step of the line has to be evaluated based on the vulnerability windows it opens.
+
+## Post-Sideboard
+
+In **Game 2** and **Game 3** the plan changes based on the specific sideboard, but the general idea is to cut the less reliable cards and increase the density of cards that help you survive or assemble Survival more quickly.
+
+You can usually consider cutting:
+
+- a number of **Hermit Druid**, because the Hermit plan is fragile against their amount of removal;
+- some discard spells, like **Cabal Therapy**, especially if the matchup is being played more on the board and on tempo than on the hand;
+- possibly a **Krosan Reclamation**, since the main plan isn't full-mill with Hermit Druid.
+
+The cards to bring in depend on the configuration, but they can include:
+
+- an additional **Enlightened Tutor**, to increase access to Survival or other key cards;
+- removal like **Swords to Plowshares**;
+- sweepers like **Pyroclasm**;
+- possibly **Eladamri's Vineyard**, if it's in the sideboard.
+
+**Eladamri's Vineyard** is particularly interesting because it gives you green mana that doesn't deal damage. That's very relevant against Sligh: it lets you use Survival multiple times without continuing to pay life with painlands or City of Brass. Paired with Survival, Vineyard can win you the game in two or three turns, dramatically accelerating your engine.
+
+## Key Creatures
+
+The most important defensive creatures are the **walls**.
+
+Walls have two fundamental functions:
+
+- they block the opponent's aggressive creatures effectively, thanks to the 0/4 body;
+- they produce mana without dealing you damage.
+
+This combination is exactly what you want in the matchup: slow down the clock while developing your plan without losing additional life.
+
+## Price of Progress
+
+Post-sideboard you have to respect **Price of Progress** a lot.
+
+It's very easy to die to one or two Price of Progress, or to a single lethal Price for 8 or 10 damage at a moment when you think you're relatively safe. For this reason, you shouldn't play unnecessary lands just because you have them in hand.
+
+The practical rule is:
+
+> If you don't need that land and you can't use the mana right away in a meaningful way, it's probably better not to play it.
+
+Managing the number of nonbasics on the battlefield is a fundamental part of the matchup. Against Sligh you're not just playing against the board and burn spells: you're also playing against the sudden range of Price of Progress.
+
+<div class="matchup-summary" markdown="1">
+
+## Matchup Summary
+
+Against Sligh the main plan is **Survival**, not Hermit Druid.
+
+Hermit Druid is too exposed to removal and often works better as a tempo card or as bait. Survival, on the other hand, lets you build more resilient lines, trying to get Shapeshifter to enter as a creature already out of burn-spell range.
+
+The matchup is played on three main axes:
+
+- minimize damage from your own manabase;
+- avoid windows where Shapeshifter is a 0/1;
+- assemble a Survival line that's fast but resistant to removal.
+
+Don't look for the prettiest line — look for the line that wins before your life total becomes a depleted resource.
+
+</div>
