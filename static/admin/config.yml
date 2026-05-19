@@ -126,7 +126,7 @@ collections:
     folder: content/docs/matchup-spread
     create: true
     slug: "{{slug}}"
-    filter: filter: { field: "layout", value: "matchup" }
+    filter: { field: "layout", value: "matchup" }
     editor:
       preview: false
     fields:
