@@ -109,6 +109,33 @@ collections:
           - { label: Draft, name: draft, widget: boolean, default: false }
           - { label: Body, name: body, widget: markdown }
 
+      - label: Matchup Spread
+        name: matchup-spread
+        file: content/docs/matchup-spread/_index.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Lead, name: lead, widget: string }
+          - { label: Date, name: date, widget: datetime }
+          - { label: Last Modified, name: lastmod, widget: datetime }
+          - { label: Draft, name: draft, widget: boolean, default: false }
+          - { label: Body, name: body, widget: markdown }
+
+  - name: matchup-pages
+    label: Matchup Pages
+    folder: content/docs/matchup-spread
+    create: true
+    slug: "{{slug}}"
+    filter: { field: "title", value_type: "not_index" }
+    editor:
+      preview: false
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Description, name: description, widget: string }
+      - { label: Date, name: date, widget: datetime }
+      - { label: Draft, name: draft, widget: boolean, default: false }
+      - { label: Body, name: body, widget: markdown }
+
   - name: blog
     label: Blog Posts
     folder: content/blog
