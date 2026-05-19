@@ -1,0 +1,16 @@
+{{- /* Renders an interactive flowchart wizard from page params. */ -}}
+{{- $data := dict "start" .Page.Params.start "steps" .Page.Params.steps -}}
+
+<div class="flowchart-wizard">
+  <div class="flowchart-breadcrumb">
+    <div class="flowchart-breadcrumb__path"></div>
+    <button type="button" class="flowchart-breadcrumb__restart">Restart</button>
+  </div>
+  <div class="flowchart-step"></div>
+  <script type="application/json">{{ $data | jsonify | safeJS }}</script>
+</div>
+
+{{ if not (.Page.Store.Get "flowchart-js") }}
+  {{ .Page.Store.Set "flowchart-js" true }}
+  <script src="/js/flowchart-wizard.js" defer></script>
+{{ end }}
