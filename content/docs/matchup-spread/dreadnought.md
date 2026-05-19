@@ -1,5 +1,6 @@
 ---
 title: "Dreadnought"
+favorability: "even"
 description: "XXXXXX GRILLED SHRIMP"
 layout: "matchup"
 date: 2026-05-18T00:00:00+00:00
