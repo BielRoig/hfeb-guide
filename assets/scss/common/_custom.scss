@@ -304,7 +304,7 @@ main h3 {
   // Aggiunge automaticamente l'icona ⮩ davanti a ogni h3
   // per segnalare visivamente la gerarchia sotto-paragrafo
   &::before {
-    content: "⮩";
+    content: "↳";
     margin-right: 0.5rem;
     color: var(--bs-secondary-color);
     font-weight: normal;
