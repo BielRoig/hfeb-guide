@@ -1,5 +1,5 @@
 ---
-title: "Sligh"
+title: "<img width="505" height="512" alt="image" src="https://github.com/user-attachments/assets/e81350f9-24cf-4ed2-9b49-95ad3df7d332" />Sligh"
 favorability: "unfavorable"
 description: "Guida al matchup di hFEB contro Sligh."
 layout: "matchup"
