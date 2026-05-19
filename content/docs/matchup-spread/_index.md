@@ -9,8 +9,8 @@ draft: false
 
 <div class="matchup-grid">
 
-  <a href="/docs/matchup-spread/burn/" class="matchup-card">
-    <img src="/images/matchups/sligh.png" alt="Burn">
+  <a href="/docs/matchup-spread/sligh/" class="matchup-card">
+    <img src="/images/matchups/sligh.png" alt="Sligh">
     <span>Burn</span>
   </a>
 
@@ -19,8 +19,8 @@ draft: false
     <span>Goblins</span>
   </a>
 
-  <a href="/docs/matchup-spread/the-rock/" class="matchup-card">
-    <img src="/images/matchups/dn.png" alt="The Rock">
+  <a href="/docs/matchup-spread/dreadnought/" class="matchup-card">
+    <img src="/images/matchups/dreadnought.png" alt="Dreadnought">
     <span>The Rock</span>
   </a>
 
