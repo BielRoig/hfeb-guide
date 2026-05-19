@@ -1,13 +1,15 @@
 ---
 title: "Matchup Spread"
 description: "Overview of hFEB matchups in the Premodern meta."
-lead: "Click on a matchup to read the detailed guide."
+lead: "Clicca su un matchup per leggere la guida dettagliata."
 date: 2026-05-18T00:00:00+00:00
 lastmod: 2026-05-19T00:00:00+00:00
 draft: false
 ---
 
-## Introduzione alla Matchup Guide
+<details class="collapsible">
+<summary>📖 Introduzione alla Matchup Guide</summary>
+<div markdown="1">
 
 hFEB è un mazzo estremamente versatile. Una delle sue caratteristiche più importanti è la capacità di adattarsi rapidamente al piano dell'avversario, cambiando asse di gioco a seconda della mano iniziale, del matchup e delle prime informazioni che riceviamo durante la partita.
 
@@ -23,7 +25,12 @@ Il primo è un approccio più **conservativo**. Questo succede soprattutto quand
 
 Il secondo è un approccio più **esplosivo**, basato sul bypassare l'interazione dell'avversario prima che abbia il tempo di svilupparla. Un esempio classico è usare **Elvish Spirit Guide** per giocare Hermit Druid di primo turno e provare a chiudere la partita già dal turno successivo con **Unearth** o una linea equivalente. Questo piano è più rischioso, ma in certi matchup o in certe mani è il modo migliore per vincere.
 
-## Il ruolo della mano iniziale
+</div>
+</details>
+
+<details class="collapsible">
+<summary>Il ruolo della mano iniziale</summary>
+<div markdown="1">
 
 Tutti i matchup dipendono moltissimo dalla mano iniziale.
 
@@ -37,7 +44,12 @@ Può capitare di tenere una mano con uno o due **Hermit Druid** e poi trovarsi c
 
 Per questo, la valutazione della mano iniziale non è mai astratta. Una mano può essere potente, ma non essere adatta al piano che il matchup richiede.
 
-## Cambiare piano durante la partita
+</div>
+</details>
+
+<details class="collapsible">
+<summary>Cambiare piano durante la partita</summary>
+<div markdown="1">
 
 Una delle abilità più importanti con hFEB è saper cambiare piano.
 
@@ -53,7 +65,12 @@ Allo stesso modo, se abbiamo Hermit Druid ma non Survival, non è sempre automat
 
 La forza del mazzo sta proprio qui: una carta che in un contesto è un pezzo combo, in un altro può diventare un'esca, un bloccante, una risorsa da scartare o semplicemente un modo per comprare tempo.
 
-## Sequenziare correttamente le terre
+</div>
+</details>
+
+<details class="collapsible">
+<summary>Sequenziare correttamente le terre</summary>
+<div markdown="1">
 
 Un altro aspetto fondamentale è il sequencing delle terre.
 
@@ -69,7 +86,12 @@ La domanda da farsi è:
 
 > Questa attivazione aggiuntiva cambia davvero la mia linea, o sto solo spendendo punti vita perché posso farlo?
 
-## Versatilità post-sideboard
+</div>
+</details>
+
+<details class="collapsible">
+<summary>Versatilità post-sideboard</summary>
+<div markdown="1">
 
 Il mazzo diventa ancora più versatile dopo la sideboard.
 
@@ -87,7 +109,12 @@ Questo significa che post-side non siamo soltanto un mazzo combo più protetto. 
 
 L'avversario può prepararsi contro Hermit Druid, ma perdere da Survival. Può prepararsi contro Survival, ma lasciare una finestra a Hermit. Può portare graveyard hate, ma trovarsi costretto a gestire una creatura hardcastata o una linea più midrange.
 
-## Come leggere questa sezione
+</div>
+</details>
+
+<details class="collapsible">
+<summary>Come leggere questa sezione</summary>
+<div markdown="1">
 
 Le sezioni matchup che seguono non vanno lette come istruzioni rigide.
 
@@ -106,6 +133,9 @@ Per ogni matchup, quindi, l'obiettivo non è solo dire quali carte entrano o esc
 La cosa più importante da ricordare è che hFEB premia l'adattabilità.
 
 Non si tratta solo di conoscere la combo. Si tratta di capire, turno dopo turno, quale delle nostre linee ha più probabilità di arrivare fino in fondo.
+
+</div>
+</details>
 
 ## I matchup
 
