@@ -126,13 +126,13 @@ collections:
     folder: content/docs/matchup-spread
     create: true
     slug: "{{slug}}"
-    filter: { field: "kind", value: "matchup" }
+    filter: filter: { field: "layout", value: "matchup" }
     editor:
       preview: false
     fields:
       - { label: Title, name: title, widget: string }
       - { label: Description, name: description, widget: string }
-      - { label: Kind, name: kind, widget: hidden, default: "matchup" }
+      - { label: Layout, name: layout, widget: hidden, default: "matchup" }
       - label: Favorability
         name: favorability
         widget: select
