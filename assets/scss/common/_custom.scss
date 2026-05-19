@@ -295,3 +295,66 @@
 main h2 {
   font-size: 1.5rem; // ~85% del default Bootstrap (1.75rem)
 }
+
+
+// ============================================
+// Collassabili (intro Matchup Spread)
+// ============================================
+
+.collapsible {
+  margin: 1rem 0;
+  background: var(--bs-tertiary-bg);
+  border: 1px solid var(--bs-border-color);
+  border-radius: 8px;
+  overflow: hidden;
+
+  > summary {
+    padding: 0.85rem 1.25rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 1.05rem;
+    list-style: none; // nasconde il triangolino di default
+    position: relative;
+    user-select: none;
+    transition: background 0.15s ease;
+
+    // nasconde il triangolino su Webkit (Safari, Chrome)
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    // freccia custom a destra
+    &::after {
+      content: "▸";
+      position: absolute;
+      right: 1.25rem;
+      top: 50%;
+      transform: translateY(-50%);
+      transition: transform 0.2s ease;
+      color: var(--bs-secondary-color);
+      font-size: 0.85rem;
+    }
+
+    &:hover {
+      background: var(--bs-secondary-bg);
+    }
+  }
+
+  // quando il collassabile è aperto, la freccia gira di 90°
+  &[open] > summary::after {
+    transform: translateY(-50%) rotate(90deg);
+  }
+
+  // il contenuto interno: padding e niente margini sul primo/ultimo elemento
+  > *:not(summary) {
+    padding: 0 1.25rem;
+  }
+
+  > *:not(summary):first-of-type {
+    padding-top: 0.5rem;
+  }
+
+  > *:not(summary):last-child {
+    padding-bottom: 1rem;
+  }
+}
