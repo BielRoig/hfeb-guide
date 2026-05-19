@@ -61,6 +61,12 @@
   pageRef = "/docs/matchup-spread"
 
 [[sidebar_docs]]
+  name = "Interactive Flowcharts"
+  weight = 57
+  identifier = "interactive-flowcharts"
+  pageRef = "/docs/interactive-flowcharts"
+
+[[sidebar_docs]]
   name = "Sideboard Guide"
   weight = 60
   identifier = "sideboard-guide"
