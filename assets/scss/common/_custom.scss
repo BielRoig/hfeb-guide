@@ -372,3 +372,17 @@ main h3 {
     padding-bottom: 1rem;
   }
 }
+
+// ============================================
+// Layout: container più ampio sui desktop grandi
+// ============================================
+// Doks/Thulite limita .container-fw a 1200px. Su schermi grandi
+// (~1920px) questo lascia troppo spazio vuoto ai lati. Alzando
+// la max-width a 1600px sfruttiamo meglio lo schermo senza arrivare
+// a una larghezza scomoda da leggere.
+
+@media (min-width: 1400px) {
+  .container-fw {
+    max-width: 1600px;
+  }
+}
