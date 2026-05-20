@@ -16,15 +16,15 @@ mathEngine = "KaTeX" # "KaTeX" (default) or "MathJax"
 # Doks (@thulite/doks-core)
 [doks]
   # Color mode
-  colorMode = "auto" # auto (default), light or dark
-  colorModeToggler = true # true (default) or false (this setting is only relevant when colorMode = auto)
+  colorMode = "dark" # auto (default), light or dark
+  colorModeToggler = false # true (default) or false (this setting is only relevant when colorMode = auto)
 
   # Navbar
   navbarSticky = true # true (default) or false
   containerBreakpoint = "fluid" # "", "sm", "md", "lg", "xl", "xxl", or "fluid" (default)
 
   ## Button
-  navBarButton = true # false (default) or true
+  navBarButton = false # false (default) or true
   navBarButtonUrl = "/docs/introduction/"
   navBarButtonText = "Read the Guide"
 
