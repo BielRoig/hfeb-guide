@@ -31,8 +31,6 @@ Consider this sequence:
 3. We don't want to lose Devourer yet — we haven't exiled all the cards we intended to — so we activate Devourer in response to the Furnace.
 4. After this second activation resolves, the sacrifice trigger of Devourer goes to the stack on top of the Furnace ability.
 
-![Activation covering example](/images/beyond-the-basics/activation-cover-1-example.jpg)
-
 The Devourer activation on the bottom of the stack has now become **unreachable**: in order to resolve it, we would need to sacrifice the very creature that would receive those counters. We call such an activation a **covered activation**.
 
 ---
@@ -49,8 +47,6 @@ After stacking them, we do something to put a new card on the top of the graveya
 
 This changes the text on Shifter, so that when we resolve the Devourer activations the sacrifice clause is not there anymore to trigger. In that scenario, we can let the stack resolve all the way down to the last activation: the exiling of Devourer is no longer relevant, because we have already put all the activations on the stack.
 
-![Stacking activations](/images/beyond-the-basics/activation-cover-2-stacking.jpg)
-
 ---
 
 ## Solution 2: Pre-Triggering the Sacrifice Clause
@@ -65,9 +61,7 @@ This trigger won't trigger again until the existing sacrifice trigger in the sta
 
 ## A Worrisome Scenario: Hate on Triskelion
 
-A different and more worrisome scenario for Hermit lines — where both Triskelion and Devourer are in the graveyard — is when the graveyard hate is **not directed at Devourer itself, but at Triskelion**. This happens either with a Furnace activation targeting Trike, or by using a Crypt instead of a Furnace:
-
-![Crypt scenario](/images/beyond-the-basics/activation-cover-3-crypt.jpg)
+A different and more worrisome scenario for Hermit lines — where both Triskelion and Devourer are in the graveyard — is when the graveyard hate is **not directed at Devourer itself, but at Triskelion**. This happens either with a Furnace activation targeting Trike, or by using a Crypt instead of a Furnace.
 
 In this scenario we end up with two "can't resolve" events: the sacrifice of Shifter, and the exiling of our graveyard. The stacking of activations discussed above can work around the sacrifice trigger, but if we aim to use Triskelion for lethal, we can't afford to have our graveyard exiled — so the bottom activation becomes de facto covered.
 
