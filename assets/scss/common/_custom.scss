@@ -450,21 +450,47 @@ main h3 {
 }
 
 .btb-card {
+  position: relative;
   display: flex;
   align-items: center;
-  justify-content: center;
-  text-align: center;
+  justify-content: flex-end; // testo allineato a destra
   height: 140px;
-  padding: 1.5rem;
+  padding: 1.5rem 2rem;
   border-radius: 12px;
   background: linear-gradient(135deg, #1f2129 0%, #2a2d38 100%);
   text-decoration: none;
   color: inherit;
-  font-size: 1.15rem;
-  font-weight: 600;
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-align: right;
   transition: transform 0.2s ease, box-shadow 0.25s ease, color 0.2s ease;
   border: 1px solid rgba(255, 255, 255, 0.05);
+  overflow: hidden;
+  z-index: 0;
 }
+
+// Immagine di sfondo (pseudo-element per controllare la sfumatura)
+.btb-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  // maschera che sfuma l'immagine: piena a sinistra, trasparente a destra
+  -webkit-mask-image: linear-gradient(to right, rgba(0,0,0,1) 0%, rgba(0,0,0,0.7) 35%, rgba(0,0,0,0) 75%);
+  mask-image: linear-gradient(to right, rgba(0,0,0,1) 0%, rgba(0,0,0,0.7) 35%, rgba(0,0,0,0) 75%);
+  opacity: 0.7;
+  z-index: -1;
+  transition: opacity 0.25s ease;
+}
+
+// Le immagini specifiche per ogni card (con attributo data-card)
+.btb-card[data-card="tips"]::before          { background-image: url("/images/beyond-the-basics/tips-and-tricks.jpg"); }
+.btb-card[data-card="missing"]::before       { background-image: url("/images/beyond-the-basics/missing-items.jpg"); }
+.btb-card[data-card="activation"]::before    { background-image: url("/images/beyond-the-basics/activation-covering.jpg"); }
+.btb-card[data-card="appendix"]::before      { background-image: url("/images/beyond-the-basics/appendix.jpg"); }
+.btb-card[data-card="rules"]::before         { background-image: url("/images/beyond-the-basics/rules.jpg"); }
 
 .btb-card:hover {
   transform: translateY(-3px);
@@ -474,4 +500,8 @@ main h3 {
     0 0 8px rgba(100, 180, 255, 0.6),
     0 0 20px rgba(70, 150, 255, 0.5),
     0 0 40px rgba(50, 130, 255, 0.3);
+}
+
+.btb-card:hover::before {
+  opacity: 0.9;
 }
