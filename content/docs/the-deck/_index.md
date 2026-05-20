@@ -9,7 +9,7 @@ draft: false
 
 ## What is hFEB?
 
-The hFEB deck (Hermit Full English Breakfast) is a combo deck built around **Volrath's Shapeshifter** and a series of tools to manipulate the top of the graveyard, allowing us to exploit Shifter's ability to the maximum. hFEB relies primarily on two combos: the **FEB combo** (the original combo used in the classic FEB Premodern deck) and the **Hermit combo** (the one that adds the "h" in the deck's name).
+The hFEB deck (Hermit Full English Breakfast) is a combo deck built around **Volrath's Shapeshifter** and a series of tools to manipulate the top of the graveyard, allowing us to exploit Shifter's ability to the maximum. hFEB relies on two combos: the **FEB combo** (the original combo used in the classic FEB Premodern deck) and the **Hermit combo** (the one that adds the "h" in the deck's name).
 
 These two combos share a similar structure, each composed of three fundamental pieces: an engine that sets up the board, a first creature that consumes game resources to increase the size of Shifter, and a second creature that uses that size to inflict lethal damage.
 
@@ -71,8 +71,8 @@ You’ll see a lot of Scrounger action throughout this guide!
 
 <div class="card-row">
 {{< scryfall-card name="Cabal Therapy" set="ody" />}}
-{{< scryfall-card name="Krosan Reclamation" set="ody" />}}
 {{< scryfall-card name="Squee, Goblin Nabob" set="mmq" />}}
+{{< scryfall-card name="Krosan Reclamation" set="ody" />}}
 {{< scryfall-card name="Birds of Paradise" set="lea" />}}
 </div>
 
@@ -109,4 +109,4 @@ All lands are non-basic — a strict requirement for the Hermit combo to work:
 
 Mastering hFEB is less about memorizing fixed patterns and more about understanding how to adapt its engines to the game at hand. This guide will help you develop both the technical knowledge and the strategic intuition required to pilot the deck to its full potential.
 
-> *For a complementary introduction to the deck, check out the [CrazyCarl hFEB Primer on Patreon](https://www.patreon.com/posts/premodern-hfeb-110703523).*
+> *For a complementary introduction, check out the [CrazyCarl hFEB Primer](https://www.patreon.com/posts/premodern-hfeb-110703523).*
