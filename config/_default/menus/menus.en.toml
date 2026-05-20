@@ -67,10 +67,10 @@
   #pageRef = "/docs/interactive-flowcharts"
 
 [[sidebar_docs]]
-  name = "Sideboard Guide"
+  name = "Beyond the Basics"
   weight = 60
-  identifier = "sideboard-guide"
-  pageRef = "/docs/sideboard-guide"
+  identifier = "beyond-the-basics"
+  pageRef = "/docs/beyond-the-basics"
 
 [[sidebar_docs]]
   name = "Resources"
