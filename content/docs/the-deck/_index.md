@@ -53,7 +53,7 @@ The newest addition to the deck: **Battlefield Scrounger** bridges both combos.
 
 It allows using Hermit Druid as a setup tool for a FEB kill, and it gives the deck a powerful way to play around Graveyard Hate without actually having to remove it from the board. 
 
-You’ll see a lot of Scrounger action throughout this guide.
+You’ll see a lot of Scrounger action throughout this guide!
 
   </div>
 </div>
