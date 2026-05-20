@@ -9,10 +9,24 @@ draft: false
 
 <div class="btb-grid">
 
-  <a href="/docs/beyond-the-basics/tips-and-tricks/" class="btb-card" data-card="tips">Tips &amp; Tricks</a>
-  <a href="/docs/beyond-the-basics/missing-items/" class="btb-card" data-card="missing">Missing Items</a>
-  <a href="/docs/beyond-the-basics/activation-covering/" class="btb-card" data-card="activation">Activation Covering</a>
-  <a href="/docs/beyond-the-basics/appendix/" class="btb-card" data-card="appendix">Appendix</a>
-  <a href="/docs/beyond-the-basics/rules/" class="btb-card" data-card="rules">Rules</a>
+  <a href="/docs/beyond-the-basics/tips-and-tricks/" class="btb-card" style="background-image: url('/images/beyond-the-basics/tips-and-tricks.jpg');">
+    <span>Tips &amp; Tricks</span>
+  </a>
+
+  <a href="/docs/beyond-the-basics/missing-items/" class="btb-card" style="background-image: url('/images/beyond-the-basics/missing-items.jpg');">
+    <span>Missing Items</span>
+  </a>
+
+  <a href="/docs/beyond-the-basics/activation-covering/" class="btb-card" style="background-image: url('/images/beyond-the-basics/activation-covering.jpg');">
+    <span>Activation Covering</span>
+  </a>
+
+  <a href="/docs/beyond-the-basics/appendix/" class="btb-card" style="background-image: url('/images/beyond-the-basics/appendix.jpg');">
+    <span>Appendix</span>
+  </a>
+
+  <a href="/docs/beyond-the-basics/rules/" class="btb-card" style="background-image: url('/images/beyond-the-basics/rules.jpg');">
+    <span>Rules</span>
+  </a>
 
 </div>
