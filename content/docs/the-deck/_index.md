@@ -9,7 +9,7 @@ draft: false
 
 ## What is hFEB?
 
-The hFEB deck (Hermit Full English Breakfast) is a combo deck built around **Volrath's Shapeshifter** and a series of tools to manipulate the top of the graveyard, allowing us to exploit Shifter's ability to the maximum. hFEB relies on two combos: the **FEB combo** (the original combo used in the classic FEB Premodern deck) and the **Hermit combo** (the one that adds the "h" in the deck's name).
+The hFEB deck (Hermit Full English Breakfast) is a combo deck built around **Volrath's Shapeshifter** and a series of tools to manipulate the top of the graveyard, allowing us to exploit Shifter's ability to the maximum. hFEB relies on two combos: the **FEB combo** (the original combo from the classic FEB deck) and the **Hermit combo** (the one that adds the "h" in the deck's name).
 
 These two combos share a similar structure, each composed of three fundamental pieces: an engine that sets up the board, a first creature that consumes game resources to increase the size of Shifter, and a second creature that uses that size to inflict lethal damage.
 
