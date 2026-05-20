@@ -49,7 +49,7 @@ The engine is **Hermit Druid**, which mills the entire library since all our lan
   </div>
   <div class="scrounger-text" markdown="1">
 
-The newest addition to the deck, **Battlefield Scrounger** bridges both combos. It allows using Hermit Druid for a FEB kill, or using Devourer/Survival to pump Akroma for a combat kill. You'll see a lot of Scrounger throughout this guide.
+The newest addition to the deck: **Battlefield Scrounger** bridges both combos. It allows using Hermit Druid as a setup tool for a FEB kill, and it gives the deck a powerful way to play around Graveyard Hate without actually having to remove it from the board. You’ll see a lot of Scrounger action throughout this guide.
 
   </div>
 </div>
