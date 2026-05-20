@@ -422,3 +422,15 @@ main h3 {
     max-width: 95vw;
   }
 }
+
+
+// ============================================
+// Navbar: aggiungi scritta "Search" accanto all'icona
+// ============================================
+#searchToggleDesktop::after {
+  content: "Search";
+  font-size: 0.9rem;
+  margin-left: 0.35rem;
+  vertical-align: middle;
+  opacity: 0.8;
+}
