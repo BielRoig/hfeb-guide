@@ -132,8 +132,8 @@ mathEngine = "KaTeX" # "KaTeX" (default) or "MathJax"
   [seo.description]
     summaryFallback = "" # "" (default)
   [seo.favicons]
-    icon = "favicon.png" # favicon.png (default)
-    svgIcon = "favicon.svg" # favicon.svg (default)
+    icon = "favicon-192x192.png"
+    svgIcon = ""
   [seo.schemas]
     type = "Organization" # Organization (default) or Person
     logo = "favicon-512x512.png" # Logo of Organization — favicon-512x512.png (default)
