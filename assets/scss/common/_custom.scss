@@ -408,25 +408,17 @@ main h3 {
 }
 
 // ============================================
-// Layout: container docs allargato per spingere
-// le sidebar verso i bordi dello schermo
+// Layout: allarga il container docs per
+// spingere le sidebar verso i bordi
 // ============================================
-// Le sidebar (sx e dx) restano della larghezza attuale, ma la
-// riga genitore può ora occupare ~95% del viewport invece di
-// essere bloccata a 1200px. Il contenuto centrale viene limitato
-// per non diventare troppo largo da leggere.
+// Il container interno alle pagine docs ha 6 classi insieme:
+// .col.container-fw.d-lg-flex.flex-lg-row.justify-content-center.mx-auto
+// che lo mantengono centrato a max 1200px. Usando tutte e 6
+// le classi nel selettore vinciamo per specificità sulla regola
+// del tema e possiamo allargarlo a 95vw.
 
 @media (min-width: 1200px) {
-  // Allarga il container-fw delle docs (oggi è a max 1200px)
-  .docs-sidebar ~ .container-fw,
-  .docs-sidebar + .container-fw,
-  .offcanvas-body > .container-fw {
+  .col.container-fw.d-lg-flex.flex-lg-row.justify-content-center.mx-auto {
     max-width: 95vw;
-  }
-
-  // Il contenuto centrale resta della larghezza "leggibile" attuale
-  // (~900px), così non si dilata quando la riga si espande
-  .docs-content {
-    max-width: 900px;
   }
 }
