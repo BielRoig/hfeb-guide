@@ -7,27 +7,12 @@ lastmod: 2026-05-20T00:00:00+00:00
 draft: false
 ---
 
-<div class="hex-grid">
+<div class="btb-grid">
 
-  <div class="hex-row">
-    <a href="/docs/beyond-the-basics/tips-and-tricks/" class="hex-card">
-      <span class="hex-card__title">Tips &amp; Tricks</span>
-    </a>
-    <a href="/docs/beyond-the-basics/missing-items/" class="hex-card">
-      <span class="hex-card__title">Missing Items</span>
-    </a>
-    <a href="/docs/beyond-the-basics/activation-covering/" class="hex-card">
-      <span class="hex-card__title">Activation Covering</span>
-    </a>
-  </div>
-
-  <div class="hex-row hex-row--offset">
-    <a href="/docs/beyond-the-basics/appendix/" class="hex-card">
-      <span class="hex-card__title">Appendix</span>
-    </a>
-    <a href="/docs/beyond-the-basics/rules/" class="hex-card">
-      <span class="hex-card__title">Rules</span>
-    </a>
-  </div>
+  <a href="/docs/beyond-the-basics/tips-and-tricks/" class="btb-card">Tips &amp; Tricks</a>
+  <a href="/docs/beyond-the-basics/missing-items/" class="btb-card">Missing Items</a>
+  <a href="/docs/beyond-the-basics/activation-covering/" class="btb-card">Activation Covering</a>
+  <a href="/docs/beyond-the-basics/appendix/" class="btb-card">Appendix</a>
+  <a href="/docs/beyond-the-basics/rules/" class="btb-card">Rules</a>
 
 </div>
