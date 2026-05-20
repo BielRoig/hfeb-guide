@@ -374,35 +374,15 @@ main h3 {
 }
 
 // ============================================
-// Layout: container più ampio + colonne docs riequilibrate
+// Layout: container più ampio sui desktop grandi
 // ============================================
 // Doks/Thulite limita .container-fw a 1200px. Su schermi grandi
-// alziamo la max-width.
-// Inoltre la sidebar sinistra è troppo larga (col-xl-4 = 25%) e
-// il contenuto al centro troppo stretto (col-xl-9 dentro al suo
-// wrapper = ~56% effettivo). Riequilibriamo per dare più spazio
-// al testo e alle immagini delle carte.
+// (~1920px) questo lascia troppo spazio vuoto ai lati. Alzando
+// la max-width a 1600px sfruttiamo meglio lo schermo senza arrivare
+// a una larghezza scomoda da leggere.
 
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .container-fw {
     max-width: 1600px;
-  }
-
-  // Sidebar sinistra: da 25% a 18% (più aderente al bordo sinistro)
-  .docs-sidebar.col-xl-4 {
-    width: 18%;
-    flex: 0 0 auto;
-  }
-
-  // Wrapper del contenuto: da 56.25% (col-xl-9) a ~57% diventa ~75%
-  // grazie alla sidebar più stretta. La colonna interna (col-lg-11
-  // col-xl-9 mx-xl-auto) viene allargata al 100% per evitare lo
-  // strozzamento ulteriore.
-  .docs-content.col-lg-11.col-xl-9 {
-    width: 100%;
-    max-width: 100%;
-    flex: 0 0 auto;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
   }
 }
