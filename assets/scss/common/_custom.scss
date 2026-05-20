@@ -553,3 +553,14 @@ main h3 {
     .scrounger-img { max-width: 200px; align-self: center; }
   }
 }
+
+// ============================================
+// Blockquote: stessa dimensione del testo normale
+// ============================================
+blockquote {
+  font-size: inherit;
+
+  p {
+    font-size: inherit;
+  }
+}
