@@ -5,6 +5,9 @@ lead: "How to win when key pieces are exiled, removed, or simply not yet drawn. 
 date: 2026-05-20T00:00:00+00:00
 lastmod: 2026-05-20T00:00:00+00:00
 draft: false
+_build:
+  list: never
+  render: always
 ---
 
 During a game, you cannot always assume that every creature required to execute a clean combo line will be available. Key pieces may be exiled by Swords to Plowshares, removed or locked out by graveyard hate, or intentionally sideboarded out for specific matchups. Because of this, hFEB games sometimes evolve into scenarios where the "ideal" line is no longer accessible.
