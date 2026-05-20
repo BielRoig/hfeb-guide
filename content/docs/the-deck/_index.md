@@ -60,22 +60,23 @@ You’ll see a lot of Scrounger action throughout this guide!
 
 ---
 
-## Supporting Cast
+## Supporting Cards
 
 <div class="card-row">
 {{< scryfall-card name="Karmic Guide" set="usg" />}}
+{{< scryfall-card name="Palinchron" set="usg" />}}
 {{< scryfall-card name="Unearth" set="uds" />}}
 {{< scryfall-card name="Animate Dead" set="lea" />}}
-{{< scryfall-card name="Krosan Reclamation" set="ody" />}}
 </div>
 
 <div class="card-row">
 {{< scryfall-card name="Cabal Therapy" set="ody" />}}
-{{< scryfall-card name="Palinchron" set="usg" />}}
+{{< scryfall-card name="Krosan Reclamation" set="ody" />}}
 {{< scryfall-card name="Squee, Goblin Nabob" set="mmq" />}}
 {{< scryfall-card name="Birds of Paradise" set="lea" />}}
 </div>
 
+*add text explaining the cards, change the grid*
 | Cards | Role |
 |---|---|
 | 4x Unearth · 1x Animate Dead · 1x Karmic Guide | Reanimation suite — enables Hermit lines and cheats creatures into play |
@@ -99,6 +100,7 @@ All lands are non-basic — a strict requirement for the Hermit combo to work:
 {{< scryfall-card name="Reflecting Pool" set="tmp" />}}
 </div>
 
+*add small text about the lair according to the sideboard choices, and the other lands*
 4x City of Brass · 4x Gemstone Mine · 4x Llanowar Wastes · 4x Yavimaya Coast · 3x Reflecting Pool · 1x Treva's Ruins · 1x Undiscovered Paradise · 1x Underground River
 
 ---
