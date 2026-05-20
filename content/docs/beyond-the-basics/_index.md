@@ -22,7 +22,7 @@ draft: false
   </a>
 
   <a href="/docs/beyond-the-basics/appendix/" class="btb-card" style="background-image: url('/images/beyond-the-basics/appendix.jpg');">
-    <span>Appendix</span>
+    <span>CMC distribution</span>
   </a>
 
   <a href="/docs/beyond-the-basics/rules/" class="btb-card" style="background-image: url('/images/beyond-the-basics/rules.jpg');">
