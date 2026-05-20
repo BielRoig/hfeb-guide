@@ -9,7 +9,7 @@ draft: false
 
 <div class="btb-grid">
 
-  <a href="/docs/beyond-the-basics/tips-and-tricks/" class="btb-card" style="background-image: url('/images/beyond-the-basics/tips-and-tricks.jpg');">
+  <a href="/docs/beyond-the-basics/tips-tricks/" class="btb-card" style="background-image: url('/images/beyond-the-basics/tips-and-tricks.jpg');">
     <span>Tips &amp; Tricks</span>
   </a>
 
