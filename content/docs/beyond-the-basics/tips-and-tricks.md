@@ -5,6 +5,9 @@ lead: "A collection of small edges that win real games — sequencing nuances, r
 date: 2026-05-20T00:00:00+00:00
 lastmod: 2026-05-20T00:00:00+00:00
 draft: false
+_build:
+  list: never
+  render: always
 ---
 
 <details>
