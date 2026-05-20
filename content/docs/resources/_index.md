@@ -78,7 +78,7 @@ SIDEBOARD
 <summary>📖 Other Primers</summary>
 <div markdown="1">
 
-- [Premodern hFEB Primer — CrazyCarl (Patreon)](https://www.patreon.com/posts/premodern-hfeb-110703523)
+- [Premodern hFEB Primer — CrazyCarl](https://www.patreon.com/posts/premodern-hfeb-110703523)
 
 </div>
 </details>
@@ -88,9 +88,8 @@ SIDEBOARD
 <div markdown="1">
 
 - [MoxlessGuy — YouTube](https://www.youtube.com/@moxlessguy)
-- [Dunkers — Twitch](https://m.twitch.tv/umeboshi55/home)
 - [Impulse Crew — YouTube](https://www.youtube.com/@ImpulseCrewGaming)
-- [CrazyCarl hFEB MTGO League](https://www.youtube.com/watch?v=VoHMi5DXBVE)
+- [Dunkers — Twitch](https://m.twitch.tv/umeboshi55/home)
 
 </div>
 </details>
@@ -111,13 +110,14 @@ SIDEBOARD
 <summary>🎥 Paper Matches</summary>
 <div markdown="1">
 
-- [February 2025 Premodern Monthly - Top 8 - Hermit FEB vs Aluren](https://www.youtube.com/watch?v=BfNPXBJjK8Q)
-- [February 2025 Premodern Monthly - Final Match - Hermit FEB vs Aluren](https://www.youtube.com/watch?v=Bwlb6PfMkUQ)
-- [February 2025 Premodern Monthly - Top 4 - Hermit FEB vs Hermit FEB](https://www.youtube.com/watch?v=z1gxRLW_sC0)
-- [February 2026 Premodern Monthly - Top 4 (Best of 5) - GW Enchantress vs hFEB](https://www.youtube.com/watch?v=Uj9Df8M9s_I)
-- [January 2026 Premodern Monthly - Final Match (Best of 5) - Oath Spec vs hFEB](https://www.youtube.com/watch?v=TxCCWiM6PJA)
+- [Aluren vs hFEB](https://youtu.be/vBl0fHOZp0I?si=uq19AEmjG33Mugyg)
+- [Aluren vs hFEB](https://youtu.be/4QgLIKgf-P0?si=QfkonuYEdYRk5rQx)
+- [cFEB vs hFEB](https://www.youtube.com/watch?v=SQegMin2V5A&t=2824s)
+- [GW Enchantress vs hFEB](https://youtu.be/MS1q9nqTeR4?si=_SdVErlkGVcT7doH)
+- [GW Enchantress vs hFEB](https://youtu.be/9ojfyWKCMtI?si=--xfpYJWDYCVWz7s)
+- [January 2026 Premodern Monthly - Oath Spec vs hFEB](https://www.youtube.com/watch?v=TxCCWiM6PJA)
 - [hFEB Mirror - Galen vs. Biel — February 2026](https://www.youtube.com/watch?v=rCBmvkAHp4Y)
-- [hFEB Mirror #2 - Galen vs. Biel — February 2026 Top 8](https://www.youtube.com/watch?v=UjG0HE_n5Ms)
+- [hFEB Mirror #2 - Galen vs. Biel — February 2026](https://www.youtube.com/watch?v=UjG0HE_n5Ms)
 
 </div>
 </details>
@@ -126,12 +126,12 @@ SIDEBOARD
 <summary>🎥 Impulse Crew Matches</summary>
 <div markdown="1">
 
-- [Mono White Prison vs Hermit FEB](https://www.youtube.com/watch?v=MCmFKS1sPJo)
-- [2026 Winter Ball R2 hFEB vs Stasis](https://www.youtube.com/watch?v=4A_yTQlBvr8)
-- [Burn vs hFEB](https://www.youtube.com/watch?v=b9v3L_KJHXU)
-- [hFEB vs Terrageddon](https://www.youtube.com/watch?v=2ahbIDqOoWU)
-- [hFEB vs Terrageddon Deck Discussion](https://www.youtube.com/watch?v=Rlt5TGLSi-g)
-- [2026 Winter Ball R3 Elves vs hFEB](https://www.youtube.com/watch?v=6iXCHoxv5as)
+- [Burn vs hFEB](https://youtu.be/mKDt6qLO9GI?si=LObpgNc-uiGr7xFT)
+- [Elves vs hFEB](https://youtu.be/_FYHb8vkho0?si=MA0rxEa7sGjbLDKo)
+- [Stasis vs hFEB](https://youtu.be/WAxpO-LQUbQ?si=FaKERchl3E38o6XW)
+- [Mono White Prison vs hFEB](https://youtu.be/Hio5mhjKEuY?si=Gf4wp3wMQDOnKsxP)
+- [Terrageddon vs hFEB](https://youtu.be/tG32CJjKSPA?si=Z5Teuk4QNFN7RLwc)
+- [Terrageddon vs hFEB - Deck Discussion](https://youtu.be/pfRBqd1K35M?si=UilMJ3qANLTn31Gm)
 
 </div>
 </details>
@@ -140,7 +140,7 @@ SIDEBOARD
 <summary>🎥 Lobstercon 2025</summary>
 <div markdown="1">
 
-- [Replenish vs FEB - Round 2 - North American Championship 2025](https://www.youtube.com/watch?v=PiK5VKplf3s)
+- [Replenish vs hFEB](https://youtu.be/ewzdVXExBQU?si=f2QiJVuUYL8TNXTD)
 
 </div>
 </details>
@@ -149,7 +149,7 @@ SIDEBOARD
 <summary>🎥 New England Regionals</summary>
 <div markdown="1">
 
-- [Full English Breakfast vs Mono U Dreadnought - New England Winter Regional - Round 2](https://www.youtube.com/watch?v=yMVLVh5LJQU)
+- [Mono U Dreadnought vs hFEB](https://youtu.be/YH1hXNG87xo?si=-kd2xJJT8LW__SEW)
 
 </div>
 </details>
@@ -158,11 +158,11 @@ SIDEBOARD
 <summary>🎥 Neon Mushroom Matches</summary>
 <div markdown="1">
 
-- [Hermit FEB vs Sligh](https://www.youtube.com/watch?v=NTz4qv5bNB8)
-- [Hermit FEB vs Dr.Teeth](https://www.youtube.com/watch?v=I_SH5PPAFIM)
-- [Hermit FEB vs Stompy](https://www.youtube.com/watch?v=5UJRWr_2yB0)
-- [Full English Breakfast vs Machine Head](https://www.youtube.com/watch?v=WqF2NN3KHWQ)
-- [Full English Breakfast vs UB Reanimator](https://www.youtube.com/watch?v=_UMKPkzIkFk)
+- [Sligh vs hFEB](https://youtu.be/ItFeZ55daN8?si=LU3hzySsDZFnHmGD8)
+- [Dr.Teeth vs hFEB](https://youtu.be/BVkthm6cFqQ?si=9tNmIL1RiNZ2Ja05)
+- [MonoG Stompy vs hFEB](https://youtu.be/Ig4oDOv_01s?si=7I-lt9LIeGxjDYJY)
+- [Machine Head vs hFEB](https://youtu.be/GCO_l1a0Wrc?si=6R6qz-LYh59jP4w_)
+- [UB Reanimator vs hFEB](https://youtu.be/F30-qzy8V7A?si=lJ4d3LrCowDxP7GN)
 
 </div>
 </details>
