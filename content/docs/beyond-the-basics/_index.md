@@ -7,26 +7,32 @@ lastmod: 2026-05-20T00:00:00+00:00
 draft: false
 ---
 
-<div class="matchup-grid">
+<div class="hex-grid">
 
-  <a href="/docs/beyond-the-basics/tips-and-tricks/" class="matchup-card matchup-card--favorable">
-    <span>Tips & Tricks</span>
-  </a>
+  <div class="hex-row">
+    <a href="/docs/beyond-the-basics/tips-and-tricks/" class="hex-card">
+      <span class="hex-card__number">01</span>
+      <span class="hex-card__title">Tips &amp; Tricks</span>
+    </a>
+    <a href="/docs/beyond-the-basics/missing-items/" class="hex-card">
+      <span class="hex-card__number">02</span>
+      <span class="hex-card__title">Missing Items</span>
+    </a>
+    <a href="/docs/beyond-the-basics/activation-covering/" class="hex-card">
+      <span class="hex-card__number">03</span>
+      <span class="hex-card__title">Activation Covering</span>
+    </a>
+  </div>
 
-  <a href="/docs/beyond-the-basics/missing-items/" class="matchup-card matchup-card--favorable">
-    <span>Missing Items</span>
-  </a>
-
-  <a href="/docs/beyond-the-basics/activation-covering/" class="matchup-card matchup-card--favorable">
-    <span>Activation Covering</span>
-  </a>
-
-  <a href="/docs/beyond-the-basics/appendix/" class="matchup-card matchup-card--favorable">
-    <span>Appendix</span>
-  </a>
-
-  <a href="/docs/beyond-the-basics/rules/" class="matchup-card matchup-card--favorable">
-    <span>Rules</span>
-  </a>
+  <div class="hex-row hex-row--offset">
+    <a href="/docs/beyond-the-basics/appendix/" class="hex-card">
+      <span class="hex-card__number">04</span>
+      <span class="hex-card__title">Appendix</span>
+    </a>
+    <a href="/docs/beyond-the-basics/rules/" class="hex-card">
+      <span class="hex-card__number">05</span>
+      <span class="hex-card__title">Rules</span>
+    </a>
+  </div>
 
 </div>
