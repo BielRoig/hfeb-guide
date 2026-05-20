@@ -464,8 +464,6 @@ main h3 {
 .hex-card {
   width: 220px;
   height: 250px;
-  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-  background: linear-gradient(135deg, #1f2129 0%, #2a2d38 100%);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -475,6 +473,27 @@ main h3 {
   position: relative;
   transition: transform 0.25s ease, filter 0.25s ease;
   cursor: pointer;
+  // gradient "bordo" che si vede solo al hover
+  background: linear-gradient(135deg, #1f2129 0%, #2a2d38 100%);
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+
+  // strato interno che copre tutto tranne il bordo
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 3px; // spessore del "bordo"
+    background: linear-gradient(135deg, #1f2129 0%, #2a2d38 100%);
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    transition: background 0.25s ease;
+    z-index: 0;
+  }
+
+  // contenuti sopra il bordo
+  &__number,
+  &__title {
+    position: relative;
+    z-index: 1;
+  }
 
   &__number {
     font-size: 0.85rem;
@@ -489,20 +508,13 @@ main h3 {
     text-align: center;
     padding: 0 1.5rem;
     line-height: 1.3;
-  }
-
-  &::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-    background: linear-gradient(135deg, transparent 0%, transparent 100%);
-    transition: background 0.25s ease;
-    pointer-events: none;
+    transition: color 0.25s ease, text-shadow 0.25s ease;
   }
 
   &:hover {
     transform: translateY(-4px) scale(1.03);
+    // il "bordo" diventa azzurro luminoso
+    background: linear-gradient(135deg, #4fa8ff 0%, #6cc3ff 50%, #4fa8ff 100%);
     filter:
       drop-shadow(0 0 8px rgba(100, 180, 255, 0.9))
       drop-shadow(0 0 20px rgba(70, 150, 255, 0.7))
