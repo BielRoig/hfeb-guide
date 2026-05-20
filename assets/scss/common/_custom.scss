@@ -386,3 +386,23 @@ main h3 {
     max-width: 1600px;
   }
 }
+
+// ============================================
+// Layout: sidebar docs e TOC più strette
+// ============================================
+// Sopra i 1200px il tema fissa .docs-sidebar (menu di sinistra)
+// e .docs-toc (indice "On this page" di destra) a misure troppo
+// generose, che lasciano poco spazio al contenuto. Restringiamo
+// entrambe per dare più respiro al testo e alle carte.
+
+@media (min-width: 1200px) {
+  // Sidebar di sinistra: da 320px a 220px
+  .docs-sidebar {
+    flex: 0 1 220px;
+  }
+
+  // Indice di destra (On this page): più compatto
+  .docs-toc {
+    flex: 0 1 200px;
+  }
+}
