@@ -7,56 +7,6 @@ lastmod: 2026-05-20T00:00:00+00:00
 draft: false
 ---
 
-## Current Decklist
-
-[View and download on Moxfield](https://moxfield.com/decks/mGYHLDh0wkiscnWHk55oNw)
-
-```
-MAINBOARD
-1  Akroma, Angel of Wrath
-1  Animate Dead
-1  Battlefield Scrounger
-4  Birds of Paradise
-4  Cabal Therapy
-4  City of Brass
-1  Duress
-2  Elvish Spirit Guide
-4  Gemstone Mine
-4  Hermit Druid
-1  Karmic Guide
-1  Krosan Reclamation
-4  Llanowar Wastes
-1  Palinchron
-1  Phyrexian Devourer
-1  Psychatog
-3  Reflecting Pool
-1  Squee, Goblin Nabob
-4  Survival of the Fittest
-1  Treva's Ruins
-1  Triskelion
-1  Underground River
-1  Undiscovered Paradise
-4  Unearth
-3  Volrath's Shapeshifter
-3  Wall of Roots
-4  Yavimaya Coast
-
-SIDEBOARD
-1  Auramancer
-1  Duress
-2  Eladamri's Vineyard
-1  Ghitu Slinger
-1  Monk Realist
-1  Naturalize
-2  Pyroclasm
-1  Ray of Revelation
-2  Swords to Plowshares
-1  Uktabi Orangutan
-2  Xantid Swarm
-```
-
----
-
 ## What is hFEB?
 
 The hFEB deck (Hermit Full English Breakfast) is a combo deck built around **Volrath's Shapeshifter** and a series of tools to manipulate the top of the graveyard, allowing us to exploit Shifter's ability to the maximum. hFEB relies primarily on two combos: the **FEB combo** (the original combo used in the classic FEB Premodern deck) and the **Hermit combo** (the one that adds the "h" in the deck's name).
@@ -93,11 +43,16 @@ The engine is **Hermit Druid**, which mills the entire library since all our lan
 
 ## The Bridge: Battlefield Scrounger
 
-<div class="card-row">
-{{< scryfall-card name="Battlefield Scrounger" set="ody" />}}
-</div>
+<div class="scrounger-split">
+  <div class="scrounger-img">
+    {{< scryfall-card name="Battlefield Scrounger" set="ody" />}}
+  </div>
+  <div class="scrounger-text" markdown="1">
 
 The newest addition to the deck, **Battlefield Scrounger** bridges both combos. It allows using Hermit Druid for a FEB kill, or using Devourer/Survival to pump Akroma for a combat kill. You'll see a lot of Scrounger throughout this guide.
+
+  </div>
+</div>
 
 ---
 
