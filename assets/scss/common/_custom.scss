@@ -497,3 +497,59 @@ main h3 {
 .btb-card:hover span {
   color: #aaddff;
 }
+
+// ============================================
+// The Deck: card-row a 3 in fila + scrounger split
+// ============================================
+
+// Forza le card-row a tenere tutte le carte sulla stessa riga
+// con larghezza adattata allo spazio disponibile
+.card-row {
+  display: flex !important;
+  flex-wrap: nowrap !important;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1.5rem 0;
+
+  // Ogni carta dentro alla card-row scala in modo uniforme
+  > * {
+    flex: 1 1 0;
+    min-width: 0;
+    max-width: 240px;
+  }
+
+  // Anche le immagini interne si adattano alla larghezza disponibile
+  img {
+    width: 100% !important;
+    height: auto !important;
+    max-width: 100%;
+  }
+}
+
+// Layout speciale per Battlefield Scrounger: immagine a sinistra, testo a destra
+.scrounger-split {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin: 1.5rem 0;
+
+  .scrounger-img {
+    flex: 0 0 220px;
+    max-width: 220px;
+  }
+
+  .scrounger-img img {
+    width: 100%;
+    height: auto;
+  }
+
+  .scrounger-text {
+    flex: 1 1 auto;
+  }
+
+  // Su schermi stretti torna a colonna
+  @media (max-width: 768px) {
+    flex-direction: column;
+    .scrounger-img { max-width: 200px; align-self: center; }
+  }
+}
