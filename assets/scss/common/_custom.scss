@@ -453,11 +453,10 @@ main h3 {
   position: relative;
   display: flex;
   align-items: center;
-  justify-content: flex-end; // testo allineato a destra
+  justify-content: flex-end;
   height: 140px;
   padding: 1.5rem 2rem;
   border-radius: 12px;
-  background: linear-gradient(135deg, #1f2129 0%, #2a2d38 100%);
   text-decoration: none;
   color: inherit;
   font-size: 1.25rem;
@@ -466,31 +465,42 @@ main h3 {
   transition: transform 0.2s ease, box-shadow 0.25s ease, color 0.2s ease;
   border: 1px solid rgba(255, 255, 255, 0.05);
   overflow: hidden;
-  z-index: 0;
+  background-color: #1f2129;
+  background-size: cover;
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-blend-mode: normal;
 }
 
-// Immagine di sfondo (pseudo-element per controllare la sfumatura)
-.btb-card::before {
+// Sfumatura sopra l'immagine: piena scuro a destra, trasparente a sinistra
+.btb-card::after {
   content: "";
   position: absolute;
   inset: 0;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  // maschera che sfuma l'immagine: piena a sinistra, trasparente a destra
-  -webkit-mask-image: linear-gradient(to right, rgba(0,0,0,1) 0%, rgba(0,0,0,0.7) 35%, rgba(0,0,0,0) 75%);
-  mask-image: linear-gradient(to right, rgba(0,0,0,1) 0%, rgba(0,0,0,0.7) 35%, rgba(0,0,0,0) 75%);
-  opacity: 0.7;
-  z-index: -1;
-  transition: opacity 0.25s ease;
+  background: linear-gradient(to right, rgba(31,33,41,0) 0%, rgba(31,33,41,0.4) 35%, rgba(31,33,41,0.85) 70%, rgba(31,33,41,1) 100%);
+  pointer-events: none;
 }
 
-// Le immagini specifiche per ogni card (con attributo data-card)
-.btb-card[data-card="tips"]::before          { background-image: url("/images/beyond-the-basics/tips-and-tricks.jpg"); }
-.btb-card[data-card="missing"]::before       { background-image: url("/images/beyond-the-basics/missing-items.jpg"); }
-.btb-card[data-card="activation"]::before    { background-image: url("/images/beyond-the-basics/activation-covering.jpg"); }
-.btb-card[data-card="appendix"]::before      { background-image: url("/images/beyond-the-basics/appendix.jpg"); }
-.btb-card[data-card="rules"]::before         { background-image: url("/images/beyond-the-basics/rules.jpg"); }
+// Il testo deve stare SOPRA la sfumatura
+.btb-card {
+  z-index: 0;
+}
+.btb-card > * {
+  position: relative;
+  z-index: 2;
+}
+
+// Hack per portare il testo del link sopra la pseudo-element
+.btb-card {
+  isolation: isolate;
+}
+
+// Le immagini specifiche per ogni card
+.btb-card[data-card="tips"]       { background-image: url("/images/beyond-the-basics/tips-and-tricks.jpg"); }
+.btb-card[data-card="missing"]    { background-image: url("/images/beyond-the-basics/missing-items.jpg"); }
+.btb-card[data-card="activation"] { background-image: url("/images/beyond-the-basics/activation-covering.jpg"); }
+.btb-card[data-card="appendix"]   { background-image: url("/images/beyond-the-basics/appendix.jpg"); }
+.btb-card[data-card="rules"]      { background-image: url("/images/beyond-the-basics/rules.jpg"); }
 
 .btb-card:hover {
   transform: translateY(-3px);
@@ -500,8 +510,4 @@ main h3 {
     0 0 8px rgba(100, 180, 255, 0.6),
     0 0 20px rgba(70, 150, 255, 0.5),
     0 0 40px rgba(50, 130, 255, 0.3);
-}
-
-.btb-card:hover::before {
-  opacity: 0.9;
 }
