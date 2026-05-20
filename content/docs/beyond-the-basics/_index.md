@@ -9,10 +9,10 @@ draft: false
 
 <div class="btb-grid">
 
-  <a href="/docs/beyond-the-basics/tips-and-tricks/" class="btb-card">Tips &amp; Tricks</a>
-  <a href="/docs/beyond-the-basics/missing-items/" class="btb-card">Missing Items</a>
-  <a href="/docs/beyond-the-basics/activation-covering/" class="btb-card">Activation Covering</a>
-  <a href="/docs/beyond-the-basics/appendix/" class="btb-card">Appendix</a>
-  <a href="/docs/beyond-the-basics/rules/" class="btb-card">Rules</a>
+  <a href="/docs/beyond-the-basics/tips-and-tricks/" class="btb-card" data-card="tips">Tips &amp; Tricks</a>
+  <a href="/docs/beyond-the-basics/missing-items/" class="btb-card" data-card="missing">Missing Items</a>
+  <a href="/docs/beyond-the-basics/activation-covering/" class="btb-card" data-card="activation">Activation Covering</a>
+  <a href="/docs/beyond-the-basics/appendix/" class="btb-card" data-card="appendix">Appendix</a>
+  <a href="/docs/beyond-the-basics/rules/" class="btb-card" data-card="rules">Rules</a>
 
 </div>
