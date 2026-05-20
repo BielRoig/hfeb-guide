@@ -36,25 +36,17 @@ Let's run the numbers.
 
 ## Setting Up the Simulation
 
-We start with the following CMC distribution in our deck:
+We start with the standard hFEB CMC distribution: **22 lands**, **13 one-drops** (Therapies, Birds, Unearths, Duress), **14 two-drops** (Wall of Roots, Survival, Hermits and others), **5 three-drops** (Shifters, Tog, Squee, ESG), **2 five-drops** (Karmic Guide and Scrounger), **2 six-drops** (Triskelion and Devourer), with Palinchron and Akroma at the tail end.
 
-![CMC histogram of standard hFEB](/images/beyond-the-basics/appendix-1-deck-cmc.jpg)
-
-In this representative list we have **22 lands**, **13 one-drops** (Therapies, Birds, Unearths, Duress), **14 two-drops** (Wall of Roots, Survival, Hermits and others), **5 three-drops** (Shifters, Tog, Squee, ESG), **2 five-drops** (Karmic Guide and Scrounger), **2 six-drops** (Triskelion and Devourer), with Palinchron and Akroma at the tail end.
-
-As a representative board state, assume we play 4 lands, a couple of 1-drops and 2-drops, Shifter and Devourer — leading to the following CMC distribution in our library:
-
-![CMC histogram of 50 card library](/images/beyond-the-basics/appendix-2-library-cmc.jpg)
+As a representative board state, assume we play 4 lands, a couple of 1-drops and 2-drops, Shifter and Devourer — leading to a 50-card library skewed toward the low end of the curve.
 
 ---
 
 ## One Activation
 
-To see what we should expect when activating Devourer once, we shuffle the library 10,000 times and look at the top card. The resulting histogram approximates the true probability distribution:
+To see what we should expect when activating Devourer once, we shuffle the library 10,000 times and look at the top card. The resulting histogram approximates the true probability distribution.
 
-![Probability of CMC after one activation](/images/beyond-the-basics/appendix-3-one-activation.jpg)
-
-As we can see, the highest probability is showing a land — which makes sense, since that is the most common CMC in the deck. Trying to survive a Bolt with a single activation is tricky: a 0, 1 or 2 CMC card is not enough, and that is the bulk of the distribution.
+The highest probability is showing a land — which makes sense, since that is the most common CMC in the deck. Trying to survive a Bolt with a single activation is tricky: a 0, 1 or 2 CMC card is not enough, and that is the bulk of the distribution.
 
 We'd need either a **3** or a **5 CMC** to survive without triggering the sacrifice clause — which happens around **12%** of the time (8% for a 3 CMC and 4% for a 5 CMC).
 
@@ -62,11 +54,9 @@ We'd need either a **3** or a **5 CMC** to survive without triggering the sacrif
 
 ## Two Activations
 
-Luckily, we are not limited to a single activation. Here are the statistics for activating twice:
+Luckily, we are not limited to a single activation. The peak of the distribution shifts to the right: the more cards we exile, the higher the cumulative CMC.
 
-![Probability of CMC after two activations](/images/beyond-the-basics/appendix-4-two-activations.jpg)
-
-The peak of the distribution has shifted to the right: the more cards we exile, the higher the cumulative CMC. Our chances of Shifter surviving a Bolt have now increased to **32%** — 16% probability of seeing a cumulative CMC of 3, 9% of 4, and 7% of 5.
+Our chances of Shifter surviving a Bolt have now increased to **32%** — 16% probability of seeing a cumulative CMC of 3, 9% of 4, and 7% of 5.
 
 ---
 
@@ -74,11 +64,7 @@ The peak of the distribution has shifted to the right: the more cards we exile, 
 
 These numbers are illustrative, but in a real game we are not limited to 1 or 2 activations. We keep activating Devourer until we reach a comfortable cumulative CMC.
 
-In other words, we have a **minimum CMC** we aim to get (enough to survive whatever interaction is thrown at us) and a **maximum allowed CMC** (the upper bound, so we don't trigger the sacrifice). Running a million library permutations, the resulting probabilities are:
-
-![Probability of hitting a particular CMC range](/images/beyond-the-basics/appendix-5-cmc-range-matrix.jpg)
-
-In our Bolt example, we need a minimum CMC of 3 to keep Shifter alive and a maximum CMC of 5 (since 6 would trigger the sacrifice). The probability of reaching that range is **77.1%** — third row, fifth column of the matrix.
+In other words, we have a **minimum CMC** we aim to get (enough to survive whatever interaction is thrown at us) and a **maximum allowed CMC** (the upper bound, so we don't trigger the sacrifice). Running a million library permutations, in our Bolt example we need a minimum CMC of 3 to keep Shifter alive and a maximum CMC of 5 (since 6 would trigger the sacrifice). The probability of reaching that range is **77.1%**.
 
 Under the same conditions:
 
@@ -92,11 +78,7 @@ Under the same conditions:
 
 It should be noted that just YOLOing it with Devourer is not the only way to go about this scenario. If we have mana open and some random cards in hand, we can stack activations until reaching the appropriate CMC (even if we overshoot) and discard a card through Shifter before activations resolve so the sacrifice never triggers. Getting Tog or Scrounger with the Survival trigger and pitching them for Triskelion would allow us to clean the graveyard and combo.
 
-In that scenario, the only risk is **exiling Triskelion or Akroma during this process**, cutting our chances of finishing the game. Below are the probabilities of exiling Triskelion when trying to achieve a specific CMC with Devourer:
-
-![Probability of exiling Trike when devouring](/images/beyond-the-basics/appendix-6-exile-trike.jpg)
-
-The chance of exiling Triskelion when trying to survive a Bolt is around **6%**. Since the CMC of Triskelion is 6, exiling it and resolving that activation would trigger the sacrifice clause anyway — so Shifter wouldn't survive the Bolt. It follows that this 6% probability falls **outside** of the 77% chance of surviving Bolt.
+In that scenario, the only risk is **exiling Triskelion or Akroma during this process**, cutting our chances of finishing the game. The chance of exiling Triskelion when trying to survive a Bolt is around **6%**. Since the CMC of Triskelion is 6, exiling it and resolving that activation would trigger the sacrifice clause anyway — so Shifter wouldn't survive the Bolt. It follows that this 6% probability falls **outside** of the 77% chance of surviving Bolt.
 
 In other words: of the 23% of times we won't survive Bolt, around 1 in 4 of those times we will exile Triskelion in the process. Similar math applies to Akroma.
 
