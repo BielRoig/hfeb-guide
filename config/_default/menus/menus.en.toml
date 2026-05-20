@@ -19,10 +19,10 @@
   url = "/privacy/"
   weight = 10
 
-[[footer]]
-  name = "Contact"
-  url = "/docs/contact/"
-  weight = 20
+#[[footer]]
+  #name = "Contact"
+  #url = "/docs/contact/"
+  #weight = 20
 
 [[sidebar_docs]]
   name = "Home"
