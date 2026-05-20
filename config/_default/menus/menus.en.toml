@@ -25,16 +25,10 @@
   #weight = 20
 
 [[sidebar_docs]]
-  name = "Home"
+  name = "The Deck"
   weight = 10
-  identifier = "introduction"
-  pageRef = "/docs/introduction"
-
-[[sidebar_docs]]
-  name = "Lists"
-  weight = 20
-  identifier = "lists"
-  pageRef = "/docs/lists"
+  identifier = "the-deck"
+  pageRef = "/docs/the-deck"
 
 [[sidebar_docs]]
   name = "How to Play"
