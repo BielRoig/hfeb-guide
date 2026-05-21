@@ -10,7 +10,7 @@ _build:
   render: always
 ---
 
-<details>
+<details class="collapsible">
 <summary>Karmic Guide Has More Text!</summary>
 <div markdown="1">
 
@@ -21,7 +21,7 @@ Karmic Guide has **protection from black**. This matters most for its interactio
 </div>
 </details>
 
-<details>
+<details class="collapsible">
 <summary>Hold Priority Between Devourer Activations</summary>
 <div markdown="1">
 
@@ -32,7 +32,7 @@ You have multiple cards that can change the top of the graveyard at instant spee
 </div>
 </details>
 
-<details>
+<details class="collapsible">
 <summary>Hold Priority with Scrounger and Survival</summary>
 <div markdown="1">
 
@@ -45,7 +45,7 @@ This trick can also save cards targeted by graveyard hate without giving the opp
 </div>
 </details>
 
-<details>
+<details class="collapsible">
 <summary>Discard Creatures at the Right Time</summary>
 <div markdown="1">
 
@@ -62,7 +62,7 @@ For Psychatog and Survival of the Fittest, discarding is part of the activation 
 </div>
 </details>
 
-<details>
+<details class="collapsible">
 <summary>How to Use Krosan Reclamation</summary>
 <div markdown="1">
 
@@ -73,7 +73,7 @@ It is also phenomenal against **Tinker Fling**: with Duress and Cabal Therapy yo
 </div>
 </details>
 
-<details>
+<details class="collapsible">
 <summary>How to Never Lose Against Brain Freeze</summary>
 <div markdown="1">
 
@@ -82,7 +82,7 @@ Deploy Volrath's Shapeshifter as early as possible — with Shifter on the battl
 </div>
 </details>
 
-<details>
+<details class="collapsible">
 <summary>How to Use Psychatog</summary>
 <div markdown="1">
 
@@ -100,7 +100,7 @@ Psychatog in play guarantees instant speed, uncounterable discard and a way to m
 </div>
 </details>
 
-<details>
+<details class="collapsible">
 <summary>How to Use Cabal Therapy</summary>
 <div markdown="1">
 
@@ -114,7 +114,7 @@ Tricks not to forget:
 </div>
 </details>
 
-<details>
+<details class="collapsible">
 <summary>Should I Cut Hermit Druid?</summary>
 <div markdown="1">
 
@@ -125,7 +125,7 @@ Against other combo decks (Enchantress, Storm, etc.), Druid gives you the speed 
 </div>
 </details>
 
-<details>
+<details class="collapsible">
 <summary>How Does Unearth Work?</summary>
 <div markdown="1">
 
@@ -138,7 +138,7 @@ The **Cycling** ability makes Unearth an instant-speed discard effect that canno
 </div>
 </details>
 
-<details>
+<details class="collapsible">
 <summary>Why Is Enlightened Tutor in My Sideboard?</summary>
 <div markdown="1">
 
@@ -149,7 +149,7 @@ Mainly used as Survival of the Fittest #5, brought in against true races like Sl
 </div>
 </details>
 
-<details>
+<details class="collapsible">
 <summary>How to Manipulate the Graveyard</summary>
 <div markdown="1">
 
