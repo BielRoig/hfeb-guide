@@ -614,22 +614,24 @@ blockquote {
 }
 
 // ============================================
-// The Deck: neon hover su tutte le card sparse (combo, scrounger)
+// The Deck: varianti del toolbox-grid per combo cards
 // ============================================
-// Lo shortcode scryfall-card produce un .card-inline.
-// Applichiamo l'effetto solo alle card dentro .card-row e .scrounger-img.
+// Usiamo lo stesso stile toolbox-card (lavender neon) ma con
+// numeri di colonne diversi per i raggruppamenti del FEB Combo,
+// Hermit Combo e Scrounger.
 
-.card-row .card-inline,
-.scrounger-img .card-inline {
-  transition: transform 0.2s ease, filter 0.25s ease;
-  border-radius: 8px;
+.toolbox-grid--3 {
+  grid-template-columns: repeat(3, 1fr);
+  max-width: 700px;
 }
 
-.card-row .card-inline:hover,
-.scrounger-img .card-inline:hover {
-  transform: translateY(-3px);
-  filter:
-    drop-shadow(0 0 8px rgba(167, 139, 250, 0.7))
-    drop-shadow(0 0 20px rgba(147, 119, 230, 0.5))
-    drop-shadow(0 0 35px rgba(127, 99, 210, 0.3));
+.toolbox-grid--1 {
+  grid-template-columns: 1fr;
+  max-width: 240px;
+}
+
+@media (max-width: 768px) {
+  .toolbox-grid--3 {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
