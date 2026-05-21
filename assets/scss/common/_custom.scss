@@ -803,28 +803,33 @@ blockquote {
   gap: 0 !important;
   margin: 1.5rem 0;
   padding-bottom: 2.5rem;
+  padding-right: 180px; // spazio extra per l'ultima carta che "sporge"
   overflow: visible;
   max-width: 100%;
 
-  // Ogni card-inline occupa una porzione equa dello spazio disponibile,
-  // così la sovrapposizione si auto-distribuisce in base al numero di carte
+  // Ogni card-inline è larga 180px ma occupa solo una frazione di spazio,
+  // così si sovrappone naturalmente con le altre. Più carte ci sono,
+  // più si stringono e si sovrappongono.
   .card-inline {
-    flex: 1 1 0;       // tutte le card si dividono lo spazio
+    flex: 1 1 0;
     min-width: 0;
-    max-width: 200px;   // ma nessuna supera mai 200px
+    max-width: 60px;       // ogni "slot" è largo solo 60px
+    width: 180px;          // ma la carta è 180px
     margin: 0 !important;
     position: relative;
     transition: transform 0.25s ease, filter 0.25s ease, z-index 0s 0.25s;
 
-    // Immagine: occupa la larghezza disponibile del flex item
+    // L'ultima carta deve occupare tutta la sua larghezza per essere intera
+    &:last-child {
+      max-width: 180px;
+    }
+
     .card-image {
-      width: 100% !important;
-      max-width: 200px;
+      width: 180px !important;
       height: auto !important;
       transition: filter 0.25s ease;
     }
 
-    // Nome nascosto di default, appare al hover
     .card-name {
       opacity: 0;
       transition: opacity 0.2s ease;
@@ -836,7 +841,6 @@ blockquote {
       pointer-events: none;
     }
 
-    // Hover: la carta sale, esce fuori, si illumina, mostra nome
     &:hover {
       z-index: 10;
       transform: translateY(-6px);
@@ -852,6 +856,23 @@ blockquote {
       .card-name {
         opacity: 1;
         color: #d4c5fc;
+      }
+    }
+  }
+
+  @media (max-width: 768px) {
+    padding-right: 140px;
+
+    .card-inline {
+      max-width: 45px;
+      width: 140px;
+
+      &:last-child {
+        max-width: 140px;
+      }
+
+      .card-image {
+        width: 140px !important;
       }
     }
   }
