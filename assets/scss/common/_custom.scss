@@ -703,21 +703,19 @@ blockquote {
       display: none;
     }
 
-    // Sfumatura sopra l'immagine (solo sulla testata)
+    // Sfumatura sopra l'immagine (solo sulla testata, sotto al testo)
     &::before {
       content: "";
       position: absolute;
       inset: 0;
       background: linear-gradient(to right, rgba(31,33,41,0) 0%, rgba(31,33,41,0.5) 40%, rgba(31,33,41,0.95) 100%);
       pointer-events: none;
-      z-index: 1;
+      z-index: -1;
     }
 
-    // Il testo del titolo deve stare sopra la sfumatura
-    > * {
-      position: relative;
-      z-index: 2;
-    }
+    // Il testo diretto del summary deve stare sopra la sfumatura ::before
+    // Usiamo isolation per creare un nuovo stacking context su summary
+    isolation: isolate;
 
     // Freccia a destra
     &::after {
