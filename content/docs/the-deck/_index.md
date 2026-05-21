@@ -65,16 +65,14 @@ You’ll see a lot of Scrounger action throughout this guide!
 Beyond the combo pieces, hFEB runs a curated set of support cards that smooth out the deck's mana, recursion, disruption, and recovery. Click on any card to jump straight to its breakdown.
 
 <div class="toolbox-grid">
-
-  <a href="#mana-creatures" class="toolbox-card">{{< scryfall-card name="Birds of Paradise" set="lea" />}}</a>
-  <a href="#squee" class="toolbox-card">{{< scryfall-card name="Squee, Goblin Nabob" set="mmq" />}}</a>
-  <a href="#palinchron" class="toolbox-card">{{< scryfall-card name="Palinchron" set="usg" />}}</a>
-  <a href="#karmic-guide" class="toolbox-card">{{< scryfall-card name="Karmic Guide" set="usg" />}}</a>
-  <a href="#unearth" class="toolbox-card">{{< scryfall-card name="Unearth" set="uds" />}}</a>
-  <a href="#animate-dead" class="toolbox-card">{{< scryfall-card name="Animate Dead" set="lea" />}}</a>
-  <a href="#krosan-reclamation" class="toolbox-card">{{< scryfall-card name="Krosan Reclamation" set="ody" />}}</a>
-  <a href="#cabal-therapy" class="toolbox-card">{{< scryfall-card name="Cabal Therapy" set="ody" />}}</a>
-
+  <a href="#mana-creatures" class="toolbox-card"><img src="https://api.scryfall.com/cards/named?exact=Birds+of+Paradise&set=lea&format=image&version=normal" alt="Birds of Paradise"></a>
+  <a href="#squee" class="toolbox-card"><img src="https://api.scryfall.com/cards/named?exact=Squee%2C+Goblin+Nabob&set=mmq&format=image&version=normal" alt="Squee, Goblin Nabob"></a>
+  <a href="#palinchron" class="toolbox-card"><img src="https://api.scryfall.com/cards/named?exact=Palinchron&set=usg&format=image&version=normal" alt="Palinchron"></a>
+  <a href="#karmic-guide" class="toolbox-card"><img src="https://api.scryfall.com/cards/named?exact=Karmic+Guide&set=usg&format=image&version=normal" alt="Karmic Guide"></a>
+  <a href="#unearth" class="toolbox-card"><img src="https://api.scryfall.com/cards/named?exact=Unearth&set=uds&format=image&version=normal" alt="Unearth"></a>
+  <a href="#animate-dead" class="toolbox-card"><img src="https://api.scryfall.com/cards/named?exact=Animate+Dead&set=lea&format=image&version=normal" alt="Animate Dead"></a>
+  <a href="#krosan-reclamation" class="toolbox-card"><img src="https://api.scryfall.com/cards/named?exact=Krosan+Reclamation&set=ody&format=image&version=normal" alt="Krosan Reclamation"></a>
+  <a href="#cabal-therapy" class="toolbox-card"><img src="https://api.scryfall.com/cards/named?exact=Cabal+Therapy&set=ody&format=image&version=normal" alt="Cabal Therapy"></a>
 </div>
 
 ### Mana Creatures {#mana-creatures .toolbox-section}
