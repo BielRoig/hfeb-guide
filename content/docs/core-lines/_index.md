@@ -42,7 +42,7 @@ The typical combat kill assembled with Hermit Druid.
 </div>
 </details>
 
-<details class="collapsible-hero">
+<details class="collapsible-hero collapsible-hero--survival">
 <summary>Classic FEB Kill</summary>
 <div markdown="1">
 
@@ -119,7 +119,7 @@ Activate Shapeshifter/Devourer while retaining priority, then discard a card so 
 </div>
 </details>
 
-<details class="collapsible-hero">
+<details class="collapsible-hero collapsible-hero--survival">
 <summary>FEB Kill with Only One Creature to Pitch</summary>
 <div markdown="1">
 
@@ -149,7 +149,7 @@ Useful when you have Survival of the Fittest out but only one creature in hand. 
 </div>
 </details>
 
-<details class="collapsible-hero">
+<details class="collapsible-hero collapsible-hero--survival">
 <summary>FEB Kill with Palinchron</summary>
 <div markdown="1">
 
@@ -183,7 +183,7 @@ A mana-efficient line using Palinchron to cheat on mana costs. Can be started on
 </details>
 
 <details class="collapsible-hero">
-<summary>Hermit Kill with Devourer — 20 Damage</summary>
+<summary>Hermit Kill with Devourer</summary>
 <div markdown="1">
 
 If you can't go into combat to kill with Akroma, you can still use Hermit and shoot with Triskelion. If you need more than 20 damage, use Animate Dead to bring back two Shifters and shuffle more cards back into the library.
