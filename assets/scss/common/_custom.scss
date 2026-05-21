@@ -312,7 +312,7 @@ main h3 {
 }
 
 // ============================================
-// Collassabili (intro Matchup Spread)
+// Collassabili (tutti quelli del documento)
 // ============================================
 
 .collapsible {
@@ -325,11 +325,17 @@ main h3 {
 
   // Hover sul container intero: lift + neon viola
   &:hover {
-    transform: translateY(-2px);
-    border-color: rgba(167, 139, 250, 0.6);
+    transform: translateY(-3px);
+    border-color: rgba(167, 139, 250, 0.7);
     box-shadow:
-      0 0 8px rgba(167, 139, 250, 0.35),
-      0 0 20px rgba(147, 119, 230, 0.2);
+      0 0 8px rgba(167, 139, 250, 0.7),
+      0 0 20px rgba(147, 119, 230, 0.5),
+      0 0 40px rgba(127, 99, 210, 0.3);
+  }
+
+  // Il testo del titolo (summary) diventa lavanda chiaro al hover
+  &:hover > summary {
+    color: #d4c5fc;
   }
 
   // Quando aperto: bordo viola visibile (segnale "è aperto")
