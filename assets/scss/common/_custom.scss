@@ -802,29 +802,29 @@ blockquote {
   align-items: flex-start;
   gap: 0 !important;
   margin: 1.5rem 0;
-  padding-bottom: 2.5rem; // spazio per il nome che esce al hover
+  padding-bottom: 2.5rem;
   overflow: visible;
+  max-width: 100%;
 
-  // Ogni card-inline si stringe per mostrare solo ~30% di larghezza
+  // Ogni card-inline occupa una porzione equa dello spazio disponibile,
+  // così la sovrapposizione si auto-distribuisce in base al numero di carte
   .card-inline {
-    flex: 0 0 auto;
+    flex: 1 1 0;       // tutte le card si dividono lo spazio
+    min-width: 0;
+    max-width: 200px;   // ma nessuna supera mai 200px
     margin: 0 !important;
-    margin-right: -130px !important; // overlap orizzontale
     position: relative;
     transition: transform 0.25s ease, filter 0.25s ease, z-index 0s 0.25s;
 
-    // l'ultima carta non ha margin negativo
-    &:last-child {
-      margin-right: 0 !important;
-    }
-
-    // Immagine: larghezza standard 180px (come il default)
+    // Immagine: occupa la larghezza disponibile del flex item
     .card-image {
-      width: 180px !important;
+      width: 100% !important;
+      max-width: 200px;
+      height: auto !important;
       transition: filter 0.25s ease;
     }
 
-    // Nome nascosto di default
+    // Nome nascosto di default, appare al hover
     .card-name {
       opacity: 0;
       transition: opacity 0.2s ease;
@@ -836,7 +836,7 @@ blockquote {
       pointer-events: none;
     }
 
-    // Hover: la carta sale di z-index, esce fuori, si illumina, mostra nome
+    // Hover: la carta sale, esce fuori, si illumina, mostra nome
     &:hover {
       z-index: 10;
       transform: translateY(-6px);
@@ -852,17 +852,6 @@ blockquote {
       .card-name {
         opacity: 1;
         color: #d4c5fc;
-      }
-    }
-  }
-
-  // Su schermi piccoli riduci l'overlap per non strizzare troppo
-  @media (max-width: 768px) {
-    .card-inline {
-      margin-right: -100px !important;
-
-      .card-image {
-        width: 140px !important;
       }
     }
   }
