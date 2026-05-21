@@ -612,3 +612,24 @@ blockquote {
   scroll-margin-top: 6rem; // così quando ci clicchi sopra il titolo non finisce sotto la navbar
   margin-top: 2.5rem;
 }
+
+// ============================================
+// The Deck: neon hover su tutte le card sparse (combo, scrounger)
+// ============================================
+// Lo shortcode scryfall-card produce un .card-inline.
+// Applichiamo l'effetto solo alle card dentro .card-row e .scrounger-img.
+
+.card-row .card-inline,
+.scrounger-img .card-inline {
+  transition: transform 0.2s ease, filter 0.25s ease;
+  border-radius: 8px;
+}
+
+.card-row .card-inline:hover,
+.scrounger-img .card-inline:hover {
+  transform: translateY(-3px);
+  filter:
+    drop-shadow(0 0 8px rgba(167, 139, 250, 0.7))
+    drop-shadow(0 0 20px rgba(147, 119, 230, 0.5))
+    drop-shadow(0 0 35px rgba(127, 99, 210, 0.3));
+}
