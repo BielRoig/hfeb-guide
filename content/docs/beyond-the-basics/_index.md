@@ -25,6 +25,10 @@ draft: false
     <span>CMC Distribution</span>
   </a>
 
+  <a href="/docs/beyond-the-basics/beating-hate/" class="btb-card" style="background-image: url('/images/beyond-the-basics/beating-hate.jpg');">
+    <span>Beating Hate</span>
+  </a>
+
   <a href="/docs/beyond-the-basics/rules/" class="btb-card" style="background-image: url('/images/beyond-the-basics/rules.jpg');">
     <span>Rules</span>
   </a>
