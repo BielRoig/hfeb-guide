@@ -40,7 +40,7 @@
   name = "Advanced Lines"
   weight = 30
   identifier = "advanced-lines"
-  pageRef = "/docs/lines"
+  pageRef = "/docs/advanced-lines"
 
 [[sidebar_docs]]
   name = "Matchup Spread"
