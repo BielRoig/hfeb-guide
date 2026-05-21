@@ -861,3 +861,44 @@ blockquote {
     }
   }
 }
+
+// ============================================
+// Card Row Stack: overlap adattivo in base al numero di carte
+// Più carte = meno sovrapposizione (perché lo spazio si stringe naturalmente)
+// Più carte = più overlap necessario per evitare scroll orizzontale
+// ============================================
+
+// 3 carte: poca sovrapposizione, si vedono quasi intere
+.card-row--stack:has(.card-inline:nth-child(3):last-child) .card-inline {
+  margin-right: -60px !important;
+}
+
+// 4 carte
+.card-row--stack:has(.card-inline:nth-child(4):last-child) .card-inline {
+  margin-right: -90px !important;
+}
+
+// 5 carte
+.card-row--stack:has(.card-inline:nth-child(5):last-child) .card-inline {
+  margin-right: -110px !important;
+}
+
+// 6 carte
+.card-row--stack:has(.card-inline:nth-child(6):last-child) .card-inline {
+  margin-right: -125px !important;
+}
+
+// 7 carte
+.card-row--stack:has(.card-inline:nth-child(7):last-child) .card-inline {
+  margin-right: -135px !important;
+}
+
+// 8 carte
+.card-row--stack:has(.card-inline:nth-child(8):last-child) .card-inline {
+  margin-right: -145px !important;
+}
+
+// L'ultima card non deve mai avere margin-right negativo (rimane visibile intera)
+.card-row--stack .card-inline:last-child {
+  margin-right: 0 !important;
+}
