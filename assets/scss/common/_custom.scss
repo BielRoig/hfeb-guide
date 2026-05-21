@@ -321,6 +321,24 @@ main h3 {
   border: 1px solid var(--bs-border-color);
   border-radius: 8px;
   overflow: hidden;
+  transition: transform 0.2s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+
+  // Hover sul container intero: lift + neon viola
+  &:hover {
+    transform: translateY(-2px);
+    border-color: rgba(167, 139, 250, 0.6);
+    box-shadow:
+      0 0 8px rgba(167, 139, 250, 0.35),
+      0 0 20px rgba(147, 119, 230, 0.2);
+  }
+
+  // Quando aperto: bordo viola visibile (segnale "è aperto")
+  &[open] {
+    border-color: rgba(167, 139, 250, 0.55);
+    box-shadow:
+      0 0 8px rgba(167, 139, 250, 0.3),
+      0 0 18px rgba(147, 119, 230, 0.18);
+  }
 
   > summary {
     padding: 0.85rem 1.25rem;
