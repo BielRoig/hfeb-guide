@@ -659,3 +659,111 @@ blockquote {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+// ============================================
+// Collapsible Hero: collassabile grande con immagine di sfondo
+// Usato sulle pagine Core Lines e Advanced Lines
+// ============================================
+
+.collapsible-hero {
+  position: relative;
+  margin: 1rem 0;
+  background-color: #1f2129;
+  background-image: url("/images/hermit-druid.jpg");
+  background-size: cover;
+  background-position: left center;
+  background-repeat: no-repeat;
+  border: 1px solid rgba(167, 139, 250, 0.25);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.2s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+
+  // Sfumatura sopra l'immagine: trasparente a sinistra, scuro a destra
+  &::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to right, rgba(31,33,41,0) 0%, rgba(31,33,41,0.5) 40%, rgba(31,33,41,0.95) 100%);
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  // Tutto il contenuto deve stare sopra la sfumatura
+  > * {
+    position: relative;
+    z-index: 2;
+  }
+
+  > summary {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    min-height: 140px;
+    padding: 1.5rem 3rem 1.5rem 2rem; // padding-right grande per la freccia
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 1.25rem;
+    text-align: right;
+    color: #ffffff;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.9);
+    list-style: none;
+    user-select: none;
+    transition: color 0.2s ease;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    // Freccia a destra
+    &::after {
+      content: "▸";
+      position: absolute;
+      right: 1.5rem;
+      top: 50%;
+      transform: translateY(-50%);
+      transition: transform 0.2s ease;
+      color: #d4c5fc;
+      font-size: 1rem;
+      z-index: 3;
+    }
+  }
+
+  // Hover: lift + neon viola
+  &:hover {
+    transform: translateY(-3px);
+    border-color: rgba(167, 139, 250, 0.7);
+    box-shadow:
+      0 0 8px rgba(167, 139, 250, 0.7),
+      0 0 20px rgba(147, 119, 230, 0.5),
+      0 0 40px rgba(127, 99, 210, 0.3);
+  }
+
+  &:hover > summary {
+    color: #d4c5fc;
+  }
+
+  // Aperto: freccia ruotata + bordo viola visibile
+  &[open] {
+    border-color: rgba(167, 139, 250, 0.55);
+    box-shadow:
+      0 0 8px rgba(167, 139, 250, 0.3),
+      0 0 18px rgba(147, 119, 230, 0.18);
+  }
+
+  &[open] > summary::after {
+    transform: translateY(-50%) rotate(90deg);
+  }
+
+  // Contenuto interno (quando aperto): padding e niente margini ai bordi
+  > *:not(summary) {
+    padding: 0 1.75rem;
+  }
+
+  > *:not(summary):first-of-type {
+    padding-top: 1rem;
+  }
+
+  > *:not(summary):last-child {
+    padding-bottom: 1.5rem;
+  }
+}
