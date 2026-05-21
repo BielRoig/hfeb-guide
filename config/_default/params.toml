@@ -25,7 +25,7 @@ mathEngine = "KaTeX" # "KaTeX" (default) or "MathJax"
 
   ## Button
   navBarButton = false # false (default) or true
-  navBarButtonUrl = "/docs/introduction/"
+  navBarButtonUrl = "/docs/the-deck/"
   navBarButtonText = "Read the Guide"
 
   # FlexSearch
