@@ -731,10 +731,14 @@ blockquote {
     }
 
     // Override: il tema applica un background-color grigio al hover che coprirebbe
-    // l'immagine. Usiamo !important per neutralizzarlo e mantenere il background-image visibile.
+    // l'immagine. Usiamo !important per neutralizzarlo e mantenere
+    // l'immagine alla posizione corretta.
     &:hover {
       background-color: transparent !important;
       background-image: url("/images/hermit-druid.jpg") !important;
+      background-position: left 85%;
+      background-size: cover;
+      background-repeat: no-repeat;
     }
   }
 
