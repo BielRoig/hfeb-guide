@@ -157,13 +157,13 @@ A mana-efficient line using Palinchron to cheat on mana costs. Can be started on
 
 **Graveyard order (top to bottom):** Volrath's Shapeshifter → Palinchron
 
-<div class="card-row">
+<div class="card-row card-row--stack">
 {{< scryfall-card name="Survival of the Fittest" set="exo" />}}
 {{< scryfall-card name="Palinchron" set="usg" />}}
 {{< scryfall-card name="Volrath's Shapeshifter" set="str" />}}
+{{< scryfall-card name="Unearth" set="uds" />}}
 {{< scryfall-card name="Phyrexian Devourer" set="all" />}}
 {{< scryfall-card name="Triskelion" set="atq" />}}
-{{< scryfall-card name="Unearth" set="uds" />}}
 </div>
 
 1. Start with Survival in play and Palinchron in hand
