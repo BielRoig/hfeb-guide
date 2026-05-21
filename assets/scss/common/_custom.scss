@@ -663,3 +663,19 @@ main details[open] {
     0 0 8px rgba(167, 139, 250, 0.3),
     0 0 18px rgba(147, 119, 230, 0.18);
 }
+
+// ============================================
+// Override stili del tema su summary
+// ============================================
+// Il tema applica un background grigio scuro al summary:hover che copre
+// il nostro neon viola. Lo rendiamo trasparente e rimuoviamo il border-bottom.
+
+main details summary {
+  background: transparent !important;
+  border-bottom: none !important;
+}
+
+main details summary:hover {
+  background: transparent !important;
+  color: #d4c5fc; // il testo del titolo diventa lavanda chiaro al hover
+}
