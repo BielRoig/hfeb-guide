@@ -21,8 +21,8 @@ draft: false
     <span>Activation Covering</span>
   </a>
 
-  <a href="/docs/beyond-the-basics/appendix/" class="btb-card" style="background-image: url('/images/beyond-the-basics/appendix.jpg');">
-    <span>CMC distribution</span>
+  <a href="/docs/beyond-the-basics/cmc-distribution/" class="btb-card" style="background-image: url('/images/beyond-the-basics/cmc-distribution.jpg');">
+    <span>CMC Distribution</span>
   </a>
 
   <a href="/docs/beyond-the-basics/rules/" class="btb-card" style="background-image: url('/images/beyond-the-basics/rules.jpg');">
