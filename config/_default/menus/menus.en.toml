@@ -34,7 +34,7 @@
   name = "Core Lines"
   weight = 20
   identifier = "core-lines"
-  pageRef = "/docs/how-to-play"
+  pageRef = "/docs/core-lines"
 
 [[sidebar_docs]]
   name = "Advanced Lines"
