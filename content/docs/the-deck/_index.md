@@ -17,10 +17,10 @@ These two combos share a similar structure, each composed of three fundamental p
 
 ## The FEB Combo
 
-<div class="card-row">
-{{< scryfall-card name="Survival of the Fittest" set="exo" />}}
-{{< scryfall-card name="Phyrexian Devourer" set="all" />}}
-{{< scryfall-card name="Triskelion" set="atq" />}}
+<div class="toolbox-grid toolbox-grid--3">
+  <a class="toolbox-card">{{< scryfall-card name="Survival of the Fittest" set="exo" />}}</a>
+  <a class="toolbox-card">{{< scryfall-card name="Phyrexian Devourer" set="all" />}}</a>
+  <a class="toolbox-card">{{< scryfall-card name="Triskelion" set="atq" />}}</a>
 </div>
 
 The engine is **Survival of the Fittest**, which lets us discard creature cards from hand and tutor creatures from the deck — changing Shifter's form and cycling through threats. The two combo pieces are **Phyrexian Devourer** and **Triskelion**.
@@ -31,10 +31,10 @@ When Phyrexian Devourer is on top of the graveyard, Shapeshifter can exile cards
 
 ## The Hermit Combo
 
-<div class="card-row">
-{{< scryfall-card name="Hermit Druid" set="tmp" />}}
-{{< scryfall-card name="Psychatog" set="ody" />}}
-{{< scryfall-card name="Akroma, Angel of Wrath" set="lgn" />}}
+<div class="toolbox-grid toolbox-grid--3">
+  <a class="toolbox-card">{{< scryfall-card name="Hermit Druid" set="tmp" />}}</a>
+  <a class="toolbox-card">{{< scryfall-card name="Psychatog" set="ody" />}}</a>
+  <a class="toolbox-card">{{< scryfall-card name="Akroma, Angel of Wrath" set="lgn" />}}</a>
 </div>
 
 The engine is **Hermit Druid**, which mills the entire library since all our lands are non-basic. With a full graveyard, **Psychatog** takes the role of Devourer — exiling graveyard cards in exchange for +1/+1 pumps. Since these are not counters, Triskelion can't be the finisher, so **Akroma** closes the game in combat instead. Her haste, evasion, and trample are essential to convert those pumps into lethal damage.
@@ -45,7 +45,7 @@ The engine is **Hermit Druid**, which mills the entire library since all our lan
 
 <div class="scrounger-split">
   <div class="scrounger-img">
-    {{< scryfall-card name="Battlefield Scrounger" set="ody" />}}
+    <a class="toolbox-card">{{< scryfall-card name="Battlefield Scrounger" set="ody" />}}</a>
   </div>
   <div class="scrounger-text" markdown="1">
 
