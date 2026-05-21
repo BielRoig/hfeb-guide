@@ -13,7 +13,9 @@ These are the baseline patterns you should learn first. They are not always the 
 
 ---
 
-## Hermit Kill with Akroma
+<details class="collapsible-hero">
+<summary>Hermit Kill with Akroma</summary>
+<div markdown="1">
 
 The typical combat kill assembled with Hermit Druid.
 
@@ -37,9 +39,12 @@ The typical combat kill assembled with Hermit Druid.
 6. Activate Shifter/Tog to pump it (at least 14 times)
 7. Reveal Akroma on top of graveyard and attack with Shifter/Akroma
 
----
+</div>
+</details>
 
-## Classic FEB Kill
+<details class="collapsible-hero">
+<summary>Classic FEB Kill</summary>
+<div markdown="1">
 
 The basis of Full English Breakfast. Straightforward and devastating when assembled.
 
@@ -58,9 +63,12 @@ The basis of Full English Breakfast. Straightforward and devastating when assemb
 
 > With all pieces in hand and in play the opponent has no chance to interact. Just be sure to have enough CMC left in the deck to kill — this is not infinite damage!
 
----
+</div>
+</details>
 
-## Shifter Combat Kill — with Hermit Druid
+<details class="collapsible-hero">
+<summary>Shifter Combat Kill — with Hermit Druid</summary>
+<div markdown="1">
 
 A simple line using both Hermit Druid and Volrath's Shapeshifter on the battlefield. Go to combat, activate Druid to put Psychatog on top of the graveyard, pump Shifter/Tog, then reveal Akroma for flying and attack.
 
@@ -83,9 +91,12 @@ A simple line using both Hermit Druid and Volrath's Shapeshifter on the battlefi
 >
 > **Side note:** If you have both Psychatog and Hermit in play without summoning sickness, you can attack with Psychatog, activate Hermit, and eat the graveyard to pump Tog directly.
 
----
+</div>
+</details>
 
-## Shifter Combat Kill — with Devourer
+<details class="collapsible-hero">
+<summary>Shifter Combat Kill — with Devourer</summary>
+<div markdown="1">
 
 Activate Shapeshifter/Devourer while retaining priority, then discard a card so that the Devourer sacrifice trigger never goes on the stack. You end up with a gigantic Shapeshifter ready to attack.
 
@@ -105,9 +116,12 @@ Activate Shapeshifter/Devourer while retaining priority, then discard a card so 
 
 > Discard a flying creature — ideally Akroma — to make Shapeshifter unblockable. You can also remove the last counter from a Gemstone Mine instead of discarding a card to achieve the same result.
 
----
+</div>
+</details>
 
-## FEB Kill with Only One Creature to Pitch
+<details class="collapsible-hero">
+<summary>FEB Kill with Only One Creature to Pitch</summary>
+<div markdown="1">
 
 Useful when you have Survival of the Fittest out but only one creature in hand. This line can be started on the opponent's turn, discarding creatures and sculpting your hand.
 
@@ -132,9 +146,12 @@ Useful when you have Survival of the Fittest out but only one creature in hand. 
 9. Activate Triskelion dealing damage to itself — it dies and goes on top of graveyard
 10. Shoot the opponent with Shifter/Triskelion
 
----
+</div>
+</details>
 
-## FEB Kill with Palinchron
+<details class="collapsible-hero">
+<summary>FEB Kill with Palinchron</summary>
+<div markdown="1">
 
 A mana-efficient line using Palinchron to cheat on mana costs. Can be started on the opponent's turn.
 
@@ -162,9 +179,12 @@ A mana-efficient line using Palinchron to cheat on mana costs. Can be started on
 >
 > If not using Unearth, pay {2}{U} to cast Shapeshifter and then untap at least 2 lands to discard Devourer and Triskelion.
 
----
+</div>
+</details>
 
-## Hermit Kill with Devourer — 20 Damage
+<details class="collapsible-hero">
+<summary>Hermit Kill with Devourer — 20 Damage</summary>
+<div markdown="1">
 
 If you can't go into combat to kill with Akroma, you can still use Hermit and shoot with Triskelion. If you need more than 20 damage, use Animate Dead to bring back two Shifters and shuffle more cards back into the library.
 
@@ -191,3 +211,6 @@ If you can't go into combat to kill with Akroma, you can still use Hermit and sh
 8. Activate Shifter/Devourer 3 times
 9. Remove Devourer with Psychatog to reveal Triskelion on top of graveyard
 10. Shoot the opponent with Shifter/Triskelion
+
+</div>
+</details>
