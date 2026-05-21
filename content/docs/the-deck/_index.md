@@ -83,6 +83,26 @@ They accelerate our early turns, fix our mana, and help us reach the key setup t
 
 **Wall of Roots** is especially important because it can generate mana without tapping, which matters in turns where mana efficiency is extremely tight.
 
+### Cabal Therapy {#cabal-therapy .toolbox-section}
+
+**Cabal Therapy** is one of the most important interaction spells in the deck.
+
+It gives you information, strips away relevant answers, and clears the way before committing to a combo line. In Premodern, it is already one of the strongest discard spells, but hFEB uses it especially well because the deck naturally plays creatures that can be sacrificed profitably.
+
+Mana creatures that are no longer needed, creatures with enters-the-battlefield value, or creatures you actively want back in the graveyard can all become flashback material. This makes Cabal Therapy both disruption and synergy: it protects your combo while also helping you manage your own board and graveyard.
+
+In practice, Therapy often lets you turn two mana and one expendable creature into two discard effects. For a deck trying to resolve a fragile but powerful engine, that is extremely relevant.
+
+### Unearth {#unearth .toolbox-section}
+
+**Unearth** is one of the most efficient recursion spells in the deck.
+
+Most importantly, it brings back Volrath's Shapeshifter, which is often the central piece of both the FEB kill and the Hermit kill. It also cycles, which means it is rarely completely dead, even in games where recursion is not immediately needed.
+
+A key interaction is that Unearth can reanimate Shapeshifter while the top creature card of the graveyard has an enters-the-battlefield ability. If Shapeshifter enters while copying that creature, the ETB ability will trigger. Then, once Unearth finishes resolving, Unearth itself will be on top of the graveyard and Shapeshifter may become a blank 0/1, but the triggered ability is already on the stack.
+
+This makes Unearth much more than a simple reanimation spell. It can create important timing windows and enable lines that depend on Shapeshifter entering as the right creature for just a moment.
+
 ### Squee, Goblin Nabob {#squee .toolbox-section}
 
 **Squee** is almost an auto-include in any serious Survival deck.
@@ -109,16 +129,6 @@ After a Hermit Druid activation, Karmic Guide often provides the bridge between 
 
 It is also useful outside of pure Hermit kills. Sometimes Karmic Guide lets you win FEB-style with only one creature in hand, or simply reanimates a high-impact creature such as Akroma or Triskelion. Even when it is not part of a deterministic kill, it gives the deck a strong recovery tool and a way to convert graveyard resources into battlefield presence.
 
-### Unearth {#unearth .toolbox-section}
-
-**Unearth** is one of the most efficient recursion spells in the deck.
-
-Most importantly, it brings back Volrath's Shapeshifter, which is often the central piece of both the FEB kill and the Hermit kill. It also cycles, which means it is rarely completely dead, even in games where recursion is not immediately needed.
-
-A key interaction is that Unearth can reanimate Shapeshifter while the top creature card of the graveyard has an enters-the-battlefield ability. If Shapeshifter enters while copying that creature, the ETB ability will trigger. Then, once Unearth finishes resolving, Unearth itself will be on top of the graveyard and Shapeshifter may become a blank 0/1, but the triggered ability is already on the stack.
-
-This makes Unearth much more than a simple reanimation spell. It can create important timing windows and enable lines that depend on Shapeshifter entering as the right creature for just a moment.
-
 ### Animate Dead {#animate-dead .toolbox-section}
 
 **Animate Dead** is one of the newer additions, and it is extremely interesting in this shell.
@@ -136,16 +146,6 @@ If you activate Hermit Druid during your upkeep, Krosan Reclamation can let you 
 It can also increase the number of cards left in the library for Phyrexian Devourer or Battlefield Scrounger lines, letting you create enough resources for a kill. It is not only a self-targeting tool either: Krosan Reclamation can target the opponent, which can matter against opposing graveyard strategies or specific graveyard-based setups.
 
 Another important detail is that Krosan Reclamation targets a player and up to two cards in that graveyard. This means it can be used flexibly, even when you only need to shuffle back one card, and in some situations the shuffle effect can still matter even if the number of cards being returned changes before resolution.
-
-### Cabal Therapy {#cabal-therapy .toolbox-section}
-
-**Cabal Therapy** is one of the most important interaction spells in the deck.
-
-It gives you information, strips away relevant answers, and clears the way before committing to a combo line. In Premodern, it is already one of the strongest discard spells, but hFEB uses it especially well because the deck naturally plays creatures that can be sacrificed profitably.
-
-Mana creatures that are no longer needed, creatures with enters-the-battlefield value, or creatures you actively want back in the graveyard can all become flashback material. This makes Cabal Therapy both disruption and synergy: it protects your combo while also helping you manage your own board and graveyard.
-
-In practice, Therapy often lets you turn two mana and one expendable creature into two discard effects. For a deck trying to resolve a fragile but powerful engine, that is extremely relevant.
 
 ---
 
