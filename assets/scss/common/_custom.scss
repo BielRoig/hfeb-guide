@@ -773,3 +773,17 @@ blockquote {
     padding: 1rem 1.75rem 1.5rem;
   }
 }
+
+// ============================================
+// Collapsible Hero: varianti immagine
+// Usare aggiungendo una seconda classe, es.:
+// <details class="collapsible-hero collapsible-hero--survival">
+// ============================================
+
+.collapsible-hero--survival > summary {
+  background-image: url("/images/survival-of-the-fittest.jpg") !important;
+}
+
+.collapsible-hero--survival > summary:hover {
+  background-image: url("/images/survival-of-the-fittest.jpg") !important;
+}
