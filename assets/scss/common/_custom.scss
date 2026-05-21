@@ -787,3 +787,83 @@ blockquote {
 .collapsible-hero--survival > summary:hover {
   background-image: url("/images/survival-of-the-fittest.jpg") !important;
 }
+
+// ============================================
+// Card Row Stack: carte sovrapposte orizzontalmente
+// Usato quando ci sono molte carte (5+). Le carte si nascondono
+// parzialmente tra loro come un mazzo aperto a ventaglio piatto.
+// Hover: la carta esce fuori + si illumina + mostra il nome.
+// ============================================
+
+.card-row--stack {
+  display: flex !important;
+  flex-wrap: nowrap !important;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 0 !important;
+  margin: 1.5rem 0;
+  padding-bottom: 2.5rem; // spazio per il nome che esce al hover
+  overflow: visible;
+
+  // Ogni card-inline si stringe per mostrare solo ~30% di larghezza
+  .card-inline {
+    flex: 0 0 auto;
+    margin: 0 !important;
+    margin-right: -130px !important; // overlap orizzontale
+    position: relative;
+    transition: transform 0.25s ease, filter 0.25s ease, z-index 0s 0.25s;
+
+    // l'ultima carta non ha margin negativo
+    &:last-child {
+      margin-right: 0 !important;
+    }
+
+    // Immagine: larghezza standard 180px (come il default)
+    .card-image {
+      width: 180px !important;
+      transition: filter 0.25s ease;
+    }
+
+    // Nome nascosto di default
+    .card-name {
+      opacity: 0;
+      transition: opacity 0.2s ease;
+      position: absolute;
+      bottom: -2rem;
+      left: 50%;
+      transform: translateX(-50%);
+      white-space: nowrap;
+      pointer-events: none;
+    }
+
+    // Hover: la carta sale di z-index, esce fuori, si illumina, mostra nome
+    &:hover {
+      z-index: 10;
+      transform: translateY(-6px);
+      transition: transform 0.2s ease, filter 0.25s ease, z-index 0s;
+
+      .card-image {
+        filter:
+          drop-shadow(0 0 8px rgba(167, 139, 250, 0.7))
+          drop-shadow(0 0 20px rgba(147, 119, 230, 0.5))
+          drop-shadow(0 0 35px rgba(127, 99, 210, 0.3));
+      }
+
+      .card-name {
+        opacity: 1;
+        color: #d4c5fc;
+      }
+    }
+  }
+
+  // Su schermi piccoli riduci l'overlap per non strizzare troppo
+  @media (max-width: 768px) {
+    .card-inline {
+      margin-right: -100px !important;
+
+      .card-image {
+        width: 140px !important;
+      }
+    }
+  }
+}
