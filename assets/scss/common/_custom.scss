@@ -813,7 +813,7 @@ blockquote {
   .card-inline {
     flex: 1 1 0;
     min-width: 0;
-    max-width: 100px;       // ogni "slot" è largo solo 60px
+    max-width: 20px;       // ogni "slot" è largo solo 60px
     width: 180px;          // ma la carta è 180px
     margin: 0 !important;
     position: relative;
