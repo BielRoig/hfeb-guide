@@ -18,7 +18,7 @@ In these situations, success comes from recognizing when to abandon a rigid comb
 
 ---
 
-<details>
+<details class="collapsible">
 <summary>Missing Psychatog</summary>
 <div markdown="1">
 
@@ -29,7 +29,7 @@ A small reminder: if you want to execute a FEB kill via Hermit Druid, you can re
 </div>
 </details>
 
-<details>
+<details class="collapsible">
 <summary>Missing Akroma, Angel of Wrath</summary>
 <div markdown="1">
 
@@ -40,7 +40,7 @@ As we have seen before, Akroma is also a key piece in many Scrounger-FEB lines w
 </div>
 </details>
 
-<details>
+<details class="collapsible">
 <summary>Missing Phyrexian Devourer</summary>
 <div markdown="1">
 
@@ -53,7 +53,7 @@ The real problem arises when Devourer is removed while you are setting up an FEB
 </div>
 </details>
 
-<details>
+<details class="collapsible">
 <summary>Missing Triskelion</summary>
 <div markdown="1">
 
@@ -64,7 +64,7 @@ Triskelion is also useful for clearing the opponent's board, but it is not manda
 </div>
 </details>
 
-<details>
+<details class="collapsible">
 <summary>Missing Karmic Guide</summary>
 <div markdown="1">
 
@@ -77,7 +77,7 @@ Rather than being a mandatory combo piece, Karmic Guide is a card that smooths a
 </div>
 </details>
 
-<details>
+<details class="collapsible">
 <summary>Missing Volrath's Shapeshifter</summary>
 <div markdown="1">
 
