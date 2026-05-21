@@ -151,18 +151,51 @@ Another important detail is that Krosan Reclamation targets a player and up to t
 
 ## The Mana Base
 
-All lands are non-basic — a strict requirement for the Hermit combo to work:
-
-<div class="card-row">
-{{< scryfall-card name="City of Brass" set="arb" />}}
-{{< scryfall-card name="Gemstone Mine" set="tmp" />}}
-{{< scryfall-card name="Llanowar Wastes" set="9ed" />}}
-{{< scryfall-card name="Yavimaya Coast" set="9ed" />}}
-{{< scryfall-card name="Reflecting Pool" set="tmp" />}}
+<div class="toolbox-grid">
+  <a class="toolbox-card">{{< scryfall-card name="Llanowar Wastes" set="9ed" />}}</a>
+  <a class="toolbox-card">{{< scryfall-card name="Yavimaya Coast" set="9ed" />}}</a>
+  <a class="toolbox-card">{{< scryfall-card name="Gemstone Mine" set="tmp" />}}</a>
+  <a class="toolbox-card">{{< scryfall-card name="City of Brass" set="arb" />}}</a>
+  <a class="toolbox-card">{{< scryfall-card name="Reflecting Pool" set="tmp" />}}</a>
+  <a class="toolbox-card">{{< scryfall-card name="Undiscovered Paradise" set="vis" />}}</a>
+  <a class="toolbox-card">{{< scryfall-card name="Treva's Ruins" set="apc" />}}</a>
+  <a class="toolbox-card">{{< scryfall-card name="Underground River" set="9ed" />}}</a>
 </div>
 
-*add small text about the lair according to the sideboard choices, and the other lands*
-4x City of Brass · 4x Gemstone Mine · 4x Llanowar Wastes · 4x Yavimaya Coast · 3x Reflecting Pool · 1x Treva's Ruins · 1x Undiscovered Paradise · 1x Underground River
+The mana base is one of the biggest deckbuilding costs of hFEB.
+
+Because the deck wants Hermit Druid to be deterministic, it cannot play basic lands. If the deck contained even a single basic land, Hermit Druid could stop before milling the entire library, making the Hermit kill much less reliable. This means the whole mana base has to be built out of nonbasic lands while still supporting a very demanding multicolor shell.
+
+### The Core Sixteen
+
+The core sixteen lands are, in my opinion, the non-negotiable foundation of the deck:
+
+- 4x Llanowar Wastes
+- 4x Yavimaya Coast
+- 4x Gemstone Mine
+- 4x City of Brass
+
+These sixteen lands are not really interchangeable. They give the deck access to the colors it needs early, enter untapped, and allow the deck to function without compromising the Hermit Druid plan.
+
+### Reflecting Pool
+
+To these, the deck adds **3 Reflecting Pool**. Reflecting Pool is especially valuable because it often turns painful mana into clean mana. When paired with a painland or City of Brass, it lets you produce the colors you need without repeatedly taking damage. In long games, that matters a lot: hFEB can spend several turns sculpting a hand or setting up a graveyard, and saving two or three life over the course of a game can easily change a race.
+
+### Undiscovered Paradise
+
+The deck also plays **Undiscovered Paradise**. This is not one of the strongest lands in the deck, but it has a specific role. It helps you continue making land drops when you otherwise might miss one, and because it returns to your hand, it can give you access to mana both on your turn and again after replaying it later. It is a little awkward, but the flexibility is useful enough to justify the slot.
+
+### The Lair Slot
+
+Then there is the **Lair slot**, usually **Treva's Ruins**. In most versions, the deck is primarily interested in the Treva colors: green, white, and blue. That said, this is one of the more flexible land slots in the deck. Depending on the sideboard and the exact color requirements of the 75, Treva's Ruins can become **Darigaaz's Caldera** if you want better access to black-red-green, or **Crosis's Catacombs** if the deck needs blue-black-red instead. For example, if your sideboard leans harder on red cards like Pyroclasm, changing the Lair can be a clean way to support that plan.
+
+### The Flex Painland
+
+The final, twenty-second land is usually another painland: effectively the ninth painland of the deck. This slot is very customizable. It is often **Underground River**, giving access to blue and black, but it can change depending on the sideboard configuration.
+
+If the deck wants more red, **Karplusan Forest** becomes attractive. If it wants more white and black, especially for cards like Swords to Plowshares or other white interaction, **Caves of Koilos** is an option. If the list wants more white and green, **Brushland** can fill the role instead.
+
+So while the first sixteen lands are fixed and the three Reflecting Pool are very close to fixed, the last few slots are where the mana base can adapt to the exact version of hFEB you are registering. In practice, these lands should be chosen by looking at the full 75, not just the maindeck.
 
 ---
 
