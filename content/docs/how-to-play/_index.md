@@ -1,11 +1,18 @@
 ---
-title: How to Play
-description: Core lines and recurring patterns for Hermit Full English Breakfast.
-lead: An overview of hFEB's core lines and recurring patterns.
-date: 2026-05-05T00:00:00+00:00
-lastmod: 2026-05-05T00:00:00+00:00
+title: "Core Lines"
+description: "The main lines hFEB is built around — the cleanest and most frequently used kill sequences."
+lead: "The baseline patterns you should learn first. The cleanest, most common, and most frequently used sequences to win games with hFEB."
+date: 2026-05-20T00:00:00+00:00
+lastmod: 2026-05-20T00:00:00+00:00
 draft: false
 ---
+
+In this section, you will find the main lines the deck is built around: the cleanest, most common, and most frequently used sequences to win games with hFEB.
+
+These are the baseline patterns you should learn first. They are not always the most complex lines available, but they are the ones that define the deck's core game plan and come up most often across different matchups.
+
+---
+
 ## Hermit Kill with Akroma
 
 The typical combat kill assembled with Hermit Druid.
@@ -30,7 +37,7 @@ The typical combat kill assembled with Hermit Druid.
 6. Activate Shifter/Tog to pump it (at least 14 times)
 7. Reveal Akroma on top of graveyard and attack with Shifter/Akroma
 
-- - -
+---
 
 ## Classic FEB Kill
 
@@ -51,7 +58,7 @@ The basis of Full English Breakfast. Straightforward and devastating when assemb
 
 > With all pieces in hand and in play the opponent has no chance to interact. Just be sure to have enough CMC left in the deck to kill — this is not infinite damage!
 
-- - -
+---
 
 ## Shifter Combat Kill — with Hermit Druid
 
@@ -76,7 +83,7 @@ A simple line using both Hermit Druid and Volrath's Shapeshifter on the battlefi
 >
 > **Side note:** If you have both Psychatog and Hermit in play without summoning sickness, you can attack with Psychatog, activate Hermit, and eat the graveyard to pump Tog directly.
 
-- - -
+---
 
 ## Shifter Combat Kill — with Devourer
 
@@ -98,7 +105,7 @@ Activate Shapeshifter/Devourer while retaining priority, then discard a card so 
 
 > Discard a flying creature — ideally Akroma — to make Shapeshifter unblockable. You can also remove the last counter from a Gemstone Mine instead of discarding a card to achieve the same result.
 
-- - -
+---
 
 ## FEB Kill with Only One Creature to Pitch
 
@@ -125,7 +132,7 @@ Useful when you have Survival of the Fittest out but only one creature in hand. 
 9. Activate Triskelion dealing damage to itself — it dies and goes on top of graveyard
 10. Shoot the opponent with Shifter/Triskelion
 
-- - -
+---
 
 ## FEB Kill with Palinchron
 
@@ -155,29 +162,32 @@ A mana-efficient line using Palinchron to cheat on mana costs. Can be started on
 >
 > If not using Unearth, pay {2}{U} to cast Shapeshifter and then untap at least 2 lands to discard Devourer and Triskelion.
 
+---
 
-- - -
+## Hermit Kill with Devourer — 20 Damage
 
+If you can't go into combat to kill with Akroma, you can still use Hermit and shoot with Triskelion. If you need more than 20 damage, use Animate Dead to bring back two Shifters and shuffle more cards back into the library.
 
-## New line
+**Graveyard order (top to bottom):** Karmic Guide → Battlefield Scrounger → Phyrexian Devourer → Triskelion
 
-A mana-efficient line using Palinchron to cheat on mana costs. Can be started on the opponent's turn.
+<div class="card-row">
+{{< scryfall-card name="Hermit Druid" set="tmp" />}}
+{{< scryfall-card name="Volrath's Shapeshifter" set="str" />}}
+{{< scryfall-card name="Unearth" set="uds" />}}
+{{< scryfall-card name="Karmic Guide" set="usg" />}}
+{{< scryfall-card name="Psychatog" set="ody" />}}
+{{< scryfall-card name="Battlefield Scrounger" set="ody" />}}
+{{< scryfall-card name="Phyrexian Devourer" set="all" />}}
+{{< scryfall-card name="Triskelion" set="atq" />}}
+</div>
 
-**Graveyard order (top to bottom):** Volrath's Shapeshifter → Palinchron
-
-<div class="card-row">{{< scryfall-card name="Survival of the Fittest" set="exo" />}}{{< scryfall-card name="Palinchron" set="usg" />}}{{< scryfall-card name="Volrath's Shapeshifter" set="str" />}}{{< scryfall-card name="Phyrexian Devourer" set="all" />}}{{< scryfall-card name="Triskelion" set="atq" />}}{{< scryfall-card name="Unearth" set="uds" />}}</div>
-
-1. Start with Survival in play and Palinchron in hand
-2. Discard Palinchron to Survival → get Shapeshifter
-3. Discard Shapeshifter to Survival → get Phyrexian Devourer
-4. Cast Unearth targeting Shapeshifter — it enters and untaps up to seven lands
-5. Discard Phyrexian Devourer to Survival → get Triskelion
-6. Activate Shifter/Devourer X times until enough counters
-7. Discard Triskelion to Survival
-8. Activate Shifter/Triskelion removing counters and shooting the opponent
-
-> This line can be started on the opponent's turn. When Shifter is in the bin you only need 2 lands: {B} for Unearth and then {G}{G} to activate Survival twice.
->
-> If not using Unearth, pay {2}{U} to cast Shapeshifter and then untap at least 2 lands to discard Devourer and Triskelion.
->
->
+1. Activate Hermit Druid and put Karmic Guide on top of your graveyard
+2. Cast Unearth targeting Shapeshifter
+3. Shifter enters as Guide and targets Guide itself *(if you need an extra body for Therapy)*
+4. Shifter/Guide enters and targets Psychatog
+5. Remove Unearth + Guide with Psychatog to reveal Scrounger on top of graveyard
+6. Activate Shifter/Scrounger to shuffle Scrounger + Palinchron + Akroma back into the library (20 CMC)
+7. Reveal Devourer on top of graveyard
+8. Activate Shifter/Devourer 3 times
+9. Remove Devourer with Psychatog to reveal Triskelion on top of graveyard
+10. Shoot the opponent with Shifter/Triskelion
