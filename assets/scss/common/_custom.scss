@@ -695,7 +695,7 @@ blockquote {
     background-color: #1f2129;
     background-image: url("/images/hermit-druid.jpg");
     background-size: cover;
-    background-position: left 85%;
+    background-position: left 100%;
     background-repeat: no-repeat;
     overflow: hidden;
 
@@ -736,7 +736,7 @@ blockquote {
     &:hover {
       background-color: transparent !important;
       background-image: url("/images/hermit-druid.jpg") !important;
-      background-position: left 85%;
+      background-position: left 100%;
       background-size: cover;
       background-repeat: no-repeat;
     }
