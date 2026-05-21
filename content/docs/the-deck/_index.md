@@ -201,8 +201,6 @@ So while the first sixteen lands are fixed and the three Reflecting Pool are ver
 
 <div class="matchup-summary" markdown="1">
 
-## Philosophy
-
 Mastering hFEB is less about memorizing fixed patterns and more about understanding how to adapt its engines to the game at hand. This guide will help you develop both the technical knowledge and the strategic intuition required to pilot the deck to its full potential.
 
 > *For a complementary introduction, check out the [CrazyCarl Primer](https://www.patreon.com/posts/premodern-hfeb-110703523).*
