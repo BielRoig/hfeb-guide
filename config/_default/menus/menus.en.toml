@@ -31,22 +31,16 @@
   pageRef = "/docs/the-deck"
 
 [[sidebar_docs]]
-  name = "How to Play"
-  weight = 30
-  identifier = "how-to-play"
+  name = "Core Lines"
+  weight = 20
+  identifier = "core-lines"
   pageRef = "/docs/how-to-play"
 
 [[sidebar_docs]]
-  name = "Lines"
-  weight = 40
-  identifier = "lines"
+  name = "Advanced Lines"
+  weight = 30
+  identifier = "advanced-lines"
   pageRef = "/docs/lines"
-
-[[sidebar_docs]]
-  name = "Matchups"
-  weight = 50
-  identifier = "matchups"
-  pageRef = "/docs/matchups"
 
 [[sidebar_docs]]
   name = "Matchup Spread"
