@@ -1,5 +1,5 @@
 ---
-title: "Appendix"
+title: "CMC Distribution"
 description: "Monte Carlo simulations and CMC distribution analysis for hFEB."
 lead: "All in on Devourer: a statistical analysis of CMC distribution and Devourer activations through Monte Carlo simulations."
 date: 2026-05-20T00:00:00+00:00
