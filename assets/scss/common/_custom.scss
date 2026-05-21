@@ -564,3 +564,51 @@ blockquote {
     font-size: inherit;
   }
 }
+
+// ============================================
+// The Toolbox: clickable card images with lavender neon
+// ============================================
+
+.toolbox-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.25rem;
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.toolbox-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.25s ease;
+
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+  }
+}
+
+.toolbox-card:hover {
+  transform: translateY(-3px);
+  box-shadow:
+    0 0 8px rgba(167, 139, 250, 0.7),
+    0 0 20px rgba(147, 119, 230, 0.5),
+    0 0 40px rgba(127, 99, 210, 0.3);
+  text-decoration: none;
+}
+
+// Stile titolo H3 per ogni sezione del toolbox (più discreto di un H2)
+.toolbox-section {
+  scroll-margin-top: 6rem; // così quando ci clicchi sopra il titolo non finisce sotto la navbar
+  margin-top: 2.5rem;
+}
