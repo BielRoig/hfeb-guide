@@ -30,7 +30,6 @@ The typical combat kill assembled with Hermit Druid.
 {{< scryfall-card name="Cabal Therapy" set="ody" />}}
 {{< scryfall-card name="Akroma, Angel of Wrath" set="lgn" />}}
 </div>
-
 1. Activate Hermit Druid and put Karmic Guide on top of your graveyard
 2. Cast Unearth targeting Shapeshifter
 3. Shifter enters as Guide and targets Guide itself *(if you need an extra body for Therapy)*
