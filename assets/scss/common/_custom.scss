@@ -870,12 +870,12 @@ blockquote {
 
 // 3 carte: poca sovrapposizione, si vedono quasi intere
 .card-row--stack:has(.card-inline:nth-child(3):last-child) .card-inline {
-  margin-right: -110px !important;
+  margin-right: -60px !important;
 }
 
 // 4 carte
 .card-row--stack:has(.card-inline:nth-child(4):last-child) .card-inline {
-  margin-right: -97px !important;
+  margin-right: -80px !important;
 }
 
 // 5 carte
