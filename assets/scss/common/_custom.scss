@@ -890,12 +890,12 @@ blockquote {
 
 // 7 carte
 .card-row--stack:has(.card-inline:nth-child(7):last-child) .card-inline {
-  margin-right: -118px !important;
+  margin-right: -113px !important;
 }
 
 // 8 carte
 .card-row--stack:has(.card-inline:nth-child(8):last-child) .card-inline {
-  margin-right: -125px !important;
+  margin-right: -130px !important;
 }
 
 // L'ultima card non deve mai avere margin-right negativo (rimane visibile intera)
