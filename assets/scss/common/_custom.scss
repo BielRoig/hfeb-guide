@@ -870,17 +870,17 @@ blockquote {
 
 // 3 carte: poca sovrapposizione, si vedono quasi intere
 .card-row--stack:has(.card-inline:nth-child(3):last-child) .card-inline {
-  margin-right: -60px !important;
+  margin-right: -45px !important;
 }
 
 // 4 carte
 .card-row--stack:has(.card-inline:nth-child(4):last-child) .card-inline {
-  margin-right: -80px !important;
+  margin-right: -65px !important;
 }
 
 // 5 carte
 .card-row--stack:has(.card-inline:nth-child(5):last-child) .card-inline {
-  margin-right: -103px !important;
+  margin-right: -85px !important;
 }
 
 // 6 carte
@@ -890,7 +890,7 @@ blockquote {
 
 // 7 carte
 .card-row--stack:has(.card-inline:nth-child(7):last-child) .card-inline {
-  margin-right: -113px !important;
+  margin-right: -125px !important;
 }
 
 // 8 carte
