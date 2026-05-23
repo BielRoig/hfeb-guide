@@ -13,7 +13,7 @@ These are the baseline patterns you should learn first. They are not always the 
 
 ---
 
-<details class="collapsible-hero">
+<details class="collapsible-hero collapsible-hero--survival">
 <summary>Hermit Kill with Akroma</summary>
 <div markdown="1">
 
