@@ -31,6 +31,8 @@ jobs:
 
       - name: Install Node.js dependencies
         run: npm ci
+        env:
+          PUPPETEER_SKIP_DOWNLOAD: "true"
 
       - name: Install Hugo
         run: |
@@ -42,6 +44,12 @@ jobs:
         env:
           HUGO_ENVIRONMENT: production
         run: hugo --gc --minify --baseURL "https://hfeb.guide/"
+
+      - name: Install Puppeteer browser
+        run: npx puppeteer browsers install chrome
+
+      - name: Generate PDF
+        run: node scripts/generate-pdf.js
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

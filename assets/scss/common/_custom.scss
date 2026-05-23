@@ -902,3 +902,61 @@ blockquote {
 .card-row--stack .card-inline:last-child {
   margin-right: 0 !important;
 }
+
+// ─── Print / PDF ────────────────────────────────────────────────────────────
+@media print {
+  // Bootstrap dark-mode overrides — force light text on white paper
+  [data-bs-theme="dark"] {
+    --bs-body-color: #212529;
+    --bs-body-color-rgb: 33, 37, 41;
+    --bs-heading-color: #212529;
+    --bs-link-color: #212529;
+    --bs-link-hover-color: #212529;
+    --bs-code-color: #212529;
+    color-scheme: light;
+  }
+
+  body, h1, h2, h3, h4, h5, h6, p, li, td, th, code, pre, span, div {
+    color: #212529 !important;
+  }
+
+  a { color: #212529 !important; text-decoration: underline; }
+
+  // Hide all navigation chrome
+  .navbar,
+  .docs-sidebar,
+  .docs-toc,
+  .toc-mobile,
+  footer,
+  .page-footer-meta,
+  .docs-navigation,
+  nav[aria-label="breadcrumb"],
+  .breadcrumb,
+  .btn-cta,
+  .search-modal,
+  .page-header .ai-buttons { display: none !important; }
+
+  // Full-width content — remove the multi-column grid
+  .row.flex-xl-nowrap { display: block !important; }
+
+  .docs-content {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  // Reasonable card image size on paper
+  .card-image {
+    max-width: 160px !important;
+    max-height: 220px !important;
+    height: auto !important;
+  }
+
+  // Avoid orphaned headings
+  h1, h2, h3, h4 { page-break-after: avoid; }
+  img { max-width: 100% !important; }
+
+  // Hide the fixed background image used on list pages
+  div[style*="background-image"] { display: none !important; }
+}
