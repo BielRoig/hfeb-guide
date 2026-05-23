@@ -22,12 +22,12 @@ The typical combat kill assembled with Hermit Druid.
 **Graveyard order (top to bottom):** Karmic Guide → ...
 
 <div class="card-row card-row--stack">
-{{< scryfall-card name="Hermit Druid" set="tmp" />}}
+{{< scryfall-card name="Survival of the Fittest" set="exo" />}}
+{{< scryfall-card name="Palinchron" set="usg" />}}
 {{< scryfall-card name="Volrath's Shapeshifter" set="str" />}}
+{{< scryfall-card name="Phyrexian Devourer" set="all" />}}
+{{< scryfall-card name="Triskelion" set="atq" />}}
 {{< scryfall-card name="Unearth" set="uds" />}}
-{{< scryfall-card name="Karmic Guide" set="usg" />}}
-{{< scryfall-card name="Psychatog" set="ody" />}}
-{{< scryfall-card name="Cabal Therapy" set="ody" />}}
 </div>
 
 1. Activate Hermit Druid and put Karmic Guide on top of your graveyard
