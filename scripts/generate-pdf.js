@@ -84,6 +84,12 @@ async function renderPage(browser, url) {
 
   await page.goto(url, { waitUntil: 'networkidle2', timeout: 30000 });
 
+  // Expand all collapsible elements before capturing
+  await page.evaluate(() => {
+    document.querySelectorAll('details').forEach(el => { el.open = true; });
+    document.querySelectorAll('.collapse').forEach(el => el.classList.add('show'));
+  });
+
   // Wait for Scryfall card images to finish loading
   await page.waitForFunction(
     () => {
