@@ -118,7 +118,7 @@ async function main() {
       process.stdout.write(`  ${pagePath} … `);
       const buf = await renderPage(browser, `${BASE}${pagePath}`);
       const doc = await PDFDocument.load(buf);
-      const copied = await merged.copyPagesFrom(doc, doc.getPageIndices());
+      const copied = await merged.copyPages(doc, doc.getPageIndices());
       copied.forEach(p => merged.addPage(p));
       console.log(`${doc.getPageCount()} page(s)`);
     }
