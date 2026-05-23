@@ -5,7 +5,7 @@ layout: "flowchart"
 favorability: "even"
 date: 2026-05-19T00:00:00+00:00
 draft: false
-_build:
+build:
   list: never
   render: always
 start: "start"

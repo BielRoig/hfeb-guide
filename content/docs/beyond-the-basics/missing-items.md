@@ -5,7 +5,7 @@ lead: "How to win when key pieces are exiled, removed, or simply not yet drawn. 
 date: 2026-05-20T00:00:00+00:00
 lastmod: 2026-05-20T00:00:00+00:00
 draft: false
-_build:
+build:
   list: never
   render: always
 ---

@@ -5,7 +5,7 @@ lead: "How to identify the hate that matters, play around it, and pivot to the r
 date: 2026-05-20T00:00:00+00:00
 lastmod: 2026-05-20T00:00:00+00:00
 draft: false
-_build:
+build:
   list: never
   render: always
 ---

@@ -141,7 +141,7 @@ collections:
       - { label: Date, name: date, widget: datetime }
       - { label: Draft, name: draft, widget: boolean, default: false }
       - label: Build Settings
-        name: _build
+        name: build
         widget: object
         required: false
         fields:

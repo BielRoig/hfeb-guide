@@ -5,7 +5,7 @@ description: "hFEB matchup guide against Mono U Dreadnought."
 layout: "matchup"
 date: 2026-05-18T00:00:00+00:00
 draft: false
-_build:
+build:
   list: never
   render: always
 ---

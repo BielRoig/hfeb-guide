@@ -5,7 +5,7 @@ lead: "All in on Devourer: a statistical analysis of CMC distribution and Devour
 date: 2026-05-20T00:00:00+00:00
 lastmod: 2026-05-20T00:00:00+00:00
 draft: false
-_build:
+build:
   list: never
   render: always
 ---

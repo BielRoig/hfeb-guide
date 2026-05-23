@@ -5,7 +5,7 @@ lead: "Volrath's Shapeshifter has one of the most unique wordings in Magic — a
 date: 2026-05-20T00:00:00+00:00
 lastmod: 2026-05-20T00:00:00+00:00
 draft: false
-_build:
+build:
   list: never
   render: always
 ---

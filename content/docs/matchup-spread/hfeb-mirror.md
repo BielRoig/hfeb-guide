@@ -5,7 +5,7 @@ description: "hFEB matchup guide for the mirror match."
 layout: "matchup"
 date: 2026-05-19T00:00:00+00:00
 draft: false
-_build:
+build:
   list: never
   render: always
 ---
