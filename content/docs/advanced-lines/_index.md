@@ -100,6 +100,7 @@ Aura Thief can beat Solitary Confinement and most other Enchantress locks. This 
 {{< scryfall-card name="Karmic Guide" set="usg" />}}
 {{< scryfall-card name="Psychatog" set="ody" />}}
 {{< scryfall-card name="Cabal Therapy" set="ody" />}}
+{{< scryfall-card name="Aura Thief" set="uds" />}}
 </div>
 
 **Line A:**
