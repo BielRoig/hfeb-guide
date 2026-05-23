@@ -28,7 +28,6 @@ The typical combat kill assembled with Hermit Druid.
 {{< scryfall-card name="Karmic Guide" set="usg" />}}
 {{< scryfall-card name="Psychatog" set="ody" />}}
 {{< scryfall-card name="Cabal Therapy" set="ody" />}}
-<!--{{< scryfall-card name="Akroma, Angel of Wrath" set="lgn" />}}-->
 </div>
 
 1. Activate Hermit Druid and put Karmic Guide on top of your graveyard
