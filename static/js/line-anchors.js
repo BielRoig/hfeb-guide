@@ -42,10 +42,39 @@
     }, 50);
   }
 
+  function initLightbox() {
+    var overlay = document.createElement('div');
+    overlay.className = 'lightbox-overlay';
+    var img = document.createElement('img');
+    overlay.appendChild(img);
+    document.body.appendChild(overlay);
+
+    document.querySelectorAll('.card-row > img').forEach(function (el) {
+      el.addEventListener('click', function () {
+        img.src = el.src;
+        img.alt = el.alt;
+        overlay.classList.add('is-open');
+      });
+    });
+
+    overlay.addEventListener('click', function () {
+      overlay.classList.remove('is-open');
+      img.src = '';
+    });
+
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') {
+        overlay.classList.remove('is-open');
+        img.src = '';
+      }
+    });
+  }
+
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', init);
+    document.addEventListener('DOMContentLoaded', function () { init(); initLightbox(); });
   } else {
     init();
+    initLightbox();
   }
 
   window.addEventListener('hashchange', openHash);

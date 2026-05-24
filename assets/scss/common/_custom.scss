@@ -1127,3 +1127,43 @@ blockquote {
 .ms.ms-cost {
   // ms-cost è la variante "rotonda piena" - la più usata nelle card
 }
+
+// ============================================
+// Lightbox: click to enlarge board state images
+// Triggered on direct <img> children of .card-row
+// (MTG card images are wrapped in .card-inline, so they're excluded)
+// ============================================
+
+.card-row > img {
+  cursor: zoom-in;
+  transition: opacity 0.15s ease;
+
+  &:hover {
+    opacity: 0.88;
+  }
+}
+
+.lightbox-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.88);
+  z-index: 9999;
+  cursor: zoom-out;
+  align-items: center;
+  justify-content: center;
+
+  &.is-open {
+    display: flex;
+  }
+
+  img {
+    max-width: 92vw;
+    max-height: 88vh;
+    object-fit: contain;
+    border-radius: 6px;
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.6);
+    pointer-events: none;
+    cursor: default;
+  }
+}
