@@ -908,6 +908,12 @@ blockquote {
   margin-right: 0 !important;
 }
 
+// Show # anchor on collapsible-hero summary hover (matches heading anchor behaviour)
+.collapsible-hero summary:hover .anchor {
+  visibility: visible;
+  text-decoration: none;
+}
+
 // ─── Spoiler (collapsible puzzle solution) ──────────────────────────────────
 .spoiler {
   margin: 1.5rem 0;
