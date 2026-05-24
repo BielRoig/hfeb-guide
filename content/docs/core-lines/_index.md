@@ -13,13 +13,13 @@ These are the baseline patterns you should learn first. They are not always the 
 
 ---
 
-<details class="collapsible-hero">
+<details class="collapsible-hero line-polished">
 <summary>Hermit Kill with Akroma</summary>
 <div markdown="1">
 
 The typical combat kill assembled with Hermit Druid.
 
-**Graveyard order (top to bottom):** Karmic Guide → ...
+<p class="graveyard-order"><strong>Graveyard order (top to bottom):</strong> Karmic Guide → ...</p>
 
 <div class="card-row card-row--stack">
 {{< scryfall-card name="Hermit Druid" set="tmp" />}}
