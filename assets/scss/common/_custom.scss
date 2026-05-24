@@ -960,3 +960,99 @@ blockquote {
   // Hide the fixed background image used on list pages
   div[style*="background-image"] { display: none !important; }
 }
+
+// ============================================
+// Lines: stili per il contenuto interno
+// Attivi SOLO quando il <details> ha anche la classe "line-polished".
+// Questo ci permette di testare su una sola linea prima di applicare ovunque.
+// ============================================
+
+.collapsible-hero.line-polished {
+
+  // --- Riga "Graveyard order" ---
+  // Riconosce un <p> il cui primo figlio è uno <strong> che contiene "Graveyard order"
+  > div > p:has(> strong:first-child) {
+    // Lo stile si applica solo se davvero è una graveyard line:
+    // niente da fare via CSS puro per leggere il testo, quindi usiamo una classe.
+    // Ma in alternativa lasciamo che venga colpito da un selettore più mirato sotto.
+  }
+
+  .graveyard-order {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.4rem 0.85rem;
+    margin: 0.5rem 0 1rem;
+    background-color: rgba(167, 139, 250, 0.08);
+    border-left: 3px solid rgba(167, 139, 250, 0.6);
+    border-radius: 4px;
+    font-size: 0.95rem;
+    color: var(--bs-body-color);
+
+    &::before {
+      content: "🪦";
+      font-size: 1rem;
+      opacity: 0.85;
+    }
+
+    strong {
+      color: #d4c5fc;
+      font-weight: 600;
+      margin-right: 0.25rem;
+    }
+  }
+
+  // --- Lista numerata dei passaggi ---
+  > div > ol {
+    list-style: none;
+    counter-reset: step;
+    padding-left: 0;
+    margin: 1.25rem 0;
+
+    > li {
+      counter-increment: step;
+      position: relative;
+      padding: 0.35rem 0 0.35rem 2.5rem;
+      margin-bottom: 0.4rem;
+      line-height: 1.55;
+
+      &::before {
+        content: counter(step);
+        position: absolute;
+        left: 0;
+        top: 0.25rem;
+        width: 1.75rem;
+        height: 1.75rem;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        background-color: rgba(167, 139, 250, 0.18);
+        border: 1px solid rgba(167, 139, 250, 0.55);
+        border-radius: 50%;
+        color: #d4c5fc;
+        font-weight: 700;
+        font-size: 0.9rem;
+        font-variant-numeric: tabular-nums;
+      }
+    }
+  }
+
+  // --- Blockquote (side notes) ---
+  > div > blockquote {
+    margin: 1.25rem 0;
+    padding: 0.9rem 1.1rem 0.9rem 1.1rem;
+    background-color: rgba(167, 139, 250, 0.07);
+    border-left: 3px solid rgba(167, 139, 250, 0.6);
+    border-radius: 0 6px 6px 0;
+    color: var(--bs-body-color);
+
+    p {
+      margin-bottom: 0.5rem;
+      &:last-child { margin-bottom: 0; }
+    }
+
+    strong {
+      color: #d4c5fc;
+    }
+  }
+}
