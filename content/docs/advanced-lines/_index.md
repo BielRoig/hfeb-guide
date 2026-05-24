@@ -43,12 +43,14 @@ Scrounger means you are no longer limited to a single avenue of lethal. Here is 
 1. <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Hermit on upkeep
 2. Order graveyard: Guide, Tog, Scrounger, WoR, Devourer, Trike<br>
    *(if under 6 mana available, activate on opponent's EOT instead)*
-3. Cast Krosan Reclamation to put two Shifters back in the library<br>
+3. <i class="ms ms-1 ms-cost"><i class="ms ms-g ms-cost"></i>Cast Krosan Reclamation targeting two Shapeshifter<br>
    *(if under 6 mana, do this on opponent's EOT)*
-4. Draw Shifter and cast it. Opponent sees Guide trigger coming — if they exile Guide, Shifter enters as Tog and you pump for a lethal Akroma attack. Assuming they don't exile Guide...
-5. Shifter enters as Guide and targets Guide. If opponent exiles Guide, Shifter becomes Tog. If they exile Tog instead, Guide enters and targets Triskelion. Use Shifter/Scrounger to put Scrounger + WoR + Akroma (15 CMC) into library. Combined with Shifter already in library = 18 CMC. Devourer on top — devour the whole library for 18 counters. Shoot opponent twice with Triskelion, shoot Triskelion to put it on top, deal the remaining 18 damage.
-6. Assuming Tog enters, you now have Hermit, Shifter, Guide, and Tog in play. Check whether opponent has exiled any card up to now — if they have (and it wasn't Akroma), sac Tog to Therapy, pump, and attack for lethal. If Akroma was exiled, use Scrounger to put Palinchron + Squee + ESG (16 CMC) back. Next upkeep put Scrounger + WoR + WoR (25 CMC total) and FEB for lethal.
+4. Draw Shifter and <i class="ms ms-1 ms-cost"><i class="ms ms-u ms-cost"><i class="ms ms-u ms-cost"> cast it. Opponent sees Guide trigger coming: if they exile Guide, Shifter enters as Tog and you pump for a lethal Akroma attack. Assuming they don't exile Guide...
+5. Shifter enters as Guide and targets Guide. If opponent exiles Guide, Shifter becomes Tog. If they exile Tog instead, Guide enters and targets Triskelion. Use Shifter/Scrounger to put Scrounger + WoR + Akroma (15 CMC) into library. Combined with Shifter already in library = 18 CMC. With Devourer on top, activate Shifter/Deevourer to exile the whole library for 18 counters. Shoot opponent twice with Triskelion, shoot Triskelion to put it on top, deal the remaining 18 damage.
+6. Assuming Tog enters, you now have Hermit, Shifter, Guide, and Tog in play. Check whether opponent has exiled any card up to now: if they have (and it wasn't Akroma), sac Tog to Therapy, pump, and attack for lethal. If Akroma was exiled, use Scrounger to put Palinchron + Squee + ESG (16 CMC) back. Next upkeep put Scrounger + WoR + WoR (25 CMC total) and FEB for lethal.
 7. Assuming opponent still has Furnace up: Scrounge Palinchron + Akroma + ESG (21 CMC) and pass the turn. If opponent tries to exile anything, use Tog to reveal Devourer and kill with the 21 CMC. Otherwise on their upkeep, Scrounge Scrounger + Squee + WoR (10 more CMC) and attempt FEB kill.
+
+>The Wall of Roots is in the pile because we might have naturally draw the Shapeshifter the previous turns. This mean that we might have the window to use Krosan Reclamation to shuffle more cards from the graveyard into the library.
 
 </div>
 </details>
@@ -59,7 +61,7 @@ Scrounger means you are no longer limited to a single avenue of lethal. Here is 
 
 A Scrounger-based line that works around most graveyard hate without needing a second creature in hand. Requires Shifter to be non-summoning sick. The key idea: pitch Hermit Druid to Survival repeatedly until one resolves with Hermit still in the graveyard.
 
-> ⚠️ If the opponent has more than four mana and Withered Wretch on the battlefield, committing to this line is not safe.
+> ⚠️ If the opponent has more than four mana and Withered Wretch, committing to this line is not 100% safe.
 
 <p class="graveyard-order"><strong>Graveyard order (top to bottom):<br>
 </strong>Battlefield Scrounger<br>
@@ -72,16 +74,20 @@ A Scrounger-based line that works around most graveyard hate without needing a s
 {{< scryfall-card name="Battlefield Scrounger" set="ody" />}}  
 </div>
 
-1. <i class="ms ms-g ms-cost"></i> *(If needed, discard a creature to Survival → get Hermit Druid)*
-2. <i class="ms ms-g ms-cost"></i> Discard Hermit to Survival → get Triskelion. If Hermit is removed before Survival resolves, get another Hermit and repeat this step
-3. Activate Shifter/Hermit and put Scrounger on top of graveyard
-4. Activate Shifter/Scrounger to shuffle Scrounger + Akroma + Palinchron back into library (20 CMC)
-5. Activate Shifter/Psychatog at least 3 times for a total +6/+6 pump. The opponent can use all the graveyard hate they want here — keep pumping in response until +6/+6 is achieved
-6. Exile Psychatog + X cards to reveal Devourer (Shifter will have 7+ power, so sacrifice trigger goes on stack)
-7. Activate Shifter/Devourer 3 times exiling Akroma + Palinchron + Scrounger for 20 counters total
-8. <i class="ms ms-g ms-cost"></i> Discard Triskelion to Survival and shoot
+1. *(<i class="ms ms-g ms-cost"></i> discard a creature to Survival to get Hermit Druid)*
+2. <i class="ms ms-g ms-cost"></i> Discard Hermit to Survival
+3. Get Triskelion<br>
+   *(If Hermit is removed before Survival resolves, get another Hermit and repeat this step)*
+5. Activate Shifter/Hermit and put Scrounger on top of graveyard
+6. Activate Shifter/Scrounger to shuffle Scrounger + Akroma + Palinchron back into library (20 CMC)
+7. Let the +3/+3 pump from Scrounger resolve
+8. Activate Shifter/Psychatog at least 3 times for a total +6/+6 pump. The opponent can use all the graveyard hate they want here: **keep pumping in response until +6/+6 is achieved**
+9. Exile Psychatog and another card to reveal Devourer
+10. **Shifter will have 7+ power, so sacrifice trigger goes on stack**
+11. Activate Shifter/Devourer 3 times exiling Akroma + Palinchron + Scrounger for 20 counters total
+12. <i class="ms ms-g ms-cost"></i> Discard Triskelion to Survival and shoot
 
-> Every action in this line is part of an activation cost. The opponent has no window to meaningfully interact once the sequence begins. Pre-triggering the sacrifice clause guarantees all Devourer activations resolve above the sacrifice trigger — none can be blocked!
+> Every action in this line is part of an activation cost. The opponent has no window to meaningfully interact once the sequence begins. Pre-triggering the sacrifice clause guarantees all Devourer activations resolve above the sacrifice trigger — none can be [covered](/docs/beyond-the-basics/activation-covering/)!
 
 </div>
 </details>
