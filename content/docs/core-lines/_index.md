@@ -44,7 +44,7 @@ The typical combat kill assembled with Hermit Druid.
 </details>
 
 <details class="collapsible-hero line-polished">
-<summary>Hermit Kill with Devourer — 20 Damage</summary>
+<summary>Hermit Kill with Devourer<br>*20 Damage*</summary>
 <div markdown="1">
 
 If you can't go into combat to kill with Akroma, you can still use Hermit and shoot with Triskelion. If you need more than 20 damage, use Animate Dead to bring back two Shifters and shuffle more cards back into the library, or you can activate Shifter/Scrounger once in your turn and once in your opponent upkeep.
