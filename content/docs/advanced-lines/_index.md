@@ -83,7 +83,7 @@ A Scrounger-based line that works around most graveyard hate without needing a s
 7. Let the +3/+3 pump from Scrounger resolve
 8. Activate Shifter/Psychatog at least 3 times for a total +6/+6 pump. The opponent can use all the graveyard hate they want here: **keep pumping in response until +6/+6 is achieved**
 9. Exile Psychatog and another card to reveal Devourer
-10. **Shifter will have 7+ power, so sacrifice trigger goes on stack**
+10. **Shifter/Devourer will have 7+ power, so the Devourer sacrifice trigger goes on stack**
 11. Activate Shifter/Devourer 3 times exiling Akroma + Palinchron + Scrounger for 20 counters total
 12. <i class="ms ms-g ms-cost"></i> Discard Triskelion to Survival and shoot
 
@@ -108,14 +108,16 @@ With a non-summoning sick Shapeshifter and Survival of the Fittest, you can gene
 {{< scryfall-card name="Battlefield Scrounger" set="ody" />}}
 </div>
 
-1. <i class="ms ms-g ms-cost"></i> *(If needed, discard a creature to Survival → get Hermit Druid)*
-2. <i class="ms ms-g ms-cost"></i> Discard Hermit to Survival → get Triskelion
-3. Activate Shifter/Hermit and put Battlefield Scrounger on top of graveyard
-4. Activate Shifter/Scrounger to shuffle Scrounger + Akroma + Palinchron back into library (20 CMC)
-5. Activate Shifter/Devourer, letting each trigger resolve before the next. If opponent activates Crypt here, spend <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> to cast Krosan Reclamation and put Karmic Guide + Squee (8 CMC) in library, then activate Shifter/Devourer again to reach lethal
-6. <i class="ms ms-g ms-cost"></i> Discard Triskelion to Survival and shoot
+1. *(<i class="ms ms-g ms-cost"></i> discard a creature to Survival to get Hermit Druid)*
+2. <i class="ms ms-g ms-cost"></i> Discard Hermit to Survival
+3. Get Triskelion
+3. <i class="ms ms-g ms-cost"></i> Activate Shifter/Hermit
+4. Put Battlefield Scrounger on top of graveyard
+5. Activate Shifter/Scrounger to shuffle Scrounger + Akroma + Palinchron back into library (20 CMC)
+6. Activate Shifter/Devourer, letting each trigger resolve before the next. If opponent activates Crypt here, spend <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> to cast Krosan Reclamation and put Karmic Guide + Squee (8 CMC) in library, then activate Shifter/Devourer again to reach lethal
+7. <i class="ms ms-g ms-cost"></i> Discard Triskelion to Survival and shoot
 
-> Scrounger's library-filling is part of the activation cost — the opponent cannot prevent those cards from going back. There is no relevant window for the opponent to use a single Furnace or Crypt to stop this sequence.
+> Scrounger's library-filling is part of the activation cost, so the opponent cannot prevent those cards from going back. There is no relevant window for the opponent to use a single Furnace or Crypt to stop this sequence.
 
 </div>
 </details>
