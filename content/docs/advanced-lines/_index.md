@@ -193,47 +193,33 @@ This loop produces a **+1.5/+1 pump per card in the graveyard** — 3× more eff
 <summary>Aura Thief vs Enchantress Lock</summary>
 <div markdown="1">
 
-Aura Thief can beat Solitary Confinement and most other Enchantress locks. This is a pass-the-turn line that steals all enchantments the opponent controls before proceeding with normal combo lines.
+Aura Thief can beat Solitary Confinement and most other Enchantress locks.
 
 <p class="graveyard-order"><strong>Graveyard order (top to bottom):<br>
 </strong>Karmic Guide<br>
-</strong><em>(Wall of Roots × 2)</em><br>
 </strong>Aura Thief</p>
 
 <div class="card-row card-row--stack">
-{{< scryfall-card name="Hermit Druid" set="tmp" />}}
-{{< scryfall-card name="Volrath's Shapeshifter" set="str" />}}
-{{< scryfall-card name="Unearth" set="uds" />}}
-{{< scryfall-card name="Karmic Guide" set="usg" />}}
-{{< scryfall-card name="Psychatog" set="ody" />}}
 {{< scryfall-card name="Cabal Therapy" set="ody" />}}
 {{< scryfall-card name="Aura Thief" set="uds" />}}
+{{< scryfall-card name="Karmic Guide" set="usg" />}}
 </div>
 
-**Line A:**
+1. <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Hermit Druid
+2. *(If you are in your upkeep <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> cast Krosan Reclamation and shuffle Animate Dead in the deck and go to draw step)*
+2. <i class="ms ms-1 ms-cost"></i><i class="ms ms-b ms-cost"></i> Cast Animate Dead targeting Shapeshifter
+3. Guide targets Shapeshifter and both Guide and Animate Dead triggers go on the stack
+4. Animate Dead trigger has to resolve first, so that Guide will go back to the graveyard on top of the Animate Dead
+5. Shifter/Guide enters and targets Shifter #2
+6. Shifter/Guide #2 enters and targets Guide itself
+7. Guide enters and targets Psychatog
+8. Use Psychatog to clean the top of graveyard and reveal Aura Thief
+9. Sacrifice Shifter/Thief #1 with Cabal Therapy
+10. **Aura Thief triggers and you gain control of all opponent's enchantments**
+11. At this point you have both Shifter and Psychatog in play
+12. Kill with the Shifter/Akroma or the Scrounger/Trike line
 
-1. <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Hermit Druid and put Karmic Guide on top of graveyard<br>
-   *(use Krosan Reclamation if no reanimation spell in hand)*
-2. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter
-3. Shifter/Guide enters and targets Guide itself
-4. Guide enters and targets Aura Thief
-5. Sacrifice Aura Thief with Cabal Therapy — Aura Thief triggers and you gain control of all opponent's enchantments
-6. Pass the turn
-7. On your upkeep Guide dies (Echo not paid)
-8. <i class="ms ms-b ms-cost"></i> Cast second Unearth targeting second Shapeshifter
-9. Shifter/Guide enters and targets Guide itself
-10. Guide enters and targets Tog
-11. Use Tog to clean top of graveyard and reveal Aura Thief
-12. Sacrifice first Shifter/Thief to Cabal Therapy
-13. Kill with Shifter/Akroma or Scrounger/Trike line
-
-**Line B (with Wall of Roots in graveyard pile):**
-
-Steps 1–3 are the same as Line A through Shifter/Guide targeting Guide, Guide targeting Psychatog.
-
-4. Remove Unearth from top of graveyard, leave: WoR → WoR → Aura Thief
-5. Pass the turn. During opponent's draw step: activate Shifter/Wall, remove Wall#1 with Tog, activate Shifter/Wall, remove Wall#2 with Tog, let Shifter/Thief die to state-based action → steal all enchantments
-6. Untap and proceed as Line A
+> This line can also be a pass-the-turn line if you want to play around enchantment removal. In this case you shuffle two Unearth in the deck and you *reanimate* Aura Thief with the first one and then sacrifice it with Cabal Therapy.
 
 </div>
 </details>
