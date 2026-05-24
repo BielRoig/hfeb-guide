@@ -52,11 +52,16 @@ Ping baloth one at a time, if they try to sac we can ping them the last dmg.
 
 ## Puzzle 2 {#puzzle-2}
 
-*Setup text goes here.*
+The opponent is at 33 with an imposing board. They have sworded Psychatog and
+Hermit on previous turns and disenchanted Survival. You have flashbacked 2
+Therapy already and you know he has a Daze in hand from the last therapy. Last turn
+he topdecked an Ivory Mask ‍♂️. You are in your upkeep, What’s the play?.
 
-<img src="/images/puzzles/puzzle-2.jpg" alt="Board state" class="img-fluid rounded">
+<div class="card-row" style="align-items: flex-start;">
+<img src="/images/puzzles/puzzle4.png" alt="Board state" class="img-fluid rounded">
+</div>
 
-*Any additional context.*
+*What's the play?*
 
 {{< spoiler label="Show solution" >}}
 Solution text goes here.
@@ -66,11 +71,14 @@ Solution text goes here.
 
 ## Puzzle 3 {#puzzle-3}
 
-*Setup text goes here.*
+It's opponents EOT and they have you at 1 and just dropped a Crypt and a Sulfuric
+Vortex. Your WoR has 1 counter and hasn’t been used yet this turn. What’s the play?
 
-<img src="/images/puzzles/puzzle-3.jpg" alt="Board state" class="img-fluid rounded">
+<div class="card-row" style="align-items: flex-start;">
+<img src="/images/puzzles/puzzle5.png" alt="Board state" class="img-fluid rounded">
+</div>
 
-*Any additional context.*
+*What's the play?*
 
 {{< spoiler label="Show solution" >}}
 Solution text goes here.
