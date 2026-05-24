@@ -66,6 +66,12 @@
   pageRef = "/docs/beyond-the-basics"
 
 [[sidebar_docs]]
+  name = "Puzzles"
+  weight = 65
+  identifier = "puzzles"
+  pageRef = "/docs/puzzles"
+
+[[sidebar_docs]]
   name = "Resources"
   weight = 70
   identifier = "resources"

@@ -908,6 +908,47 @@ blockquote {
   margin-right: 0 !important;
 }
 
+// ─── Spoiler (collapsible puzzle solution) ──────────────────────────────────
+.spoiler {
+  margin: 1.5rem 0;
+  border: 1px solid var(--bs-border-color);
+  border-radius: 8px;
+  overflow: hidden;
+
+  summary {
+    padding: 0.75rem 1.1rem;
+    cursor: pointer;
+    font-weight: 600;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: var(--bs-tertiary-bg);
+    user-select: none;
+
+    &::-webkit-details-marker { display: none; }
+
+    &::before {
+      content: "▶";
+      font-size: 0.7rem;
+      transition: transform 0.2s ease;
+    }
+
+    &:hover { color: var(--bs-primary); }
+  }
+
+  &[open] summary::before {
+    transform: rotate(90deg);
+  }
+
+  &__content {
+    padding: 1rem 1.25rem;
+    border-top: 1px solid var(--bs-border-color);
+
+    > *:last-child { margin-bottom: 0; }
+  }
+}
+
 // ─── Print / PDF ────────────────────────────────────────────────────────────
 @media print {
   // Bootstrap dark-mode overrides — force light text on white paper

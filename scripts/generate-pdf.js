@@ -38,6 +38,7 @@ const PAGES = [
   '/docs/beyond-the-basics/missing-items/',
   '/docs/beyond-the-basics/rules/',
   '/docs/beyond-the-basics/tips-tricks/',
+  '/docs/puzzles/',
   '/docs/resources/',
 ];
 
