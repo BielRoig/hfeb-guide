@@ -152,7 +152,7 @@ The basis of Full English Breakfast. Straightforward and uninterruptable when as
 1. Start with Survival and Shapeshifter in play
 2. <i class="ms ms-g ms-cost"></i> Discard Phyrexian Devourer to Survival
 3. Activate Shifter/Devourer X times until it has enough counters<br>
-   *Let each activation resolve before the next to minimize interaction windows*
+   *Let each activation resolve before the next one*
 5. <i class="ms ms-g ms-cost"></i> Discard Triskelion to Survival
 6. Shoot the opponent with Shifter/Triskelion
 
@@ -161,65 +161,77 @@ The basis of Full English Breakfast. Straightforward and uninterruptable when as
 </div>
 </details>
 
-<details class="collapsible-hero collapsible-hero--survival">
+<details class="collapsible-hero collapsible-hero--survival line-polished">
 <summary>FEB Kill with Palinchron</summary>
 <div markdown="1">
 
 A mana-efficient line using Palinchron to cheat on mana costs. Can be started on the opponent's turn.
 
-**Graveyard order (top to bottom):** Volrath's Shapeshifter → Palinchron
+<p class="graveyard-order"><strong>Graveyard order (top to bottom):<br>
+</strong>Palinchron<br>
+</strong>Volrath's Shapeshifter</p>
 
 <div class="card-row card-row--stack">
-{{< scryfall-card name="Survival of the Fittest" set="exo" />}}
-{{< scryfall-card name="Palinchron" set="usg" />}}
 {{< scryfall-card name="Volrath's Shapeshifter" set="str" />}}
+{{< scryfall-card name="Palinchron" set="usg" />}}
 {{< scryfall-card name="Phyrexian Devourer" set="all" />}}
 {{< scryfall-card name="Triskelion" set="atq" />}}
-{{< scryfall-card name="Unearth" set="uds" />}}
 </div>
 
 1. Start with Survival in play and Palinchron in hand
-2. Discard Palinchron to Survival → get Shapeshifter
-3. Discard Shapeshifter to Survival → get Phyrexian Devourer
-4. Cast Unearth targeting Shapeshifter — it enters and untaps up to seven lands
-5. Discard Phyrexian Devourer to Survival → get Triskelion
-6. Activate Shifter/Devourer X times until enough counters
-7. Discard Triskelion to Survival
-8. Activate Shifter/Triskelion removing counters and shooting the opponent
+2. <i class="ms ms-g ms-cost"></i> Discard Palinchron to Survival
+3. Get Volrath's Shapeshifter
+4. <i class="ms ms-g ms-cost"></i> Discard Volrath's Shapeshifter to Survival
+5. Get Phyrexian Devourer
+6. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter
+7. Shapeshifter enters and you untaps up to seven lands
+8. <i class="ms ms-g ms-cost"></i> Discard Phyrexian Devourer to Survival
+9. Get Triskelion
+10. Activate Shifter/Devourer X times until it has enough counters<br>
+   *Let each activation resolve before the next one*
+11. <i class="ms ms-g ms-cost"></i> Discard Triskelion to Survival
+12. Shoot the opponent with Shifter/Triskelion
 
-> This line can be started on the opponent's turn. When Shifter is in the bin you only need 2 lands: {B} for Unearth and then {G}{G} to activate Survival twice.
+> In this line, Shapeshifter and Palinchron are interchangeable, one can be discarded to get the other.
 >
-> If not using Unearth, pay {2}{U} to cast Shapeshifter and then untap at least 2 lands to discard Devourer and Triskelion.
+> You only need 2 lands: at least one producing <i class="ms ms-b ms-cost"></i> for Unearth and then <i class="ms ms-g ms-cost"></i><i class="ms ms-g ms-cost"></i> to activate Survival twice.
+>
+> If not using Unearth, pay <i class="ms ms-1 ms-cost"></i><i class="ms ms-u ms-cost"></i><i class="ms ms-u ms-cost"></i> to cast Shapeshifter and then untap at least 2 lands to discard Devourer and Triskelion.
 
 </div>
 </details>
 
-<details class="collapsible-hero collapsible-hero--survival">
+<details class="collapsible-hero collapsible-hero--survival line-polished">
 <summary>FEB Kill with Only One Creature to Pitch</summary>
 <div markdown="1">
 
 Useful when you have Survival of the Fittest out but only one creature in hand. This line can be started on the opponent's turn, discarding creatures and sculpting your hand.
 
-**Graveyard order (top to bottom):** Karmic Guide → Phyrexian Devourer → Triskelion
+<p class="graveyard-order"><strong>Graveyard order (top to bottom):<br>
+</strong>Karmic Guide<br>
+</strong>Phyrexian Devourer<br>
+</strong>Triskelion</p>
 
 <div class="card-row card-row--stack">
-{{< scryfall-card name="Survival of the Fittest" set="exo" />}}
-{{< scryfall-card name="Volrath's Shapeshifter" set="str" />}}
-{{< scryfall-card name="Karmic Guide" set="usg" />}}
 {{< scryfall-card name="Phyrexian Devourer" set="all" />}}
 {{< scryfall-card name="Triskelion" set="atq" />}}
+{{< scryfall-card name="Karmic Guide" set="usg" />}}
 </div>
 
 1. Start with Survival out and a creature in hand
-2. Discard Triskelion to Survival → get Phyrexian Devourer
-3. Discard Phyrexian Devourer to Survival → get Karmic Guide
-4. Discard Karmic Guide to Survival → get Shapeshifter
-5. Cast Shapeshifter — it enters as Guide
-6. Guide targets itself
-7. Guide enters and targets Triskelion, leaving Devourer on top of graveyard
-8. Activate Shifter/Devourer X times until enough counters
-9. Activate Triskelion dealing damage to itself — it dies and goes on top of graveyard
-10. Shoot the opponent with Shifter/Triskelion
+2. <i class="ms ms-g ms-cost"></i> Discard Triskelion to Survival
+3. Get Phyrexian Devourer
+4. <i class="ms ms-g ms-cost"></i> Discard Phyrexian Devourer to Survival
+5. Get Karmic Guide
+6. <i class="ms ms-g ms-cost"></i> Discard Karmic Guide to Survival
+7. Get Volrath's Shapeshifter
+8. <i class="ms ms-1 ms-cost"></i><i class="ms ms-u ms-cost"></i><i class="ms ms-u ms-cost"></i> Cast Volrath's Shapeshifter — it enters as Guide
+9. Guide targets itself
+10. Guide enters and targets Triskelion, leaving Devourer on top of graveyard
+11. Activate Shifter/Devourer X times until it has enough counters<br>
+   *Let each activation resolve before the next one*
+12. Activate Triskelion dealing damage to itself — it dies and goes on top of graveyard
+13. Shoot the opponent with Shifter/Triskelion
 
 </div>
 </details>
