@@ -1056,3 +1056,23 @@ blockquote {
     }
   }
 }
+
+// ============================================
+// Mana symbols (Mana Font by Andrew Gioia)
+// La libreria viene caricata in custom-head.html.
+// Qui sistemiamo solo dimensione e allineamento per il nostro testo.
+// ============================================
+
+.ms {
+  font-size: 0.95em;
+  vertical-align: -0.05em;
+  margin: 0 0.05em;
+  // Leggero glow per richiamare il tema viola del sito (opzionale, discreto)
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15);
+}
+
+// I simboli "cost" (con sfondo tondo colorato): nessun ritocco speciale,
+// si rendono già perfettamente con i colori MTG ufficiali.
+.ms.ms-cost {
+  // ms-cost è la variante "rotonda piena" - la più usata nelle card
+}
