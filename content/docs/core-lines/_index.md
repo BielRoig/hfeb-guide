@@ -31,9 +31,10 @@ The typical combat kill assembled with Hermit Druid.
 </div>
 
 1. <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Hermit Druid
-2. Put Karmic Guide on top of your graveyard
-3. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter
-4. Shifter enters as Guide and targets Guide itself<br>
+2. *(If you are in your upkeep <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> cast Krosan Reclamation and shuffle up to two Unearth in the deck and go to draw step)*
+3. Put Karmic Guide on top of your graveyard
+4. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter
+5. Shifter enters as Guide and targets Guide itself<br>
    *(do this if you want an extra body for Therapy)*
 6. Guide enters and targets Psychatog
 7. Sacrifice Psychatog with Cabal Therapy
@@ -65,9 +66,10 @@ If you can't go into combat to kill with Akroma, you can still use Hermit and sh
 </div>
 
 1. <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Hermit Druid
-2. Put Karmic Guide on top of your graveyard
-3. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter
-4. Shifter enters as Guide and targets Guide itself<br>
+2. *(If you are in your upkeep <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> cast Krosan Reclamation and shuffle up to two Unearth in the deck and go to draw step)*
+3. Put Karmic Guide on top of your graveyard
+4. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter
+5. Shifter enters as Guide and targets Guide itself<br>
    *(do this if you want an extra body for Therapy)*
 4. Shifter/Guide enters and targets Psychatog
 5. Remove Unearth + Guide with Psychatog
