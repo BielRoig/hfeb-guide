@@ -31,13 +31,14 @@ The typical combat kill assembled with Hermit Druid.
 {{< scryfall-card name="Akroma, Angel of Wrath" set="lgn" />}}
 </div>
 
-1. Activate Hermit Druid and put Karmic Guide on top of your graveyard
-2. Cast Unearth targeting Shapeshifter
-3. Shifter enters as Guide and targets Guide itself *(if you need an extra body for Therapy)*
-4. Guide enters and targets Psychatog
-5. Sacrifice Psychatog with Cabal Therapy to put it on top of graveyard
-6. Activate Shifter/Tog to pump it (at least 14 times)
-7. Reveal Akroma on top of graveyard and attack with Shifter/Akroma
+1. <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Hermit Druid
+2. Put Karmic Guide on top of your graveyard
+3. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter
+4. Shifter enters as Guide and targets Guide itself *(if you need an extra body for Therapy)*
+5. Guide enters and targets Psychatog
+6. Sacrifice Psychatog with Cabal Therapy to put it on top of graveyard
+7. Activate Shifter/Tog to pump it (at least 14 times)
+8. Reveal Akroma on top of graveyard and attack with Shifter/Akroma
 
 </div>
 </details>
