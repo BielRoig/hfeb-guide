@@ -19,7 +19,8 @@ These are the baseline patterns you should learn first. They are not always the 
 
 The typical combat kill assembled with Hermit Druid.
 
-<p class="graveyard-order"><strong>Graveyard order (top to bottom):</strong> Karmic Guide → ...</p>
+<p class="graveyard-order"><strong>Graveyard order (top to bottom):</strong>
+  Karmic Guide</p>
 
 <div class="card-row card-row--stack">
 {{< scryfall-card name="Volrath's Shapeshifter" set="str" />}}
@@ -42,13 +43,17 @@ The typical combat kill assembled with Hermit Druid.
 </div>
 </details>
 
-<details class="collapsible-hero">
+<details class="collapsible-hero line-polished">
 <summary>Hermit Kill with Devourer — 20 Damage</summary>
 <div markdown="1">
 
 If you can't go into combat to kill with Akroma, you can still use Hermit and shoot with Triskelion. If you need more than 20 damage, use Animate Dead to bring back two Shifters and shuffle more cards back into the library.
 
-**Graveyard order (top to bottom):** Karmic Guide → Battlefield Scrounger → Phyrexian Devourer → Triskelion
+<p class="graveyard-order"><strong>Graveyard order (top to bottom):</strong>
+  Karmic Guide
+  Battlefield Scrounger
+  Phyrexian Devourer
+  Triskelion</p>
 
 <div class="card-row card-row--stack">
 {{< scryfall-card name="Hermit Druid" set="tmp" />}}
