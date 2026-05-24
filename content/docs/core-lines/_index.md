@@ -82,26 +82,26 @@ If you can't go into combat to kill with Akroma, you can still use Hermit and sh
 </div>
 </details>
 
-<details class="collapsible-hero">
+<details class="collapsible-hero line-polished">
 <summary>Shifter Combat Kill — with Hermit Druid</summary>
 <div markdown="1">
 
 A simple line using both Hermit Druid and Volrath's Shapeshifter on the battlefield. Go to combat, activate Druid to put Psychatog on top of the graveyard, pump Shifter/Tog, then reveal Akroma for flying and attack.
 
-**Graveyard order (top to bottom):** Psychatog → ...
+<p class="graveyard-order"><strong>Graveyard order (top to bottom):<br>
+</strong>Psychatog<br>
+</strong>Akroma, Angel of Wrath</p>
 
 <div class="card-row card-row--stack">
-{{< scryfall-card name="Hermit Druid" set="tmp" />}}
-{{< scryfall-card name="Volrath's Shapeshifter" set="str" />}}
-{{< scryfall-card name="Psychatog" set="ody" />}}
 {{< scryfall-card name="Akroma, Angel of Wrath" set="lgn" />}}
+{{< scryfall-card name="Psychatog" set="ody" />}}
 </div>
 
-1. Activate Hermit Druid
-2. Put Psychatog on top of the graveyard
+1. <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Hermit Druid
+2. Put Psychatog on top of your graveyard
 3. Activate Shifter/Tog to pump it
-4. Leave Akroma on top
-5. Attack with Shifter
+4. Reveal Akroma on top of graveyard
+5. Attack with Shifter/Akroma
 
 > This line can be performed by attacking with a 0/1 Shifter and then activating Hermit in combat for an unexpected kill.
 >
@@ -110,36 +110,37 @@ A simple line using both Hermit Druid and Volrath's Shapeshifter on the battlefi
 </div>
 </details>
 
-<details class="collapsible-hero">
+<details class="collapsible-hero line-polished">
 <summary>Shifter Combat Kill — with Devourer</summary>
 <div markdown="1">
 
-Activate Shapeshifter/Devourer while retaining priority, then discard a card so that the Devourer sacrifice trigger never goes on the stack. You end up with a gigantic Shapeshifter ready to attack.
+Activate Shapeshifter/Devourer while retaining priority, then discard a card so that the Devourer sacrifice trigger never goes on the stack. You end up with a gigantic Shapeshifter ready to attack. You can use Psychatog, Survival or the Shapeshifter itself to discard any cards to prevent the sacrifice trigger to go on the stack.
 
-**Graveyard order (top to bottom):** Phyrexian Devourer → ...
+<p class="graveyard-order"><strong>Graveyard order (top to bottom):<br>
+</strong>Phyrexian Devourer<br>
+</strong>Akroma, Angel of Wrath</p>
 
 <div class="card-row card-row--stack">
-{{< scryfall-card name="Volrath's Shapeshifter" set="str" />}}
 {{< scryfall-card name="Phyrexian Devourer" set="all" />}}
 {{< scryfall-card name="Akroma, Angel of Wrath" set="lgn" />}}
 </div>
 
-1. *(Discard Devourer from your hand)*
+1. <i class="ms ms-x ms-cost"></i> Discard Devourer from your hand
 2. Activate Shifter/Devourer and hold priority
-3. Discard a card with Shifter
+3. <i class="ms ms-x ms-cost"></i> Discard a card from your hand
 4. Let the triggers resolve
-5. Attack with the Shapeshifter
+5. Attack with Shapeshifter
 
-> Discard a flying creature — ideally Akroma — to make Shapeshifter unblockable. You can also remove the last counter from a Gemstone Mine instead of discarding a card to achieve the same result.
+> Discard a flying creature — ideally Akroma — to make Shapeshifter lethal. You can also remove the last counter from a Gemstone Mine instead of discarding a card to achieve the same result.
 
 </div>
 </details>
 
-<details class="collapsible-hero collapsible-hero--survival">
+<details class="collapsible-hero collapsible-hero--survival line-polished">
 <summary>Classic FEB Kill</summary>
 <div markdown="1">
 
-The basis of Full English Breakfast. Straightforward and devastating when assembled.
+The basis of Full English Breakfast. Straightforward and uninterruptable when assembled.
 
 <div class="card-row card-row--stack">
 {{< scryfall-card name="Survival of the Fittest" set="exo" />}}
@@ -149,12 +150,13 @@ The basis of Full English Breakfast. Straightforward and devastating when assemb
 </div>
 
 1. Start with Survival and Shapeshifter in play
-2. Discard Phyrexian Devourer to Survival
-3. Activate Shifter/Devourer X times until it has enough counters. Let each activation resolve before the next to minimize interaction windows
-4. Discard Triskelion to Survival
-5. Activate Shifter/Triskelion removing counters and shooting the opponent
+2. <i class="ms ms-g ms-cost"></i> Discard Phyrexian Devourer to Survival
+3. Activate Shifter/Devourer X times until it has enough counters<br>
+   *Let each activation resolve before the next to minimize interaction windows*
+5. <i class="ms ms-g ms-cost"></i> Discard Triskelion to Survival
+6. Shoot the opponent with Shifter/Triskelion
 
-> With all pieces in hand and in play the opponent has no chance to interact. Just be sure to have enough CMC left in the deck to kill — this is not infinite damage!
+> With all pieces in hand and in play the opponent has no chance to interact. Just be sure to have enough CMC left in the deck to kill: this is not infinite damage!
 
 </div>
 </details>
