@@ -117,8 +117,9 @@ A simple line using both Hermit Druid and Volrath's Shapeshifter on the battlefi
 Activate Shapeshifter/Devourer while retaining priority, then discard a card so that the Devourer sacrifice trigger never goes on the stack. You end up with a gigantic Shapeshifter ready to attack. You can use Psychatog, Survival or the Shapeshifter itself to discard any cards to prevent the sacrifice trigger to go on the stack.
 
 <p class="graveyard-order"><strong>Graveyard order (top to bottom):<br>
-</strong>Phyrexian Devourer<br>
-</strong>Akroma, Angel of Wrath</p>
+</strong>Akroma, Angel of Wrath<br>
+</strong>Phyrexian Devourer</p>
+
 
 <div class="card-row card-row--stack">
 {{< scryfall-card name="Phyrexian Devourer" set="all" />}}
