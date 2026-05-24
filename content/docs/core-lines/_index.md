@@ -70,12 +70,14 @@ If you can't go into combat to kill with Akroma, you can still use Hermit and sh
 4. Shifter enters as Guide and targets Guide itself<br>
    *(do this if you want an extra body for Therapy)*
 4. Shifter/Guide enters and targets Psychatog
-5. Remove Unearth + Guide with Psychatog to reveal Scrounger on top of graveyard
-6. Activate Shifter/Scrounger to shuffle Scrounger + Palinchron + Akroma back into the library (20 CMC)
-7. Reveal Devourer on top of graveyard
-8. Activate Shifter/Devourer 3 times
-9. Remove Devourer with Psychatog to reveal Triskelion on top of graveyard
-10. Shoot the opponent with Shifter/Triskelion
+5. Remove Unearth + Guide with Psychatog
+6. Reveal Battlefield Scrounger on top of graveyard
+7. Activate Shifter/Scrounger to shuffle Scrounger + Palinchron + Akroma back into the library (20 CMC)
+8. Reveal Devourer on top of graveyard
+9. Activate Shifter/Devourer 3 times
+10. Remove Devourer with Psychatog
+11. Reveal Triskelion on top of graveyard
+12. Shoot the opponent with Shifter/Triskelion
 
 </div>
 </details>
