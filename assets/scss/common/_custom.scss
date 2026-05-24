@@ -678,7 +678,7 @@ blockquote {
 
   > summary {
     position: relative;
-    display: flex;
+    display: block;
     align-items: center;
     justify-content: flex-end;
     min-height: 100px;
@@ -699,8 +699,8 @@ blockquote {
     background-repeat: no-repeat;
     overflow: hidden;
 
-    &::-webkit-details-marker {
-      display: none;
+    &::-webkit-details-marker { display: none; }
+    list-style: none;
     }
 
     // Sfumatura sopra l'immagine (solo sulla testata, sotto al testo)
