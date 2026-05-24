@@ -47,7 +47,7 @@ The typical combat kill assembled with Hermit Druid.
 <summary>Hermit Kill with Devourer — 20 Damage</summary>
 <div markdown="1">
 
-If you can't go into combat to kill with Akroma, you can still use Hermit and shoot with Triskelion. If you need more than 20 damage, use Animate Dead to bring back two Shifters and shuffle more cards back into the library.
+If you can't go into combat to kill with Akroma, you can still use Hermit and shoot with Triskelion. If you need more than 20 damage, use Animate Dead to bring back two Shifters and shuffle more cards back into the library, or you can activate Shifter/Scrounger once in your turn and once in your opponent upkeep.
 
 <p class="graveyard-order"><strong>Graveyard order (top to bottom):<br>
 </strong>Karmic Guide<br>
@@ -56,19 +56,19 @@ If you can't go into combat to kill with Akroma, you can still use Hermit and sh
 </strong>Triskelion<br></p>
 
 <div class="card-row card-row--stack">
-{{< scryfall-card name="Hermit Druid" set="tmp" />}}
 {{< scryfall-card name="Volrath's Shapeshifter" set="str" />}}
-{{< scryfall-card name="Unearth" set="uds" />}}
-{{< scryfall-card name="Karmic Guide" set="usg" />}}
 {{< scryfall-card name="Psychatog" set="ody" />}}
-{{< scryfall-card name="Battlefield Scrounger" set="ody" />}}
-{{< scryfall-card name="Phyrexian Devourer" set="all" />}}
 {{< scryfall-card name="Triskelion" set="atq" />}}
+{{< scryfall-card name="Phyrexian Devourer" set="all" />}}
+{{< scryfall-card name="Battlefield Scrounger" set="ody" />}}
+{{< scryfall-card name="Karmic Guide" set="usg" />}}
 </div>
 
-1. Activate Hermit Druid and put Karmic Guide on top of your graveyard
-2. Cast Unearth targeting Shapeshifter
-3. Shifter enters as Guide and targets Guide itself *(if you need an extra body for Therapy)*
+1. <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Hermit Druid
+2. Put Karmic Guide on top of your graveyard
+3. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter
+4. Shifter enters as Guide and targets Guide itself<br>
+   *(do this if you want an extra body for Therapy)*
 4. Shifter/Guide enters and targets Psychatog
 5. Remove Unearth + Guide with Psychatog to reveal Scrounger on top of graveyard
 6. Activate Shifter/Scrounger to shuffle Scrounger + Palinchron + Akroma back into the library (20 CMC)
