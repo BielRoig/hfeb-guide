@@ -1,4 +1,7 @@
 {{/* Put your custom <script></script> tags here */}}
+{{ if or (eq .Section "docs") (eq .Type "docs") -}}
+<script src="/js/line-anchors.js" defer></script>
+{{ end -}}
 
 {{/* EXAMPLE - only load script for production
 {{ if eq (hugo.Environment) "production" -}}
