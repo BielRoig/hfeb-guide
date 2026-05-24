@@ -44,7 +44,7 @@ The typical combat kill assembled with Hermit Druid.
 </details>
 
 <details class="collapsible-hero line-polished">
-<summary>Hermit Kill with Devourer<br>*20 Damage*</summary>
+<summary>Hermit Kill with Devourer<br><em>20 Damage</em></summary>
 <div markdown="1">
 
 If you can't go into combat to kill with Akroma, you can still use Hermit and shoot with Triskelion. If you need more than 20 damage, use Animate Dead to bring back two Shifters and shuffle more cards back into the library, or you can activate Shifter/Scrounger once in your turn and once in your opponent upkeep.
@@ -83,7 +83,7 @@ If you can't go into combat to kill with Akroma, you can still use Hermit and sh
 </details>
 
 <details class="collapsible-hero line-polished">
-<summary>Shifter Combat Kill — with Hermit Druid</summary>
+<summary>Shifter Combat Kill<br><em>with Hermit Druid</em></summary>
 <div markdown="1">
 
 A simple line using both Hermit Druid and Volrath's Shapeshifter on the battlefield. Go to combat, activate Druid to put Psychatog on top of the graveyard, pump Shifter/Tog, then reveal Akroma for flying and attack.
@@ -111,7 +111,7 @@ A simple line using both Hermit Druid and Volrath's Shapeshifter on the battlefi
 </details>
 
 <details class="collapsible-hero line-polished">
-<summary>Shifter Combat Kill — with Devourer</summary>
+<summary>Shifter Combat Kill<br><em>with Devourer</em></summary>
 <div markdown="1">
 
 Activate Shapeshifter/Devourer while retaining priority, then discard a card so that the Devourer sacrifice trigger never goes on the stack. You end up with a gigantic Shapeshifter ready to attack. You can use Psychatog, Survival or the Shapeshifter itself to discard any cards to prevent the sacrifice trigger to go on the stack.
