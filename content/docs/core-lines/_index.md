@@ -22,23 +22,22 @@ The typical combat kill assembled with Hermit Druid.
 <p class="graveyard-order"><strong>Graveyard order (top to bottom):</strong> Karmic Guide → ...</p>
 
 <div class="card-row card-row--stack">
-{{< scryfall-card name="Hermit Druid" set="tmp" />}}
 {{< scryfall-card name="Volrath's Shapeshifter" set="str" />}}
-{{< scryfall-card name="Unearth" set="uds" />}}
-{{< scryfall-card name="Karmic Guide" set="usg" />}}
-{{< scryfall-card name="Psychatog" set="ody" />}}
 {{< scryfall-card name="Cabal Therapy" set="ody" />}}
 {{< scryfall-card name="Akroma, Angel of Wrath" set="lgn" />}}
+{{< scryfall-card name="Psychatog" set="ody" />}}
+{{< scryfall-card name="Karmic Guide" set="usg" />}}
 </div>
 
 1. <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Hermit Druid
 2. Put Karmic Guide on top of your graveyard
 3. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter
-4. Shifter enters as Guide and targets Guide itself *(if you need an extra body for Therapy)*
-5. Guide enters and targets Psychatog
-6. Sacrifice Psychatog with Cabal Therapy to put it on top of graveyard
-7. Activate Shifter/Tog to pump it (at least 14 times)
-8. Reveal Akroma on top of graveyard and attack with Shifter/Akroma
+4. Shifter enters as Guide and targets Guide itself
+   *(do this if you want an extra body for Therapy)*
+6. Guide enters and targets Psychatog
+7. Sacrifice Psychatog with Cabal Therapy
+8. Activate Shifter/Tog to pump it (at least 14 times)
+9. Reveal Akroma on top of graveyard and attack
 
 </div>
 </details>
