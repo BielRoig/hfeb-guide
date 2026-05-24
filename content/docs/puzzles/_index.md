@@ -12,7 +12,8 @@ toc: false
 
 *Setup text goes here. Describe the board state, what's in hand, what's in play, what the opponent controls.*
 
-<img src="/images/puzzles/puzzle-1.jpg" alt="Board state" class="img-fluid rounded">
+<img src="/images/puzzles/puzzle3a.png" alt="Board state" class="img-fluid rounded">
+<img src="/images/puzzles/puzzle3b.png" alt="Board state" class="img-fluid rounded">
 
 *Any additional context before the solution.*
 
