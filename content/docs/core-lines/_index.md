@@ -111,7 +111,7 @@ A simple line using both Hermit Druid and Volrath's Shapeshifter on the battlefi
 </details>
 
 <details class="collapsible-hero line-polished">
-<summary>Shifter Combat Kill<br><em>with Devourer</em></summary>
+<summary>Shifter Combat Kill<br><em>with Phyrexian Devourer</em></summary>
 <div markdown="1">
 
 Activate Shapeshifter/Devourer while retaining priority, then discard a card so that the Devourer sacrifice trigger never goes on the stack. You end up with a gigantic Shapeshifter ready to attack. You can use Psychatog, Survival or the Shapeshifter itself to discard any cards to prevent the sacrifice trigger to go on the stack.
