@@ -236,5 +236,7 @@ Useful when you have Survival of the Fittest out but only one creature in hand. 
 14. Triskelion dies and goes on top of graveyard
 15. Shoot the opponent with Shifter/Triskelion
 
+>If you have Unearth in hand, you can fetch for a Psychatog before Karmic Guide and then discard the Shapeshifter to reanimate it. In this way you need less Blu mana and its easier to set up if you start in your opponent's turn.
+
 </div>
 </details>
