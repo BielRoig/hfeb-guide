@@ -51,6 +51,8 @@ const purgecss = purgeCSSPlugin({
         'copy',
         'btn-copy',
         'card-image',
+        'lightbox-overlay', // line-anchors.js: created dynamically
+        'is-open',          // line-anchors.js: lightbox open state
     ]
 });
 
