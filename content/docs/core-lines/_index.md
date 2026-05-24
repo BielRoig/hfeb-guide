@@ -32,7 +32,7 @@ The typical combat kill assembled with Hermit Druid.
 1. <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Hermit Druid
 2. Put Karmic Guide on top of your graveyard
 3. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter
-4. Shifter enters as Guide and targets Guide itself
+4. Shifter enters as Guide and targets Guide itself<br>
    *(do this if you want an extra body for Therapy)*
 6. Guide enters and targets Psychatog
 7. Sacrifice Psychatog with Cabal Therapy
