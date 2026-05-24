@@ -215,7 +215,7 @@ Aura Thief can beat Solitary Confinement and most other Enchantress locks.
 7. Guide enters and targets Psychatog
 8. Use Psychatog to clean the top of graveyard and reveal Aura Thief
 9. Sacrifice Shifter/Thief #1 with Cabal Therapy
-10. **Aura Thief triggers and you gain control of all opponent's enchantments**
+10. **Aura Thief triggers and you gain control of all the enchantments your opponent control**
 11. At this point you have both Shifter and Psychatog in play
 12. Kill with the Shifter/Akroma or the Scrounger/Trike line
 
