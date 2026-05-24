@@ -185,7 +185,7 @@ A mana-efficient line using Palinchron to cheat on mana costs. Can be started on
 4. <i class="ms ms-g ms-cost"></i> Discard Volrath's Shapeshifter to Survival
 5. Get Phyrexian Devourer
 6. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter
-7. Shapeshifter enters and you untaps up to seven lands
+7. <i class="ms ms-untap ms-cost"></i> Shapeshifter enters and you untaps up to seven lands
 8. <i class="ms ms-g ms-cost"></i> Discard Phyrexian Devourer to Survival
 9. Get Triskelion
 10. Activate Shifter/Devourer X times until it has enough counters<br>
@@ -214,8 +214,8 @@ Useful when you have Survival of the Fittest out but only one creature in hand. 
 </strong>Triskelion</p>
 
 <div class="card-row card-row--stack">
-{{< scryfall-card name="Phyrexian Devourer" set="all" />}}
 {{< scryfall-card name="Triskelion" set="atq" />}}
+{{< scryfall-card name="Phyrexian Devourer" set="all" />}}
 {{< scryfall-card name="Karmic Guide" set="usg" />}}
 </div>
 
@@ -228,11 +228,13 @@ Useful when you have Survival of the Fittest out but only one creature in hand. 
 7. Get Volrath's Shapeshifter
 8. <i class="ms ms-1 ms-cost"></i><i class="ms ms-u ms-cost"></i><i class="ms ms-u ms-cost"></i> Cast Volrath's Shapeshifter — it enters as Guide
 9. Guide targets itself
-10. Guide enters and targets Triskelion, leaving Devourer on top of graveyard
-11. Activate Shifter/Devourer X times until it has enough counters<br>
+10. Guide enters and targets Triskelion
+11. Reveal Phyrexian Devourer on top of graveyard
+12. Activate Shifter/Devourer X times until it has enough counters<br>
    *Let each activation resolve before the next one*
-12. Activate Triskelion dealing damage to itself — it dies and goes on top of graveyard
-13. Shoot the opponent with Shifter/Triskelion
+13. Activate Triskelion dealing damage to itself
+14. Triskelion dies and goes on top of graveyard
+15. Shoot the opponent with Shifter/Triskelion
 
 </div>
 </details>
