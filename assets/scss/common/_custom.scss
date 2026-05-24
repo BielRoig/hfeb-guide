@@ -1,4 +1,3 @@
-
 // Card images
 .card-inline {
   display: inline-flex;
@@ -679,10 +678,9 @@ blockquote {
   > summary {
     position: relative;
     display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    justify-content: center;
-    min-height: 80px;
+    align-items: center;
+    justify-content: flex-end;
+    min-height: 100px;
     padding: 1.5rem 3rem 1.5rem 2rem;
     cursor: pointer;
     font-weight: 700;
@@ -699,9 +697,10 @@ blockquote {
     background-position: left 20%;
     background-repeat: no-repeat;
     overflow: hidden;
-    isolation: isolate;
 
-    &::-webkit-details-marker { display: none; }
+    &::-webkit-details-marker {
+      display: none;
+    }
 
     // Sfumatura sopra l'immagine (solo sulla testata, sotto al testo)
     &::before {
@@ -712,6 +711,10 @@ blockquote {
       pointer-events: none;
       z-index: -1;
     }
+
+    // Il testo diretto del summary deve stare sopra la sfumatura ::before
+    // Usiamo isolation per creare un nuovo stacking context su summary
+    isolation: isolate;
 
     // Freccia a destra
     &::after {
