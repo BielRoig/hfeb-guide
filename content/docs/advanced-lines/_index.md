@@ -43,9 +43,9 @@ Scrounger means you are no longer limited to a single avenue of lethal. Here is 
 1. <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Hermit on upkeep
 2. Order graveyard: Guide, Tog, Scrounger, WoR, Devourer, Trike<br>
    *(if under 6 mana available, activate on opponent's EOT instead)*
-3. <i class="ms ms-1 ms-cost"><i class="ms ms-g ms-cost"></i>Cast Krosan Reclamation targeting two Shapeshifter<br>
+3. <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i>Cast Krosan Reclamation targeting two Shapeshifter<br>
    *(if under 6 mana, do this on opponent's EOT)*
-4. Draw Shifter and cast it. Opponent sees Guide trigger coming: if they exile Guide, Shifter enters as Tog and you pump for a lethal Akroma attack. Assuming they don't exile Guide...
+4. Draw Shifter and <i class="ms ms-1 ms-cost"></i><i class="ms ms-u ms-cost"></i><i class="ms ms-u ms-cost"></i>cast it. Opponent sees Guide trigger coming: if they exile Guide, Shifter enters as Tog and you pump for a lethal Akroma attack. Assuming they don't exile Guide...
 5. Shifter enters as Guide and targets Guide. If opponent exiles Guide, Shifter becomes Tog. If they exile Tog instead, Guide enters and targets Triskelion. Use Shifter/Scrounger to put Scrounger + WoR + Akroma (15 CMC) into library. Combined with Shifter already in library = 18 CMC. With Devourer on top, activate Shifter/Deevourer to exile the whole library for 18 counters. Shoot opponent twice with Triskelion, shoot Triskelion to put it on top, deal the remaining 18 damage.
 6. Assuming Tog enters, you now have Hermit, Shifter, Guide, and Tog in play. Check whether opponent has exiled any card up to now: if they have (and it wasn't Akroma), sac Tog to Therapy, pump, and attack for lethal. If Akroma was exiled, use Scrounger to put Palinchron + Squee + ESG (16 CMC) back. Next upkeep put Scrounger + WoR + WoR (25 CMC total) and FEB for lethal.
 7. Assuming opponent still has Furnace up: Scrounge Palinchron + Akroma + ESG (21 CMC) and pass the turn. If opponent tries to exile anything, use Tog to reveal Devourer and kill with the 21 CMC. Otherwise on their upkeep, Scrounge Scrounger + Squee + WoR (10 more CMC) and attempt FEB kill.
