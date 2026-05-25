@@ -9,7 +9,7 @@ draft: false
 
 ## What is hFEB?
 
-The hFEB deck (Hermit Full English Breakfast) is a combo deck built around **Volrath's Shapeshifter** and a series of tools to manipulate the top of the graveyard, allowing us to exploit Shifter's ability to the maximum. hFEB relies on two combos: the **FEB combo** (the original combo from the classic FEB deck) and the **Hermit combo** (the one that adds the "h" in the deck's name).
+Hermit Full English Breakfast (hFEB) is a combo deck built around **Volrath's Shapeshifter** and a series of tools to manipulate the top of the graveyard, allowing you to exploit Shifter's ability to the maximum. hFEB relies on two combos: the **FEB combo** (the original combo from the Classic FEB deck) and the **Hermit combo** (the one that adds the "h" in the deck's name).
 
 These two combos share a similar structure, each composed of three fundamental pieces: an engine that sets up the board, a first creature that consumes game resources to increase the size of Shifter, and a second creature that uses that size to inflict lethal damage.
 
@@ -23,9 +23,9 @@ These two combos share a similar structure, each composed of three fundamental p
   <a class="toolbox-card">{{< scryfall-card name="Triskelion" set="atq" />}}</a>
 </div>
 
-The engine is **Survival of the Fittest**, which lets us discard creature cards from hand and tutor creatures from the deck — changing Shifter's form and cycling through threats. The two combo pieces are **Phyrexian Devourer** and **Triskelion**.
+The engine is **Survival of the Fittest**, which lets you discard creature cards from hand and tutor creatures from the deck. changing Shifter's form and cycling through threats. The two combo pieces are **Phyrexian Devourer** and **Triskelion**.
 
-When Phyrexian Devourer is on top of the graveyard, Shapeshifter can exile cards from the top of the library to add +1/+1 counters based on each card's CMC. With 95 total CMC in the deck, Shifter can grow very quickly. Shifter can't stay big for long though — Devourer's trigger forces a sacrifice when its power exceeds 7. That's where Triskelion comes in: by discarding it to Survival, Shifter converts its +1/+1 counters into 1-damage pings for lethal.
+When Phyrexian Devourer is on top of the graveyard, Shapeshifter can exile cards from the top of the library to add +1/+1 counters based on each card's CMC. With 95 total CMC in the deck, Shifter can grow very quickly. Shifter can't stay big for long though: Devourer's trigger forces a sacrifice when its power exceeds 7. That's where Triskelion comes in: by discarding it to Survival, Shifter converts its +1/+1 counters into 1-damage pings for lethal.
 
 ---
 
@@ -37,7 +37,7 @@ When Phyrexian Devourer is on top of the graveyard, Shapeshifter can exile cards
   <a class="toolbox-card">{{< scryfall-card name="Akroma, Angel of Wrath" set="lgn" />}}</a>
 </div>
 
-The engine is **Hermit Druid**, which mills the entire library since all our lands are non-basic. With a full graveyard, **Psychatog** takes the role of Devourer — exiling graveyard cards in exchange for +1/+1 pumps. Since these are not counters, Triskelion can't be the finisher, so **Akroma** closes the game in combat instead. Her haste, evasion, and trample are essential to convert those pumps into lethal damage.
+The engine is **Hermit Druid**, which mills the entire library since all your lands are non-basic. With a full graveyard, **Psychatog** takes the role of Devourer: exiling graveyard cards in exchange for +1/+1 pumps. Since these are not counters, Triskelion can't be the finisher, so **Akroma** closes the game in combat instead. Her haste, evasion, and trample are essential to convert those pumps into lethal damage.
 
 ---
 
@@ -62,7 +62,8 @@ You’ll see a lot of Scrounger action throughout this guide!
 
 ## The Toolbox
 
-Beyond the combo pieces, hFEB runs a curated set of support cards that smooth out the deck's mana, recursion, disruption, and recovery. Click on any card to jump straight to its breakdown.
+Beyond the combo pieces, hFEB runs a curated set of support cards that smooth out the deck's mana, recursion, disruption, and recovery.<br>
+*Click on any card to jump straight to its breakdown.*
 
 <div class="toolbox-grid">
   <a href="#mana-creatures" class="toolbox-card">{{< scryfall-card name="Birds of Paradise" set="lea" />}}</a>
@@ -79,7 +80,7 @@ Beyond the combo pieces, hFEB runs a curated set of support cards that smooth ou
 
 **Birds of Paradise**, **Wall of Roots**, and to a lesser extent **Elvish Spirit Guide**, are here for the simplest and most important reason: they make the deck faster and smoother.
 
-They accelerate our early turns, fix our mana, and help us reach the key setup turns where Survival of the Fittest, Volrath's Shapeshifter, or Hermit-related lines become active. There is nothing fancy about this role, but it matters a lot: hFEB is a technical combo deck, and having an extra mana at the right time often means turning a slow setup into an immediate kill.
+They accelerate your early turns, fix your mana, and help you reach the key setup turns where Survival of the Fittest, Volrath's Shapeshifter, or Hermit-related lines become active. There is nothing fancy about this role, but it matters a lot: hFEB is a technical combo deck, and having an extra mana at the right time often means turning a slow setup into an immediate kill.
 
 **Wall of Roots** is especially important because it can generate mana without tapping, which matters in turns where mana efficiency is extremely tight.
 
@@ -183,7 +184,7 @@ To these, the deck adds **3 Reflecting Pool**. Reflecting Pool is especially val
 
 ### Undiscovered Paradise
 
-The deck also plays **Undiscovered Paradise**. This is not one of the strongest lands in the deck, but it has a specific role. It helps you continue making land drops when you otherwise might miss one, and because it returns to your hand, it can give you access to mana both on your turn and again after replaying it later. It is a little awkward, but the flexibility is useful enough to justify the slot.
+The deck also plays **Undiscovered Paradise**. This is not one of the strongest lands in the deck, but it has a specific role. It helps you continue making land drops when you otherwise might miss one (I'm not sure when this is relevant, maybe if the opponent has a Horn of Greed in play). It is a little awkward, but the flexibility is useful enough to justify the slot.
 
 ### The Lair Slot
 
@@ -193,7 +194,7 @@ Then there is the **Lair slot**, usually **Treva's Ruins**. In most versions, th
 
 The final, twenty-second land is usually another painland: effectively the ninth painland of the deck. This slot is very customizable. It is often **Underground River**, giving access to blue and black, but it can change depending on the sideboard configuration.
 
-If the deck wants more red, **Karplusan Forest** becomes attractive. If it wants more white and black, especially for cards like Swords to Plowshares or other white interaction, **Caves of Koilos** is an option. If the list wants more white and green, **Brushland** can fill the role instead.
+If the deck wants more red, **Karplusan Forest** becomes attractive. If it wants more white and black, especially for cards like Swords to Plowshares or other white spells, **Caves of Koilos** is an option. If the list wants more white and green, **Brushland** can fill the role instead.
 
 So while the first sixteen lands are fixed and the three Reflecting Pool are very close to fixed, the last few slots are where the mana base can adapt to the exact version of hFEB you are registering. In practice, these lands should be chosen by looking at the full 75, not just the maindeck.
 
