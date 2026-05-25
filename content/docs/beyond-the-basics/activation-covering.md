@@ -31,6 +31,10 @@ Consider this sequence:
 3. We don't want to lose Devourer yet, we haven't exiled all the cards we intended to, so we activate Devourer in response to the Furnace.
 4. After this second activation resolves, the sacrifice trigger of Devourer goes to the stack on top of the Furnace ability.
 
+<div class="text-center my-3">
+<img src="/images/beyond-the-basics/Covering/Fig1.png" alt="Stack diagram showing a covered Devourer activation" class="img-fluid rounded">
+</div>
+
 The Devourer activation on the bottom of the stack has now become **unreachable**: in order to resolve it, we would need to sacrifice the very creature that would receive those counters. We call such an activation a **covered activation**.
 
 ---
@@ -46,6 +50,10 @@ After stacking them, we do something to put a new card on the top of the graveya
 - depleting a Gemstone Mine or Wall of Roots in play
 
 This changes the text on Shifter, so that when we resolve the Devourer activations the sacrifice clause is not there anymore to trigger. In that scenario, we can let the stack resolve all the way down to the last activation: the exiling of Devourer is no longer relevant, because we have already put all the activations on the stack.
+
+<div class="text-center my-3">
+<img src="/images/beyond-the-basics/Covering/Fig2.png" alt="Stack diagram showing stacked Devourer activations with a Survival activation on top" class="img-fluid rounded">
+</div>
 
 ---
 
@@ -64,6 +72,10 @@ This trigger won't trigger again until the existing sacrifice trigger in the sta
 A different and more worrisome scenario for Hermit lines, where both Triskelion and Devourer are in the graveyard, is when the graveyard hate is **not directed at Devourer itself, but at Triskelion**. This happens either with a Furnace activation targeting Trike, or by using a Tormod's Crypt.
 
 In this scenario we end up with two "can't resolve" events: the sacrifice of Shifter, and the exiling of our graveyard. The stacking of activations discussed above can work around the sacrifice trigger, but if we aim to use Triskelion for lethal, we can't afford to have our graveyard exiled: so the bottom activation becomes de facto covered.
+
+<div class="text-center my-3">
+<img src="/images/beyond-the-basics/Covering/Fig3.png" alt="Stack diagram showing hate targeting Triskelion creating two covered activations" class="img-fluid rounded">
+</div>
 
 To solve this, we will need a way to either:
 
