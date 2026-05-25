@@ -69,7 +69,7 @@ In other words, we have a **minimum CMC** we aim to get (enough to survive whate
 Under the same conditions:
 
 - Survive a **Shock**: ~85%
-- Survive **Lavamancer / Seal**: ~64%
+- Survive **Lavamancer + Seal**: ~64%
 - Survive **Bolt + Shock**: ~40%
 
 ---
