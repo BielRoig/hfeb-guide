@@ -14,7 +14,7 @@ Some of these lines depend on very specific timing, graveyard ordering, or rules
 ---
 
 <details class="collapsible-hero line-polished">
-<summary>Hermit Line Against Furnace</summary>
+<summary>Hermit vs Phyrexian Furnace</summary>
 <div markdown="1">
 
 Scrounger means you are no longer limited to a single avenue of lethal. Here is a line to deal with a Phyrexian Furnace using only Hermit Druid in play.
