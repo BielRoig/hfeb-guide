@@ -20,7 +20,7 @@ As an example, consider this real (approximate) board state from a recent game p
 
 The hFEB player played Shifter as Palinchron, and the opponent Bolted it with the untap trigger on the stack — dealing 3 damage to Shifter and preventing the combo that turn (Devourer would have died to state-based actions with that 3 damage). The hFEB player waited until the opponent's upkeep, discarded Devourer for Triskelion, and pinged for lethal.
 
-An **alternative line for the opponent** would have been to save the Bolt for later, betting that the hFEB player had only a single creature in hand (which he did). Without Triskelion and Devourer in hand, we have to fetch something with Devourer (either Triskelion or Akroma) to win — and in that small window between pitching Devourer and resolving the Survival tutor, the opponent has a chance to wreck us.
+An **alternative line for the opponent** would have been to save the Bolt for later, betting that the hFEB player had only a single creature in hand (which he did). Without Triskelion and Devourer in hand, we have to fetch something with Devourer (either Triskelion or Akroma) to win: in that small window between pitching Devourer and resolving the Survival tutor, the opponent has a chance to wreck us.
 
 Of course, as the FEB player, we could wait to draw a second creature and respond to any burn with a second Survival activation pitching Devourer for Triskelion. But here we assume we want to win this turn.
 
@@ -38,7 +38,7 @@ Let's run the numbers.
 
 We start with the standard hFEB CMC distribution: **22 lands**, **13 one-drops** (Therapies, Birds, Unearths, Duress), **14 two-drops** (Wall of Roots, Survival, Hermits and others), **5 three-drops** (Shifters, Tog, Squee, ESG), **2 five-drops** (Karmic Guide and Scrounger), **2 six-drops** (Triskelion and Devourer), with Palinchron and Akroma at the tail end.
 
-As a representative board state, assume we play 4 lands, a couple of 1-drops and 2-drops, Shifter and Devourer — leading to a 50-card library skewed toward the low end of the curve.
+As a representative board state, assume we play 4 lands, a couple of 1-drops and 2-drops, Shifter and Devourer, leading to a 50-card library skewed toward the low end of the curve.
 
 ---
 
@@ -46,9 +46,9 @@ As a representative board state, assume we play 4 lands, a couple of 1-drops and
 
 To see what we should expect when activating Devourer once, we shuffle the library 10,000 times and look at the top card. The resulting histogram approximates the true probability distribution.
 
-The highest probability is showing a land — which makes sense, since that is the most common CMC in the deck. Trying to survive a Bolt with a single activation is tricky: a 0, 1 or 2 CMC card is not enough, and that is the bulk of the distribution.
+The highest probability is showing a land, which makes sense, since that is the most common CMC in the deck. Trying to survive a Bolt with a single activation is tricky: a 0, 1 or 2 CMC card is not enough, and that is the bulk of the distribution.
 
-We'd need either a **3** or a **5 CMC** to survive without triggering the sacrifice clause — which happens around **12%** of the time (8% for a 3 CMC and 4% for a 5 CMC).
+We'd need either a **3** or a **5 CMC** to survive without triggering the sacrifice clause, which happens around **12%** of the time (8% for a 3 CMC and 4% for a 5 CMC).
 
 ---
 
@@ -56,7 +56,7 @@ We'd need either a **3** or a **5 CMC** to survive without triggering the sacrif
 
 Luckily, we are not limited to a single activation. The peak of the distribution shifts to the right: the more cards we exile, the higher the cumulative CMC.
 
-Our chances of Shifter surviving a Bolt have now increased to **32%** — 16% probability of seeing a cumulative CMC of 3, 9% of 4, and 7% of 5.
+Our chances of Shifter surviving a Bolt have now increased to **32%**, 16% probability of seeing a cumulative CMC of 3, 9% of 4, and 7% of 5.
 
 ---
 
@@ -86,6 +86,6 @@ In other words: of the 23% of times we won't survive Bolt, around 1 in 4 of thos
 
 ## Takeaway
 
-The numbers tell us that **Devourer activations are more resilient to burn than they feel**. With a representative library state, even a single Bolt threatens us only 23% of the time — and many of those scenarios still have outs through stacking activations or discarding through Shifter.
+The numbers tell us that **Devourer activations are more resilient to burn than they feel**. With a representative library state, even a single Bolt threatens us only 23% of the time, and many of those scenarios still have outs through stacking activations or discarding through Shifter.
 
 Knowing the odds doesn't change the game, but it changes the **mindset**: when you commit to a Devourer-pump line under burn pressure, you are usually doing the right thing.
