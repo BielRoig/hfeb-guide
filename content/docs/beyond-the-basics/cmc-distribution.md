@@ -112,8 +112,6 @@ In other words: of the 23% of times we won't survive Bolt, around 1 in 4 of thos
 
 ---
 
-## Takeaway
-
-The numbers tell us that **Devourer activations are more resilient to burn than they feel**. With a representative library state, even a single Bolt threatens us only 23% of the time, and many of those scenarios still have outs through stacking activations or discarding through Shifter.
-
-Knowing the odds doesn't change the game, but it changes the **mindset**: when you commit to a Devourer-pump line under burn pressure, you are usually doing the right thing.
+> The numbers tell us that **Devourer activations are more resilient to burn than they feel**. With a representative library state, even a single Bolt threatens us only 23% of the time, and many of those scenarios still have outs through stacking activations or discarding through Shifter.
+>
+> Knowing the odds doesn't change the game, but it changes the **mindset**: when you commit to a Devourer-pump line under burn pressure, you are usually doing the right thing.
