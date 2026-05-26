@@ -84,6 +84,4 @@ To solve this, we will need a way to either:
 
 ---
 
-## Why This Matters
-
-Activation covering is the most subtle way an opponent can disrupt a Scrounger-FEB line. Recognizing the patterns, and knowing which counter-strategy applies to each, is what turns a "I had it!" loss into a controlled, deterministic kill that survives any single piece of interaction.
+> Activation covering is the most subtle way an opponent can disrupt a Scrounger-FEB line. Recognizing the patterns, and knowing which counter-strategy applies to each, is what turns a "I had it!" loss into a controlled, deterministic kill that survives any single piece of interaction.
