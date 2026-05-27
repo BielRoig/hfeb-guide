@@ -12,7 +12,7 @@ build:
 
 ## General Plan
 
-**Deadguy Ale** and **B/W Control** are very similar matchups. They're both black-based midrange/control decks that share the same fundamental tools: discard, removal, and a steady (though not lightning-fast) clock.
+**Deadguy Ale** and **B/W Control** are similar matchups. They're both black-based midrange/control decks that share the same fundamental tools: discard, removal, and a steady (though not lightning-fast) clock.
 
 They share these key elements:
 
@@ -28,7 +28,7 @@ The problem is different: you don't know whether it will stay in play.
 
 > If you play Survival, the opponent can have **Disenchant**.
 > If you play Hermit Druid, they can have **Swords to Plowshares**, **Smother**, **Vendetta**, or an edict.
-> If you go through the graveyard, post-board they can have **Phyrexian Furnace**, **Tormod's Crypt**, or **Cursed Totem**.
+> If you go through the graveyard, post-board they can have **Phyrexian Furnace**, **Tormod's Crypt**, or **Withered Wretch**.
 
 So the matchup isn't "free," but the fact that your spells resolve gives you a slight structural advantage.
 
@@ -70,7 +70,7 @@ But you have no certainty.
 > If you see **Swords to Plowshares**, you understand that Survival is much safer.
 > If you see both, you have to figure out which line you can protect, which card you can strip, and which plan loses to the fewest interactions.
 
-This is why Duress is so valuable: it doesn't just strip a card, it lets you choose the right plan.
+This is why Duress is so valuable: it guarantees to strip a card and it lets you choose the right plan.
 
 ## Survival vs Hermit Druid
 
@@ -80,10 +80,7 @@ This is why Duress is so valuable: it doesn't just strip a card, it lets you cho
 
 If it isn't removed immediately, it lets you generate value, find utility creatures, build alternative lines, and adapt to the board. Against non-blue decks, a resolved Survival can immediately start converting creatures in hand into concrete resources.
 
-The problem is that many versions have access to enchantment removal:
-
-- **Disenchant** in B/W decks;
-- sometimes other answers post-board.
+The problem is that many versions have access to enchantment removal: **Disenchant**, **Seal of Cleansing** and **Aura of Silence** are what do you have to expect from B/W decks.
 
 So Survival is strong, but you shouldn't always treat it as a card destined to stay in play. If you can use it right away to gain value or build a line, you should.
 
@@ -103,11 +100,9 @@ The point isn't to always choose Survival or always Hermit. The point is to figu
 
 It can apply pressure fairly early with efficient creatures and discard. A sequence like land, discard, threat can force you to play faster than you would against pure B/W Control.
 
-Its creatures are often small or medium, so post-board you can consider removal and sweepers.
+Its creatures are often small or medium, so post-board **Pyroclasm** is particularly interesting against Deadguy Ale, because many of those have toughness 2. Even **Exalted Angel** while morphed is a 2/2, so it can be hit before flipping.
 
-**Pyroclasm** is particularly interesting against Deadguy Ale, because many of its creatures have toughness 2. Even **Exalted Angel** while morphed is a 2/2, so it can be hit before flipping.
-
-Against Deadguy, you want to avoid wasting too much time. The opponent's discard can dismantle your hand, and the clock can become relevant if you don't develop a concrete plan.
+Against Deadguy, you want to avoid wasting too much time. The opponent's discard can dismantle your hand, and the clock can become relevant and fast if they have a **Dark Ritual**.
 
 Post-board, you should consider:
 
@@ -120,15 +115,7 @@ Post-board, you should consider:
 
 **B/W Control** is slower, but often has more interaction in hand.
 
-You should expect:
-
-- discard;
-- **Swords to Plowshares**;
-- **Disenchant**;
-- black removal;
-- possibly **Phyrexian Arena**;
-- post-board hate;
-- sometimes sweepers or heavier control effects.
+What you should expect that's different from DGA? Maindeck graveyard hate, sweepers and general heavier control effects.
 
 Against B/W Control, the game can go longer and is often played on the quality of resources. Here Survival is very strong if it stays in play, but you always have to respect Disenchant.
 
@@ -138,15 +125,7 @@ Against B/W Control, the game can go longer and is often played on the quality o
 
 These matchups are often considered sufficiently favorable precisely because the opponent doesn't run counters.
 
-The fact that your spells resolve changes a lot.
-
-You can:
-
-- cast Survival and know it'll enter;
-- cast Shapeshifter and know it'll resolve;
-- use creatures with ETB triggers like **Triskelion** or **Ghitu Slinger**;
-- set up lines where a key spell, once cast, isn't stopped on the stack;
-- force the opponent to already have the right answer in hand or to draw it in the following turns.
+The fact that your spells resolve changes a lot. This means you can set up lines where a key spell, once cast, isn't stopped on the stack or force the opponent to already have the right answer in hand or to draw it in the following turns.
 
 This is the main limit of non-blue decks: they can't dig as much as blue decks to find the perfect interaction. They have to rely on what they have in hand or on natural topdecks.
 
@@ -160,7 +139,6 @@ You can lose because:
 
 - you keep a hand that's too fragile against discard;
 - you play Survival into Disenchant without capitalizing on it;
-- you play Hermit Druid into Swords;
 - your hand gets emptied and you don't draw a payoff;
 - you underestimate a creature clock;
 - you lose to post-board hate like Crypt, Furnace, or Cursed Totem.
@@ -177,8 +155,7 @@ The most common cards are:
 - **Tormod's Crypt**;
 - **Cursed Totem**;
 - additional Disenchant;
-- more removal;
-- possibly specific cards against Survival or the graveyard.
+- more removal.
 
 For this reason you want to have access to versatile answers:
 
@@ -186,40 +163,11 @@ For this reason you want to have access to versatile answers:
 - **Ray of Revelation**;
 - **Monk Realist**;
 - **Uktabi Orangutan**;
-- creature removal;
-- possibly **Pyroclasm** against Deadguy Ale.
+- creature removal like **Githu Slinger** or **Swords to Plowshares**.
 
 Artifact answers are important because Crypt, Furnace, and Cursed Totem can be very annoying. **Uktabi Orangutan** is particularly useful because it's tutorable with Survival and can remove a hate piece while leaving a body on board.
 
 Enchantment answers are useful against Phyrexian Arena and other problematic cards.
-
-### Pyroclasm
-
-**Pyroclasm** is mostly interesting against Deadguy Ale.
-
-Many of Deadguy's creatures have toughness 2, and even **Exalted Angel** when morphed can be removed by Pyroclasm. This makes Pyroclasm potentially a very efficient card.
-
-Against B/W Control, instead, it has to be evaluated more cautiously. If the opponent has bigger creatures or threats outside the range, Pyroclasm becomes less useful.
-
-As always, it isn't a card to sideboard in automatically across the entire category, but it's very reasonable against the more creature-heavy versions.
-
-## The Role of ETB Creatures
-
-One of the positive aspects of the matchup is that you can make good use of creatures with immediate effects.
-
-Cards like:
-
-- **Triskelion**;
-- **Ghitu Slinger**;
-- **Uktabi Orangutan**;
-- **Monk Realist**;
-- **Karmic Guide**;
-
-can generate value even if the opponent has removal afterward.
-
-Against non-blue decks, these creatures resolve. This means their effects always trigger, barring rare specific interactions. You can therefore use ETB effects to remove creatures, break hate permanents, manage partially complicated boards, and build incremental advantage.
-
-This is particularly important in post-board games, where you can't always win with a clean, immediate combo.
 
 <div class="matchup-summary" markdown="1">
 
@@ -233,11 +181,7 @@ The keys to the matchup are:
 - choose between Survival and Hermit Druid based on the interaction you've seen;
 - remember that your spells resolve, but don't necessarily stay in play;
 - don't underestimate discard and the clock;
-- respect Disenchant and Swords;
-- post-board, expect Crypt, Furnace, Cursed Totem, and other hate cards;
-- bring in versatile artifact/enchantment answers;
-- consider Pyroclasm especially against Deadguy Ale;
-- exploit creatures with ETB triggers, because against non-blue decks they're very reliable.
+- bring in versatile artifact/enchantment answer.
 
 In short: against non-blue midrange/control decks, your advantage is that your spells resolve. The game comes down to figuring out which resolved spell the opponent can no longer beat.
 
