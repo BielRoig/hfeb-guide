@@ -17,7 +17,7 @@ The deck has eight true engines: **four Hermit Druid** and **four Survival of th
 
 **Hermit Druid** is the faster plan. When uninterrupted, it often closes the game on turn three or four, sometimes even earlier with the best hands. It's an explosive, direct plan, and it's very strong against opponents who can't remove the Druid right away or don't apply enough pressure to force you to change direction.
 
-**Survival of the Fittest**, on the other hand, is a slightly slower but much more flexible plan. It can still win quickly — even on turn three or four with the right cards — but its real value lies in its adaptability: it tutors specific creatures, builds alternative lines, plays better around hate, and turns nearly every creature in hand into a useful resource.
+**Survival of the Fittest**, on the other hand, is a slightly slower but much more flexible plan. It can still win quickly, even on turn three or four with the right cards, but its real value lies in its adaptability: it tutors specific creatures, builds alternative lines, plays better around hate, and turns nearly every creature in hand into a useful resource.
 
 In general, there are two main approaches.
 
@@ -36,11 +36,11 @@ Every matchup depends heavily on the opening hand.
 
 hFEB mulligans fairly well and can win even on a four-card mulligan. That said, keeping five, six, or seven cards significantly increases your chances of winning. For this reason, you need to carefully evaluate which hands are actually functional and which only look playable but lead nowhere.
 
-In general, a hand without any of the eight main engines — meaning no **Hermit Druid** and no **Survival of the Fittest** — is usually a mulligan. There are exceptions, especially post-board or in very specific matchups, but as a rule the deck needs a card that turns its resources into a concrete plan.
+In general, a hand without any of the eight main engines, meaning no **Hermit Druid** and no **Survival of the Fittest**, is usually a mulligan. There are exceptions, especially post-board or in very specific matchups, but as a rule the deck needs a card that turns its resources into a concrete plan.
 
 The catch is that not every good hand lines up well against every opponent.
 
-You may keep a hand with one or two **Hermit Druid** and then sit down across from Sligh or Goblins, where the Druid is much more fragile due to removal, Mogg Fanatic, or immediate pressure. Likewise, you may keep a hand with **Survival** — maybe great against a midrange or control deck — and discover you're facing Reanimator, where the opponent's clock can be faster than your setup.
+You may keep a hand with one or two **Hermit Druid** and then sit down across from Sligh or Goblins, where the Druid is much more fragile due to removal, Mogg Fanatic, or immediate pressure. Likewise, you may keep a hand with **Survival**, maybe great against a midrange or control deck, and discover you're facing Reanimator, where the opponent's clock can be faster than your setup.
 
 For this reason, evaluating an opening hand is never abstract. A hand can be powerful and still not match the plan the matchup demands.
 
@@ -61,7 +61,7 @@ In the abstract, the plan is simple: play Hermit Druid on turn two and try to cl
 
 At that point, you have to recognize that the game is no longer being played on the Hermit plan but on the Survival plan. The same hand that looked like a fast-kill hand now becomes a setup hand, where Survival lets you build a more resilient line.
 
-Likewise, if you have Hermit Druid but no Survival, it isn't always automatic to play it as a blocker or an immediate threat. Sometimes it's correct to hold it, watch your draws, and see whether you can develop another plan. If you draw a wall, for example, you can use it to buy three or four turns. If you draw Survival, the Hermit Druid in hand can become a creature to discard and start the chain.
+Likewise, if you have Hermit Druid but no Survival, it isn't always automatic to play it as a blocker or an immediate threat. Sometimes it's correct to hold it, watch your draws, and see whether you can develop another plan. If you draw a wall, for example, you can use it to buy three or four turns. If you draw Survival, then Hermit Druid in hand can become a creature to discard and start the chain.
 
 The strength of the deck lies exactly here: a card that's a combo piece in one context can become bait, a blocker, a discard fodder, or simply a way to buy time in another.
 
@@ -128,9 +128,7 @@ For each matchup, then, the goal is not just to say which cards come in and out,
 - how the game changes post-board;
 - which mistakes to avoid.
 
-The most important thing to remember is that hFEB rewards adaptability.
-
-It's not just about knowing the combo. It's about understanding, turn after turn, which of your lines has the best chance of going all the way.
+The most important thing to remember is that hFEB rewards **adaptability**. It's not just about knowing the combo. It's about understanding, turn after turn, which of your lines has the best chance of going all the way.
 
 </div>
 </details>
