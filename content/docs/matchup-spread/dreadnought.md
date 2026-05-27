@@ -203,8 +203,8 @@ The keys to the matchup are:
 - post-board, bring in artifact removal, Xantid Swarm, and possibly Swords to Plowshares;
 - save Naturalize when it might be needed against Back to Basics.
 
-In short: against Mono U Dreadnought speed isn't enough. You have to be fast in the right way, respecting the cards that can turn an apparently safe line into an immediate loss.
+In short: against Mono U Dreadnought speed isn't the key. You have to be fast in the right way, respecting the cards that can turn an apparently safe line into an immediate loss.
 
-The matchup is playable, but it demands a lot of precision. Every turn should be evaluated on two questions: how quickly you can win, and how quickly the opponent can put a protected 12/12 into play.
+The matchup demands a lot of precision. Every turn should be evaluated on two questions: how quickly you can win, and how quickly the opponent can put a protected 12/12 into play.
 
 </div>
