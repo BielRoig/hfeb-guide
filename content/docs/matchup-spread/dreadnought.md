@@ -12,7 +12,7 @@ build:
 
 ## General Plan
 
-The matchup against **Mono U Dreadnought** — or "shrimp" to its friends — depends heavily on the opponent's hand.
+The matchup against **Mono U Dreadnought** depends heavily on the opponent's hand.
 
 That's because Dreadnought can approach the game in two different ways: as a control deck, trying to slow you down with counters and interaction, or as a combo deck, trying to quickly put a **Phyrexian Dreadnought** into play.
 
@@ -22,7 +22,7 @@ For this reason, the matchup is a very technical race: you have to figure out wh
 
 ## Game 1
 
-  ### How You Interact with the Dreadnought
+### How You Interact with the Dreadnought
 
 In Game 1, your main way to interact with the Dreadnought plan is through discard spells:
 
@@ -31,7 +31,7 @@ In Game 1, your main way to interact with the Dreadnought plan is through discar
 
 If you cast **Cabal Therapy** in the early turns and don't have specific information, the natural call is often **Phyrexian Dreadnought**. This is especially true if you don't yet have an immediate win plan and you just want to slow down the opponent's combo.
 
-If instead you have a card in hand that, once resolved, can quickly win the game — like **Survival of the Fittest** or **Hermit Druid** — the choice changes. In these cases, it can be more correct to name the card that would prevent your key piece from resolving or functioning.
+If instead you have a card in hand that, once resolved, can quickly win the game, like **Survival of the Fittest** or **Hermit Druid**, the choice changes. In these cases, it can be more correct to name the card that would prevent your key piece from resolving or functioning.
 
 The most common calls are:
 
@@ -42,21 +42,19 @@ The most common calls are:
 
 Lately you see fewer versions with **Chain of Vapor**, but it's still a card to consider. It's important to remember, though, that once the opponent has a Dreadnought in play, Chain of Vapor becomes riskier for them too. If they use it to bounce a lethal **Volrath's Shapeshifter**, you can sacrifice a land, copy Chain of Vapor, and bounce their Dreadnought back. From there the situation can get much more complex for both sides.
 
-  ### Your Main Plans
+### Your Main Plans
 
-In Game 1, as in many other matchups, both **Hermit Druid** and **Survival of the Fittest** are valid plans.
-
-The difference is that here both of them have to be fast enough. You can't afford a long game if the opponent can resolve a 12/12 in the early turns and protect it with counters.
+In Game 1, as in many other matchups, both **Hermit Druid** and **Survival of the Fittest** are valid plans. The difference is that here both of them have to be fast enough. You can't afford a long game if the opponent can resolve a 12/12 in the early turns and protect it with counters.
 
 **Hermit Druid** is very strong if you can open a clean window, but it's also fragile against some matchup-specific interactions.
 
-**Survival** is often very good because, once resolved, it's hard for Mono U to interact with directly in Game 1. The opponent can have Chain of Vapor or counter it before it enters, but they don't normally have effects like Disenchant. So a resolved Survival can quickly become a source of advantage and a kill line.
+**Survival** is often very good because, once resolved, it's impossible for Mono U do interact with. It can quickly become a source of advantage and a kill line.
 
 The point is that resolving an engine isn't enough: you have to convert it into a win before the Dreadnought kills you.
 
 ## Cards to Respect
 
-  ### Counterspell, Foil, and Classic Interaction
+### Counterspell, Foil, and Classic Interaction
 
 The first category of interaction is obvious: counters.
 
@@ -67,9 +65,9 @@ Mono U Dreadnought can stop your key pieces with:
 - **Daze**, if present in some versions;
 - **Miscalculation** or other situational counters, depending on the list.
 
-These are the easiest interactions to read: if the opponent leaves mana open, you have to ask yourself whether you can afford to walk into a counter, or whether you should first go through Duress or Cabal Therapy.
+These are the easiest interactions to read: if the opponent leaves or not mana open, you have to ask yourself whether you can afford to walk into a counter, or whether you should first go through Duress or Cabal Therapy.
 
-  ### Stifle
+### Stifle
 
 **Stifle** is one of the most important cards to respect.
 
@@ -88,7 +86,7 @@ For example, if you try to win with Hermit Druid and the opponent has Stifle, th
 
 Likewise, if you cast Volrath's Shapeshifter with Palinchron on top of the graveyard and you're counting on the trigger to untap your lands, a Stifle on that trigger can completely break your sequence.
 
-  ### Vision Charm
+### Vision Charm
 
 **Vision Charm** is a particularly problematic card, and often a less intuitive one.
 
@@ -104,7 +102,7 @@ It can also interfere with Volrath's Shapeshifter. For example, if you have **Pa
 
 Against Mono U Dreadnought you therefore have to respect Vision Charm not just as the opponent's combo card, but as real interaction against your lines.
 
-  ### Brain Freeze
+### Brain Freeze
 
 Some versions can play **Brain Freeze**.
 
@@ -130,15 +128,15 @@ Game 2 and Game 3 change significantly because you have access to more interacti
 
 The cards that usually come in are:
 
-- more discard spells, like **Duress**;
+- more discard spells, **Duress**;
 - **Xantid Swarm**;
-- artifact removal, like **Naturalize** or **Crumble**;
+- artifact removal, **Naturalize** or **Crumble**;
 - **Uktabi Orangutan**;
 - at least one **Swords to Plowshares**, if available.
 
 **Swords to Plowshares** is very reasonable in this matchup. Giving the opponent 12 life is rarely the main problem: if you've removed the Dreadnought, you've probably bought enough time to win with one of your combos.
 
-  ### Post-Sideboard Plan
+### Post-Sideboard Plan
 
 Post-board your plan is similar to Game 1, but with more tools.
 
@@ -156,7 +154,7 @@ An ideal sequence can be:
 
 If you simply try to remove the Dreadnought without first checking the opponent's hand, you risk losing to a single counter.
 
-  ### Xantid Swarm
+### Xantid Swarm
 
 **Xantid Swarm** is very strong in the matchup because it forces Mono U Dreadnought to interact preemptively.
 
@@ -164,7 +162,7 @@ If Xantid attacks and the trigger resolves, you can try to win that same turn wi
 
 Xantid also works as a psychological threat: the opponent has to decide whether to counter it, bounce it, or let it resolve, knowing that if it sticks they might lose the ability to interact on the decisive turn.
 
-  ### Back to Basics
+### Back to Basics
 
 Post-board you also have to consider **Back to Basics**, present in some lists.
 
@@ -172,7 +170,7 @@ It's not a card you'll always see, but it can be very annoying for your manabase
 
 For example, if you have both **Swords to Plowshares** and **Naturalize**, and you need to answer a Dreadnought, it can be correct to use Swords on the Dreadnought and save Naturalize for a potential Back to Basics.
 
-It depends on the spot and on the opponent's hand, of course, but it's an important detail: post-board your answers don't just remove the Dreadnought — they also keep you from losing to problematic permanents.
+It depends on the spot and on the opponent's hand, of course, but it's an important detail: post-board your answers don't just remove the Dreadnought, they also keep you from losing to problematic permanents.
 
 ## A Resolved Survival
 
@@ -198,16 +196,14 @@ Mono U Dreadnought is a matchup that depends heavily on the opponent's hand. The
 
 The keys to the matchup are:
 
-- use Duress and Cabal Therapy to hit Dreadnought or the right counters;
 - respect **Stifle** on your key abilities;
 - remember that **Vision Charm** can mill the cards put back on top with Krosan Reclamation;
 - don't underestimate **Brain Freeze**;
 - minimize damage from your manabase;
 - post-board, bring in artifact removal, Xantid Swarm, and possibly Swords to Plowshares;
-- save Naturalize when it might be needed against Back to Basics;
-- quickly convert a resolved Survival into a kill line.
+- save Naturalize when it might be needed against Back to Basics.
 
-In short: against Mono U Dreadnought speed isn't enough. You have to be fast in the right way, respecting the few cards that can turn an apparently safe line into an immediate loss.
+In short: against Mono U Dreadnought speed isn't enough. You have to be fast in the right way, respecting the cards that can turn an apparently safe line into an immediate loss.
 
 The matchup is playable, but it demands a lot of precision. Every turn should be evaluated on two questions: how quickly you can win, and how quickly the opponent can put a protected 12/12 into play.
 
