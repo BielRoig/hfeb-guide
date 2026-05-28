@@ -12,24 +12,22 @@ build:
 
 ## General Plan
 
-**U/B Psychatog** is a matchup similar to U/W Landstill, but without many of the problems tied to white.
+**UB Psychatog** is a matchup similar to UW Landstill, but without many of the problems tied to white.
 
-This is a fundamental point. Against U/B Psychatog you don't have to worry about cards like:
+This is a fundamental point. Against UB Psychatog you don't have to worry about cards like:
 
 - **Swords to Plowshares**;
 - **Disenchant**;
 - **Humility**;
-- **Meddling Mage**;
-- **Decree of Justice**;
-- other white interactions that make U/W Landstill much more complicated to navigate.
+- **Meddling Mage**.
 
 This difference significantly changes how you can approach the game. In particular, **Survival of the Fittest** is much stronger, especially Game 1, because the opponent has very few ways — often none — to remove it once it resolves.
 
 For this reason, your main approach should be to try to resolve **Survival** and build the game from there.
 
-U/B Psychatog has no manlands and no particularly fast clock, other than **Psychatog** itself. Even Psychatog, though, isn't always an immediate kill: it often has to clear the board first, handle any chump blockers, and then attack in a spot where the opponent can convert hand and graveyard into lethal damage.
+UB Psychatog has no manlands and no particularly fast clock, other than **Psychatog** itself. Even Psychatog, though, isn't always an immediate kill: it often has to clear the board first, handle any chump blockers, and then attack in a spot where the opponent can convert hand and graveyard into lethal damage.
 
-This gives you time. And against a control deck that can't easily remove Survival, time is often on your side.
+This gives you time. And against a control deck that can't easily remove Survival, time is often on your wincon.
 
 ## Game 1
 
@@ -37,9 +35,7 @@ This gives you time. And against a control deck that can't easily remove Surviva
 
 In Game 1 the best plan is almost always to try to resolve **Survival of the Fittest**.
 
-If Survival sticks, U/B Psychatog struggles a lot to keep you under control. Without Disenchant, Seal of Cleansing, or Humility, the opponent has to interact mostly on the stack or with situational cards.
-
-This means the game often gets decided the moment you try to resolve Survival. If it goes through, you can build a line patiently, force the opponent's resources, and pick the best moment to win.
+If Survival sticks, UB Psychatog struggles a lot to keep you under control: the opponent has to interact on the stack. This means the game often gets decided the moment you try to resolve Survival. If it goes through, you can build a line patiently, force the opponent's resources, and pick the best moment to win.
 
 The Hermit Druid plan can still exist, but it's less central. In a matchup that tends to go longer and where the opponent has counters, instant-speed draw, and possible ways to punish a full mill, you should generally lean on Survival.
 
@@ -62,22 +58,21 @@ The question to ask is:
 
 > If I don't block this attack, am I actually dying, or am I just taking damage I can afford?
 
-If not blocking lets you win the following turn, it can be the right choice. But you always have to count Gush, Accumulated Knowledge, and the available graveyard.
+If not blocking lets you win the following turn, it can be the right choice. *But..* **always do the math!**
 
 ## Discard and Resolution Windows
 
 As against all control decks, discard spells are very important.
 
-In Game 1, a **Duress** or **Cabal Therapy** in the early turns can open the window to resolve Survival or Hermit Druid. The difference from U/W Landstill is that here you don't necessarily have to strip Swords or Humility: often you have to strip the counter that prevents your key card from resolving.
+In Game 1, a **Duress** or **Cabal Therapy** in the early turns can open the window to resolve Survival or Hermit Druid. The difference from UW Landstill is that here you don't necessarily have to strip Swords or Humility: often you have to strip the counter that prevents your key card from resolving.
 
 The most common calls depend on the spot, but they can include:
 
 - **Counterspell**;
-- **Circular Logic**, if present;
-- **Force Spike**, if the list runs it;
+- **Circular Logic** or **Mana Leak**;
+- **Smother**;
 - **Gush**, in some spots;
-- **Psychatog**, if the game is set up on the board;
-- specific cards seen with Duress or deduced from the opponent's sequence.
+- **Psychatog**, if the game is set up on the board.
 
 The principle stays the same:
 
@@ -101,11 +96,11 @@ Some versions run **Chain of Vapor**.
 
 It isn't a definitive answer, but it can break your sequence on the key turn by bouncing Survival, Shapeshifter, or a relevant creature. It has to be respected especially when you're trying to close in a single turn.
 
-### Hibernation
+### Green Hate
 
-Some lists may have **Hibernation**.
+Some lists may have **Hibernation** or **Perish**.
 
-It's a card to keep in mind because it can bounce many of your green creatures and make you lose time in spots where you thought you had a stable board. It isn't always present, but it's one of those "one-of" or situational sideboard cards U/B can use to buy time.
+Both are cards to keep in mind because can make you lose time in spots where you thought you had a stable board. They aren't always present, but these are one of those "one-of" or situational sideboard cards UB can use to buy time.
 
 ### Cephalid Coliseum
 
@@ -157,7 +152,7 @@ Post-board you should cut:
 - **Elvish Spirit Guide**;
 - a number of **Hermit Druid**;
 - a number of **Birds of Paradise**;
-- some cards that are less relevant in the long plan.
+- some cards that are less relevant in the long run.
 
 **Elvish Spirit Guide** is less important because you don't necessarily want to play a game based on maximum speed. The matchup tends to go longer, and you prefer cards that stay relevant even after the early turns.
 
@@ -167,7 +162,7 @@ Post-board you should cut:
 
 ## Opponent's Sideboard
 
-U/B Psychatog often has many sideboard cards in single copies or in small numbers. This makes the matchup a bit peculiar: you don't always know exactly which card you need to beat, but you have to expect a wide range of interactions.
+UB Psychatog often has many sideboard cards in single copies or in small numbers. This makes the matchup a bit peculiar: you don't always know exactly which card you need to beat, but you have to expect a wide range of interactions.
 
 The possible cards include:
 
@@ -178,6 +173,7 @@ The possible cards include:
 - **Infest**;
 - **Chain of Vapor**;
 - **Hibernation**;
+- **Perish**;
 - additional spot removal.
 
 **Engineered Plague** can hit some of your smaller creatures, particularly Birds of Paradise or other support creatures. It isn't always devastating, but it can generate value.
@@ -196,34 +192,34 @@ Cards like **Smother**, **Vendetta**, or edict effects can be relevant, but they
 
 This means you can often play Shapeshifter in a way that changes identity and makes it harder for the opponent to use their removal correctly.
 
-You shouldn't ignore removal, but compared to U/W Landstill the interaction is less clean and less universal. Not having Swords to Plowshares is a huge difference.
+You shouldn't ignore removal, but compared to UW Landstill the interaction is less clean and less universal. Not having Swords to Plowshares is a huge difference.
 
 ## Why the Matchup Is Favorable
 
-You should consider U/B Psychatog a fairly favorable matchup for three main reasons.
+You should consider UB Psychatog a fairly favorable matchup for three main reasons.
 
 First: it isn't white, so it doesn't have the most efficient answers against your plans.
 
 Second: it doesn't have a fast, consistent clock. Psychatog is dangerous, but it requires setup and often doesn't kill immediately.
 
-Third: **Survival of the Fittest** is very hard to remove in Game 1. If it resolves, the opponent has to make up for it with counters, tempo plays, or sideboard cards, but they don't have a clean, natural answer.
+Third: **Survival of the Fittest** is very hard to remove. If it resolves, the opponent has to make up for it with counters, tempo plays, or sideboard cards, but they don't have a clean, natural answer.
 
 This lets you play a more patient game than other matchups, picking the line that loses to the fewest possible interactions.
 
-## Note: U/B Zombie Infestation
+## Note: UB Zombie Infestation
 
-A similar argument applies to **U/B Zombie Infestation**.
+A similar argument applies to **UB Zombie Infestation**.
 
-The deck is similar to Psychatog in many ways, but the clock and interaction revolve much more around **Zombie Infestation**. This slightly changes how you count pressure.
+The deck is similar to Psychatog in many ways, but the clock revolve much more around **Zombie Infestation**. This slightly changes how you count pressure.
 
-Zombie Infestation can build a more consistent board in certain games, especially if the opponent has enough "air" cards to discard, like **Krovikan Horror**, **Squee**, or other recursive resources. This can make the race more concrete than against pure Psychatog.
+Zombie Infestation can build a more consistent board in certain games, especially if the opponent has enough "air" cards to discard, like **Krovikan Horror** and **Squee**. This can make the race more concrete than against pure Psychatog.
 
 That said, the general principle stays similar:
 
 - Survival is very strong;
 - discard opens windows;
 - you have to respect sideboard cards;
-- you can't die to effects that punish a full mill;
+- don't die to effects that punish a full mill;
 - versatile enchantment answers can be valuable if Zombie Infestation is central.
 
 Against Zombie Infestation you just have to be slightly more careful about the fact that the clock can become more stable and less tied to a single attack.
@@ -232,22 +228,17 @@ Against Zombie Infestation you just have to be slightly more careful about the f
 
 ## Matchup Summary
 
-U/B Psychatog is a generally favorable matchup.
-
-Compared to U/W Landstill, the white cards that cause you the most trouble are missing: Swords, Disenchant, Humility, Meddling Mage, and Decree of Justice. This makes **Survival of the Fittest** the best plan, especially in Game 1.
+UB Psychatog is a generally favorable matchup.
 
 The keys to the matchup are:
 
-- try to resolve Survival;
+- resolve Survival;
 - don't overestimate Psychatog's clock, but count Gush and Accumulated Knowledge carefully;
-- use discard to open windows against counters;
 - don't die to Cephalid Coliseum after Hermit Druid;
-- don't lean too much on upkeep Hermit lines against a blue deck;
-- post-board, bring in Duress, Xantid Swarm, and Swords to Plowshares;
-- respect Engineered Plague, Furnace, Crypt, Infest, Hibernation, and Chain of Vapor;
-- cut some cards that are too oriented toward pure speed, like Elvish Spirit Guide and part of the mana dorks.
+- don't lean too much on upkeep Hermit lines;
+- cut some cards that are too oriented toward pure speed.
 
-In short: against U/B Psychatog you want to play a more patient game than against other control matchups — resolve Survival, don't get caught off-guard by Tog in combat, and pick lines that don't lose to a single blue interaction.
+In short: against UB Psychatog you want to play a more patient game than against other control matchups: don't get caught off-guard and pick resilient lines.
 
 It's a matchup where the fact that the opponent isn't running white changes everything. Fewer clean answers means more time for you, and more time for hFEB often means a Survival that sooner or later turns any hand into a win.
 
