@@ -12,9 +12,9 @@ build:
 
 ## General Plan
 
-**Stasis** is a very interesting matchup because the opponent's deck doesn't necessarily try to kill you fast — it tries to bring you to a spot where you can no longer play.
+**Stasis** is a very interesting matchup because the opponent's deck doesn't necessarily try to kill you fast: it tries to bring you to a spot where you can no longer win.
 
-The opponent's typical plan is to wait for the moment when you've tapped out on your turn to try to resolve a threat: **Hermit Druid**, **Survival of the Fittest**, a mana creature, or a spell that gets neutralized. In that window, when you're low on mana or completely tapped out, the opponent can land **Stasis** and turn the game into a lock.
+The opponent's typical plan is to wait for the moment when you've tapped out on your turn to try to resolve a threat that gets countered. In that window, when you're low on mana or completely tapped out, the opponent can land **Stasis** and turn the game into a lock.
 
 Your main goal is therefore very clear:
 
@@ -38,17 +38,17 @@ The differences lie mostly in the kind of interaction you have to respect.
 
 ## U/G Stasis
 
-The **U/G** version runs a variable number of **Root Maze**, sometimes one, two, three copies, or even more.
+The **U/G** version runs a variable number of **Root Maze**, sometimes one, two or even three copies.
 
 This version can feel almost more "combo" than prison, because Root Maze significantly accelerates the opponent's ability to turn Stasis into a real lock. That said, from your point of view, the approach doesn't change radically compared to the mono blue version.
 
 **Root Maze** by itself isn't the main problem. It's symmetric, and losing a turn by playing a tapped land isn't necessarily lethal. The problem arises when Root Maze combines with Stasis and actually prevents you from getting back into the game.
 
-In Game 1, if the opponent can quickly assemble Root Maze + Stasis, it can be an almost complete lock. In these spots you want to have mana that doesn't rely on lands, or a window to close earlier.
+In Game 1, if the opponent can quickly assemble Root Maze + Stasis, it can be an almost complete lock. In these spots you want to have mana that doesn't rely on lands, or a window to close the game asap.
 
 Cards like **Birds of Paradise** can help if they stay untapped before Stasis resolves, but they aren't a perfect solution. Post-board, **Elvish Spirit Guide** can sometimes let you cast a **Naturalize** even under the lock, and that's an important detail to keep in mind.
 
-The U/G version is seen less often, but it has to be respected because it can make Stasis much harder to beat once assembled.
+The U/G version is seen less often, but it has to be respected because it can make Stasis lock much harder to beat once assembled.
 
 ## U/R Stasis
 
@@ -57,12 +57,11 @@ The **U/R** version requires different attention.
 Here you have to play around cards like:
 
 - **Fire // Ice**;
-- **Pyroclasm**;
-- any other red removal or tempo effects.
+- **Pyroclasm**.
 
 These cards can easily turn your creatures into a 2-for-1 for the opponent. For example, playing two mana creatures on the board can look correct to develop mana, but if the opponent answers with Fire // Ice or Pyroclasm you can lose both time and resources.
 
-Against U/R Stasis, then, you shouldn't commit creatures unnecessarily. **Birds of Paradise**, in particular, is often a more fragile resource than it seems. If Stasis resolves, Birds can be used only once before staying tapped; it isn't a permanent source of mana like **Wall of Roots** can be.
+Against U/R Stasis, then, you shouldn't commit creatures unnecessarily. **Birds of Paradise**, in particular, is often a more fragile resource than it seems: not only if Stasis resolves it can be used only once, but also a perfect removal target.
 
 In many spots, holding Birds in hand can have more value than playing it right away. It can become a discard target for Survival, a post-removal resource, or a way to avoid exposing yourself to a 2-for-1.
 
@@ -70,19 +69,16 @@ In many spots, holding Birds in hand can have more value than playing it right a
 
 The **Mono U** version is probably the most representative of the matchup.
 
-Here the opponent's plan is more linear: counter the relevant spells, buy time with Chain of Vapor or similar effects, then resolve Stasis at a moment when you can no longer develop.
+Here the opponent's plan is more linear: counter the relevant spells, buy time with Chain of Vapor or similar effects, then resolve Stasis at a moment when you can no interact.
 
-The main cards to respect are:
+The main cards to respect, other than **Stasis**, are:
 
 - **Counterspell**;
-- **Daze**, if present;
+- **Daze**;
 - **Thwart**;
 - **Chain of Vapor**;
-- **Stasis**;
-- **Black Vise**;
 - **Brain Freeze**;
-- **Cursed Totem** post-board;
-- **Annul** post-board.
+- **Cursed Totem**, **Annul** and **Essence Flare** post-board.
 
 The important thing is that many of these cards don't beat you on their own. Stasis is the real problem, but it often needs to be accompanied by time, counters, or support permanents. This gives you room to build turns where the opponent can't answer everything.
 
@@ -90,11 +86,9 @@ The important thing is that many of these cards don't beat you on their own. Sta
 
 ### Wall of Roots
 
-**Wall of Roots** is one of the best cards in the matchup.
+**Wall of Roots** is one of the best cards in the matchup: it produces mana without tapping. This is fundamental against Stasis, because it lets you keep accessing mana even when you don't have an untap step.
 
-The reason is simple: it produces mana without tapping. This is fundamental against Stasis, because it lets you keep accessing mana even when tapped lands and creatures no longer untap.
-
-Unlike Birds of Paradise, Wall of Roots can generate mana multiple times across multiple turns under Stasis. This makes it one of the most important resources for staying operational and, in certain cases, for casting an answer or completing a line.
+Unlike Birds of Paradise, Wall of Roots can generate mana multiple times across multiple turns. This makes it one of the most important resources for staying operational and, in certain cases, for casting an answer or completing a line.
 
 ### Eladamri's Vineyard
 
@@ -112,7 +106,7 @@ With Vineyard in play you can use Survival, cast Naturalize, develop multiple sp
 
 Discard spells are very important, but they shouldn't always name **Stasis**.
 
-With **Cabal Therapy**, the call depends on the spot. If you're in a position where Stasis completely locks you, then naming it makes sense. But in many cases, it's more correct to name the card that prevents your plan from resolving or staying effective.
+With **Cabal Therapy**, the call depends on the spot. If you're in a position where Stasis completely locks you, then naming it makes sense. But in many cases, it's more correct to name the card that prevents your plan from resolving.
 
 Frequent calls can be:
 
@@ -124,7 +118,7 @@ Frequent calls can be:
 
 The rule is always the same:
 
-> Don't name the most iconic card of the matchup. Name the card that beats your line.
+> Don't name to hit. Name the card that beats you.
 
 ## Counters and Tempo Plays
 
@@ -132,7 +126,7 @@ The rule is always the same:
 
 **Counterspell** is the most natural call when the opponent keeps double blue up.
 
-It's also one of the cleanest cards against you, because it can stop Survival, Hermit Druid, Animate Dead, Naturalize, or any key spell. If you want to build a turn around an important threat, stripping Counterspell can be the first step.
+It's also one of the cleanest cards against you, because it can stop any key spell regardless. If you want to build a turn around an important threat, stripping Counterspell can be the first step.
 
 ### Daze
 
@@ -146,7 +140,7 @@ If you can play around Daze without losing too much time, it's often worth doing
 
 **Thwart** is a very heavy card for the opponent.
 
-It can be strong, but bouncing three Islands against a deck like yours is a real cost. If the opponent doesn't have four mana available or has to tap heavily to cast it alternatively, they can lose a lot of time.
+It can be strong, but bouncing three Islands against a deck like yours is a real cost. Even if the opponent has four mana available, a four mana counterspell can lose a lot of time.
 
 This means that sometimes you can force a spell knowing that Thwart, while being an answer, will slow them down enough to give you a new window the following turn.
 
@@ -199,11 +193,9 @@ Removing Black Vise can gain a lot of time, especially in games where Stasis tri
 
 You should usually consider cutting a number of **Birds of Paradise**.
 
-Birds is useful before Stasis resolves, but under Stasis it becomes an almost one-shot source of mana: once tapped, it won't untap again. Unlike Wall of Roots, it doesn't give you continuous mana.
+Birds is useful before Stasis resolves, but under Stasis it becomes a one-shot source of mana. This doesn't mean Birds is always bad, but post-board, when more answers come in and you want to increase the quality of your draws, cutting some is reasonable.
 
-This doesn't mean Birds is always bad, but post-board, when more answers come in and you want to increase the quality of your draws, cutting some is reasonable.
-
-**Hermit Druid** lines also aren't always perfect. If you find yourself activating Hermit in upkeep and then having to resolve **Krosan Reclamation**, you have to be aware that the opponent can counter it. If Reclamation gets countered, you can simply lose on the draw step.
+Speeding into **Hermit Druid** lines also ins't always the right approach. If you find yourself activating Hermit in upkeep and then having to resolve **Krosan Reclamation**, you have to be aware that the opponent can counter it. If Reclamation gets countered, you can simply lose on the draw step.
 
 For this reason, post-board the Hermit plan has to be used with precision. It shouldn't be abandoned, but you can't treat it as an always-safe line.
 
@@ -215,7 +207,7 @@ It's a very common card, often at least one or two copies, because Stasis also u
 
 - **Survival of the Fittest**;
 - **Animate Dead**;
-- sometimes other relevant enchantments or artifacts.
+- some other relevant enchantments or artifacts you might have *(beacause you hate Stasis)*.
 
 This makes your Duress and Cabal Therapy even more important.
 
@@ -248,18 +240,14 @@ The central point is preventing **Stasis** from resolving at the moment when you
 
 The keys to the matchup are:
 
-- don't tap out unnecessarily in windows where Stasis locks you;
+- don't tap out unnecessarily;
 - give a lot of value to **Wall of Roots**;
-- consider **Eladamri's Vineyard** one of the best cards;
-- use Cabal Therapy to name the card that beats your line, not always Stasis;
-- respect Counterspell, Chain of Vapor, Daze, and Thwart;
-- post-board, bring in Duress, Xantid Swarm, and enchantment/artifact answers;
-- cut a number of Birds of Paradise when they become too close to one-shot mana;
+- use Cabal Therapy to name the card that beats your line;
 - respect Annul and Cursed Totem post-board;
-- don't lean too casually on Hermit + Krosan Reclamation lines against a deck full of counters.
+- don't lean too casually on Hermit + Krosan Reclamation.
 
 In short: against Stasis you don't just have to be faster. You have to avoid handing the opponent the perfect turn to resolve Stasis and turn a neutralized spell of yours into a lock.
 
-If you build windows well with discard, double threats, and post-board answers, you can often force a decisive card and win before the lock becomes definitive.
+With discard, double threats, and post-board answers, you can often force a decisive card and turn the game even before they see it coming.
 
 </div>
