@@ -12,7 +12,7 @@ build:
 
 ## General Plan
 
-The matchup against **Mono Black** is very interesting because it isn't played just on combo speed — it's mostly played on the ability to identify **which plan has the highest chance of going all the way**.
+The matchup against **Mono Black** is very interesting because it isn't played just on combo speed: it's mostly played on the ability to identify **which plan has the highest chance of going all the way**.
 
 Mono Black is a midrange deck with a very solid base: discard, removal, creatures that apply pressure, and post-board several types of hate. It isn't a deck that kills you immediately like Sligh or Goblins, but it's very good at dismantling your plan piece by piece.
 
@@ -20,11 +20,9 @@ The hard part of the matchup is figuring out whether the game should be played t
 
 - **Survival of the Fittest**;
 - **Hermit Druid**;
-- a grindier plan;
-- hardcasting creatures;
-- or an improvised line with Volrath's Shapeshifter.
+- or a grindier plan.
 
-Your opening hand often contains multiple possible plans. For example, you can keep hands with both **Survival** and **Hermit Druid**. In some cases the opponent chooses for you: if they open **Swamp, Duress** and strip your Survival, the plan automatically becomes Hermit Druid. Other times, though, the opponent may open with a less informative play, like land-go or **Cabal Therapy** without knowing what to name, and then it's up to you to decide which threat to present.
+Your opening hand often contains multiple possible plans. In most cases the opponent chooses for you: if they open **Swamp, Duress** and strip your Survival, the plan automatically becomes Hermit Druid. Other times, though, the opponent may open with a less informative play, like land-go or **Cabal Therapy** without knowing what to name, and then it's up to you to decide which threat to present.
 
 The general rule is:
 
@@ -36,21 +34,16 @@ The fastest plan isn't always the best. The most powerful plan isn't always the 
 
 ### Survival vs Hermit Druid
 
-In Game 1, **Survival of the Fittest** is often the best plan.
-
-The reason is that Survival lets you play a more flexible game. You can tutor different creatures, adapt to the board, build a less fragile line, and not depend entirely on a single Hermit Druid activation.
+In Game 1, **Survival of the Fittest** is often the best plan. The reason is that Survival lets you play a more flexible game. You can tutor different creatures, adapt to the board, build a less fragile line, and not depend entirely on a single Hermit Druid activation.
 
 **Hermit Druid** can still be excellent, but its lines are often more complex and more exposed. Mono Black can interact in several ways:
 
-- removal on the creature;
-- edict effects;
-- preemptive discard;
+- removal & edict effects;
+- discard spells;
 - graveyard hate, especially **Withered Wretch**;
 - board pressure that shrinks your available time.
 
 The main problem is exactly **Withered Wretch**. It's a card that can make it very hard to rely on clean graveyard lines, because it threatens to remove the key pieces right when you try to assemble the combo.
-
-For this reason, when you have both options, you should often prefer Survival, except in cases where Hermit Druid has a very clean, fast window.
 
 ### When Hermit Druid Is the Right Plan
 
@@ -61,7 +54,7 @@ One of the reasons Hermit can be good is that, once activated, you can build a l
 - **Smother**;
 - **Vendetta**;
 - **Chainer's Edict**;
-- other board-based removal or edict effects.
+- **Funeral Charm**,...
 
 This way, the opponent may have interaction in hand but can't always use it effectively against your position.
 
@@ -69,29 +62,13 @@ The point is that Hermit Druid shouldn't be treated as just "I play it, if it un
 
 > After the activation, which interaction can still stop me?
 
-If the answer is "few" or "none," then the Hermit plan is great. If instead the line loses to Wretch, to a removal spell, to an edict, or to hate already in play, it's better to look for another axis.
-
-## Picking the Right Plan
-
-This matchup rewards game-reading a lot.
-
-Sometimes you have to close quickly, before the opponent's discard and creatures run you out of resources. Other times, instead, you have to avoid overextending, because Mono Black is very good at punishing a plan that's too linear.
-
-The key question is:
-
-> Which of my lines forces the opponent to have the least likely interaction?
-
-If the Survival plan loses only to one specific card, while the Hermit plan loses to removal plus Wretch plus an edict, then Survival is probably better.
-
-If instead the opponent has spent their discard, doesn't have Wretch, and you can activate Druid with a clean line, Hermit can be the faster road.
-
-There's no fixed answer. The difficulty of the matchup is exactly figuring out, in each game, which plan is least disrupted.
+If the answer is "few" or "none," then the Hermit plan is great. If instead the line loses to Wretch, to a removal spell, to an edict, or to something already in play, it's better to look for another axis.
 
 ## Post-Sideboard
 
 Game 2 and Game 3 change a lot.
 
-Mono Black tends to increase the amount of hate, especially against the graveyard. It may sound strange, but post-board the deck often has even more tools to interact with your lines: **Phyrexian Furnace**, **Withered Wretch**, **Cremate**, similar effects, and in some versions even more specific cards.
+Mono Black tends to increase the amount of hate, especially against the graveyard. It may sound strange, but post-board the deck often has even more tools to interact with your lines: **Phyrexian Furnace**, **Withered Wretch**, **Tormod's Crypt** or similar effects.
 
 For this reason, post-board you should slow down and slightly change the way you keep hands.
 
@@ -100,8 +77,6 @@ For this reason, post-board you should slow down and slightly change the way you
 In general, post-board you can consider cutting:
 
 - some discard spells;
-- at least a couple of **Cabal Therapy**;
-- the main-deck **Duress**;
 - often one **Hermit Druid**;
 - a number of **Birds of Paradise**, if you're bringing in **Pyroclasm**.
 
@@ -118,15 +93,13 @@ Post-board you want to increase the density of cards that let you play a more ro
 The cards to consider are:
 
 - **Enlightened Tutor**, as an additional Survival;
-- **Pyroclasm**, to handle creatures like Withered Wretch and other small threats;
-- **Naturalize**;
-- **Ray of Revelation**;
-- **Monk Realist**, if available;
-- other creatures or answers that let you play a more midrange plan.
+- **Pyroclasm**, **Githu Slinger** and **Swords to Plowshares**, to handle the creature package;
+- ***Naturalize*** and **Ray of Revelation**;
+- **Monk Realist** and ***Uktabi Orangutan***.
 
 **Enlightened Tutor** is very important because it works almost like a fifth Survival. Against a deck full of discard, increasing the virtual number of copies of your key cards is fundamental.
 
-**Naturalize**, **Ray of Revelation**, and **Monk Realist** are mainly there to handle cards like **Dystopia**, which can be one of the most problematic sideboard cards.
+**Naturalize**, **Ray of Revelation**, and the respective creatures are mainly there to handle cards like **Dystopia**, **Engineered Plague** or **Masticore** (if you saw it game one), which all can be problematic sideboard cards.
 
 ## Mulligans and Post-Board Hand Selection
 
@@ -140,11 +113,9 @@ For this reason, against Mono Black it's often better to keep **playable** hands
 
 > Four lands and three spells.
 
-Or, more generally, hands with a good distribution of lands and spells, can be better than explosive but fragile hands.
+Or, more generally, hands with a good distribution of lands and *removals*, can be better than explosive but fragile hands.
 
 The idea is to accept that the game can come down to the top of the deck. It isn't the kind of game you always want to play, but against Mono Black it can be one of the best ways to avoid losing immediately to the first discard.
-
-If your hand has enough mana, some useful spells, and the chance to draw a strong piece later, you're still in the game. If instead you mulligan too aggressively and lose the only payoff to discard, you risk not really getting to play.
 
 ## The Midrange Plan
 
@@ -200,7 +171,7 @@ This line is very important. Protecting Survival for just one more turn can be a
 
 Mono Black also runs the classic package of discard and creatures that apply pressure.
 
-Cards like **Duress**, **Cabal Therapy**, **Hypnotic Specter**, and other similar threats can create games where you progressively lose access to your resources.
+Cards like **Duress**, **Cabal Therapy**, **Hypnotic Specter** and **Ravenous Rats**, and other similar threats can create games where you progressively lose access to your resources.
 
 **Hypnotic Specter** is particularly annoying because it combines pressure and random discard. If it starts connecting, it can dismantle both the combo plans and the midrange plans.
 
@@ -229,16 +200,10 @@ The main difficulty isn't just the amount of interaction, but the fact that the 
 The keys to the matchup are:
 
 - figure out which plan goes through the least interaction;
-- don't automatically pick Hermit Druid or Survival without reading the game;
-- respect **Withered Wretch**;
-- prepare for **Dystopia** post-board;
+- respect **Withered Wretch** and prepare for **Dystopia** post-board;
 - don't mulligan too aggressively toward a single combo piece;
-- accept, when necessary, a topdeck game;
-- remember that the hardcast/midrange plan is real;
-- protect Survival by keeping sacrificable green or white permanents against Dystopia.
+- remember that the hardcast/midrange plan is real.
 
-In short: against Mono Black the fastest plan doesn't always win. The plan that best survives their interaction wins.
-
-It's a matchup where you have to be flexible, patient, and ready to switch axes mid-game. Mono Black can dismantle many of your lines, but if you can identify the weak spot in their hand or board, hFEB has enough power to win even from very messy positions.
+In short: against Mono Black the fastest plan doesn't always win. The plan that best survives their interaction wins: be flexible, patient, and ready to switch axes mid-game.
 
 </div>
