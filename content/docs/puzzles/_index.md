@@ -13,7 +13,7 @@ toc: false
 Opponent is at 24 life with a nice board and a Worship. You are at 3 in your upkeep. Tog was STP'd a couple turns ago and this is G1 so you don't have any Monk Realist or Ray of Revelation from the SB. 
 
 <div class="card-row" style="align-items: flex-start;">
-<img src="/images/puzzles/puzzle3.png" alt="Board state" class="img-fluid rounded">
+<img src="/images/puzzles/puzzle1.png" alt="Board state" class="img-fluid rounded">
 </div>
 
 *What's the play?*
@@ -58,7 +58,7 @@ Therapy already and you know he has a Daze in hand from the last therapy. Last t
 he topdecked an Ivory Mask ‍♂️. You are in your upkeep, What’s the play?.
 
 <div class="card-row" style="align-items: flex-start;">
-<img src="/images/puzzles/puzzle4.png" alt="Board state" class="img-fluid rounded">
+<img src="/images/puzzles/puzzle2.png" alt="Board state" class="img-fluid rounded">
 </div>
 
 *What's the play?*
@@ -71,14 +71,250 @@ Solution text goes here.
 
 ## Puzzle 3 {#puzzle-3}
 
-It's opponents EOT and they have you at 1 and just dropped a Crypt and a Sulfuric
+It’s opponents EOT and they have you at 1 and just dropped a Crypt and a Sulfuric
 Vortex. Your WoR has 1 counter and hasn’t been used yet this turn. What’s the play?
+
+<div class="card-row" style="align-items: flex-start;">
+<img src="/images/puzzles/puzzle3.png" alt="Board state" class="img-fluid rounded">
+</div>
+
+*What’s the play?*
+
+{{< spoiler label="Show solution" >}}
+Solution text goes here.
+{{< /spoiler >}}
+
+---
+
+## Puzzle 4 {#puzzle-4}
+
+*Description coming soon.*
+
+<div class="card-row" style="align-items: flex-start;">
+<img src="/images/puzzles/puzzle4.png" alt="Board state" class="img-fluid rounded">
+</div>
+
+*What’s the play?*
+
+{{< spoiler label="Show solution" >}}
+Solution text goes here.
+{{< /spoiler >}}
+
+---
+
+## Puzzle 5 {#puzzle-5}
+
+*Description coming soon.*
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle5.png" alt="Board state" class="img-fluid rounded">
 </div>
 
-*What's the play?*
+*What’s the play?*
+
+{{< spoiler label="Show solution" >}}
+Solution text goes here.
+{{< /spoiler >}}
+
+---
+
+## Puzzle 6 {#puzzle-6}
+
+*Description coming soon.*
+
+<div class="card-row" style="align-items: flex-start;">
+<img src="/images/puzzles/puzzle6.png" alt="Board state" class="img-fluid rounded">
+</div>
+
+*What’s the play?*
+
+{{< spoiler label="Show solution" >}}
+Solution text goes here.
+{{< /spoiler >}}
+
+---
+
+## Puzzle 7 {#puzzle-7}
+
+*Description coming soon.*
+
+<div class="card-row" style="align-items: flex-start;">
+<img src="/images/puzzles/puzzle7.png" alt="Board state" class="img-fluid rounded">
+</div>
+
+*What’s the play?*
+
+{{< spoiler label="Show solution" >}}
+Solution text goes here.
+{{< /spoiler >}}
+
+---
+
+## Puzzle 8 {#puzzle-8}
+
+*Description coming soon.*
+
+<div class="card-row" style="align-items: flex-start;">
+<img src="/images/puzzles/puzzle8.png" alt="Board state" class="img-fluid rounded">
+</div>
+
+*What’s the play?*
+
+{{< spoiler label="Show solution" >}}
+Solution text goes here.
+{{< /spoiler >}}
+
+---
+
+## Puzzle 9 {#puzzle-9}
+
+*Description coming soon.*
+
+<div class="card-row" style="align-items: flex-start;">
+<img src="/images/puzzles/puzzle9.png" alt="Board state" class="img-fluid rounded">
+</div>
+
+*What’s the play?*
+
+{{< spoiler label="Show solution" >}}
+Solution text goes here.
+{{< /spoiler >}}
+
+---
+
+## Puzzle 10 {#puzzle-10}
+
+*Description coming soon.*
+
+<div class="card-row" style="align-items: flex-start;">
+<img src="/images/puzzles/puzzle10.png" alt="Board state" class="img-fluid rounded">
+</div>
+
+*What’s the play?*
+
+{{< spoiler label="Show solution" >}}
+Solution text goes here.
+{{< /spoiler >}}
+
+---
+
+## Puzzle 11 {#puzzle-11}
+
+*Description coming soon.*
+
+<div class="card-row" style="align-items: flex-start;">
+<img src="/images/puzzles/puzzle11.png" alt="Board state" class="img-fluid rounded">
+</div>
+
+*What’s the play?*
+
+{{< spoiler label="Show solution" >}}
+Solution text goes here.
+{{< /spoiler >}}
+
+---
+
+## Puzzle 12 {#puzzle-12}
+
+*Description coming soon.*
+
+<div class="card-row" style="align-items: flex-start;">
+<img src="/images/puzzles/puzzle12.png" alt="Board state" class="img-fluid rounded">
+</div>
+
+*What’s the play?*
+
+{{< spoiler label="Show solution" >}}
+Solution text goes here.
+{{< /spoiler >}}
+
+---
+
+## Puzzle 13 {#puzzle-13}
+
+*Description coming soon.*
+
+<div class="card-row" style="align-items: flex-start;">
+<img src="/images/puzzles/puzzle13.png" alt="Board state" class="img-fluid rounded">
+</div>
+
+*What’s the play?*
+
+{{< spoiler label="Show solution" >}}
+Solution text goes here.
+{{< /spoiler >}}
+
+---
+
+## Puzzle 14 {#puzzle-14}
+
+*Description coming soon.*
+
+<div class="card-row" style="align-items: flex-start;">
+<img src="/images/puzzles/puzzle14.png" alt="Board state" class="img-fluid rounded">
+</div>
+
+*What’s the play?*
+
+{{< spoiler label="Show solution" >}}
+Solution text goes here.
+{{< /spoiler >}}
+
+---
+
+## Puzzle 15 {#puzzle-15}
+
+*Description coming soon.*
+
+<div class="card-row" style="align-items: flex-start;">
+<img src="/images/puzzles/puzzle15.png" alt="Board state" class="img-fluid rounded">
+</div>
+
+*What’s the play?*
+
+{{< spoiler label="Show solution" >}}
+Solution text goes here.
+{{< /spoiler >}}
+
+---
+
+## Puzzle 16 {#puzzle-16}
+
+*Description coming soon.*
+
+*What’s the play?*
+
+{{< spoiler label="Show solution" >}}
+Solution text goes here.
+{{< /spoiler >}}
+
+---
+
+## Puzzle 17 {#puzzle-17}
+
+*Description coming soon.*
+
+<div class="card-row" style="align-items: flex-start;">
+<img src="/images/puzzles/puzzle17.png" alt="Board state" class="img-fluid rounded">
+</div>
+
+*What’s the play?*
+
+{{< spoiler label="Show solution" >}}
+Solution text goes here.
+{{< /spoiler >}}
+
+---
+
+## Puzzle 18 {#puzzle-18}
+
+*Description coming soon.*
+
+<div class="card-row" style="align-items: flex-start;">
+<img src="/images/puzzles/puzzle18.png" alt="Board state" class="img-fluid rounded">
+</div>
+
+*What’s the play?*
 
 {{< spoiler label="Show solution" >}}
 Solution text goes here.
