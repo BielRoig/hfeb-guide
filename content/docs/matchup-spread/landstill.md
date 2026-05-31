@@ -1,7 +1,7 @@
 ---
 title: "Landstill"
 favorability: "even"
-description: "hFEB matchup guide against U/W Landstill."
+description: "hFEB matchup guide against UW Landstill."
 layout: "matchup"
 date: 2026-05-19T00:00:00+00:00
 draft: false
@@ -12,22 +12,20 @@ build:
 
 ## General Plan
 
-The matchup against **U/W Landstill** can be approached in two different ways.
+The matchup against **UW Landstill** can be approached in two different ways.
 
-The first approach is trying to be faster than their interaction: pressuring their removal and counters before they can stabilize, sculpting your hand, and reaching the turns where they have mana open for multiple answers in the same turn.
+The first approach is trying to be faster than their interaction: pressuring their removal and counters before they can stabilize, sculpting your hand, and reaching the turns where they don't have mana open for multiple answers in the same turn.
 
 The second approach is almost the opposite: becoming the "control" deck of the matchup. This means slowing down, letting the opponent accumulate cards in hand, and then using **Duress** and **Cabal Therapy** at the most effective moment, trying to hit multiple resources at once or open a safe window to resolve the combo.
 
 The choice between these two plans depends on:
 
-- your opening hand;
 - play/draw;
 - how much discard you have;
-- whether you have access to Survival;
 - how quickly the opponent can represent Counterspell, Swords to Plowshares, or Fact or Fiction;
 - the presence of problematic cards like **Humility** or **Dust Bowl**.
 
-U/W Landstill doesn't put much pressure in the early turns, so you have more time than in other matchups. But the longer the game goes, the more the opponent turns that time into cards, mana, and interaction windows.
+UW Landstill doesn't put much pressure in the early turns, so you have more time than in other matchups. But the longer the game goes, the more the opponent turns that time into cards, mana, and interaction windows.
 
 ## Game 1
 
@@ -43,11 +41,9 @@ An ideal opening can look like:
 
 In this kind of game, the goal is to force the opponent to interact right away. If Therapy strips their main removal, Hermit Druid becomes an immediate threat. If instead the opponent spends a removal on the Druid, you can try to rebuild with Unearth, Animate Dead, or Survival, depending on the available resources.
 
-The key point is that Hermit Druid, against U/W Landstill, is much more realistic than in the Sligh matchup. The opponent has removal, but not at such a high density, and often has to balance their answers between creatures, Survival, and setup spells.
-
 ### Therapy and Card Naming
 
-With **Cabal Therapy**, the choice of name is complex because U/W Landstill runs many different interactions.
+With **Cabal Therapy**, the choice of name is complex because UW Landstill runs many different interactions.
 
 The cards to consider are:
 
@@ -66,13 +62,13 @@ The practical rule is:
 
 > With Therapy you don't always have to name the most likely card. You have to name the card that makes you lose this specific spot.
 
-If your plan loses to Swords, name Swords. If it loses to Counterspell, name Counterspell. If the game is going long and the opponent is trying to get to four mana open, it can become correct to name **Fact or Fiction**.
+If your plan loses to Swords, name Swords. If it loses to Counterspell, name Counterspell. If the game is going long and the opponent is trying to get to four mana open, it can become correct to name **Fact or Fiction**. Remember that having a creature to flashback Therapy right away can be game changing in many different spots.
 
 ### Hermit + Krosan Reclamation Line
 
-An important line in Game 1 is the one that goes through **Hermit Druid**, **Cabal Therapy**, and **Krosan Reclamation**.
+An important line in Game 1 is the one that goes through **Hermit Druid**, **Cabal Therapy**, and **Animate Dead**.
 
-After activating Hermit Druid, you can use Cabal Therapy to strip the opponent's hand of relevant counters or removal. At that point, **Krosan Reclamation** can put a card like **Animate Dead** back into the library, creating an additional safety layer for the following turn.
+After activating Hermit Druid, you can use Cabal Therapy to strip the opponent's hand of relevant counters or removal. At that point, **Krosan Reclamation** can put **Animate Dead** back into the library, creating an additional safety layer for the following turn.
 
 This line doesn't necessarily close on the same turn, but it forces the opponent to find a specific answer in a very tight window. If their hand has been emptied by discard, the following turn you should be able to finish the game.
 
@@ -80,53 +76,46 @@ This line doesn't necessarily close on the same turn, but it forces the opponent
 
 ### Multiple Counters
 
-The first problem is that U/W Landstill runs many different counters. This makes it hard to always pick the right name with Cabal Therapy.
+The first problem is that UW Landstill runs many different counters. This makes it hard to always pick the right name with Cabal Therapy. Even if you strip a Counterspell, the opponent may have Prohibit, Mana Leak, or Miscalculation. On top of that, they can use**Impulse** and **Fact or Fiction** to dig for an answer.
 
-Even if you strip a Counterspell, the opponent may have Prohibit, Mana Leak, or Miscalculation. Or they may use **Impulse** to dig for an answer, or simply draw the right card on the following turn.
-
-For this reason, against U/W Landstill you can't just ask "can I win?". You have to ask:
+For this reason, against UW Landstill you can't just ask "can I win?". You have to ask:
 
 > "How many interactions can I beat, and which ones make me lose immediately?"
 
 ### Standstill
 
-**Standstill** is a card to respect a lot.
-
-If you have Hermit Druid in play and the opponent controls Standstill, you have to be careful not to create a situation where you activate Hermit Druid, the opponent breaks Standstill with an instant, you're forced to draw three cards, and you have no cards left in your library.
+**Standstill** is a card to respect a lot. If you have Hermit Druid in play and the opponent controls Standstill, you have to be careful not to create a situation where you activate Hermit Druid, the opponent breaks Standstill with an instant, you're forced to draw three cards, and you have no cards left in your library.
 
 This is one of the most dangerous scenarios in the matchup: after a full mill from Hermit Druid, drawing cards becomes lethal. So Standstill isn't just a card-advantage engine for the opponent; it can turn into a real kill condition against you if you handle the timing poorly.
 
 ### Humility
 
-In Game 1, the main problem you often can't solve cleanly is **Humility**.
+In Game 1, the only problem you often can't solve is **Humility**.
 
-The longer the game goes, the more Humility becomes a real threat. Once resolved, it can shut off most of your lines based on creatures, Shapeshifter, and abilities. For this reason you have to be very surgical with discard when you suspect the opponent might have it in hand.
+The longer the game goes, the more Humility becomes a real threat. Once resolved, it can shut off all of your lines. For this reason you have to be very surgical with discard when you suspect the opponent might have it in hand. 
 
 If you have a window to strip Humility with Duress or Cabal Therapy, you often have to take it seriously, even if there are other cards that look more immediate at that moment.
 
 ## The Control Plan
 
-The second approach to the matchup is trying to control U/W Landstill yourself.
+The second approach to the matchup is trying to control UW Landstill yourself.
 
-This doesn't mean becoming a true control deck, but it means slowing down enough to force the opponent to play inefficiently. The goal is to build a turn where you can cast multiple spells, use discard before the threat, and force the opponent to spend as many resources as possible.
+This doesn't mean becoming a true control deck, but it means slowing down enough to force the opponent to play inefficiently. The goal is to build a turn where you can cast multiple spells, use discard before the threats, and force the opponent to spend as many resources as possible.
 
 In practice, instead of casting your key piece as soon as you have it, you can wait one or two turns to:
 
 - draw a discard spell;
 - have mana for a double spell;
 - flash back Cabal Therapy;
-- force an answer on a smaller threat;
-- resolve Survival or Hermit Druid with more protection.
+- force an answer on a smaller threat.
 
 This plan is harder to explain than to show in a game, but the concept is simple: you want to create turns where the opponent can't answer everything.
 
 ### The Dust Bowl Problem
 
-The main problem with the long plan is **Dust Bowl**.
+The main problem with the long plan is **Dust Bowl**. If your idea is to play land-go for several turns, reaching turn 5, 6, or 7 can become dangerous. The opponent starts having unused mana, and that mana can be converted into Dust Bowl activations.
 
-If your idea is to play land-go for several turns, reaching turn 5, 6, or 7 can become dangerous. The opponent starts having unused mana, and that mana can be converted into Dust Bowl activations.
-
-Your manabase is fragile against Dust Bowl, especially because you need specific colors and many of your lands are nonbasic. If the opponent manages to turn the game into a mana war, you can find yourself in a position where you have the right cards but can no longer cast or combine them in the same turn.
+Your manabase is fragile against Dust Bowl, especially because you need specific colors. If the opponent manages to turn the game into a mana war, you can find yourself in a position where you have the right cards but can no longer cast or combine them in the same turn.
 
 So the control plan is valid, but it can't become passivity. Waiting one or two turns to build a window is correct; waiting too long can give the opponent time to take real control of the game.
 
@@ -134,7 +123,7 @@ So the control plan is valid, but it can't become passivity. Waiting one or two 
 
 The longer the game goes, the more the opponent's card-advantage cards become a problem.
 
-**Impulse**, **Accumulated Knowledge**, and especially **Fact or Fiction** let U/W Landstill sculpt a much stronger hand than yours. Even if they don't kill you immediately, these cards dramatically increase the chance that the opponent finds the right mix of counters, removal, and hate.
+**Impulse**, ***Accumulated Knowledge***, and especially **Fact or Fiction** let UW Landstill sculpt a much stronger hand than yours. Even if they don't kill you immediately, these cards dramatically increase the chance that the opponent finds the right mix of counters, removal, and hate.
 
 **Decree of Justice** is another concrete problem. In late turns, a Decree cycled for four or five soldiers can put a real race on the board, especially considering your manabase has often already dealt you a fair amount of damage.
 
@@ -154,7 +143,7 @@ If you reach six or seven mana, you can build very explosive turns. For example:
 
 In this kind of scenario, **Unearth** is fundamental because it significantly reduces the mana needed to win. The opponent may think they have another turn because they assume you need more mana or more setup, but Unearth shortens the sequence and can completely throw off their math.
 
-This is one of the reasons you shouldn't be afraid of going slightly longer in the matchup, as long as you're still controlling the opponent's resources.
+This is one of the reasons **you shouldn't be afraid of going slightly longer** in the matchup, as long as you're still controlling the opponent's resources.
 
 ## Post-Sideboard
 
@@ -182,7 +171,7 @@ On top of that, when Xantid sticks, it enables very strong lines:
 > If the trigger resolves, the opponent can no longer cast spells that turn.
 > At that point you can activate Hermit Druid, use Unearth or Animate Dead, and close without fearing counters or removal.
 
-This makes Xantid particularly strong alongside Hermit Druid, because it turns a fragile line into a much safer one.
+This makes Xantid particularly strong alongside Hermit Druid, because it turns a fragile line into a much safer one *(Same is true with Survival of course)*.
 
 ### Don't Always Play Xantid on Turn 1
 
@@ -190,11 +179,9 @@ An important tip, especially **on the draw**, is not to automatically play Xanti
 
 If the opponent leads on a land that produces white, it can be correct to wait. If you have a discard spell, you can open with that instead. Otherwise, sometimes it's correct to just play a land and pass.
 
-The reason is that U/W Landstill really needs to optimize mana in the early turns. If you play Xantid right away and the opponent uses Swords on turn 1, they've perfectly converted their mana into an efficient answer.
+The reason is that UW Landstill really needs to optimize mana in the early turns. If you play Xantid right away and the opponent uses Swords on turn 1, they've perfectly converted their mana into an efficient answer.
 
 If instead you wait, you can force them to use that same Swords on a turn when they wanted to do something else. Even just pushing the opponent into making on turn 2 a play they wanted to make on turn 1 is a small tempo gain.
-
-Even better, if the opponent taps out for **Meddling Mage** or another spell, a window opens to resolve Xantid, sequence Duress + Xantid, or build a more favorable sequence.
 
 ### Meddling Mage
 
@@ -213,24 +200,21 @@ For this reason it's advisable to bring in at least some specific answers, like:
 
 - **Swords to Plowshares**;
 - **Ghitu Slinger**;
-- any flexible removal;
-- Pyroclasm, if you also want a broader board answer.
+- ***Pyroclasm***, if you also want a broader board answer.
 
-Meddling Mage isn't always lethal by itself, but it can buy enough time for U/W Landstill to find Humility, Fact or Fiction, or a hand full of counters.
+Meddling Mage isn't always lethal by itself, but it can buy enough time for UW Landstill to find Humility, Fact or Fiction, or a hand full of counters. Also remember that if the opponent taps out for **Meddling Mage** a window opens to resolve a favorable sequence of spell, and this can easily happen in the early turns.
 
 ### Answers to Humility
 
 Post-board it's fundamental to have answers to **Humility**.
 
-Cards like **Ray of Revelation** and/or **Naturalize** are very important because they give you real outs to one of the most problematic cards in the matchup. Ray of Revelation is particularly interesting because it represents two answers in a single card thanks to flashback.
-
-This lets you play the long game with more peace of mind. In Game 1, Humility can be almost impossible to beat once resolved; post-board, instead, you can build a game where you respect it without being completely locked out.
+Cards like **Ray of Revelation** and/or **Naturalize** are very important because they give you real outs to one of the most problematic cards in the matchup. Ray of Revelation is particularly interesting because it represents two answers in a single card thanks to flashback. This lets you play the long game with more peace of mind.
 
 ### Graveyard Hate Post-Sideboard
 
-U/W Landstill usually isn't the deck with the most oppressive graveyard hate.
+UW Landstill usually isn't the deck with the most oppressive graveyard hate.
 
-It can have **Phyrexian Furnace**, often already in the main deck, and in some cases other similar cards. That said, with both Hermit Druid and Survival you can often play around this kind of hate, especially if the opponent has to keep mana up or if you can force them to tap out.
+It can have **Phyrexian Furnace**, often already in the main deck. That said, with both Hermit Druid and Survival you can often play around this kind of hate, especially if the opponent has to keep mana up or if you can force them to tap out.
 
 In this matchup it's important not to always show how constrained you actually are by Furnace. Sometimes you can look more scared than you really are, slow down slightly, or use the way the opponent reads your caution to push them into tapping out or using the hate at the wrong moment.
 
@@ -238,7 +222,7 @@ Especially in paper, bluff and game pace can have real weight. hFEB is a combo d
 
 ### Other Sideboard Cards
 
-Some configurations can justify bringing in **Pyroclasm**, especially if the opponent has Meddling Mage or can build cluttered boards with small creatures.
+Some configurations can justify bringing in **Pyroclasm**, especially if the opponent has Meddling Mage or can cycle a huge Decree.
 
 **Uktabi Orangutan** is interesting if you want answers to:
 
@@ -248,42 +232,17 @@ Some configurations can justify bringing in **Pyroclasm**, especially if the opp
 
 It isn't always an essential card, but it has the advantage of being tutorable with Survival and of interacting with a category of permanents that can slow your lines.
 
-## Xantid + Hermit Post-Combat Line
-
-One of the most solid post-board lines goes through **Xantid Swarm** and **Hermit Druid**.
-
-The scenario is this:
-
-> You have Xantid Swarm in play.
-> You have Hermit Druid untapped.
-> Attack with Xantid Swarm.
-> The trigger resolves.
-> The opponent can no longer cast spells that turn.
-> After combat, activate Hermit Druid.
-> Use Unearth or another recursion effect to bring back the necessary pieces.
-> Close with the Devourer + Triskelion line.
-
-This line is very strong because it happens entirely after the Xantid Swarm trigger. Once Xantid has resolved, the opponent can no longer use counters, removal, or instant interaction to stop you that turn.
-
-In practice, Xantid turns Hermit Druid from a fragile threat into an almost protected kill.
-
 <div class="matchup-summary" markdown="1">
 
 ## Matchup Summary
 
-Against U/W Landstill you have to choose whether to be faster than their answers or play a more patient game, based on discard, double spells, and carefully built windows.
-
-In Game 1, often the best plan is to go faster, because Humility is hard to beat and the longer the game goes the more the opponent can find counters, Swords, Fact or Fiction, and Dust Bowl.
-
-Post-board, instead, you can afford to slow down. Bringing in **Duress**, **Xantid Swarm**, answers to **Meddling Mage**, and answers to **Humility** lets you play a more controlled and surgical matchup.
+Against UW Landstill you have to choose whether to be faster than their answers or play a more patient game, based on discard, double spells, and carefully built windows.
 
 The keys to the matchup are:
 
 - use Cabal Therapy to name the card that makes you lose this specific spot;
-- don't give Standstill free windows;
 - respect Humility;
 - don't wait too long against Dust Bowl;
-- exploit Xantid Swarm to make Hermit lines safe;
 - remember that Survival in the late game can win in a single turn.
 
 The matchup is technical, but very playable. The more information you have on the opponent's hand and configuration, the more you can turn the game from a counter war into a controlled sequence where you decide the exact moment to win.
