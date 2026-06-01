@@ -88,7 +88,7 @@ Solution text goes here.
 
 ## Puzzle 4 {#puzzle-4}
 
-*Description coming soon.*
+We are in opponent's EOT and he has Ensnaring Bridge in play and 0 cards in hand, can you win on your turn? Bonus: maximize damage you inflict.
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle4.png" alt="Board state" class="img-fluid rounded">
@@ -97,16 +97,14 @@ Solution text goes here.
 *What's the play?*
 
 {{< spoiler label="Show solution" >}}
-EOT activate Hermit and K-Rec targeting Akroma's Decree (AD).
 
-Next turn:
-
-1. Untap and draw AD. Cast AD targeting Guide, bringing Shifter, Shifter and Tog into play.
-2. Discard Scrounger and scrounge 6 cards: Pali, Guide, AD, Squee, ESG, Scrounger (Scrounger last). This reveals Devourer — activate 5 times (20 CMC).
-3. Activate Hermit #1, milling Scrounger. Scrounger scrounges 6 more cards (4 Survivals, WoR, Scrounger). This reveals Devourer again — eat the top 5 cards (+10 CMC).
-4. Discard Akroma with Tog. One Shifter dies to state-based actions.
-5. Activate Hermit #2, milling Scrounger. Scrounger scrounges Akroma, Shifter and itself. This reveals Devourer a third time — devour the whole remaining library (+16 CMC).
-6. Reveal Triskelion with Tog.
+1. EOT activate Hermit and K-Rec Animate Dead. Order graveyard as Devourer and Trike.
+2. Untap and draw Animate Dead. Cast Animate Dead on Guide, bring Shifter, Shifter, Tog.
+3. Discard Scrounger and scrounge 6 cards: Pali, Guide, AD, Squee, ESG, Scrounger (Scrounger last). This reveals Devourer — activate 5 times (20 CMC).
+4. Activate Hermit #1, milling Scrounger. Scrounger scrounges 6 more cards (4 Survivals, WoR, Scrounger). This reveals Devourer — eat the top 5 cards (+10 CMC).
+5. Discard Akroma with Tog. One Shifter dies to SBA.
+6. Activate Hermit #2, milling Scrounger. Scrounger scrounges Akroma, Shifter and itself. This reveals Devourer again — devour whole library (+16 CMC).
+7. Reveal Trike with Tog.
 
 Total: 13 cards fed to Devourer including all the fatties = **46 damage**.
 {{< /spoiler >}}
@@ -115,7 +113,8 @@ Total: 13 cards fed to Devourer including all the fatties = **46 damage**.
 
 ## Puzzle 5 {#puzzle-5}
 
-*Description coming soon.*
+It's opponents EOT, we are fully tapped and they just milled our entire library in the worst possible order (maybe brain freeze). They have a seal of removal in play, and no more interaction. Assume the most adversarial gy order.
+
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle5.png" alt="Board state" class="img-fluid rounded">
@@ -123,30 +122,7 @@ Total: 13 cards fed to Devourer including all the fatties = **46 damage**.
 
 *What's the play?*
 
-{{< spoiler label="Show solution #1 (Plan A/B)" >}}
-It's opponent's EOT. We are fully tapped and they just milled our entire library in the worst possible order (e.g. Brain Freeze). They have a Seal of Removal in play and no more interaction. Assume regular hFEB G1 list and the most adversarial graveyard order.
-
-**Plan A** (primary): K-Rec a black-producing land and AD. Next turn with 4 mana, AD and Squee in hand:
-
-1. Cast AD targeting Guide, bring two Shifters; last trigger targets Scrounger.
-2. Scrounger enters and we scrounge Devourer, Trike and WoR.
-3. Sac Scrounger to Therapy and double-activate for both Shifters, putting Akroma, Pali, Guide, Tog, Scrounger, ESG into the library.
-4. We have GG left — pitch Squee for WoR, WoR for Devourer, tap for GG.
-5. Use GG to pitch Devourer for Triskelion, devour and pitch Trike for the win.
-
-**Plan B** (backup): With Shifter in play, Tog and Akroma in library and WoR in hand:
-
-- Pay G to pitch WoR for Tog, produce a G and pitch Tog for Akroma, exile graveyard and discard Akroma for lethal.
-
-**Final line** — navigating the Seal:
-
-- If opponent bounces a Shifter during the reanimation chain, put Tog and Akroma in the library with Scrounger and go for Plan B with GG.
-- If opponent bounces Scrounger after its activation, pitch it as you would Squee and proceed with Plan A.
-- If you get to sac Scrounger and double-activate, and opponent bounces one Shifter before WoR is in hand, proceed with Plan B; otherwise discard WoR and with GG go for Plan A.
-- Opponent can only bounce one Shifter — we have the other. Once Devourer is on top and Trike is in hand, commit with a single Shifter. If they try to cover an activation we have 31 CMC, enough to survive the covering and still deal lethal.
-{{< /spoiler >}}
-
-{{< spoiler label="Show solution #2 (Seal interaction map)" >}}
+{{< spoiler label="Show solution" >}}
 **Turn 1:** K-Rec a land producing B and AD. Play land and pass.
 
 **Turn 2:** Play land and cast AD targeting Guide.
@@ -155,7 +131,7 @@ It's opponent's EOT. We are fully tapped and they just milled our entire library
   - **Bounce 1 — they Seal Guide with Guide + AD trigger on stack:** Discard Guide, get Akroma. Shifter enters as Guide and brings back Tog. Sac Tog to Therapy, pump Shifter/Tog, then discard Akroma and win.
   - **No bounce:** Shifter, Shifter, Scrounger in play.
 
-- Activate Shifter–Scrounger to put back Wall, Tog, Akroma.
+- Activate Scrounger to put back Wall, Tog, Akroma.
   - **Bounce 2 — they Seal Scrounger here:** Resolve, discard Scrounger get Tog, discard Tog get Akroma. Pump and win.
   - **No bounce:** Sac Scrounger to Therapy and shuffle back Scrounger, Devourer, Trike, Pali, Guide, X.
 
@@ -170,7 +146,7 @@ It's opponent's EOT. We are fully tapped and they just milled our entire library
 
 ## Puzzle 6 {#puzzle-6}
 
-*Description coming soon.*
+Last turn opponent sworded your hermit, so you activated in response. Feel free to alter the graveyard order to the one you would've used. This turn you flashbacked K-Rec using Birds and WoR and put 2 Unearths back. Can you win this turn?
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle6.png" alt="Board state" class="img-fluid rounded">
@@ -201,7 +177,7 @@ It's opponent's EOT. We are fully tapped and they just milled our entire library
 
 ## Puzzle 7 {#puzzle-7}
 
-*Description coming soon.*
+We are in opponent's EOT. Can you win on your turn?
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle7.png" alt="Board state" class="img-fluid rounded">
@@ -242,15 +218,12 @@ Scrounge Pali, Akroma, Scrounger (top→bottom) regardless of what opponent does
 *What's the play?*
 
 {{< spoiler label="Show solution" >}}
-EOT of opponent playing Goblins — we have one turn before dying. We're at 4 life with a Mogg Fanatic ready to ping.
-
 1. Untap and draw. Pay <i class="ms ms-g ms-cost"></i>, discard Pali to Survival to get Shifter.
 2. Play Birds of Paradise, pay <i class="ms ms-g ms-cost"></i>, discard Shifter to get Devourer.
 3. Pay <i class="ms ms-b ms-cost"></i> and Unearth Shifter.
-4. **If they Fanatic in response:** Pay <i class="ms ms-g ms-cost"></i> with ESG, discard Devourer to get Trike. Activate Shifter–Devourer enough to make it survive the Mogg ping, untap lands and win.
-5. **If they don't:** Proceed with the Devourer line normally.
+4. **If they Fanatic in response:** Pay <i class="ms ms-g ms-cost"></i> with ESG, discard Devourer to get Trike. Activate Shifter–Devourer to make it survive the Mogg ping, untap lands and win.
 
-> **Tip:** Going for Akroma or Psychatog with Shifter's search instead of Devourer means you don't need to worry about Devourer popping during activations while saving it from Fanatic.
+> You could be even safer if you get Akroma or Psychatog with Shifter's search. That way you don't have to hope your Devourer doesn't pop on activating to save it from Fanatic.
 {{< /spoiler >}}
 
 ---
@@ -266,8 +239,6 @@ EOT of opponent playing Goblins — we have one turn before dying. We're at 4 li
 *What's the play?*
 
 {{< spoiler label="Show solution (5 mana — 110 damage)" >}}
-With Worship and access to Psychatog, maximum damage with 5 mana. It's your upkeep.
-
 Order graveyard as: Guide, Scrounger, Devourer, Akroma, Trike.
 
 1. Activate Hermit and K-Rec 2 Unearths (3 mana spent). Draw Unearth, cast it targeting Shifter. Shifter enters as Guide, brings back Guide, brings back Tog.
@@ -297,7 +268,7 @@ Order graveyard as: Guide, Scrounger, Devourer, Akroma, Trike.
 {{< spoiler label="Show solution" >}}
 Unearth Tog, K-Rec CMC cards, become Devourer and execute the FEB kill.
 
-Note: Opponent's Sylvan Library activations actually help us by building up the graveyard.
+And thank him for his sylvan activations.
 
 **Working around Naturalize:** K-Rec CMC, become Devourer, put activations on the stack, become Trike. If they Naturalize before the activations resolve, discard Squee (or Auramancer) on top of the graveyard — Naturalize fizzles because the enchantment is gone. Become Trike again and finish.
 {{< /spoiler >}}
@@ -315,10 +286,6 @@ Note: Opponent's Sylvan Library activations actually help us by building up the 
 *What's the play?*
 
 {{< spoiler label="Show solution" >}}
-You are at 3 life, opponent at 16 with no cards in hand. You drew Memory Lapse this turn (you had cast VSS last turn and they Lapsed it). Psychatog and Akroma were boarded out — you must combo, not attack.
-
-Graveyard top two: Scrounger, Trike.
-
 1. Therapy yourself using Monk Realist to discard Shifter.
 2. Cast AD targeting both Shifters, and Scrounger.
 3. Scrounger enters. Sac Scrounger to Therapy targeting yourself — with double-scrounge, put Trike last. Discard Devourer to Therapy.
@@ -338,8 +305,6 @@ Graveyard top two: Scrounger, Trike.
 *What's the play?*
 
 {{< spoiler label="Show solution #1" >}}
-You have already made your land drop and tapped Coast to activate Survival (paused on choosing which creature to discard).
-
 1. Exile the top two cards, reveal Hermit and activate it.
    - **If they ping in response to stop the activation:** Activate Survival twice in response to fetch Devourer and Trike. Crypt is now harmless. Discard them freely with Tog to win.
    - **Hermit resolves:** Put Scrounger on top and scrounge Trike, Guide and Akroma. Attempt to resolve the pump.
@@ -420,8 +385,6 @@ Solution text goes here.
 *What's the play?*
 
 {{< spoiler label="Show solution #1" >}}
-Against Iggy Pop — opponent has open lands and a Cephalid Coliseum (at threshold). It's your main phase.
-
 1. Play Shifter naked. Pay <i class="ms ms-g ms-cost"></i> to activate Hermit — order: Scrounger, double WoR.
 2. Activate Scrounger, put back WoR, Akroma, Scrounger (3 cards). Get G from top WoR.
 3. Pitch Tog for Scrounger.
