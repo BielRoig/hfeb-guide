@@ -12,18 +12,13 @@ build:
 
 ## General Plan
 
-**The Rock** is a black-green midrange deck that shares some traits with Deadguy Ale and B/W Control, but it has its own distinct character. It's probably the grindiest and most versatile version of this archetype family.
+**The Rock** is a black-green midrange deck that shares some traits with Deadguy Ale and BW Control, but it has its own distinct character. It's probably the grindiest and most versatile version of this archetype family.
 
 The Rock's toolkit can include:
 
 - discard, like **Duress** and **Cabal Therapy**;
-- solid creatures;
-- **Call of the Herd**;
-- **Pernicious Deed**;
-- **Sylvan Library**;
-- black removal;
-- **Naturalize**;
-- graveyard hate post-board.
+- **Pernicious Deed** and **Dust Bowl**;
+- black removal and **Naturalize**.
 
 The Rock can apply pressure with creatures and, at the same time, have very flexible answers to your permanents.
 
@@ -32,8 +27,8 @@ The main difference compared to blue decks is that The Rock **cannot counter you
 The problem is different: you don't know whether it will stay in play.
 
 > If you play Survival, the opponent can have **Naturalize** or **Pernicious Deed**.
-> If you play Hermit Druid, they can have black removal or edict effects.
-> If you go through the graveyard, post-board they can have **Phyrexian Furnace**, **Tormod's Crypt**, or **Cursed Totem**.
+> If you play Hermit Druid, they can have a removal.
+> If you go through the graveyard, post-board they can have **Phyrexian Furnace**, **Tormod's Crypt**, **Withered Wretch** or **Cursed Totem**.
 
 So the matchup isn't "free," but the fact that your spells resolve gives you a slight structural advantage.
 
