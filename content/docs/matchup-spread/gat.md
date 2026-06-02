@@ -14,7 +14,7 @@ build:
 
 **GAT** and the **3C/4C Psychatog** versions share some elements with UB Psychatog, but they add a much stronger tempo component.
 
-Compared to pure UB Tog, these decks are more explosive, dig more, have access to **Mox Diamond**, and generally play a better removal package. This makes them harder to approach, because while they're looking for answers to your combo plan, they can simultaneously apply pressure to the board.
+Compared to pure UB Tog, these decks dig more, have access to **Mox Diamond**, play a better removal package and on top of that they have Armageddon to seal the deal. This makes them harder to approach, because while they're looking for answers to your combo plan, they can simultaneously apply pressure to the board.
 
 The most important case is **GAT**, which you should consider the main reference for the category. The 4C or Esper Psychatog versions are, in my view, less linear or more "simplified" variants of the same concept: decks based on Gush, card advantage, and efficient threats, but with some structural issues tied to manabase and consistency.
 
@@ -26,9 +26,8 @@ GAT, on the other hand, has a very clear plan:
 - low-cost cantrips;
 - **Quirion Dryad**;
 - **Psychatog**;
-- counters;
-- efficient removal;
-- a number of answers to Survival.
+- counters + efficient removal;
+- **Armageddon**.
 
 The main problem is that the deck isn't simply drawing cards to defend itself. It's drawing cards while a **Quirion Dryad** grows, or while **Psychatog** sets up to become lethal.
 
@@ -37,21 +36,6 @@ This means the time available to you can shrink very quickly.
 ## The GAT Shell
 
 GAT is built to convert low-cost spells into value and pressure.
-
-The main cards are:
-
-- **Gush**;
-- **Mox Diamond**;
-- **Accumulated Knowledge**;
-- cantrips like **Opt** and **Sleight of Hand**;
-- **Quirion Dryad**;
-- **Psychatog**;
-- **Counterspell**;
-- **Foil**;
-- sometimes **Mana Leak** or **Miscalculation**;
-- **Swords to Plowshares**;
-- **Fire // Ice**;
-- often also **Disenchant** or similar effects main deck.
 
 **Quirion Dryad** is one of the most dangerous threats, because it grows while the opponent does things they want to do anyway: drawing, filtering, protecting themselves, and finding interaction.
 
@@ -66,7 +50,7 @@ The matchup is complex because GAT can do two things at the same time:
 
 This is the worst possible scenario for you.
 
-If the opponent has **Quirion Dryad** in play and is casting cantrips, Gush, and Accumulated Knowledge, every extra turn makes the game harder. They aren't just finding counters and removal — they're turning those same spells into damage.
+If the opponent has **Quirion Dryad** in play and is casting cantrips, Gush, and Accumulated Knowledge, every extra turn makes the game harder. They aren't just finding counters and removal: they're turning those same spells into damage.
 
 This often forces you into forced plays. Sometimes you have to try to resolve Survival or Hermit Druid even into possible counters or removal, simply because waiting a turn means dying to Dryad or Psychatog.
 
@@ -111,6 +95,7 @@ GAT runs a counter package that can vary, but you should normally expect:
 
 - **Counterspell**;
 - **Foil**;
+- **Daze**;
 - sometimes **Mana Leak**;
 - sometimes **Miscalculation**.
 
@@ -122,7 +107,7 @@ This applies especially to lines with **Hermit Druid** and **Krosan Reclamation*
 
 **Survival of the Fittest** is strong, but it isn't as free as it is against UB Psychatog.
 
-GAT can have **Disenchant** or similar effects main deck, and post-board it can further increase the number of answers. On top of that, even when Survival resolves, you have to convert it into a line quickly, because Dryad and Psychatog can close in a few turns.
+GAT can have **Disenchant** or similar effects main deck, and post-board it can further increase the number of answers (usually **Ray of Revelation**). On top of that, even when Survival resolves, you have to convert it into a line quickly, because Dryad and Psychatog can close in a few turns.
 
 You can't always afford to use Survival as a slow engine. Sometimes you have to use it as a card that builds an immediate kill or a position that's very hard to beat.
 
@@ -146,7 +131,7 @@ The cards to prioritize are:
 
 The goal isn't to become a control deck, but to figure out which plan the opponent is following and open a window for your combo.
 
-### Duress and Cabal Therapy
+### Duress and Cabal Therapy - CONTINUARE DA QUA IN GIU'
 
 Discard spells are very strong because they give you information.
 
