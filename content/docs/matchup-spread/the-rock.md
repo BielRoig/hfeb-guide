@@ -44,17 +44,13 @@ but rather:
 
 > "Can the opponent's hand beat Survival?"
 
-This matchup rewards the ability to read the opponent's hand and pick the right axis.
-
-If the opponent has creature removal but no enchantment answer, Survival becomes the best plan. If the opponent has Naturalize but no creature removal, Hermit Druid can be the correct line. If the opponent only has discard and pressure, sometimes all you need is to draw a high-impact piece and force the game.
+This matchup rewards the ability to read the opponent's hand and pick the right axis. If the opponent only has discard and pressure, sometimes all you need is to draw a high-impact piece and force the game.
 
 ## Duress and Cabal Therapy
 
 Against The Rock, **Duress** is often even more important than **Cabal Therapy**.
 
-In general you shouldn't sideboard in too many discard spells against decks that already run discard, because you risk entering a resource war where both hands empty out. But Duress has a special value: it gives you precise information.
-
-And information is fundamental.
+In general you shouldn't sideboard in too many discard spells against decks that already run discard, because you risk entering a resource war where both hands empty out. But Duress has a special value: it guarantees to hit something. This is important since many answers can be redundant. And information is fundamental.
 
 Imagine you have both **Hermit Druid** and **Survival of the Fittest** in hand, without knowing what the opponent has.
 
@@ -72,21 +68,20 @@ This is why Duress is so valuable: it doesn't just strip a card, it lets you cho
 
 ### Survival of the Fittest
 
-**Survival** is often very strong against The Rock.
-
-If it isn't removed immediately, it lets you generate value, find utility creatures, build alternative lines, and adapt to the board. Against non-blue decks, a resolved Survival can immediately start converting creatures in hand into concrete resources.
+**Survival** is often very strong against The Rock. If it isn't removed immediately, it lets you generate value, find utility creatures, build alternative lines, and adapt to the board. Against non-blue decks, a resolved Survival can immediately start converting creatures in hand into concrete resources.
 
 The problem is that The Rock has access to multiple enchantment answers:
 
 - **Naturalize**;
 - **Pernicious Deed**;
+- **Nantuko Vigilante**;
 - possibly other answers post-board.
 
 So Survival is strong, but you shouldn't always treat it as a card destined to stay in play. If you can use it right away to gain value or build a line, you should.
 
 ### Hermit Druid
 
-**Hermit Druid** is more exposed to removal, but it can close quickly and punish opponent's hands that are too slow or too oriented against Survival.
+**Hermit Druid** is more exposed to removal, but it can close quickly and punish opponent's hands that are too slow or too heavy on discard.
 
 Against The Rock you have to consider black removal, edict effects, and **Pernicious Deed**. Deed is particularly problematic because it can answer Hermit Druid and your mana creatures at the same time, in a single card.
 
@@ -123,17 +118,7 @@ For this reason, post-board enchantment removal earns value beyond just answerin
 
 The Rock is often considered sufficiently favorable precisely because the opponent doesn't run counters.
 
-The fact that your spells resolve changes a lot.
-
-You can:
-
-- cast Survival and know it'll enter;
-- cast Shapeshifter and know it'll resolve;
-- use creatures with ETB triggers like **Triskelion** or **Ghitu Slinger**;
-- set up lines where a key spell, once cast, isn't stopped on the stack;
-- force the opponent to already have the right answer in hand or to draw it in the following turns.
-
-This is the main limit of non-blue decks: they can't dig as much as blue decks to find the perfect interaction. They have to rely on what they have in hand or on natural topdecks.
+The fact that your spells resolve changes a lot. This is the main limit of non-blue decks: they can't dig as much as blue decks to find the perfect interaction. They have to rely on what they have in hand or on natural topdecks.
 
 If their hand isn't redundant, a single discard spell from you can win the game. If you strip the only Pernicious Deed, the only Naturalize, or the only hate piece, you can often follow the plan you'd chosen without fearing further immediate interaction.
 
@@ -174,11 +159,7 @@ For this reason you want to have access to versatile answers:
 - **Uktabi Orangutan**;
 - creature removal.
 
-Artifact answers are important because Crypt, Furnace, and Cursed Totem can be very annoying. **Uktabi Orangutan** is particularly useful because it's tutorable with Survival and can remove a hate piece while leaving a body on board.
-
-Enchantment answers are useful against Sylvan Library, Pernicious Deed, and other problematic cards.
-
-Against The Rock, you want answers to enchantments and problematic permanents, but without diluting your combo plan too much.
+Artifact answers are important because Crypt, Furnace, and Cursed Totem can be very annoying. **Uktabi Orangutan** is particularly useful because it's tutorable with Survival and can remove a hate piece while leaving a body on board. Enchantment answers are useful against Sylvan Library, Pernicious Deed, and other problematic cards like Engineered Plague.
 
 ## The Role of ETB Creatures
 
@@ -194,7 +175,7 @@ Cards like:
 
 can generate value even if the opponent has removal afterward.
 
-Against non-blue decks, these creatures resolve. This means their effects always trigger, barring rare specific interactions. You can therefore use ETB effects to remove creatures, break hate permanents, manage partially complicated boards, and build incremental advantage.
+Against non-blue decks, these creatures resolve. You can therefore use ETB effects to remove creatures, break hate permanents, manage partially complicated boards, and build incremental advantage.
 
 This is particularly important in post-board games, where you can't always win with a clean, immediate combo.
 
@@ -202,21 +183,17 @@ This is particularly important in post-board games, where you can't always win w
 
 ## Matchup Summary
 
-The Rock is a midrange matchup that shares an approach with Deadguy Ale and B/W Control: based on discard, removal, and problematic permanents, but without counters.
+The Rock is a midrange matchup that shares an approach with Deadguy Ale and BW Control: based on discard, removal, and problematic permanents, but without counters.
 
 The keys to the matchup are:
 
-- use Duress to figure out which plan is safer;
 - choose between Survival and Hermit Druid based on the interaction you've seen;
 - remember that your spells resolve, but don't necessarily stay in play;
-- don't underestimate discard and the clock;
 - respect **Pernicious Deed** and avoid overextending the board;
-- be careful with Sylvan Library if it stays in play;
-- post-board, expect Crypt, Furnace, Cursed Totem, and other hate cards;
 - bring in versatile artifact/enchantment answers;
 - exploit creatures with ETB triggers, because against non-blue decks they're very reliable.
 
-In short: against The Rock, your advantage is that your spells resolve. The game comes down to figuring out which resolved spell the opponent can no longer beat — and not exposing too much to Pernicious Deed in the meantime.
+In short: against The Rock, your advantage is that your spells resolve. The game comes down to figuring out which resolved spell the opponent can no longer beat.
 
 It's a favorable but not automatic matchup. You can win it with relative solidity if you use discard to gather information, pick the right axis, and play around their few but very effective answers.
 
