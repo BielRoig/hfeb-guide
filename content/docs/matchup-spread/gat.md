@@ -131,7 +131,7 @@ The cards to prioritize are:
 
 The goal isn't to become a control deck, but to figure out which plan the opponent is following and open a window for your combo.
 
-### Duress and Cabal Therapy - CONTINUARE DA QUA IN GIU'
+### Duress and Cabal Therapy
 
 Discard spells are very strong because they give you information.
 
@@ -139,13 +139,10 @@ Against GAT this is particularly important, because lists can vary a lot and pos
 
 A very strong line can be:
 
-> Duress to see the hand and strip Gush, a counter, or removal.
-> Cabal Therapy as backup to strip Psychatog, Quirion Dryad, or another card you've seen.
-> Then resolve your key piece.
+> Duress to see the hand and strip Gush.
+> Cabal Therapy as backup to strip Psychatog or Quirion Dryad.
 
-This sequence can slow the opponent down significantly, especially if you can strip both the card-advantage card and the threat or interaction.
-
-In general, you should prefer having Duress post-board exactly because it lets you understand which version of the plan the opponent is following: are they trying to protect themselves? Trying to apply pressure? Do they have removal? Counters? Hate?
+This sequence can slow the opponent down significantly, especially if you can strip both the card-advantage card and the threat or interaction. You should prefer having Duress post-board exactly because it lets you understand which version of the plan the opponent is following: are they trying to protect themselves? Trying to apply pressure? Do they have removal? Counters? Hate?
 
 The more information you have, the better you can pick the line.
 
@@ -159,7 +156,7 @@ The more information you have, the better you can pick the line.
 
 Against a tempo deck, removing the threat often means gaining more turns than it might seem. If the opponent is using cantrips and Gush to grow Dryad, a well-placed Swords can turn all that work into wasted time.
 
-**Ghitu Slinger** is particularly useful against **Meddling Mage**. It can't always remove Quirion Dryad, because Dryad can quickly grow out of range, but Mage is one of the best targets.
+**Ghitu Slinger** is particularly useful against **Meddling Mage**, since it can't always remove Quirion Dryad.
 
 ### Pyroclasm
 
@@ -167,7 +164,7 @@ Against a tempo deck, removing the threat often means gaining more turns than it
 
 On one hand it can answer multiple **Meddling Mage** or sweep some small creatures. On the other hand, it isn't always easy to fit into the matchup, and Quirion Dryad often grows too fast to be removed by Pyroclasm.
 
-Personally, I'm not a big fan of Pyroclasm here. It can be correct in some configurations or if you know the opponent has many Mages and small creatures, but I don't consider it automatically necessary.
+Personally, I'm not a big fan of Pyroclasm here. It can be correct in some configurations or if you know the opponent is heavy on the Mages plan.
 
 ### Xantid Swarm
 
@@ -186,30 +183,26 @@ GAT is a deck that often has many cheap and flexible interactions post-board. Th
 You can expect:
 
 - **Engineered Plague**;
-- **Sylvan Library**, in some versions;
-- additional **Disenchant** or answers to Survival;
-- more removal;
-- more situational counters;
+- **Ray of Revelation** and/or **Seal of Cleansing**;
+- more situational counters like **Annul**;
 - possible graveyard hate;
 - Meddling Mage, if it wasn't already main.
 
-**Engineered Plague** has to be taken into account, especially against your smaller creatures.
-
-**Sylvan Library** is an important card if you see it, because it lets the opponent find threats, counters, and removal more quickly. In these cases, cards like **Naturalize**, **Ray of Revelation**, or **Monk Realist** can become interesting.
+**Engineered Plague** has to be taken into account, especially against your smaller creatures. Since **Sylvan Library** is another important card you might see, cards like **Naturalize**, **Ray of Revelation**, or **Monk Realist** can become interesting.
 
 ## Killing the Mox
 
 Against versions with **Mox Diamond**, artifact removal can be valuable.
 
-GAT is a fairly color-intensive deck. In some versions it runs four Mox Diamond, four City of Brass, one Plains, and then mostly Islands. The black sources to cast Psychatog, for example, can be relatively few.
+GAT is a fairly color-intensive deck. In some versions it runs four Mox Diamond, four City of Brass, one Plains, and then mostly Islands. The black and green sources to cast threats are relatively few.
 
-For this reason, destroying a **Mox Diamond** can be a very strong play, especially if that Mox is providing a key color. It isn't always your main plan, but in certain spots removing a Mox can cut the opponent off a color or prevent them from casting a double spell.
+For this reason, destroying a **Mox Diamond** can be a very strong play, especially if that Mox is providing a key color. It isn't always your main plan, but in certain spots take it in consideration.
 
-Cards like **Uktabi Orangutan** or **Naturalize** can therefore have applications beyond just Survival/Library/hate.
+Cards like **Uktabi Orangutan** or **Naturalize** can therefore have applications beyond just Plaugue/Library/hate.
 
 ## Armageddon
 
-Some versions of GAT run **Armageddon**.
+Many versions of GAT run **Armageddon**.
 
 This is very important because it changes how you have to sequence lands and mana dorks. You can't take for granted that the game will simply go long in a control style.
 
@@ -217,10 +210,9 @@ You have to ask:
 
 - do I really need to play another land?
 - can I prioritize mana creatures or Wall of Roots?
-- am I losing to Armageddon if I overdevelop my land base?
 - can I win before Armageddon resolves?
 
-**Wall of Roots** is very good here too, because it lets you maintain access to mana after a potential mana denial and buys time against the opponent's creatures.
+Pbviously **Wall of Roots** is very good here too, because it lets you maintain access to mana after a potential mana denial and buys time against the opponent's creatures.
 
 ## 4C / Esper Psychatog Versions
 
@@ -234,8 +226,7 @@ You can see:
 - **Pyroclasm**;
 - additional removal;
 - specific sideboard cards;
-- **Intuition** packages;
-- flashback spells.
+- **Intuition** packages.
 
 **Call of the Herd** is important because it creates a more stable clock and makes **Wall of Roots** even more relevant. Walls can buy many turns against elephants and prevent the opponent from turning a slow game into a simple race.
 
@@ -248,8 +239,7 @@ The piles can include:
 - **Deep Analysis**;
 - **Call of the Herd**;
 - **Ray of Revelation**;
-- **Accumulated Knowledge**;
-- other recursive cards.
+- **Accumulated Knowledge**.
 
 This is important because it makes discard less definitive. If the opponent has flashback cards, discarding them doesn't necessarily solve the problem.
 
@@ -261,11 +251,9 @@ Here too, discard has to be used to protect the window in which you win, not jus
 
 Against these decks you have to be very careful with **Hermit Druid** lines.
 
-A play I often consider very strong, when possible, is activating Hermit Druid in your **main phase 1**, not in upkeep. After milling the library, you can flash back a couple of **Cabal Therapy** to clean up the opponent's hand and then use **Krosan Reclamation** to put **Animate Dead** or other pieces back into the library.
+A play I often consider very strong, when possible, is activating Hermit Druid in your **main phase**, not in upkeep. After milling the library, you can flash back a couple of **Cabal Therapy** to clean up the opponent's hand and then use **Krosan Reclamation** to put **Animate Dead** or other pieces back into the library.
 
-The reason is simple: against a deck with counters, even if the opponent looks tapped out, that doesn't mean you're safe. **Foil** can counter Krosan Reclamation even without available mana.
-
-If you activate Hermit in upkeep, cast Krosan Reclamation, and it gets countered by Foil, you lose the game immediately on the draw step.
+The reason is simple: against a deck with counters, even if the opponent looks tapped out, that doesn't mean you're safe. **Foil** can counter Krosan Reclamation even without available mana. If you activate Hermit in upkeep, cast Krosan Reclamation, and it gets countered by Foil, you lose the game immediately on the draw step.
 
 So against blue decks with Foil, you can't rely just on open mana. You have to build lines that reduce dependence on a single vulnerable Reclamation as much as possible.
 
@@ -277,18 +265,13 @@ GAT and 3C/4C Psychatog are harder matchups than pure UB Psychatog, because they
 
 The keys to the matchup are:
 
-- respect **Fire // Ice**, especially on your 1-toughness creatures;
+- respect **Fire // Ice**;
 - don't let Quirion Dryad grow unchecked while the opponent looks for answers;
 - remember that Psychatog can become lethal with Gush and Accumulated Knowledge;
-- use Duress and Cabal Therapy to figure out the opponent's plan;
-- bring in Swords and Ghitu Slinger for threats and Meddling Mage;
-- evaluate Xantid Swarm, but without exposing yourself to Fire // Ice;
-- don't consider Pyroclasm automatically necessary;
-- respect Engineered Plague, Sylvan Library, and flexible sideboard cards;
+- bring in Swords and Ghitu Slinger for threats and **Meddling Mage**;
 - consider hitting Mox Diamond to cut colors;
-- respect Armageddon in the versions that run it;
-- against Intuition/flashback packages, remember that discarding a card isn't always enough;
-- don't lightly activate Hermit in upkeep against decks with Foil.
+- respect Armageddon;
+- against Intuition, remember that discarding a card isn't always enough.
 
 In short: against GAT you aren't just playing against a control deck. You're playing against a deck that finds answers while it's already killing you.
 
