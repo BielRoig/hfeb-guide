@@ -12,9 +12,9 @@ build:
 
 ## General Plan
 
-Under the **Ponza** umbrella you can include several variants, mainly **G/W Ponza** and **R/G Ponza**, but also some hybrid versions with extra splashes or Oath packages.
+Under the **Ponza** umbrella you can include several variants, mainly **GW Ponza** and **RG Ponza**, but also some hybrid versions with extra splashes or Oath packages.
 
-The common trait of these decks is the **mana denial** plan. Unlike TerraGeddon, where the main problem is often the combination of Wasteland, Wayfarer, and Armageddon, Ponza attacks lands directly with many dedicated spells.
+The common trait of these decks is the **mana denial** plan: Ponza attacks lands directly with many dedicated spells.
 
 You should usually expect:
 
@@ -39,11 +39,11 @@ can give you enough time and mana to assemble a line. Other times, the game beco
 
 In this matchup you often have to choose between casting a discard spell or playing a combo piece right away, knowing that next turn you may no longer have the mana to do it. This is one of the hardest parts of the matchup: you can't always afford the theoretically correct play, because the mana may no longer exist a turn later.
 
-## G/W Ponza vs R/G Ponza
+## GW Ponza vs RG Ponza
 
-### G/W Ponza
+### GW Ponza
 
-Against the **G/W** versions you should expect more direct interaction with your key permanents.
+Against the **GW** versions you should expect more direct interaction with your key permanents.
 
 The main cards are:
 
@@ -51,40 +51,28 @@ The main cards are:
 - **Naturalize**;
 - **Disenchant**;
 - **Seal of Cleansing**;
-- **Enlightened Tutor**, often to find Seal or Oath;
 - post-board, cards like **Aura of Silence** and **Ray of Revelation**.
 
-This means G/W is very good at interacting with **Survival of the Fittest** and with your key creatures. If your plan goes through Hermit Druid, you have to respect Swords. If it goes through Survival, you have to respect Disenchant, Naturalize, or Seal.
+This means GW is very good at interacting with **Survival of the Fittest** and with your key creatures. If your plan goes through Hermit Druid, you have to respect Swords. If it goes through Survival, you have to respect Disenchant, Naturalize, or Seal.
 
-Against G/W, **Cabal Therapy** often has to name specific interaction cards: Swords if you're going through Druid, Naturalize/Disenchant if you're going through Survival, or sometimes Oath/Sylvan Library if the problem is their engine.
+### RG Ponza
 
-### R/G Ponza
+Against the **RG** versions, the matchup can be slightly better.
 
-Against the **R/G** versions, the matchup can be slightly better.
-
-The reason is that R/G tends to have less direct interaction with creatures once you're already comboing in your turn. You should expect cards like:
+The reason is that RG tends to have less direct interaction with creatures once you're already comboing in your turn. You should expect cards like:
 
 - **Pyroclasm**;
 - **Earthquake**;
-- possibly extra burn or sweepers;
+- **Naturalize**;
 - post-board, **Pyroblast** and artifact/enchantment hate.
 
-These cards are very strong against mana creatures and small setup, but less effective at stopping a combo assembled in the same turn. If you can build a window where you put together the plan and close immediately, R/G often has fewer ways to interact than G/W.
+These cards are very strong against mana creatures and small setup, but less effective at stopping a combo assembled in the same turn. If you can build a window where you put together the plan and close immediately, RG often has fewer ways to interact than GW.
 
-For this reason, in general, you should consider R/G a bit more favorable than G/W. Not because it's easy, but because their interaction lines up slightly worse against your most explosive lines.
+For this reason, in general, you should consider RG a bit more favorable than GW. Not because it's easy, but because their interaction lines up slightly worse against your most explosive lines.
 
 ## The Mana Denial Problem
 
 The core of the matchup is mana development.
-
-Ponza combines:
-
-- Wasteland;
-- Rishadan Port;
-- spells that destroy lands;
-- Sphere of Resistance.
-
-These cards together make it very hard to assemble enough mana to cast your spells at the right moment.
 
 **Sphere of Resistance** is particularly annoying because it turns every sequence of yours into something slower. Survival costs more, discard spells cost more, Unearth costs more, post-board removal costs more. Even when you have the right cards, Sphere can prevent you from using all of them on the same turn.
 
@@ -117,21 +105,21 @@ Against Ponza, playing a mana creature like **Birds of Paradise** can feel natur
 
 Oath can put **Terravore** into play, and the size of Terravore can vary a lot.
 
-Sometimes it'll be a 3/3, but it easily becomes a 5/5 with trample after a land destruction. Other times it'll already be a 10/10 or 12/12, effectively becoming worse than a Phyrexian Dreadnought, because it grows naturally as the game goes on.
+Sometimes it'll be a 3/3, but it easily becomes a 5/5 with trample after a Wasteland. Other times it'll already be a 10/10 or 12/12, effectively becoming worse than a Phyrexian Dreadnought, because it grows naturally as the game goes on.
 
 For this reason, you have to be very careful about when you commit creatures to the board. It doesn't mean you should never play Birds or walls, but you have to ask:
 
 > If the opponent plays Oath, can I punish it?
 
-If your follow-up is strong — for example a double Hermit Druid, a Survival that immediately finds a useful answer, or a line that closes quickly — then you can accept the risk. If instead you're simply playing a dork without a plan, you may be giving the opponent the best way to kill you.
+If your follow-up is strong (a double Hermit Druid, a Survival that immediately finds a useful answer, or a line that closes quickly) then you can accept the risk. If instead you're simply playing a dork without a plan, you may be giving the opponent the best way to kill you.
 
-## Game 1
+## Game 1 -------------------------------------------------------------------------- continua da qui -------------------------------------------------------------------------
 
 Game 1 depends heavily on the opponent's variant.
 
-Against **G/W**, you have to play around Swords and removal for Survival.
+Against **GW**, you have to play around Swords and removal for Survival.
 
-Against **R/G**, you can be slightly more confident in building a combo on the same turn, because their interaction is more often sorcery-speed sweepers or less precise effects against combo pieces.
+Against **RG**, you can be slightly more confident in building a combo on the same turn, because their interaction is more often sorcery-speed sweepers or less precise effects against combo pieces.
 
 In both cases, though, you have to respect mana denial. This means that sometimes you have to make seemingly premature plays: casting Survival before you have discard, or playing Hermit Druid before you're perfectly protected, simply because next turn you may no longer have the mana.
 
@@ -170,9 +158,9 @@ Enchantment removal is useful against:
 
 ### Opponent's Sideboard
 
-#### R/G
+#### RG
 
-Against R/G you can expect:
+Against RG you can expect:
 
 - **Pyroblast**;
 - additional sweepers like Pyroclasm;
@@ -180,11 +168,11 @@ Against R/G you can expect:
 - **Naturalize** or other ways to break Survival;
 - additional cards against your small creatures.
 
-Cabal Therapy calls are often more straightforward against R/G. If you know Naturalize is the main way they can break Survival, naming Naturalize becomes a very clear line.
+Cabal Therapy calls are often more straightforward against RG. If you know Naturalize is the main way they can break Survival, naming Naturalize becomes a very clear line.
 
-#### G/W
+#### GW
 
-Against G/W the post-board is heavier.
+Against GW the post-board is heavier.
 
 You can expect:
 
@@ -196,7 +184,7 @@ You can expect:
 - additional answers to Survival;
 - possible hate permanents.
 
-This makes G/W more complicated. Their answers are more numerous, more distributed, and often harder to name with Cabal Therapy.
+This makes GW more complicated. Their answers are more numerous, more distributed, and often harder to name with Cabal Therapy.
 
 The Survival plan becomes more fragile, but the Hermit Druid plan isn't free either, because you still have to respect Swords, Crypt, and Oath.
 
@@ -204,7 +192,7 @@ The Survival plan becomes more fragile, but the Hermit Druid plan isn't free eit
 
 **Eladamri's Vineyard** is an interesting card in this matchup, more so than against TerraGeddon.
 
-Against G/W, though, it's hard for it to stay in play long. Cards like **Ray of Revelation** are particularly annoying because they can remove Vineyard and then remain available from the graveyard to hit a future Survival. Many G/W lists run at least a couple of Rays, so you can't take it for granted that Vineyard survives.
+Against GW, though, it's hard for it to stay in play long. Cards like **Ray of Revelation** are particularly annoying because they can remove Vineyard and then remain available from the graveyard to hit a future Survival. Many GW lists run at least a couple of Rays, so you can't take it for granted that Vineyard survives.
 
 That said, if Vineyard sticks, it can be very strong. In general, you convert green mana better than they do. You can use that mana for Survival, to develop multiple spells on the same turn, and to recover from mana denial.
 
@@ -218,11 +206,11 @@ For this reason, you shouldn't consider Vineyard an automatic answer. It's power
 
 A special note has to be made about the Ponza version that posted a result at **Lobstercon**.
 
-That list is basically G/W, but post-board it splashes blue for **Meddling Mage** and red for **Pyroclasm**. From your point of view, this makes the matchup even harder to read.
+That list is basically GW, but post-board it splashes blue for **Meddling Mage** and red for **Pyroclasm**. From your point of view, this makes the matchup even harder to read.
 
 It isn't fully clear how the opponent should sideboard against hFEB, because they have many potentially strong cards but not all of them fit perfectly together. For example, **Meddling Mage** and **Pyroclasm** aren't cards you always want to see in the same hand. That said, the combination can still be effective: Pyroclasm clears the board, and then Mage can shut off a line by naming a key combo piece.
 
-It's possible that the opponent cuts some **Sylvan Library** to make room for Meddling Mage or other interaction. In any case, this version can be even harder than the traditional G/W variants, because it adds another axis of hate.
+It's possible that the opponent cuts some **Sylvan Library** to make room for Meddling Mage or other interaction. In any case, this version can be even harder than the traditional GW variants, because it adds another axis of hate.
 
 Against Meddling Mage you have to consider bringing in removal like:
 
@@ -259,9 +247,9 @@ This matchup doesn't need to be treated as a completely separate section, becaus
 
 In these matchups **Cabal Therapy** calls aren't always clear.
 
-Against R/G they can be simpler, because often the truly problematic cards are easier to identify: Naturalize, Pyroblast, Oath, Sphere, or Terravore, depending on the spot.
+Against RG they can be simpler, because often the truly problematic cards are easier to identify: Naturalize, Pyroblast, Oath, Sphere, or Terravore, depending on the spot.
 
-Against G/W and Oath/Spec, the problem is that the answers are more distributed. The opponent can have Seal, Naturalize, Ray, Swords, Oath, Library, Armageddon, Cataclysm, or Meddling Mage. On top of that, some of these cards have flashback or are tutorable with Enlightened Tutor.
+Against GW and Oath/Spec, the problem is that the answers are more distributed. The opponent can have Seal, Naturalize, Ray, Swords, Oath, Library, Armageddon, Cataclysm, or Meddling Mage. On top of that, some of these cards have flashback or are tutorable with Enlightened Tutor.
 
 **Duress** can be useful, but here too it isn't always easy to figure out how much. It can strip many relevant cards, but sometimes the opponent has redundancy or cards that remain strong from the graveyard. So resolving a discard spell isn't enough: you have to figure out whether that discard actually opens a window.
 
@@ -282,8 +270,8 @@ The keys to the matchup are:
 - respect Sphere of Resistance;
 - don't underestimate Rishadan Port;
 - use discard to open windows, not just to trade resources;
-- against G/W, respect Swords and removal for Survival;
-- against R/G, exploit the fact that their interaction is less effective against a same-turn combo;
+- against GW, respect Swords and removal for Survival;
+- against RG, exploit the fact that their interaction is less effective against a same-turn combo;
 - post-board, bring in artifact/enchantment answers and Swords for Terravore;
 - carefully evaluate Eladamri's Vineyard;
 - recognize the hybrid versions with Meddling Mage or Quiet Speculation.
