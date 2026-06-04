@@ -151,7 +151,7 @@ It's opponents EOT, we are fully tapped and they just milled our entire library 
 2. Play land.
 3. <i class="ms ms-1 ms-cost"></i><i class="ms ms-b ms-cost"></i> Cast Animate Dead targeting Guide.
 4. Guide enters and targets Shifter.
-  - **Bounce 1 — they Seal Guide with Guide With AD trigger on stack:** <br>
+  - **Bounce 1 — they Seal Guide with AD trigger on stack:** <br>
     4. Discard Guide with Survival, get Akroma.<br>
     5. Shifter enters as Guide and brings back Tog.<br>
     6. Sac Tog to Therapy.<br>
