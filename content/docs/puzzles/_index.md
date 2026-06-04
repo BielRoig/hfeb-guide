@@ -164,26 +164,26 @@ It's opponents EOT, we are fully tapped and they just milled our entire library 
 7. Activate Scrounger to put back WoR, Tog, Akroma.
   - **Bounce 2 — they Seal Scrounger here:** <br>
     8. Seal resolve.<br>
-    9. <i class="ms ms-b ms-cost"></i> Discard Scrounger with Survival, get Tog.<br>
-    10. <i class="ms ms-b ms-cost"></i> Discard Tog with Survival, get Akroma.<br>
+    9. <i class="ms ms-g ms-cost"></i> Discard Scrounger with Survival, get Tog.<br>
+    10. <i class="ms ms-g ms-cost"></i> Discard Tog with Survival, get Akroma.<br>
     11. Pump Shifter/Tog.<br>
     12. Discard Akroma and win.<br>
   - **No bounce:** <br>
     8. Sac Scrounger to Therapy.<br>
     9. Activate both Shifter/Scrounger to put 6 cards in the library: Scrounger, Devourer, Trike, Pali, Guide, AD.<br>
 
-10. <i class="ms ms-b ms-cost"></i> Discard Squee to Survival.
+10. <i class="ms ms-g ms-cost"></i> Discard Squee to Survival.
   - **Bounce 3 — they Seal one Shifter:** <br>
     11. Seal resolve.<br>
     12. Get Tog.<br>
-    13. <i class="ms ms-b ms-cost"></i> Discard Tog with Survival, get Akroma.<br>
+    13. <i class="ms ms-g ms-cost"></i> Discard Tog with Survival, get Akroma.<br>
     14. Pump Shifter/Tog.<br>
     15. Discard Akroma and win. get Akroma and win.<br>
   - **No bounce:** <br>
     11. Get WoR.<br>
-    12. <i class="ms ms-b ms-cost"></i> Discard WoR with Survival: **Combo can no longer be interrupted**.<br>
+    12. <i class="ms ms-g ms-cost"></i> Discard WoR with Survival: **Combo can no longer be interrupted**.<br>
 
-13. Add <i class="ms ms-b ms-cost"></i><i class="ms ms-b ms-cost"></i> from both Shifter/WoR.
+13. Add <i class="ms ms-g ms-cost"></i><i class="ms ms-g ms-cost"></i> from both Shifter/WoR.
 14. Get Phyrexian Devourer.
 15. <i class="ms ms-g ms-cost"></i> Discard Devourer with Survival, get Trike.
 16. Activate Shifter/Devourer.
