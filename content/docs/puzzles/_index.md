@@ -19,43 +19,48 @@ Opponent is at 24 life with a nice board and a Worship. You are at 3 in your upk
 *What's the play?*
 
 {{< spoiler label="Show solution #1" >}}
- 1. <i class="ms ms-g ms-cost"></i> Activate Hermit Druid using Reflecting Pool and order the graveyard as Karmic Guide > Devourer.
- 2. <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> Cast Krosan Reclamation using Treva's Ruin and Coast targetting two unearths.
- 3. Draw Unearth and cast it <i class="ms ms-b ms-cost"></i> using Llanowar Wastes (down to 2 life), targetting Shifter.
- 4. Shifter enters as Guide, whih brings back Guide, and brings back Scrounger (graveyard is now Uneart, Devourer).
- 5. Activate Scrounger and put Palinchron, Akroma and ESG back on the library.
- 6. Sacrifice Karmic Guide to Cabal Therapy.
- 7. Unearth Shifter <i class="ms ms-b ms-cost"></i> with Llanowar Wastes (down to 1 life), which brings back Guide and Triskelion.
- 8. Sacrifice Karmic Guide to Cabal Therapy, then sacrifice Scrounger to Cabal Therapy.
- 9. Use both Shifter/Scroungers to put back Hermit Druid, 2 Unearths, Squee, Karmic Guide and Scrounger in the library, revealing Phyrexian Devourer.
- 10. Activate Devourer to put 36 counters on one of the Shifters. 
- 11. In response to the sacrifice trigger, use Triskelion to ping itself once, resolve, then ping opponent twice (down to 22).
- 12. Use 6 counter to kill Angel and Mom. Use 21 counters to ping opponent (opponent down to 1, counters down to 9).
- 13. Ping Baloth one ping at a time, opponnent will sac Baloth in response to last ping (5 left) and we can ping opponnent in response to the sac trigger with 4 more pings to spare.
+ 1. <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Hermit Druid using Reflecting Pool.
+ 2. Put Karmic Guide > Devourer on top of the graveyard.
+ 3. <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> Cast Krosan Reclamation using Treva's Ruin and Coast targetting two unearths.
+ 4. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter using Llanowar Wastes (down to 2 life).
+ 5. Shifter enters as Guide, whih brings back Guide, and brings back Scrounger (graveyard is now Uneart, Devourer).
+ 6. Activate Scrounger and put Palinchron, Akroma and ESG back in the library.
+ 7. Sacrifice Karmic Guide to Cabal Therapy.
+ 8. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter using Llanowar Wastes (down to 1 life).
+ 9. Shifter enters as Guide, whih brings back Guide, and brings back Triskelion.
+ 10. Sacrifice Karmic Guide to Cabal Therapy.
+ 11. Sacrifice Scrounger to Cabal Therapy.
+ 12. Use both Shifter/Scroungers to put back Hermit Druid, 2 Unearths, Squee, Karmic Guide and Scrounger in the library.
+ 13. Reveal Phyrexian Devourer on top of the graveyard.
+ 14. Activate Shifter/Devourer to put 36 counters on it. 
+ 15. In response to the sacrifice trigger, use Triskelion to ping itself once, resolve, then ping opponent twice (down to 22).
+ 16. Use 6 counter to kill Angel and Mom. Use 21 counters to ping opponent (opponent down to 1, counters down to 9).
+ 17. Ping Baloth one ping at a time, opponnent will sac Baloth in response to last ping (5 left) and we can ping opponnent in response to the sac trigger with 4 more pings to spare.
 {{< /spoiler >}}
 
 {{< spoiler label="Show solution #2" >}}
-Activate Hermit, order guide, dev, trike
-Unearth shifter-guide, get scounger
-
-Activate scrounger putting akroma, unearth, guide on top.
-Sac scrounger to therapy. Activate Shifter-Scrounger to put pali, Squee, ESG on top.
-Pass turn, on OPs upkeep activate Shifter-scrounger again to put 2nd shifter, 2x hermit on top.
-Start activating shifter-dev, letting each trigger resolve and responding to the sac trigger. (after 9 exiles at 34 counters)
-Flashback k-rec putting dev on top, revealing trike.
-Ping them down to 1 life (shift-dev at 11 counters)
-Ping mom, angel (down to 5 counters)
-Ping baloth one at a time, if they try to sac we can ping them the last dmg. 
+1. <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Hermit Druid using Reflecting Pool.
+2. Order Guide > Devourer > Triskelion on top of the graveyard.
+3. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter using Llanowar Wastes (down to 2 life).
+4. Shifter enters as Guide, whih brings back Scrounger.
+5. Activate Scrounger and put Akroma, Uneath and Guide in the library.
+6. Sac scrounger to therapy.
+7. Activate Shifter/Scrounger to put Palinchron, Squee, ESG in the library.
+8. Pass the turn.
+9. On opponent's upkeep activate Shifter/Scrounger again to put 2nd Shifter and 2x Hermit in the library.
+10. Activate Shifter/Devourer letting each trigger resolve and responding to the sac trigger. (after 9 exiles at 34 counters)
+11. <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> Cast Krosan Reclamation to put Devourer in the lbrary.
+12. Reveal Triskelion on top of the graveyard.
+13. Ping them down to 1 life (shift-dev at 11 counters).
+14. Ping Mom and Angel (down to 5 counters).
+15. Ping baloth one at a time, if they try to sac we can ping them the last dmg. 
 {{< /spoiler >}}
 
 ---
 
 ## Puzzle 2 {#puzzle-2}
 
-The opponent is at 33 with an imposing board. They have sworded Psychatog and
-Hermit on previous turns and disenchanted Survival. You have flashbacked 2
-Therapy already and you know he has a Daze in hand from the last therapy. Last turn
-he topdecked an Ivory Mask ‍♂️. You are in your upkeep, What's the play?.
+The opponent is at 33 with an imposing board. They have sworded Psychatog and Hermit on previous turns and disenchanted Survival. You have flashbacked 2 Therapy already and you know he has a Daze in hand from the last therapy. Last turn he topdecked an Ivory Mask! You are in your upkeep.
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle2.png" alt="Board state" class="img-fluid rounded">
