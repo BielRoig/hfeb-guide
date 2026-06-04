@@ -535,27 +535,38 @@ Scenario: 4 lands in play, Hermit Druid (not sick), Shifter in hand, opponent ha
 *What's the play?*
 
 {{< spoiler label="Show solution — 13 damage line" >}}
-EOT: Hermit → Tog.
+EOT: <i class="ms ms-g ms-cost"></i> Discard Hermit with Survival to get Pstchatog.
 
-Our turn — opponent uses Port, we use that mana for Quirion Ranger → second ESG.
-
-1. Play Shifter as Monkey with two lands and first ESG, destroying Artifact Totem.
-2. Use second ESG to pitch Tog to Akroma.
-3. Discard Scrounger to Tog for a 1/1 pump.
-4. We have 8 cards in graveyard — activate Scrounger for a 4/4 pump. Shuffle Scrounger and two bottom cards back.
-5. We have 5 cards in graveyard — remove bottom 4 for a 2/2 pump. Total: **6/6**.
-6. Discard Akroma to Tog for a **7/7** pump. Attack for **13 lethal**.
+In your upkeep, opponent uses Rishadan Port.
+1. <i class="ms ms-g ms-cost"></i> Discard Uktabi with Survival to get second ESG.
+2. <i class="ms ms-1 ms-cost"></i><i class="ms ms-u ms-cost"></i><i class="ms ms-u ms-cost"></i> Play Shifter as Uktabi with two lands and one ESG.
+3. Destroy Cursed Totem.
+4. <i class="ms ms-g ms-cost"></i> Use second ESG to discard Tog with Survival to get Akroma.
+5. Discard Scrounger with Shifter/Tog for a +1/+1 pump.
+6. With 8 cards in graveyard, activate Shifter/Scrounger to shuffle Scrounger and two bottom cards for a +3/+3 pump.
+7. With 5 cards in graveyard, activate Shifter/Tog to remove the bottom 4 cards for a +2/+2 pump.
+8. Discard Akroma with Shifter/Tog Tog for a total of **+7/+7** pump.
+9. Attack with Shifter/Akroma for a total of **13 damages**.
 {{< /spoiler >}}
 
-{{< spoiler label="Show solution — 14 damage line (opponent ports)" >}}
-EOT: Hermit → second ESG.
+{{< spoiler label="Show solution — 14 damage line" >}}
+EOT: <i class="ms ms-g ms-cost"></i> Discard Hermit with Survival to get second ESG.
 
-Our turn — opponent uses Port, we use that mana for Quirion Ranger → WoR.
+In your upkeep, opponent uses Rishadan Port.
 
-1. Play Shifter as Monkey with two lands and first ESG, destroying Artifact Totem.
-2. Use second ESG to pitch WoR to Tog. Add a −1 counter and pitch Tog to WoR #2.
-3. Tog enters as a 1/1. Discard WoR #2 to Tog — WoR #2 enters as 0/4, then gets +1/+1 to 1/5. Add a −1 counter and pitch Scrounger to get Akroma.
-4. We have 10 cards in graveyard (4 originals + Hermit, Monkey, WoR, Tog, WoR #2, Scrounger). Activate Scrounger and Scrounger itself, WoR #2 and Hermit. Top card is Tog with a +1/+1 pump and two negative counters. Scrounger pump resolves for an accumulated 4/2 pump.
-5. We have 7 cards in graveyard — remove bottom 6 for a **3/3 pump**. Total: **7/5**.
-6. Discard Akroma to Tog for a **8/6 pump** and attack for 14.
+1. <i class="ms ms-g ms-cost"></i> Discard Uktabi with Survival to get WoR.
+2. <i class="ms ms-1 ms-cost"></i><i class="ms ms-u ms-cost"></i><i class="ms ms-u ms-cost"></i> Play Shifter as Uktabi with two lands and one ESG.
+3. Destroy Cursed Totem.
+4. <i class="ms ms-g ms-cost"></i> Use second ESG to discard WoR with Survival to get Tog.
+5. Activate Shifter/WoR to add <i class="ms ms-g ms-cost"></i>
+6. <i class="ms ms-g ms-cost"></i> Discard Tog with Survival to get WoR#2.
+7. Shifter/Tog is a 1/1.
+8. Discard WoR#2 to Tog. Shifter/WoR enters as 0/4, then gets +1/+1 to 1/5.
+9. Activate Shifter/WoR to add <i class="ms ms-g ms-cost"></i>
+10. <i class="ms ms-g ms-cost"></i> Discard Scrounger with Survival to get Akroma.
+11. We have 10 cards in graveyard (4 originals + Hermit, Monkey, WoR, Tog, WoR #2, Scrounger).
+12. Activate Shifter/Scrounger and shuffle Scrounger, WoR #2 and Hermit. Top card is Tog.
+13. Scrounger pump resolves for a total of +4/+2 pump.
+14. With 7 cards in graveyard, activate Shifter/Tog to remove bottom 6 for a +3/+3 pump.
+15. Discard Akroma to Tog for a **8/6 pump** and attack for 14.
 {{< /spoiler >}}
