@@ -103,13 +103,27 @@ We are in opponent's EOT and he has Ensnaring Bridge in play and 0 cards in hand
 
 {{< spoiler label="Show solution" >}}
 
-1. EOT activate Hermit and K-Rec Animate Dead. Order graveyard as Devourer and Trike.
-2. Untap and draw Animate Dead. Cast Animate Dead on Guide, bring Shifter, Shifter, Tog.
-3. Discard Scrounger and scrounge 6 cards: Pali, Guide, AD, Squee, ESG, Scrounger (Scrounger last). This reveals Devourer — activate 5 times (20 CMC).
-4. Activate Hermit #1, milling Scrounger. Scrounger scrounges 6 more cards (4 Survivals, WoR, Scrounger). This reveals Devourer — eat the top 5 cards (+10 CMC).
-5. Discard Akroma with Tog. One Shifter dies to SBA.
-6. Activate Hermit #2, milling Scrounger. Scrounger scrounges Akroma, Shifter and itself. This reveals Devourer again — devour whole library (+16 CMC).
-7. Reveal Trike with Tog.
+1. EOT <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Hermit Druid
+2. <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> Cast Krosan Reclamation tageting Animate Dead.
+3. Order graveyard as Devourer > Trike.
+4. Untap and draw Animate Dead.
+5. <i class="ms ms-1 ms-cost"></i><i class="ms ms-b ms-cost"></i> Cast Animate Dead on Guide.
+6. Shifter#1 enters as Guide and targets Shifter#2
+7. Shifter#2 enters as Guide and targets Psychatog.
+8. Discard Scrounger with Pyschatog.
+9. Activate both Shifter/Scrounger to put 6 cards in the library: Pali, Guide, AD, Squee, ESG, Scrounger (Scrounger last).
+10. Reveal Devourer on top of graveyard.
+11. Activate Shifter#1/Devourer 5 times (20 CMC).
+12. Activate Hermit #1, milling Scrounger.
+13. Activate both Shifter/Scrounger to put 6 cards in the library: 4 Survivals, WoR, Scrounger (Scrounger last).
+14. Reveal Devourer on top of graveyard.
+15. Activate Shifter#1/Devourer 5 times (+10 CMC).
+16. Discard Akroma with Pyschatog. One Shifter dies to SBA.
+17. Activate Hermit #2, milling Scrounger.
+18. Activate Shifter/Scrounger to put in the library: Akroma, Shifter and Scrounger.
+19. Reveal Devourer on top of graveyard.
+20. Activate Shifter#1/Devourer 3 times (+16 CMC).
+21. Reveal Trike with Tog.
 
 Total: 13 cards fed to Devourer including all the fatties = **46 damage**.
 {{< /spoiler >}}
