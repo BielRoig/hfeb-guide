@@ -204,22 +204,37 @@ Last turn opponent sworded your hermit, so you activated in response. Feel free 
 *What's the play?*
 
 {{< spoiler label="Show solution #1" >}}
-1. Unearth Shifter — brings back Scrounger.
-2. Sac Wall of Roots to Therapy targeting yourself, discard Tog.
-3. Tog exiles Unearth and discards Pali. Scrounge Pali, Guide, Akroma for 20 CMC. Shifter becomes Tog again — discard Devourer.
-4. Graveyard is now: Devourer, Tog, Wall, Trike.
-5. Pass turn. On their upkeep, activate Devourer and scrounge Devourer back with activations on the stack.
-6. Resolve as Tog, exile until revealing Trike and shoot for lethal.
+1. <i class="ms ms-b ms-cost"></i> Cast Unearth on Shifter.
+2. Shifter enters as Guide and targets Scrounger.
+3. Sac Wall of Roots to Therapy targeting yourself to discard Tog.
+4. Tog exiles Unearth and discards Pali. Scrounge Pali, Guide, Akroma for 20 CMC.
+5. Shifter becomes Tog again, discard Devourer.
+6. Graveyard is now: Devourer, Tog, Wall, Trike.
+7. Pass turn.
+8. On their upkeep, activate Shifter/Devourer
+9. Activate Scrounger to shuffle back Devourer.
+10. Reveal Triskelion on top of the graveyard and shoot for lethal.
 {{< /spoiler >}}
 
 {{< spoiler label="Show solution #2" >}}
 1. Put WoR between Trike and Scrounger in the graveyard order.
-2. Unearth Shifter — brings back Guide and Scrounger.
-3. Sac Guide to Therapy to discard Pali. Scrounge for 20 CMC.
-4. Graveyard is now: Unearth, WoR, Trike.
-5. Sac Scrounger to Therapy targeting opponent. In response, scrounge Scrounger and Unearth revealing WoR — get a 3-pump and tap WoR for G.
-6. Sac WoR to Therapy targeting yourself — in response, tap this new WoR for G. Resolve Therapy discarding Devourer.
-7. With GG in pool, devour for 20 and use Shifter's ability to discard Tog. Resolve Devourer and reveal Trike for lethal.
+2. <i class="ms ms-b ms-cost"></i> Cast Unearth on Shifter.
+3. Shifter enters as Guide and targets Guide.
+4. Guide enters and targets Scrounger
+5. Sac Guide to Therapy to discard Pali.
+6. Activer Scrounger for 20 CMC.
+7. Graveyard is now: Unearth, WoR, Trike.
+8. Sac Scrounger to Therapy targeting opponent.
+9. Activate Shifter/Scrounger to put back in the library: Scrounger, Unearth and X.
+10. Reveal WoR on top of the Greveyard
+11. Activate Shifter/WoR to add <i class="ms ms-g ms-cost"></i>.
+12. Sac WoR to Therapy targeting yourself.
+13. In response, activate Shifter/WoR to add <i class="ms ms-g ms-cost"></i>.
+14. Resolve Therapy discarding Devourer.
+15. With <i class="ms ms-g ms-cost"></i><i class="ms ms-g ms-cost"></i> in pool, activate Shifter/Devourer for 20
+16. Use Shifter's ability to discard Tog.
+17. Anctivate Shifter/Tog and reveal Triskelion on top of the graveyard.
+18. Shoot for lethal.
 {{< /spoiler >}}
 
 ---
