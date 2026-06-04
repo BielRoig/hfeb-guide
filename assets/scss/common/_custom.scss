@@ -913,42 +913,77 @@ blockquote {
   text-decoration: none;
 }
 
-// ─── Spoiler (collapsible puzzle solution) ──────────────────────────────────
+// ============================================
+// Spoiler (Puzzles solutions) - stesso look di .collapsible (Tips & Tricks)
+// ============================================
 .spoiler {
-  margin: 1.5rem 0;
+  margin: 1rem 0;
+  background: var(--bs-tertiary-bg);
   border: 1px solid var(--bs-border-color);
   border-radius: 8px;
   overflow: hidden;
+  transition: transform 0.2s ease, border-color 0.25s ease, box-shadow 0.25s ease;
 
-  summary {
-    padding: 0.75rem 1.1rem;
+  // Hover sul container intero: lift + neon viola
+  &:hover {
+    transform: translateY(-3px);
+    border-color: rgba(167, 139, 250, 0.7);
+    box-shadow:
+      0 0 8px rgba(167, 139, 250, 0.7),
+      0 0 20px rgba(147, 119, 230, 0.5),
+      0 0 40px rgba(127, 99, 210, 0.3);
+  }
+
+  // Il testo del titolo (summary) diventa lavanda chiaro al hover
+  &:hover > summary {
+    color: #d4c5fc;
+  }
+
+  // Quando aperto: bordo viola visibile (segnale "è aperto")
+  &[open] {
+    border-color: rgba(167, 139, 250, 0.55);
+    box-shadow:
+      0 0 8px rgba(167, 139, 250, 0.3),
+      0 0 18px rgba(147, 119, 230, 0.18);
+  }
+
+  > summary {
+    padding: 0.85rem 1.25rem;
     cursor: pointer;
     font-weight: 600;
+    font-size: 1.05rem;
     list-style: none;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    background: var(--bs-tertiary-bg);
+    position: relative;
     user-select: none;
+    transition: background 0.15s ease;
 
     &::-webkit-details-marker { display: none; }
 
-    &::before {
-      content: "▶";
-      font-size: 0.7rem;
+    // freccia custom a destra (come .collapsible)
+    &::after {
+      content: "▸";
+      position: absolute;
+      right: 1.25rem;
+      top: 50%;
+      transform: translateY(-50%);
       transition: transform 0.2s ease;
+      color: var(--bs-secondary-color);
+      font-size: 0.85rem;
     }
 
-    &:hover { color: var(--bs-primary); }
+    &:hover {
+      background: var(--bs-secondary-bg);
+    }
   }
 
-  &[open] summary::before {
-    transform: rotate(90deg);
+  // Freccia ruota di 90° quando aperto
+  &[open] > summary::after {
+    transform: translateY(-50%) rotate(90deg);
   }
 
+  // Contenuto interno: padding sano e niente bordo separatore
   &__content {
-    padding: 1rem 1.25rem;
-    border-top: 1px solid var(--bs-border-color);
+    padding: 0.5rem 1.25rem 1rem;
 
     > *:last-child { margin-bottom: 0; }
   }
