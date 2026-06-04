@@ -132,7 +132,7 @@ Total: 13 cards fed to Devourer including all the fatties = **46 damage**.
 
 ## Puzzle 5 {#puzzle-5}
 
-It's opponents EOT, we are fully tapped and they just milled our entire library in the worst possible order (maybe brain freeze). They have a seal of removal in play, and no more interaction. Assume the most adversarial gy order.
+It's opponents EOT, we are fully tapped and they just milled our entire library in the worst possible order *(with brain freeze)*. They have a Seal of removal in play, and no more interaction. Assume the most adversarial gy order.
 
 
 <div class="card-row" style="align-items: flex-start;">
@@ -142,23 +142,53 @@ It's opponents EOT, we are fully tapped and they just milled our entire library 
 *What's the play?*
 
 {{< spoiler label="Show solution" >}}
-**Turn 1:** K-Rec a land producing B and AD. Play land and pass.
+**Turn 1:** 
+1. <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> Cast Krosan Reclamation targeting a land producing <i class="ms ms-b ms-cost"></i> and Animate Dead.
+2. Play land and pass.
 
-**Turn 2:** Play land and cast AD targeting Guide.
+**Turn 2:**
+1. Return Squee in hand.
+2. Play land.
+3. <i class="ms ms-1 ms-cost"></i><i class="ms ms-b ms-cost"></i> Cast Animate Dead targeting Guide.
+4. Guide enters and targets Shifter.
+  - **Bounce 1 — they Seal Guide with Guide With AD trigger on stack:**
+    4. Discard Guide with Survival, get Akroma.
+    5. Shifter enters as Guide and brings back Tog.
+    6. Sac Tog to Therapy.
+    7. Pump Shifter/Tog.
+    8. Discard Akroma and win.
+  - **No bounce:**
+    4. Shifter#1 enters as Guide and targets Shifter#2.
+    5. Shifter#2 enters as Guide and targets Scrounger.
 
-- Guide enters and targets Shifter.
-  - **Bounce 1 — they Seal Guide with Guide + AD trigger on stack:** Discard Guide, get Akroma. Shifter enters as Guide and brings back Tog. Sac Tog to Therapy, pump Shifter/Tog, then discard Akroma and win.
-  - **No bounce:** Shifter, Shifter, Scrounger in play.
+6. Activate Scrounger to put back WoR, Tog, Akroma.
+  - **Bounce 2 — they Seal Scrounger here:**
+    7. Seal resolve.
+    8. <i class="ms ms-b ms-cost"></i> Discard Scrounger with Survival, get Tog.
+    9. <i class="ms ms-b ms-cost"></i> Discard Tog with Survival, get Akroma.
+    10. Pump Shifter/Tog.
+    11. Discard Akroma and win.
+  - **No bounce:**
+    7. Sac Scrounger to Therapy.
+    8. Activate both Shifter/Scrounger to put 6 cards in the library: Scrounger, Devourer, Trike, Pali, Guide, AD.
 
-- Activate Scrounger to put back Wall, Tog, Akroma.
-  - **Bounce 2 — they Seal Scrounger here:** Resolve, discard Scrounger get Tog, discard Tog get Akroma. Pump and win.
-  - **No bounce:** Sac Scrounger to Therapy and shuffle back Scrounger, Devourer, Trike, Pali, Guide, X.
+9. <i class="ms ms-b ms-cost"></i> Discard Squee to Survival.
+  - **Bounce 3 — they Seal one Shifter:**
+    10. Seal resolve.
+    11. Get Tog.
+    12. <i class="ms ms-b ms-cost"></i> Discard Tog with Survival, get Akroma.
+    13. Pump Shifter/Tog.
+    14. Discard Akroma and win. get Akroma and win.
+  - **No bounce:**
+    10. Get WoR.
+    11. <i class="ms ms-b ms-cost"></i> Discard WoR with Survival: **Combo can no longer be interrupted**.
 
-- Discard Squee to Survival.
-  - **Bounce 3 — they Seal one Shifter:** Get Tog, get Akroma and win.
-  - **No bounce:** Get WoR, discard WoR. Combo can no longer be interrupted.
-
-- Add GG from WoR, get Devourer. Pay G, discard Devourer get Trike. Pay G, discard Trike to win.
+12. Add <i class="ms ms-b ms-cost"></i><i class="ms ms-b ms-cost"></i> from both Shifter/WoR.
+13. Get Phyrexian Devourer.
+14. <i class="ms ms-g ms-cost"></i> Discard Devourer with Survival, get Trike.
+15. Activate Shifter/Devourer.
+16. <i class="ms ms-g ms-cost"></i> Discard Trike with Survival.
+17. Shoot the opponent and win.
 {{< /spoiler >}}
 
 ---
