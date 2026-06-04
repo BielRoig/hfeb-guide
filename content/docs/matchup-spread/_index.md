@@ -198,8 +198,8 @@ The most important thing to remember is that hFEB rewards **adaptability**. It's
   </a>
 
   <a href="/docs/matchup-spread/terrageddon/" class="matchup-card matchup-card--unfavorable">
-    <img src="/images/matchups/terrageddon.jpg" alt="TerraGeddon">
-    <span>TerraGeddon</span>
+    <img src="/images/matchups/terrageddon.jpg" alt="Terrageddon">
+    <span>Terrageddon</span>
   </a>
 
   <a href="/docs/matchup-spread/ub-psychatog/" class="matchup-card matchup-card--favorable">
