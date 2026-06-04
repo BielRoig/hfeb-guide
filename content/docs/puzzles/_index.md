@@ -151,37 +151,37 @@ It's opponents EOT, we are fully tapped and they just milled our entire library 
 2. Play land.
 3. <i class="ms ms-1 ms-cost"></i><i class="ms ms-b ms-cost"></i> Cast Animate Dead targeting Guide.
 4. Guide enters and targets Shifter.
-  - **Bounce 1 — they Seal Guide with Guide With AD trigger on stack:**
-    4. Discard Guide with Survival, get Akroma.
-    5. Shifter enters as Guide and brings back Tog.
-    6. Sac Tog to Therapy.
-    7. Pump Shifter/Tog.
-    8. Discard Akroma and win.
-  - **No bounce:**
-    4. Shifter#1 enters as Guide and targets Shifter#2.
-    5. Shifter#2 enters as Guide and targets Scrounger.
+  - **Bounce 1 — they Seal Guide with Guide With AD trigger on stack:** <br>
+    4. Discard Guide with Survival, get Akroma.<br>
+    5. Shifter enters as Guide and brings back Tog.<br>
+    6. Sac Tog to Therapy.<br>
+    7. Pump Shifter/Tog.<br>
+    8. Discard Akroma and win.<br>
+  - **No bounce:** <br>
+    4. Shifter#1 enters as Guide and targets Shifter#2.<br>
+    5. Shifter#2 enters as Guide and targets Scrounger.<br>
 
 6. Activate Scrounger to put back WoR, Tog, Akroma.
-  - **Bounce 2 — they Seal Scrounger here:**
-    7. Seal resolve.
-    8. <i class="ms ms-b ms-cost"></i> Discard Scrounger with Survival, get Tog.
-    9. <i class="ms ms-b ms-cost"></i> Discard Tog with Survival, get Akroma.
-    10. Pump Shifter/Tog.
-    11. Discard Akroma and win.
-  - **No bounce:**
-    7. Sac Scrounger to Therapy.
-    8. Activate both Shifter/Scrounger to put 6 cards in the library: Scrounger, Devourer, Trike, Pali, Guide, AD.
+  - **Bounce 2 — they Seal Scrounger here:** <br>
+    7. Seal resolve.<br>
+    8. <i class="ms ms-b ms-cost"></i> Discard Scrounger with Survival, get Tog.<br>
+    9. <i class="ms ms-b ms-cost"></i> Discard Tog with Survival, get Akroma.<br>
+    10. Pump Shifter/Tog.<br>
+    11. Discard Akroma and win.<br>
+  - **No bounce:** <br>
+    7. Sac Scrounger to Therapy.<br>
+    8. Activate both Shifter/Scrounger to put 6 cards in the library: Scrounger, Devourer, Trike, Pali, Guide, AD.<br>
 
 9. <i class="ms ms-b ms-cost"></i> Discard Squee to Survival.
-  - **Bounce 3 — they Seal one Shifter:**
-    10. Seal resolve.
-    11. Get Tog.
-    12. <i class="ms ms-b ms-cost"></i> Discard Tog with Survival, get Akroma.
-    13. Pump Shifter/Tog.
-    14. Discard Akroma and win. get Akroma and win.
-  - **No bounce:**
-    10. Get WoR.
-    11. <i class="ms ms-b ms-cost"></i> Discard WoR with Survival: **Combo can no longer be interrupted**.
+  - **Bounce 3 — they Seal one Shifter:** <br>
+    10. Seal resolve.<br>
+    11. Get Tog.<br>
+    12. <i class="ms ms-b ms-cost"></i> Discard Tog with Survival, get Akroma.<br>
+    13. Pump Shifter/Tog.<br>
+    14. Discard Akroma and win. get Akroma and win.<br>
+  - **No bounce:** <br>
+    10. Get WoR.<br>
+    11. <i class="ms ms-b ms-cost"></i> Discard WoR with Survival: **Combo can no longer be interrupted**.<br>
 
 12. Add <i class="ms ms-b ms-cost"></i><i class="ms ms-b ms-cost"></i> from both Shifter/WoR.
 13. Get Phyrexian Devourer.
