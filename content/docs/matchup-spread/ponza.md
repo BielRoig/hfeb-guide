@@ -113,17 +113,11 @@ For this reason, you have to be very careful about when you commit creatures to 
 
 If your follow-up is strong (a double Hermit Druid, a Survival that immediately finds a useful answer, or a line that closes quickly) then you can accept the risk. If instead you're simply playing a dork without a plan, you may be giving the opponent the best way to kill you.
 
-## Game 1 -------------------------------------------------------------------------- continua da qui -------------------------------------------------------------------------
+## Game 1
 
-Game 1 depends heavily on the opponent's variant.
+Game 1 depends heavily on the opponent's variant. Against **GW**, you have to play around Swords and removal for Survival. Against **RG**, you can be slightly more confident in building a combo on the same turn, because their interaction is more often sorcery-speed sweepers.
 
-Against **GW**, you have to play around Swords and removal for Survival.
-
-Against **RG**, you can be slightly more confident in building a combo on the same turn, because their interaction is more often sorcery-speed sweepers or less precise effects against combo pieces.
-
-In both cases, though, you have to respect mana denial. This means that sometimes you have to make seemingly premature plays: casting Survival before you have discard, or playing Hermit Druid before you're perfectly protected, simply because next turn you may no longer have the mana.
-
-It isn't a matchup where you can always play elegantly. Often you have to pick the least fragile line among several imperfect ones.
+In both cases, though, you have to respect mana denial. This means that sometimes you have to make seemingly premature plays: casting Survival before you have a creature to discard, or playing Hermit Druid before you're perfectly protected, simply because next turn you may no longer have the mana. Often you have to pick the least fragile line among several imperfect ones.
 
 ## Post-Sideboard
 
@@ -132,7 +126,6 @@ Post-board your plan is fairly similar against both variants: you want to bring 
 The cards to consider are:
 
 - **Naturalize**;
-- **Crumble**;
 - **Uktabi Orangutan**;
 - **Swords to Plowshares**;
 - **Ray of Revelation**;
@@ -150,11 +143,7 @@ Enchantment removal is useful against:
 
 - **Oath of Druids**;
 - **Sylvan Library**;
-- **Seal of Cleansing**;
-- **Aura of Silence**;
-- any post-board cards against Survival.
-
-**Swords to Plowshares** is very important because it directly answers Terravore, which is often the fastest way the opponent can kill you.
+- **Aura of Silence**.
 
 ### Opponent's Sideboard
 
@@ -165,10 +154,9 @@ Against RG you can expect:
 - **Pyroblast**;
 - additional sweepers like Pyroclasm;
 - **Tormod's Crypt**;
-- **Naturalize** or other ways to break Survival;
-- additional cards against your small creatures.
+- **Naturalize** or other ways to break Survival.
 
-Cabal Therapy calls are often more straightforward against RG. If you know Naturalize is the main way they can break Survival, naming Naturalize becomes a very clear line.
+Cabal Therapy calls are often more straightforward against RG. Since Naturalize is the main way they can break Survival, naming Naturalize becomes a very clear line.
 
 #### GW
 
@@ -179,9 +167,7 @@ You can expect:
 - **Aura of Silence**;
 - **Seal of Cleansing**;
 - **Ray of Revelation**;
-- **Swords to Plowshares**;
 - **Tormod's Crypt**;
-- additional answers to Survival;
 - possible hate permanents.
 
 This makes GW more complicated. Their answers are more numerous, more distributed, and often harder to name with Cabal Therapy.
@@ -194,9 +180,7 @@ The Survival plan becomes more fragile, but the Hermit Druid plan isn't free eit
 
 Against GW, though, it's hard for it to stay in play long. Cards like **Ray of Revelation** are particularly annoying because they can remove Vineyard and then remain available from the graveyard to hit a future Survival. Many GW lists run at least a couple of Rays, so you can't take it for granted that Vineyard survives.
 
-That said, if Vineyard sticks, it can be very strong. In general, you convert green mana better than they do. You can use that mana for Survival, to develop multiple spells on the same turn, and to recover from mana denial.
-
-Unlike TerraGeddon, many of Ponza's lands enter tapped, only produce colorless, or require mana to activate. Plus, some versions don't have many creatures to cast naturally. This makes Vineyard more asymmetrical in your favor.
+That said, if Vineyard sticks, it can be very strong. In general, you convert green mana better than they do. You can use that mana for Survival, to develop multiple spells on the same turn, and to recover from mana denial. Ponza's lands enter tapped, only produce colorless, or require mana to activate. Plus, they don't have many creatures to cast naturally. This makes Vineyard more asymmetrical in your favor.
 
 The limit is that Vineyard helps you put pieces on the board, but it doesn't help them stay there. If the problem is resolving Survival, Vineyard can help. If the problem is protecting it from Naturalize, Disenchant, or Ray, then a discard spell can be better because it covers both phases: it can strip a land destruction spell or a removal.
 
@@ -204,11 +188,11 @@ For this reason, you shouldn't consider Vineyard an automatic answer. It's power
 
 ## The Lobstercon Version
 
-A special note has to be made about the Ponza version that posted a result at **Lobstercon**.
+A special note has to be made about the Ponza version that Top8 at **Lobstercon**.
 
 That list is basically GW, but post-board it splashes blue for **Meddling Mage** and red for **Pyroclasm**. From your point of view, this makes the matchup even harder to read.
 
-It isn't fully clear how the opponent should sideboard against hFEB, because they have many potentially strong cards but not all of them fit perfectly together. For example, **Meddling Mage** and **Pyroclasm** aren't cards you always want to see in the same hand. That said, the combination can still be effective: Pyroclasm clears the board, and then Mage can shut off a line by naming a key combo piece.
+It isn't fully clear how the opponent should sideboard against hFEB, because they have many potentially strong cards but not all of them fit perfectly together. **Meddling Mage** and **Pyroclasm** aren't cards you always want to see in the same hand. That said, the combination can still be effective: Pyroclasm clears the board, and then Mage can shut off a line by naming a key combo piece.
 
 It's possible that the opponent cuts some **Sylvan Library** to make room for Meddling Mage or other interaction. In any case, this version can be even harder than the traditional GW variants, because it adds another axis of hate.
 
@@ -216,7 +200,7 @@ Against Meddling Mage you have to consider bringing in removal like:
 
 - **Swords to Plowshares**;
 - **Ghitu Slinger**;
-- **Pyroclasm**, if present and coherent with your plan.
+- **Pyroclasm**.
 
 ## Oath / Quiet Speculation
 
@@ -226,18 +210,14 @@ These lists combine several very annoying elements:
 
 - **Armageddon**;
 - **Cataclysm**;
-- **Oath of Druids** to find Terravore;
 - **Quiet Speculation**;
 - **Volcanic Spray** with flashback;
 - **Ray of Revelation**;
 - **Call of the Herd**;
-- **Deep Analysis**;
 - **Swords to Plowshares** main deck;
 - post-board, **Meddling Mage** and additional interaction.
 
 The Quiet Speculation package is particularly problematic because it gives access to flashback cards, so your discard spells become less clean. If you discard Ray of Revelation or Volcanic Spray, you haven't really solved the problem: those cards stay usable from the graveyard.
-
-**Volcanic Spray** is very annoying because it can kill many of your small creatures and has flashback, so it can repeat the effect later.
 
 Post-board, these lists often replace part of the Oath plan with **Meddling Mage**, making specific removal necessary. Here too, cards like Swords and Ghitu Slinger become important.
 
@@ -247,11 +227,11 @@ This matchup doesn't need to be treated as a completely separate section, becaus
 
 In these matchups **Cabal Therapy** calls aren't always clear.
 
-Against RG they can be simpler, because often the truly problematic cards are easier to identify: Naturalize, Pyroblast, Oath, Sphere, or Terravore, depending on the spot.
+Against RG they can be simpler, because often the truly problematic cards are easier to identify: Naturalize, Pyroblast, Oath or Pyroclasm depending on the spot.
 
 Against GW and Oath/Spec, the problem is that the answers are more distributed. The opponent can have Seal, Naturalize, Ray, Swords, Oath, Library, Armageddon, Cataclysm, or Meddling Mage. On top of that, some of these cards have flashback or are tutorable with Enlightened Tutor.
 
-**Duress** can be useful, but here too it isn't always easy to figure out how much. It can strip many relevant cards, but sometimes the opponent has redundancy or cards that remain strong from the graveyard. So resolving a discard spell isn't enough: you have to figure out whether that discard actually opens a window.
+**Duress** can be useful, but here too it isn't always easy to figure out how much. It can strip a relevant card, but the opponent has so much redundancy. So resolving a discard spell isn't enough: you have to figure out whether that discard actually opens a window.
 
 The general rule is:
 
@@ -265,16 +245,10 @@ Ponza, in all its variants, is a hard matchup because it combines mana denial, h
 
 The keys to the matchup are:
 
-- develop mana without overexposing yourself to Oath;
 - figure out when you have to force a combo piece before your mana gets destroyed;
-- respect Sphere of Resistance;
-- don't underestimate Rishadan Port;
 - use discard to open windows, not just to trade resources;
-- against GW, respect Swords and removal for Survival;
 - against RG, exploit the fact that their interaction is less effective against a same-turn combo;
-- post-board, bring in artifact/enchantment answers and Swords for Terravore;
-- carefully evaluate Eladamri's Vineyard;
-- recognize the hybrid versions with Meddling Mage or Quiet Speculation.
+- post-board, bring in artifact and enchantment answers.
 
 In short: against Ponza you aren't just playing against land destruction. You're playing against a deck that tries to keep you off your mana, and then punishes you for every creature or permanent you try to use to recover it.
 
