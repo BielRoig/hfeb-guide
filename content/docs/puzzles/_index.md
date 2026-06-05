@@ -23,11 +23,11 @@ Opponent is at 24 life with a nice board and a Worship. You are at 3 in your upk
  2. Put Karmic Guide > Devourer on top of the graveyard.
  3. <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> Cast Krosan Reclamation using Treva's Ruin and Coast targetting two unearths.
  4. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter using Llanowar Wastes (down to 2 life).
- 5. Shifter enters as Guide, whih brings back Guide, and brings back Scrounger (graveyard is now Uneart, Devourer).
+ 5. Shifter enters as Guide, which brings back Guide, and brings back Scrounger (graveyard is now Uneart, Devourer).
  6. Activate Scrounger and put Palinchron, Akroma and ESG back in the library.
  7. Sacrifice Karmic Guide to Cabal Therapy.
  8. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter using Llanowar Wastes (down to 1 life).
- 9. Shifter enters as Guide, whih brings back Guide, and brings back Triskelion.
+ 9. Shifter enters as Guide, which brings back Guide, and brings back Triskelion.
  10. Sacrifice Karmic Guide to Cabal Therapy.
  11. Sacrifice Scrounger to Cabal Therapy.
  12. Use both Shifter/Scroungers to put back Hermit Druid, 2 Unearths, Squee, Karmic Guide and Scrounger in the library.
@@ -42,7 +42,7 @@ Opponent is at 24 life with a nice board and a Worship. You are at 3 in your upk
 1. <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Hermit Druid using Reflecting Pool.
 2. Order Guide > Devourer > Triskelion on top of the graveyard.
 3. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter using Llanowar Wastes (down to 2 life).
-4. Shifter enters as Guide, whih brings back Scrounger.
+4. Shifter enters as Guide, which brings back Scrounger.
 5. Activate Scrounger and put Akroma, Uneath and Guide in the library.
 6. Sac scrounger to therapy.
 7. Activate Shifter/Scrounger to put Palinchron, Squee, ESG in the library.
@@ -405,7 +405,7 @@ Solution text goes here.
 
 ## Puzzle 14 {#puzzle-14}
 
-*Description coming soon.*
+You are in you main phase. Find a winning line assuming no Vision Charm or Counterspell in hand.
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle14.png" alt="Board state" class="img-fluid rounded">
@@ -414,14 +414,24 @@ Solution text goes here.
 *What's the play?*
 
 {{< spoiler label="Show solution" >}}
-*(No Vision Charm in hand or library.)*
 
-1. Pitch Birds to Survival, get Pali. Pitch Pali to Survival, get ESG.
-2. Play Guide with ESG — Guide enters and brings back Shifter as Pali. Untap 7 lands.
-3. Pay 4 to return Shifter to hand. Sac Guide to Therapy.
-4. Play Shifter — brings back Shifter #2, Shifter #2 brings back Guide, Guide brings back Pali. Untap.
-5. Return Shifter #2 — you have 3 mana.
-6. Pitch Shifter to Tog, Tog to Trike, exile graveyard to become Devourer. Pitch Trike for the win.
+1. <i class="ms ms-g ms-cost"></i> Discard Birds with Survival to get Palinchron.
+2. <i class="ms ms-g ms-cost"></i> Discard Palinchron with Survival to get ESG.
+3. <i class="ms ms-3 ms-cost"></i><i class="ms ms-w ms-cost"></i><i class="ms ms-w ms-cost"></i> Cast Guide with ESG.
+4. Guide enters and brings back Shifter as Palinchron.
+5. Shifter/Pali triggers goes on the stack and you untap 7 lands.
+6. <i class="ms ms-2 ms-cost"></i><i class="ms ms-u ms-cost"></i><i class="ms ms-u ms-cost"></i> Return Shifter/Pali to hand.
+7. Sacrifice Guide with Cabal Therapy.
+8. <i class="ms ms-1 ms-cost"></i><i class="ms ms-u ms-cost"></i><i class="ms ms-u ms-cost"></i> Cast Shifter.
+9. Shifter enters as Guide, which brings back Guide itself.
+10. Guide enters and brings back Palinchron.
+11. Palinchron triggers goes on the stack and you untap 7 lands.
+12. <i class="ms ms-2 ms-cost"></i><i class="ms ms-u ms-cost"></i><i class="ms ms-u ms-cost"></i> Return Pali to hand. You have 3 mana.
+13. <i class="ms ms-g ms-cost"></i> Discard Palinchron with Survival to get Psychatog.
+14. <i class="ms ms-g ms-cost"></i> Discard Psychatog with Survival to get Triskelion.
+15. Activate Shifter/Tog to exile cards from the graveyard until Devourer is on top.
+16. Activate Shifter/Devourer enough time to add lethal counters.
+17. <i class="ms ms-g ms-cost"></i> Discard Triskelion with Survival and shoot the opponent.
 
 > If needed, add a WoR between Pali and Tog for an extra mana. You can also go Tog → Akroma and deal lethal with how big the gy is.
 {{< /spoiler >}}
@@ -498,13 +508,13 @@ Scenario: 4 lands in play, Hermit Druid (not sick), Shifter in hand, opponent ha
 
 ## Puzzle 17 {#puzzle-17}
 
-*Description coming soon.*
+You are in your main phase one, there are two lines that start in two different ways, find them both!
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle17.png" alt="Board state" class="img-fluid rounded">
 </div>
 
-You are in your main phase one, there are two lines that start in two different ways, find them both!
+*What's the play?*
 
 {{< spoiler label="Show solution #1" >}}
 1. <i class="ms ms-g ms-cost"></i> Discard Shifter with Survival to get Psychatog.
@@ -528,13 +538,13 @@ You are in your main phase one, there are two lines that start in two different 
 
 ## Puzzle 18 {#puzzle-18}
 
-*Description coming soon.*
+You are in opponent end step. There are two lines that start in two different ways, find them both!
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle18.png" alt="Board state" class="img-fluid rounded">
 </div>
 
-You are in opponent end step. There are two lines that start in two different ways, find them both!
+*What's the play?*
 
 {{< spoiler label="Show solution — 13 damage line" >}}
 EOT: <i class="ms ms-g ms-cost"></i> Discard Hermit with Survival to get Psychatog.
@@ -555,7 +565,6 @@ In your upkeep, opponent uses Rishadan Port.
 EOT: <i class="ms ms-g ms-cost"></i> Discard Hermit with Survival to get second ESG.
 
 In your upkeep, opponent uses Rishadan Port.
-
 1. <i class="ms ms-g ms-cost"></i> Discard Uktabi with Survival to get WoR.
 2. <i class="ms ms-1 ms-cost"></i><i class="ms ms-u ms-cost"></i><i class="ms ms-u ms-cost"></i> Play Shifter as Uktabi with two lands and one ESG.
 3. Destroy Cursed Totem.
