@@ -504,7 +504,7 @@ Scenario: 4 lands in play, Hermit Druid (not sick), Shifter in hand, opponent ha
 <img src="/images/puzzles/puzzle17.png" alt="Board state" class="img-fluid rounded">
 </div>
 
-*What's the play?*
+You are in your main phase one, there are two lines that start in two different ways, find them both!
 
 {{< spoiler label="Show solution #1" >}}
 1. <i class="ms ms-g ms-cost"></i> Discard Shifter with Survival to get Psychatog.
@@ -534,7 +534,7 @@ Scenario: 4 lands in play, Hermit Druid (not sick), Shifter in hand, opponent ha
 <img src="/images/puzzles/puzzle18.png" alt="Board state" class="img-fluid rounded">
 </div>
 
-*What's the play?*
+You are in opponent end step. There are two lines that start in two different ways, find them both!
 
 {{< spoiler label="Show solution — 13 damage line" >}}
 EOT: <i class="ms ms-g ms-cost"></i> Discard Hermit with Survival to get Psychatog.
