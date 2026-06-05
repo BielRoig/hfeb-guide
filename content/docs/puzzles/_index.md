@@ -507,17 +507,19 @@ Scenario: 4 lands in play, Hermit Druid (not sick), Shifter in hand, opponent ha
 *What's the play?*
 
 {{< spoiler label="Show solution #1" >}}
-1. Shifter to Tog.
-2. Unearth.
-3. Pitch Tog for Devourer.
-4. Exile the bottom two for the pump. Discard Scrounger for pump.
-5. Opponent had no window to ping with our shields down — we are Scrounger until resolving pumps.
-6. Once we untap, combo.
+1. <i class="ms ms-g ms-cost"></i> Discard Shifter with Survival to get Psychatog.
+2. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter.
+3. Palinchron untap goes on the stack.
+4. <i class="ms ms-g ms-cost"></i> Discard Psychatog with Survival to get Devourer.
+5. Activate Shifter/Tog to exile 2 cards for a +1/+1 pump.
+6. Activate Shifter/Tog to discard Scrounger for a +1/+1 pump.
+7. Opponent have no window to ping with our shields down: Shifter is Scrounger until resolving pumps.
+8. Once we untap, combo.
 {{< /spoiler >}}
 
 {{< spoiler label="Show solution #2" >}}
-1. Cast Shifter for the untap.
-2. Then Scrounger → Devourer.
+1. <i class="ms ms-1 ms-cost"></i><i class="ms ms-u ms-cost"></i><i class="ms ms-u ms-cost"></i> Cast Shifter for the untap.
+2. <i class="ms ms-g ms-cost"></i> Discard Scrounger with Survival to get Devourer.
 3. Now you can win immediately if they haven't pinged.
 4. Or pass to their upkeep if they pinged at any point.
 {{< /spoiler >}}
@@ -535,7 +537,7 @@ Scenario: 4 lands in play, Hermit Druid (not sick), Shifter in hand, opponent ha
 *What's the play?*
 
 {{< spoiler label="Show solution — 13 damage line" >}}
-EOT: <i class="ms ms-g ms-cost"></i> Discard Hermit with Survival to get Pstchatog.
+EOT: <i class="ms ms-g ms-cost"></i> Discard Hermit with Survival to get Psychatog.
 
 In your upkeep, opponent uses Rishadan Port.
 1. <i class="ms ms-g ms-cost"></i> Discard Uktabi with Survival to get second ESG.
