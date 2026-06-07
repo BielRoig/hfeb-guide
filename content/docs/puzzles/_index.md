@@ -350,7 +350,7 @@ You can work around naturalize that I believe. Krec cmc, become devourer, put ac
 
 ## Puzzle 12 {#puzzle-12}
 
-*Description coming soon.*
+You are playing against Goblins and facing a Crypt and a Fanatic, can you win this turn?
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle12.png" alt="Board state" class="img-fluid rounded">
@@ -379,7 +379,7 @@ Other option could be: Survi discard Pali, get Trike. Tog discard Hermit. Activa
 
 ## Puzzle 13 {#puzzle-13}
 
-*Description coming soon.*
+It's your turn and you have an active Shapeshifer in play against two open mana for Withered Wretch. Can you win this turn?
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle13.png" alt="Board state" class="img-fluid rounded">
@@ -392,14 +392,11 @@ Other option could be: Survi discard Pali, get Trike. Tog discard Hermit. Activa
    - **If they don't exile Hermit:** Get Trike and do the Crypt-proof line (Hermit, grow, reveal Dev, discard Trike).
    - **If they exile Hermit:** Get Devourer and pitch it using City. They only have one exile left.
      - **If they exile Devourer:** Grow it in response and cover with Gemstone Mine.
-     - **If they don't exile Devourer:** Get Tog and safely grow Trike, then exile it yourself by pitching Tog.
+     - **If they don't exile Devourer:** Get Tog and safely grow Trike, then exile it yourself by pitching Tog and attack.
 
 > Also no need to get Tog there — if Survival resolves we can even get Trike. Devourer will be covered by 2 cards anyway.
 {{< /spoiler >}}
 
-{{< spoiler label="Show solution #2 (Paper)" >}}
-Solution text goes here.
-{{< /spoiler >}}
 
 ---
 
@@ -440,7 +437,7 @@ You are in you main phase. Find a winning line assuming no Vision Charm or Count
 
 ## Puzzle 15 {#puzzle-15}
 
-*Description coming soon.*
+We are playing against Iggy Pop and opponent has an untapped Cephalid Coliseum and threshold, and no other interaction. Can you win this turn?
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle15.png" alt="Board state" class="img-fluid rounded">
@@ -521,24 +518,25 @@ You are in your main phase one, there are two lines that start in two different 
 2. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter.
 3. Palinchron untap goes on the stack.
 4. <i class="ms ms-g ms-cost"></i> Discard Psychatog with Survival to get Devourer.
-5. Activate Shifter/Tog to exile 2 cards for a +1/+1 pump.
+5. Hold priority and activate Shifter/Tog to exile 2 cards for a +1/+1 pump.
 6. Activate Shifter/Tog to discard Scrounger for a +1/+1 pump.
-7. Opponent have no window to ping with our shields down: Shifter is Scrounger until resolving pumps.
-8. Once we untap, combo.
+
+Opponent have no window to ping with our shields down: Shifter is Scrounger until resolving pumps.
+7. Once we untap, combo.
 {{< /spoiler >}}
 
 {{< spoiler label="Show solution #2" >}}
 1. <i class="ms ms-1 ms-cost"></i><i class="ms ms-u ms-cost"></i><i class="ms ms-u ms-cost"></i> Cast Shifter for the untap.
 2. <i class="ms ms-g ms-cost"></i> Discard Scrounger with Survival to get Devourer.
-3. Now you can win immediately if they haven't pinged.
-4. Or pass to their upkeep if they pinged at any point.
+3. If opponent has pinged shifter before the Survival ability resolves, wait to combo on opponent's upkeep.
+4. If opponent has not pinged shifter, then combo after the untap resolves with Devourer and Trike in hand.
 {{< /spoiler >}}
 
 ---
 
 ## Puzzle 18 {#puzzle-18}
 
-You are in opponent end step. There are two lines that start in two different ways, find them both!
+You are in opponent's end step and he has been abusing his Library :D With his life total at 6, can you find a line to win this turn? What if he had been at 10? And what if he was at 14? Assume opponent will try to port you on your upkeep.
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle18.png" alt="Board state" class="img-fluid rounded">
