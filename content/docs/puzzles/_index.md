@@ -69,7 +69,30 @@ The opponent is at 33 with an imposing board. They have sworded Psychatog and He
 *What's the play?*
 
 {{< spoiler label="Show solution" >}}
-Solution text goes here.
+*Always leave one Wastes untapped to play around Daze*
+
+1. *Upkeep* <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Hermit Druid using Treva’s Ruin.
+2. Put Karmic Guide > Devourer on top of the graveyard.
+3. <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> Flashback Krosan Reclamation using City of Brass and Llanowar Wastes targeting Unearth (down to 3 life).
+4. Draw Unearth. You have 2 of those in hand.
+5. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter using Reflecting Pool.
+6. Shifter enters as Guide, which brings back Scrounger (graveyard is now Unearth, Guide, Devourer).
+7. Activate Scrounger to put back in the library: Unearth, Palinchron and Triskelion (14 CMC).
+8. Graveyard is now Guide and Devourer.
+9. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter #2 using City of Brass (down to 2 life).
+10. Shifter #2 enters as Guide, which brings back Akroma (graveyard is now Uneart, Guide, Devourer).
+11. Sacrifice Scrounger with Cabal Therapy.
+12. Activate Shifter/Scrounger #1 to put back in the library: Unearth, Guide and Squee (9 CMC).
+13. Activate Shifter/Scrounger #2 to put back in the library: Scrounger, WoR and ESG (10 CMC).
+14. Let pump from Shifter/Scrounger #2 resolve and it become a 4/4 Shifter/Devourer.
+15. Stack 8 devourer activations for Shifter #1.
+16. In response, activate Shifter #2 to exile the last card in the library (ESG).
+17. Let that resolve, Shifter #2 becomes 7/7 and the Devourer sacrifice trigger goes to the stack.
+18. Let the sacrifice trigger resolve.
+19. Shifter #2 dies and it covers Devourer.
+20. Shifter #1 is now a plain Shifter. Let the 30 counters resolve, which means a total of **+33/+33**.
+21. Sacrifice Akroma with Cabal Therapy.
+22. Attack with a 39/39 Shifter/Akroma for lethal.
 {{< /spoiler >}}
 
 ---
