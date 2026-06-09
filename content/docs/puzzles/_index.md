@@ -292,7 +292,7 @@ So we get to our turn. Holding priority, we discard Dev to Tog, exile Pali with 
 
 ## Puzzle 9 {#puzzle-9}
 
-*Description coming soon.*
+*As simply as it can be.. find the maximum amount of damage possible!*
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle9.png" alt="Board state" class="img-fluid rounded">
@@ -300,19 +300,35 @@ So we get to our turn. Holding priority, we discard Dev to Tog, exile Pali with 
 
 *What's the play?*
 
-{{< spoiler label="Show solution (5 mana — 110 damage)" >}}
-Order graveyard as: Guide, Scrounger, Devourer, Akroma, Trike.
-
-1. Upkeep we activate Hermit and K-Rec 2 Unearths (3 mana). Draw Unearth, cast it targeting Shifter, enters, brings Guide, brings Tog.
-2. Tog exiles the Unearth on top. Shifter becomes Scrounger. Scrounge Pali, ESG and Squee (13 CMC + Unearth = **14 total**).
-3. Sac Shifter to Therapy #1. Sac Guide to Therapy #2.
-4. Cast Unearth targeting Shifter, it enters as Guide and targets second Shifter. Before Shifter/Guide trigger resolves, Tog exiles Unearth from the top.
-5. Shifter #2 enters as Guide and targets Guide. Guide enters and targets Scrounger on top of the gy. In response to the Guide trigger, we Scrounge twice (4 Survivals, 2 Hermits) — **CMC now 26**.
-6. Guide trigger resolves and Scrounger enters. Sac Guide to Therapy #3 and scrounge Guide, Hermit and WoR — **CMC now 35**.
-7. Sac Scrounger to Therapy #4. Shifter #2 scrounges AD, WoR and WoR — **CMC now 41**. In response to pump, Shifter #1 scrounges WoR, Birds and Scrounger — **CMC now 49**.
-8. With the two pumps on the stack, Devourer is revealed (both Shifters are 4/4). Shifter #1 puts all activations on the stack and in response we exile Devourer with Tog.
-9. We have double Akroma and we sac Shifter #2 to the legend rule. We exile top Shifter with Tog and Akroma becomes a **61/61** (base 6 + 2 Scrounger pumps + 49 counters).
-10. We attack with Akroma (61 dmg) and exile it to deal 49 dmg with Trike (total 110 dmg).
+{{< spoiler label="Show solution" >}}
+1. <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Upkeep activate Hermit Druid.
+2. Order graveyard as: Guide, Scrounger, Devourer, Akroma, Trike.
+3. <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> Flashback Krosan Reclamation targeting two Uearth.
+4. Draw one Unearth.
+5. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shifter.
+6. Shifter enters as Guide, which brings back Guide, and brings back Tog.
+7. Tog exiles the Unearth on top. Reveal Scrounger on top of the graveyard.
+8. Activate Shifter/Scrounger to put in the library: Pali, ESG and Squee (13 CMC + Unearth = **14 total**).
+9. Sacrifice Shifter to Cabal Therapy #1.
+10. Sacrifice Guide to Cabal Therapy #2.
+11. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shifter,
+12. Shifter enters as Guide and targets second Shifter.
+13. Before Shifter/Guide trigger resolves, Tog exiles Unearth from the top of graveyard.
+14. Shifter #2 enters as Guide and targets Guide.
+15. Guide enters and targets Scrounger on top of the gy.
+16. Before Guide trigger resolves, activate both Shifter/Scrounger to put in the library: 4 Survivals and 2 Hermits (**26 total** and +3/+3 pump).
+17. Guide trigger resolves and Scrounger enters.
+18. Sacrifice Guide to Cabal Therapy #3.
+19. Activate Scrounger to put in the library: Guide, Hermit and WoR (**35 total**).
+20. Sacrifice Scrounger to Cabal Therapy #4.
+21. Activate both Shifter/Scrounger to put in the library: Animate Dead, 3 Wall of Roots, 1 Bird of Paradise and Scrounger (**49 total**).
+22. With the two +3+/3 pump on the stack, Devourer is revealed on top of the graveyard.
+23. Shifter #1 puts all activations on the stack and in response you exile Devourer with Psychatog.
+24. Akroma is revealed on top of the graveyard and you sacrifice Shifter #2 to the legend rule.
+25. Exile the top Shifter with Psychatog.
+26. Shifter/Akroma is a **61/61** (base 6 + 2 Scrounger pumps + 49 counters).
+27. Attack with Shifter/Akroma (61 dmg) and then use Psychatog to reveal Triskelion on top of the graveyard.
+28. Use Shifter/Trike to shoot 49 times for a total of **110 damage**.
 {{< /spoiler >}}
 
 ---
