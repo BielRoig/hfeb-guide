@@ -300,8 +300,8 @@ Opponent must interact somewhere. Two options:
 
 **Option A:** Opponent Crypts in response to Hermit.
 
-   7. Activate Devourer two more times. <br>
-   8. *In response* <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> Flashback Krosan Reclamation on Devourer and Triskelion. <br>
+   7. Hold priority and activate Devourer two more times. <br>
+   8. <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> Flashback Krosan Reclamation on Devourer and Triskelion. <br>
    9. Shifter gets 13 counters. <br>
    10. Let the stack resolves and the graveyard is exiled. <br>
    11. Library is milled with the Hermit activation *(put Trike on top)* and then the 7 leftover counters are added to the Shifter. <br>
