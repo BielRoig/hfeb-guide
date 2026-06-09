@@ -311,7 +311,7 @@ Order graveyard as: Guide, Scrounger, Devourer, Akroma, Trike.
 
 ## Puzzle 10 {#puzzle-10}
 
-*Description coming soon.*
+*You had Krosan Reclamation in hand, so your graveyard is now a mess. You used a Cabal Therapy to peek at your opponent's hand and the coast is clear. How do you win form this spot?*
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle10.png" alt="Board state" class="img-fluid rounded">
@@ -320,11 +320,17 @@ Order graveyard as: Guide, Scrounger, Devourer, Akroma, Trike.
 *What's the play?*
 
 {{< spoiler label="Show solution" >}}
-Unearth Tog, krec 12 and feb kill?
+1. <i class="ms ms-b ms-cost"></i> Cast Unearth on Psychatog.
+2. <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> Flashback Krosan Reclamation targeting Akroma and Palinchron (15 cmc).
+3. Activate Tog to clean the top of the graveyard.
+4. Reveal Devourer on top of the graveyard.
+5. Activate Shifter/Devourer*
+6. Activate Psycatog to reveal Triskelion on top of the graveyard.
+7. Shoot the opponent with Shifter/Trike.
 
-And thank him for his sylvan activations.
+*And thank him for their sylvan activations.*
 
-You can work around naturalize that I believe. Krec cmc, become devourer, put activations on the stack, become trike. If they naturalize before they resolve, discard squee/auramancer and naturalize fizzles, become trike again.
+*You can work around Naturalize. Put Devourer activations on the stack and exile Devourer with Tog: Shifter becomes Triskelion. If they naturalize before the activations resolve, discard Squee to make Naturalize fizzles, and then activate Tog again.
 {{< /spoiler >}}
 
 ---
