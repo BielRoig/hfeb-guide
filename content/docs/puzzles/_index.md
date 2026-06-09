@@ -263,7 +263,7 @@ So we get to our turn. Holding priority, we discard Dev to Tog, exile Pali with 
 
 ## Puzzle 8 {#puzzle-8}
 
-*Description coming soon.*
+* It's opponent EoT. You are at 4 life. The opponent has some goblins, all lands tapped and a Mogg Fanatic ready to explode.*
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle8.png" alt="Board state" class="img-fluid rounded">
@@ -272,12 +272,20 @@ So we get to our turn. Holding priority, we discard Dev to Tog, exile Pali with 
 *What's the play?*
 
 {{< spoiler label="Show solution" >}}
-1. Untap and draw. Pay <i class="ms ms-g ms-cost"></i>, discard Pali to get Shifter.
-2. Play Birds of Paradise, pay <i class="ms ms-g ms-cost"></i>, discard Shifter to get Devourer.
-3. Pay <i class="ms ms-b ms-cost"></i> and Unearth Shifter.
-4. **If they fanatic on the stack:** Pay <i class="ms ms-g ms-cost"></i> with ESG, discard Devourer to get Trike. Activate Shifter–Devourer to make it survive the Mogg ping, untap lands and win.
+1. Untap and draw.
+2. <i class="ms ms-g ms-cost"></i> Discard Pali with Survival, get Shifter.
+3. <i class="ms ms-g ms-cost"></i> Discard Shifter with Survival, get Psychatog.
+4. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shifter.
+5. Palinchron untap trigger goes on the stack.
+6. **Opponent activate Mogg Fanatic targeting Shifter**
+7. <i class="ms ms-g ms-cost"></i> *with ESG*. Discard Psychatog with Survival, get Devourer.
+8. Activate Shifter/Tog for a +1/+1 pump.
+9. Palinchron untap trigger resolves.
+10. <i class="ms ms-g ms-cost"></i> Discard Devourer with Survival, get Triskelion.
+11. Activate Shifter/Devourer
+12. <i class="ms ms-g ms-cost"></i> Discard Triskelion with Survival.
+13. Activate Shifter/Triskelion to shoot the opponent and win.
 
-> You could be even safer if you get Akroma or Psychatog with Shifter's search. That way you don't have to hope your Devourer doesn't pop on activating to save it from Fanatic.
 {{< /spoiler >}}
 
 ---
