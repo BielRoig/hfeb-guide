@@ -321,7 +321,7 @@ Opponent must interact somewhere. Two options:
 
 ## Puzzle 8 {#puzzle-8}
 
-* It's opponent EoT. You are at 4 life. The opponent has some goblins, all lands tapped and a Mogg Fanatic ready to explode.*
+It's opponent EoT. You are at 4 life. The opponent has some goblins, all lands tapped and a Mogg Fanatic ready to explode.
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle8.png" alt="Board state" class="img-fluid rounded">
@@ -412,14 +412,14 @@ You had Krosan Reclamation in hand, so your graveyard is now a mess. You used a 
 
 *And thank him for their sylvan activations.*
 
-*You can work around Naturalize. Put Devourer activations on the stack and exile Devourer with Tog: Shifter becomes Triskelion. If they naturalize before the activations resolve, discard Squee to make Naturalize fizzles, and then activate Tog again.
+You can work around Naturalize. Put Devourer activations on the stack and exile Devourer with Tog: Shifter becomes Triskelion. If they naturalize before the activations resolve, discard Squee to make Naturalize fizzles, and then activate Tog again.
 {{< /spoiler >}}
 
 ---
 
 ## Puzzle 11 {#puzzle-11}
 
-*Description coming soon.*
+You are in your upkeep and you have 3 life left. Opponent is at 16 life and 0 cards in hand. Last turn they had Memory Lapse for your Shapeshifter, so that's your draw for turn. Both Psychatog and Akroma has been previously exiled and you only have 2 Cabal Therapy left.
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle11.png" alt="Board state" class="img-fluid rounded">
@@ -428,10 +428,16 @@ You had Krosan Reclamation in hand, so your graveyard is now a mess. You used a 
 *What's the play?*
 
 {{< spoiler label="Show solution" >}}
-1. Therapy yourself using Monk to discard Shifter.
-2. AD for both Shifters and Scrounger.
-3. Scrounge in play, therapy Scrounger targeting you, double scrounge putting Trike last, discard Devourer to Therapy.
-4. Eat n-1 and Hermit the Trike on top to win.
+1. Draw the Shifter.
+2. Sacrifice Monk with Cabal Therapy targeting yourself, discard Shifter.
+3. <i class="ms ms-1 ms-cost"></i><i class="ms ms-b ms-cost"></i> Cast Animate Dead to bring back into play 2 Shifter and Scrounger.
+4. Activate Scrounger to put back into the library 3 cards.
+5. Hold pririty and sacrifice Scrounger with Cabal Therapy targeting yourself.
+6. Activate both Shifter/Scrounger to put back into the library 6 cards. **Make sure that Triskelion will be the last card on the bottom**
+7. Let Cabal Therapy resolve and discard Devourer.
+8. Activate Shifter/Devourer #1 eight times.
+9. <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Hermit Druid and mill Triskelion on top of the graveyard.
+10. Shoot the opponent with Shifter/Triskelion and win the game.
 {{< /spoiler >}}
 
 ---
