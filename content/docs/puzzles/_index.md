@@ -35,7 +35,7 @@ Opponent is at 24 life with a nice board and a Worship. You are at 3 in your upk
  14. Activate Shifter/Devourer to put 36 counters on it. 
  15. In response to the sacrifice trigger, use Triskelion to ping itself once, resolve, then ping opponent twice (down to 22).
  16. Use 6 counter to kill Angel and Mom. Use 21 counters to ping opponent (opponent down to 1, counters down to 9).
- 17. Ping Baloth one ping at a time, opponnent will sac Baloth in response to last ping (5 left) and we can ping opponnent in response to the sac trigger with 4 more pings to spare.
+ 17. Ping Baloth one ping at a time, opponent will sac Baloth in response to last ping (5 left) and we can ping opponent in response to the sac trigger with 4 more pings to spare.
 {{< /spoiler >}}
 
 {{< spoiler label="Show solution #2" >}}
@@ -274,14 +274,48 @@ We are in opponent's EOT. Can you win on your turn?
 *What's the play?*
 
 {{< spoiler label="Show solution" >}}
-EOT activate Hermit, order as Scrounger, Tog, Trike. Opponent could crypt after Hermit resolves, and we can Scrounge Pali, Akroma, Scrounger (top→bottom), discard Devourer to Tog, put three activations on the stack and K-Rec Trike and Devourer. After everything resolves, we have an exiled gy, Trike and Dev in the library and 20 counters on Shifter. On upkeep we Hermit-mill Trike on top of the gy and ping for lethal. Assume opponent doesn't crypt, we Scrounge anyway Pali, Akroma, Scrounger (top→bottom) and attempt to go to our turn. If opponent crypts now, we do as above and win.
+1. *End of turn* <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> activate Hermit Druid, ordering the graveyard as Scrounger > Tog > Trike.
+2. **Opponent activates Crypt after Hermit resolved:** <br>
+   3. Activate Shifter/Scrounger and put Palinchron, Akroma, Scrounger on top of the library. <br>
+   4. Discard Devourer to Tog. <br>
+   5. Put three Devourer activations on the stack. <br>
+   6. <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> Flashback Krosan Reclamation targeting Triskelion and Devourer. <br>
+   7. After everything resolves: graveyard is exiled, Trike and Devourer are in the library, Shifter has 20 counters. <br>
+   8. *On upkeep* <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> activate Hermit Druid and put Triskelion on top of the graveyard. <br>
+   9. Ping for lethal with Shifter/Triskelion. <br>
+2. **Opponent doesn't Crypt and pass back priority:** <br>
+   3. Activate Shifter/Scrounger and put Palinchron, Akroma, Scrounger on top of the library. <br>
+   4. Attempt to pass to our turn. <br>
+      *5. If opponent Crypts now, proceed as before and win.* <br>
+   5. You get to your upkeep. <br>
+   6. Holding priority: discard Devourer with Tog, exile Palinchron with Shifter/Devourer, and in response <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> activate Hermit Druid. Then pass priority. <br>
+      7. If the entire stack resolves: Shifter has 7 counters. <br>
+      8. Graveyard is Scrounger > Akroma > Devourer > Tog > Trike. <br>
+      9. Activate Shifter/Scrounger and put Akroma, Scrounger and Guide on top of the library. <br>
+      10. Reveal Tog on top of the graveyard. <br>
+      11. Activate Shifter/Tog 20 times and then exile Tog to reveal Triskelion. <br>
+      12. Shoot all blockers and attack for lethal. <br>
 
-So we get to our turn. Holding priority, we discard Dev to Tog, exile Pali with Dev and in response activate Hermit, and pass priority. If we get to resolve the whole stack, we have Shifter with 7 counters, GY as Scrounger, Akroma, Devourer, Tog, Trike. We can Scrounge the top 3, revealing Tog, buff and exile Tog to become Trike and shoot all the blockers and attack for lethal. So opponent must interact somewhere:
+Opponent must interact somewhere. Two options:
 
-- **Option A:** They crypt us now in response to Hermit. We activate Devourer two more times and K-Rec Devourer and something else in response. We get a Tog with 13 counters, pump Tog and become Trike and shoot blockers. Rest of the stack resolves and we attack with a naked Shifter with 15 counters and many Tog pumps. Alternatively, we can activate Devourer twice, and K-Rec Dev and Trike. Shifter gets 15 counters, then GY is exiled, then library is milled (we put Trike on top), then we get the 7 leftover counters and we shoot for lethal in our upkeep.
+**Option A:** Opponent Crypts in response to Hermit.
 
-- **Option B:** Opponent allows Hermit to resolve but crypts before the Pali counters resolve. We order GY as Scrounger, Akroma, followed by Dev, Tog and Trike that were already there. Activate Scrounger in response to crypt putting Akroma, Scrounger and Dev in that order in the library, so Shifter is Tog. Pump a lot then let Crypt resolve. We go to draw, get Akroma and discard with Shifter to attack with pumped Akroma for lethal.
-{{< /spoiler >}}
+   7. Activate Devourer two more times. <br>
+   8. *In response* <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> Flashback Krosan Reclamation on Devourer and Triskelion. <br>
+   9. Shifter gets 13 counters. <br>
+   10. Let the stack resolves and the graveyard is exiled. <br>
+   11. Library is milled with the Hermit activation *(put Trike on top)* and then the 7 leftover counters are added to the Shifter. <br>
+   12. Activate Shifter/Triskelion to shoot for lethal. <br>
+
+**Option B:** Opponent allows Hermit to resolve but Crypts before the Palinchron counters resolve.
+
+   7. Order the graveyard as Scrounger > Akroma, followed by Devourer > Tog > Trike that were already there.
+   8. Activate Shifter/Scrounger in response to Crypt to put back in the library: Akroma, Scrounger and Devourer.
+   9. Shifter is now a Shifter/Tog.
+   12. Pump a lot, then let Crypt resolve.
+   13. On draw step, you draw Akroma.
+   14. <i class="ms ms-2 ms-cost"></i> Discard Akroma with Shifter and attack for lethal.
+   {{< /spoiler >}}
 
 ---
 
