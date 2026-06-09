@@ -21,7 +21,7 @@ Opponent is at 24 life with a nice board and a Worship. You are at 3 in your upk
 {{< spoiler label="Show solution #1" >}}
  1. <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Hermit Druid using Reflecting Pool.
  2. Put Karmic Guide > Devourer on top of the graveyard.
- 3. <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> Cast Krosan Reclamation using Treva's Ruin and Coast targetting two unearths.
+ 3. <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> Flashback Krosan Reclamation using Treva's Ruin and Coast targeting two Unearth.
  4. <i class="ms ms-b ms-cost"></i> Cast Unearth targeting Shapeshifter using Llanowar Wastes (down to 2 life).
  5. Shifter enters as Guide, which brings back Guide, and brings back Scrounger (graveyard is now Uneart, Devourer).
  6. Activate Scrounger and put Palinchron, Akroma and ESG back in the library.
@@ -49,7 +49,7 @@ Opponent is at 24 life with a nice board and a Worship. You are at 3 in your upk
 8. Pass the turn.
 9. On opponent's upkeep activate Shifter/Scrounger again to put 2nd Shifter and 2x Hermit in the library.
 10. Activate Shifter/Devourer letting each trigger resolve and responding to the sac trigger. (after 9 exiles at 34 counters)
-11. <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> Cast Krosan Reclamation to put Devourer in the lbrary.
+11. <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> Flashback Krosan Reclamation to put Devourer in the library.
 12. Reveal Triskelion on top of the graveyard.
 13. Ping them down to 1 life (shift-dev at 11 counters).
 14. Ping Mom and Angel (down to 5 counters).
