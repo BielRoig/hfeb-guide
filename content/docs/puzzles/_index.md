@@ -387,14 +387,24 @@ It's your turn and you have an active Shapeshifer in play against two open mana 
 
 *What's the play?*
 
-{{< spoiler label="Show solution #1 (MTGO)" >}}
-1. Wastes pitch Hermit.
-   - **If they don't exile Hermit:** Get Trike and do the Crypt-proof line (Hermit, grow, reveal Dev, discard Trike).
-   - **If they exile Hermit:** Get Devourer and pitch it using City. They only have one exile left.
-     - **If they exile Devourer:** Grow it in response and cover with Gemstone Mine.
-     - **If they don't exile Devourer:** Get Tog and safely grow Trike, then exile it yourself by pitching Tog and attack.
-
-> Also no need to get Tog there — if Survival resolves we can even get Trike. Devourer will be covered by 2 cards anyway.
+{{< spoiler label="Show solution" >}}
+1. <i class="ms ms-g ms-cost"></i> Discard Hermit with Survival.
+   - **If they don't exile Hermit:**
+     2. Get Triskelion.
+     3.  Do the [Crypt-proof line](https://hfeb.guide/docs/advanced-lines/#line-2).
+   - **If they exile Hermit:**
+     2. Get Devourer.
+     3. <i class="ms ms-g ms-cost"></i> Discard Devourer with Survival.
+     - **If they exile Devourer:**
+       4. Activate Shifter/Devourer holding priority and cover it with Gemstone Mine adding <i class="ms ms-g ms-cost"></i>.
+       5. Let Withered Wretch exile Devourer.
+       6. Survival search resolve and you can get whatever (Trike or Akroma if still in the deck).
+       7. Attack with a huge Shapeshifter.
+     - **If they don't exile Devourer:**
+       4. Get Triskelion.
+       5. Activate Shifter/Devourer.
+       6. <i class="ms ms-g ms-cost"></i> Discard Triskelion with Survival.
+       7. Shoot the opponent and win.
 {{< /spoiler >}}
 
 
