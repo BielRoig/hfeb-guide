@@ -99,8 +99,7 @@ The opponent is at 33 with an imposing board. They have sworded Psychatog and He
 
 ## Puzzle 3 {#puzzle-3}
 
-It's opponents EOT and they have you at 1 and just dropped a Crypt and a Sulfuric
-Vortex. Your WoR has 1 counter and hasn't been used yet this turn. What's the play?
+It's opponents EOT and they have you at 1 and just dropped a Crypt and a Sulfuric Vortex. Your WoR has 1 counter and hasn't been used yet this turn.
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle3.png" alt="Board state" class="img-fluid rounded">
@@ -109,7 +108,9 @@ Vortex. Your WoR has 1 counter and hasn't been used yet this turn. What's the pl
 *What's the play?*
 
 {{< spoiler label="Show solution" >}}
-Solution text goes here.
+This is the puzzle created by Biel that gave birth to the [Crypt-proof line](https://hfeb.guide/docs/advanced-lines/#line-2).
+
+You should be able to figure out the solution on your own 😎. 
 {{< /spoiler >}}
 
 ---
@@ -315,7 +316,7 @@ So we get to our turn. Holding priority, we discard Dev to Tog, exile Pali with 
 
 ## Puzzle 9 {#puzzle-9}
 
-*As simply as it can be.. find the maximum amount of damage possible!*
+As simply as it can be.. find the maximum amount of damage possible!
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle9.png" alt="Board state" class="img-fluid rounded">
@@ -358,7 +359,7 @@ So we get to our turn. Holding priority, we discard Dev to Tog, exile Pali with 
 
 ## Puzzle 10 {#puzzle-10}
 
-*You had Krosan Reclamation in hand, so your graveyard is now a mess. You used a Cabal Therapy to peek at your opponent's hand and the coast is clear. How do you win form this spot?*
+You had Krosan Reclamation in hand, so your graveyard is now a mess. You used a Cabal Therapy to peek at your opponent's hand and the coast is clear. How do you win form this spot?
 
 <div class="card-row" style="align-items: flex-start;">
 <img src="/images/puzzles/puzzle10.png" alt="Board state" class="img-fluid rounded">
