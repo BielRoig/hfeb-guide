@@ -589,14 +589,14 @@ Library is exactly 3 cards, we have threshold and Scrounger is among those 3 —
 
 ## Puzzle 16 {#puzzle-16}
 
-*Description coming soon.*
-
+On our main phase, we have a hermit in play without summoning sickness, 4 lands available with 3 counters on the Mine and 2 Shifters in hand. Opponent has an untapped land and an untapped Furnace. Can you win this turn?
+<div class="card-row" style="align-items: flex-start;">
+<img src="/images/puzzles/puzzle16.png" alt="Board state" class="img-fluid rounded">
+</div>
 *What's the play?*
 
 {{< spoiler label="Show solution" >}}
-Scenario: 4 lands in play, Hermit Druid (not sick), Shifter in hand, opponent has open Phyrexian Furnace.
-
-**Setup:** Activate Hermit — order graveyard as: Guide, Tog, Scrounger, WoR, WoR, Devourer, Trike, Akroma. Cast Shifter.
+**Setup:** Activate Hermit — order graveyard as: Guide, Tog, Scrounger, WoR, WoR, Devourer, Trike, Akroma. Once Hermit resolves and the stack is empty, we cast Shifter. Our goal is to bring back Guide with Shifter, and Guide will bring back Tog. Two scenarios open up: either opponent interacts with this process at some point (A) or opponent doesn't interact or interacts with some other piece in the graveyard and we end up with Shifter, Guide and Tog in play (B). Let's review each:
 
 ---
 
