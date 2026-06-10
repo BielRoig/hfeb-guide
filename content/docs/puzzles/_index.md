@@ -459,7 +459,7 @@ You are playing against Goblins and facing a Crypt and a Fanatic, can you win th
 
 **If opponent pings in response to stop the Hermit activation:** <br>
    4. <i class="ms ms-g ms-cost"></i><i class="ms ms-g ms-cost"></i> Activate Survival twice in response and fetch Devourer and Trike. *Crypt is irrelevant.*  <br>
-   5. Discard Devourer and Trike for free with Tog.  br>
+   5. Discard Devourer and Trike for free with Tog. <br>
    6. Activate Shifter/Devourer and then Shifter/Trike and win. <br>
 
 **Assume opponent doesn't ping, so Hermit resolves:** <br>
