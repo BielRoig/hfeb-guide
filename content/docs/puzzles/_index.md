@@ -492,22 +492,26 @@ It's your turn and you have an active Shapeshifer in play against two open mana 
 
 {{< spoiler label="Show solution" >}}
 1. <i class="ms ms-g ms-cost"></i> Discard Hermit with Survival.
-   - **If they don't exile Hermit:** <br>
-     2. Get Triskelion. <br>
-     3.  Do the [Crypt-proof line](https://hfeb.guide/docs/advanced-lines/#line-2).
-   - **If they exile Hermit:** <br>
-     2. Get Devourer. <br>
-     3. <i class="ms ms-g ms-cost"></i> Discard Devourer with Survival.
-     - **If they exile Devourer:** <br>
-       4. Activate Shifter/Devourer holding priority and cover it with Gemstone Mine adding <i class="ms ms-g ms-cost"></i>. <br>
-       5. Let Withered Wretch exile Devourer. <br>
-       6. Survival search resolve and you can get whatever (Trike or Akroma if still in the deck). <br>
-       7. Attack with a huge Shapeshifter.
-     - **If they don't exile Devourer:** <br>
-       4. Get Triskelion. <br>
-       5. Activate Shifter/Devourer. <br>
-       6. <i class="ms ms-g ms-cost"></i> Discard Triskelion with Survival. <br>
-       7. Shoot the opponent and win.
+
+**If they don't exile Hermit:** <br>
+  2. Get Triskelion. <br>
+  3.  Do the [Crypt-proof line](https://hfeb.guide/docs/advanced-lines/#line-2).
+
+**If they exile Hermit:** <br>
+  2. Get Devourer. <br>
+  3. <i class="ms ms-g ms-cost"></i> Discard Devourer with Survival.
+
+  **If they exile Devourer:** <br>
+    4. Activate Shifter/Devourer holding priority and cover it with Gemstone Mine adding <i class="ms ms-g ms-cost"></i>. <br>
+    5. Let Withered Wretch exile Devourer. <br>
+    6. Survival search resolve and you can get whatever (Trike or Akroma if still in the deck). <br>
+    7. Attack with a huge Shapeshifter.
+    
+  **If they don't exile Devourer:** <br>
+    4. Get Triskelion. <br>
+    5. Activate Shifter/Devourer. <br>
+    6. <i class="ms ms-g ms-cost"></i> Discard Triskelion with Survival. <br>
+    7. Shoot the opponent and win.
 {{< /spoiler >}}
 
 
