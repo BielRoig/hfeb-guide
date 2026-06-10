@@ -452,21 +452,30 @@ You are playing against Goblins and facing a Crypt and a Fanatic, can you win th
 
 *What's the play?*
 
-{{< spoiler label="Show solution #1" >}}
-1. Exile the top two cards, reveal Hermit and activate it.
-   - **If they ping in response to stop the activation:** Activate Survival twice in response and fetch Devourer and Trike. Crypt is harmless here. Discard them for free with Tog to win.
-   - **Assume they dont ping so Hermit resolves:** Put Scrounger on top and scrounge Trike, Guide and Akroma and try to resolve the pump.
-     - **If it resolves:** Fanatic is irrelevant — pitch Hermit to Survival to get Trike.
-     - **If they Crypt:** Pitch Pali for Trike. With Trike in hand, reveal Devourer, put 13 CMC on the stack and exile Devourer for the win — we don't care about damage or exiling.
-     - **If pump doesn't resolve (Crypt or ping):** Respond with Survival. If they respond again, Survival again. In any case we get Trike and win.
-{{< /spoiler >}}
+{{< spoiler label="Show solution" >}}
+1. Exile the top two cards of the graveyard with Tog.
+2. Reveal Hermit on top of the graveyard.
+3. <i class="ms ms-g ms-cost"></i><i class="ms ms-tap ms-cost"></i> Activate Shifter/Hermit.
 
-{{< spoiler label="Show solution #2" >}}
-Discard Hermit, get Devourer. Discard Pali, get Trike and win with Shifter.
+**If opponent pings in response to stop the Hermit activation:** <br>
+   4. <i class="ms ms-g ms-cost"></i><i class="ms ms-g ms-cost"></i> Activate Survival twice in response and fetch Devourer and Trike. *Crypt is irrelevant.*  <br>
+   5. Discard Devourer and Trike for free with Tog.  br>
+   6. Activate Shifter/Devourer and then Shifter/Trike and win. <br>
 
-If they try to use a combination of Crypt + Fanatic: activate Shifter–Devourer and hope to not hit both Akroma and Trike.
+**Assume opponent doesn't ping, so Hermit resolves:** <br>
+  4. Put Scrounger on top of the graveyard. <br>
+  5. Activate Shifter/Scrounger to put Trike, Guide and Akroma back on the library. <br>
+  6. Attempt to resolve the +3/+3 pump. Two sub-scenarios: <br>
 
-Other option could be: Survi discard Pali, get Trike. Tog discard Hermit. Activate Shifter–Hermit. Scrounger back Pali, Akroma, Scrounger — try to let the pump resolve. If they pop mogg in response, stack Shifter–Devourer then remove Devourer with Tog. Discard Trike and shoot.
+  **Sub-scenario A — Pump resolves cleanly or ping with Fanatic:** <br>
+    7. <i class="ms ms-g ms-cost"></i> Discard Hermit to Survival to get Trike. <br>
+    8. Use Psychatog in play to manipulate the top of the graveyard to reveal Devourer and activate Shifter/Devourer to exile Akroma and Guide (13 CMC). With Tog in play you can make sure that Crypt wont [cover any activation](https://hfeb.guide/docs/beyond-the-basics/activation-covering/) of Shifter/Devourer <br>
+    9. Discard Trike and shoot the opponent with Shifter/Trike. <br>
+  
+  **Sub-scenario B — Opponent Crypts:** <br>
+    7. <i class="ms ms-g ms-cost"></i> Discard Palinchron to Survival to get Trike. <br>
+    8. Use Psychatog in play to manipulate the top of the graveyard to reveal Devourer and activate Shifter/Devourer to exile Akroma and Guide (13 CMC). With Tog in play you can make sure that Mogg Fanatic wont [cover any activation](https://hfeb.guide/docs/beyond-the-basics/activation-covering/) of Shifter/Devourer since you can exile cards down to a creature with toughness >1. <br>
+    9. Discard Trike and shoot the opponent with Shifter/Trike. <br>
 {{< /spoiler >}}
 
 ---
