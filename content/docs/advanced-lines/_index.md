@@ -123,12 +123,10 @@ With a non-summoning sick Shapeshifter and Survival of the Fittest, you can gene
 </details>
 
 <details class="collapsible-hero collapsible-hero--survival line-polished">
-<summary>Shifter Kill with Infinite Pump</summary>
+<summary>Infinite Power Line</summary>
 <div markdown="1">
 
-With Survival of the Fittest and Volrath's Shapeshifter in play, Battlefield Scrounger enables an infinite pump loop. Useful against decks that can generate infinite life or otherwise block a normal hFEB kill. This line does not exile deck cards like Tog or Devourer, keeping your options open for future turns.
-
-> ⚠️ **Rules note:** This line involves activating Wall of Roots multiple times via Shifter. See the [Rules](/docs/beyond-the-basics/rules/) page for full details on the legality of this interaction.
+With Survival of the Fittest and two Volrath's Shapeshifters in play, Battlefield Scrounger enables an infinite pump loop. Useful against decks that can generate infinite life or otherwise block a normal hFEB kill. This line does not exile deck cards like Tog or Devourer, keeping your options open for future turns.
 
 <div class="card-row card-row--stack">
 {{< scryfall-card name="Survival of the Fittest" set="exo" />}}
@@ -137,22 +135,30 @@ With Survival of the Fittest and Volrath's Shapeshifter in play, Battlefield Scr
 {{< scryfall-card name="Wall of Roots" set="mir" />}}
 </div>
 
-1. <i class="ms ms-g ms-cost"></i> Discard WoR#1 to Survival → get Scrounger
-2. Activate Shifter/WoR#1 to add <i class="ms ms-g ms-cost"></i>, use that mana to pitch Scrounger to Survival
-3. <i class="ms ms-g ms-cost"></i> Discard Scrounger to Survival: **in response** to the Survival trigger, activate Shifter/Scrounger to put Scrounger + 2 more cards back into the library
-4. Shifter becomes WoR#1 again, gets a +3/+3 pump from Scrounger (with the 0/-1 counter = +3/+2 total pump)
-5. Resolve Survival trigger → get WoR#2 in hand
-6. Activate Shifter/WoR#1 to add <i class="ms ms-g ms-cost"></i>
-7. <i class="ms ms-g ms-cost"></i> Discard WoR#2 to Survival → get WoR#3
-8. Activate Shifter/WoR#2 to add <i class="ms ms-g ms-cost"></i>
-9. <i class="ms ms-g ms-cost"></i> Discard WoR#3 to Survival → get Scrounger
-10. Activate Shifter/WoR#3 to add <i class="ms ms-g ms-cost"></i>
-11. <i class="ms ms-g ms-cost"></i> Discard Scrounger to Survival: **in response**, activate Shifter/Scrounger to put Scrounger + WoR#1 + WoR#2 back into library
-12. Shifter becomes WoR#1 again, gets +3/+3 pump (with 3× 0/-1 counters = +3/+0 total pump)
+Start with two Shifters in play, Survival in play, WoR in hand and a creature with toughness 3+ top of graveyard (WoR or Pali - NOT Akroma as Shifters will die to the Legend rule).
 
-From here resolve the Survival trigger getting WoR#2 — you are back to step 1. Repeat for infinite pump.
+1. <i class="ms ms-g ms-cost"></i> Discard WoR#1 to Survival → get Wor#2
+2. Shifter1 produces <i class="ms ms-g ms-cost"></i>  (which we abbreviate as S1-><i class="ms ms-g ms-cost"></i> ). The P/T increments of both Shifters are now [0/-1] and [0/0]. We have <i class="ms ms-g ms-cost"></i>  in our pool.
+3. Use <i class="ms ms-g ms-cost"></i>  to pitch WoR2 to get Battlefield Scrounger (BS).
+4. S1-><i class="ms ms-g ms-cost"></i> , S2-><i class="ms ms-g ms-cost"></i> , [0/-2, 0/-1], <i class="ms ms-g ms-cost"></i> <i class="ms ms-g ms-cost"></i>  in pool
+5. Use <i class="ms ms-g ms-cost"></i>  to pitch BS. In response use S1 to scrounge WoR1, WoR2 and BS. Let 3/3 pump resolve and get WoR1 from library. [3/1, 0/-1]. <i class="ms ms-g ms-cost"></i>  in pool.
+6. Pitch WoR1 for WoR2
+7. S1-><i class="ms ms-g ms-cost"></i> , [3/0, 0/-1], <i class="ms ms-g ms-cost"></i>  in pool.
+8. Pitch WoR2 for BS
+9. S1-><i class="ms ms-g ms-cost"></i> , S2-><i class="ms ms-g ms-cost"></i> , [3/-1, 0/-2], <i class="ms ms-g ms-cost"></i> <i class="ms ms-g ms-cost"></i>  in pool.
+10. Pitch BS, scrounge top 3 cards with S2, let pump resolve and get WoR1. [3/-1, 3/1].
+11. Pitch WoR1 for WoR2
+12. S2-><i class="ms ms-g ms-cost"></i> , [3/-1, 3/0], <i class="ms ms-g ms-cost"></i>  in pool.
+13. Pitch WoR2 for BS
+14. S1-><i class="ms ms-g ms-cost"></i> , S2-><i class="ms ms-g ms-cost"></i> , [3/-2, 3/-1], <i class="ms ms-g ms-cost"></i> <i class="ms ms-g ms-cost"></i>  in pool.
+15. Pitch BS, scrounge top 3 cards with S1, get WoR1. [6/1, 3/-1]. G in the pool. Go back to step 6.
 
-> The initial steps give Shifter a toughness cushion to survive subsequent pumps. The reason is that when pitching Scrounger you have already accumulated 3× (0/-1) counters, so you need extra toughness before the +3/+3 resolves.
+> Every round toughness increments oscillate from -1 to 1 and viceversa and we get +3 on power on one or the other Shifter. Final result are two [inf, +-1] Shifters (but only one Shifter/Akroma will survive).
+
+
+> If you have hermit druid in play at the start of the line (or top of graveyard), you can activate it to make the Shifters a Tog and pump them to guarantee them surviving all the negative counters along the line (makes math easier). You can also use the AD+Karmic Guide tech to bring two shifters into play and set up the board for the infinite line.
+
+> To use this line for combat, in step 10 use Scrounger to put Scrounger, Akroma and WoR1 into the library and get WoR1. Use the last <i class="ms ms-g ms-cost"></i> in the pool to pitch WoR1 for Akroma and use both Shifters to add <i class="ms ms-g ms-cost"></i><i class="ms ms-g ms-cost"></i> to the pool. Finally use <i class="ms ms-g ms-cost"></i> to pitch Akroma to get Scrounger. One of the Shifters must die to the legend rule, choose the one with the [X/-2] P/T delta, and a single Shifter will remain with a [X/0] P/T Delta. Use the last <i class="ms ms-g ms-cost"></i> to pitch Scrounger and in response put Scrounger, the top Shifter and something else in the library, revealing Akroma and attack for lethal.
 
 </div>
 </details>
