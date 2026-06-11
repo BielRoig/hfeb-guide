@@ -107,17 +107,19 @@ SIDEBOARD
 </details>
 
 <details>
-<summary>🎥 Paper Matches</summary>
+Paper Matches
+<summary>🎥 Facebook Monthly Elimination Round Matches</summary>
 <div markdown="1">
 
-- [Aluren vs hFEB](https://youtu.be/vBl0fHOZp0I?si=uq19AEmjG33Mugyg)
-- [Aluren vs hFEB](https://youtu.be/4QgLIKgf-P0?si=QfkonuYEdYRk5rQx)
-- [cFEB vs hFEB](https://www.youtube.com/watch?v=SQegMin2V5A&t=2824s)
-- [GW Enchantress vs hFEB](https://youtu.be/MS1q9nqTeR4?si=_SdVErlkGVcT7doH)
-- [GW Enchantress vs hFEB](https://youtu.be/9ojfyWKCMtI?si=--xfpYJWDYCVWz7s)
-- [January 2026 Premodern Monthly - Oath Spec vs hFEB](https://www.youtube.com/watch?v=TxCCWiM6PJA)
-- [hFEB Mirror - Galen vs. Biel — February 2026](https://www.youtube.com/watch?v=rCBmvkAHp4Y)
-- [hFEB Mirror #2 - Galen vs. Biel — February 2026](https://www.youtube.com/watch?v=UjG0HE_n5Ms)
+- [February 2025 Premodern Monthly - Top 8 - Hermit FEB vs Aluren](https://youtu.be/vBl0fHOZp0I?si=uq19AEmjG33Mugyg)
+- [February 2025 Premodern Monthly - Final Match - Hermit FEB vs Aluren](https://youtu.be/4QgLIKgf-P0?si=QfkonuYEdYRk5rQx)
+- [February 2025 Premodern Monthly - Top 4 - Hermit FEB vs Hermit FEB](https://www.youtube.com/watch?v=SQegMin2V5A&t=2824s)
+- [February 2026 Premodern Monthly - Top 4 Match (Best of 5) - GW Enchantress vs HFeb]
+(https://www.youtube.com/watch?v=MS1q9nqTeR4)
+- [February 2026 Premodern Monthly - Top 4 Match (Best of 5) - GW Enchantress vs HFeb](https://www.youtube.com/watch?v=9ojfyWKCMtI)
+- [January 2026 Premodern Monthly - Final Match (Best of 5) - Oath Spec vs HFeb](https://www.twitch.tv/videos/2718453156?filter=all&sort=time)
+- [HFEB Mirror - Galen vs. Biel February 2026](https://www.youtube.com/watch?v=rCBmvkAHp4Y)
+- [HFEB Mirror #2 - Galen vs. Biel February 2026 Top8](https://www.youtube.com/watch?v=UjG0HE_n5Ms)
 
 </div>
 </details>
@@ -132,6 +134,18 @@ SIDEBOARD
 - [Mono White Prison vs hFEB](https://youtu.be/Hio5mhjKEuY?si=Gf4wp3wMQDOnKsxP)
 - [Terrageddon vs hFEB](https://youtu.be/tG32CJjKSPA?si=Z5Teuk4QNFN7RLwc)
 - [Terrageddon vs hFEB - Deck Discussion](https://youtu.be/pfRBqd1K35M?si=UilMJ3qANLTn31Gm)
+
+</div>
+</details>
+
+<details>
+<summary>🎥 Lobstercon 2026</summary>
+<div markdown="1">
+
+- [hFEB vs UW Control](https://www.youtube.com/watch?v=SKSeclLaoVg)
+- [hFEB vs Elves](https://www.youtube.com/watch?v=EmHn9G3g0Dk)
+- [hFEB vs Balancing Tings](https://www.youtube.com/watch?v=x7EDEUFjSx8)
+- [hFEB vs Oath Ponza](https://www.youtube.com/watch?v=H5iB9Kl0Hmw)
 
 </div>
 </details>
