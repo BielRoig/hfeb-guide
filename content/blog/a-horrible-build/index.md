@@ -2,8 +2,8 @@
 title: "A Horrible Build"
 description: "Guest Post by Will Holland"
 summary: "Guest Post by Will Holland"
-date: 2026-06-11T00:00:00+00:00
-lastmod: 2026-06-11T00:00:00+00:00
+date: 2026-06-11T20:00:00+00:00
+lastmod: 2026-06-11T20:00:00+00:00
 draft: false
 weight: 50
 categories: []
