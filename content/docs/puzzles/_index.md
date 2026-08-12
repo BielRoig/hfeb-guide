@@ -176,11 +176,11 @@ It's opponents EOT, we are fully tapped and they just milled our entire library 
 3. <i class="ms ms-1 ms-cost"></i><i class="ms ms-b ms-cost"></i> Cast Animate Dead targeting Guide.
 4. Guide enters and targets Shifter.
   - **Bounce 1 — they Seal Guide with AD trigger on stack:** <br>
-    5. Discard Guide with Survival, get Akroma.<br>
+    5. Discard Guide with Survival.<br>
     6. Shifter enters as Guide and brings back Tog.<br>
     7. Sac Tog to Therapy.<br>
     8. Pump Shifter/Tog.<br>
-    9. Discard Akroma and win.<br>
+    9. Reveal Akroma and win.<br>
   - **No bounce:** <br>
     5. Shifter#1 enters as Guide and targets Shifter#2.<br>
     6. Shifter#2 enters as Guide and targets Scrounger.<br>
