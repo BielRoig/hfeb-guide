@@ -47,7 +47,7 @@ Opponent is at 24 life with a nice board and a Worship. You are at 3 in your upk
 6. Sac scrounger to therapy.
 7. Activate Shifter/Scrounger to put Palinchron, Squee, ESG in the library.
 8. Pass the turn.
-9. On opponent's upkeep activate Shifter/Scrounger again to put 2nd Shifter and 2x Hermit in the library.
+9. On opponent's upkeep activate Shifter/Scrounger again to put 2nd Shifter, Scrounger and Hermit in the library.
 10. Activate Shifter/Devourer letting each trigger resolve and responding to the sac trigger. (after 9 exiles at 34 counters)
 11. <i class="ms ms-1 ms-cost"></i><i class="ms ms-g ms-cost"></i> Flashback Krosan Reclamation to put Devourer in the library.
 12. Reveal Triskelion on top of the graveyard.
