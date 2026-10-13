@@ -3,7 +3,7 @@ title: Resources
 description: Downloads, videos, and useful links for Hermit Full English Breakfast.
 lead: Everything you need to go deeper on hFEB.
 date: 2026-05-05T00:00:00+00:00
-lastmod: 2026-05-20T00:00:00+00:00
+lastmod: 2026-10-13T09:26:00.000-07:00
 draft: false
 ---
 
