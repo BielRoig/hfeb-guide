@@ -1,7 +1,7 @@
 ---
-title: "Resources"
-description: "Downloads, videos, and useful links for Hermit Full English Breakfast."
-lead: "Everything you need to go deeper on hFEB."
+title: Resources
+description: Downloads, videos, and useful links for Hermit Full English Breakfast.
+lead: Everything you need to go deeper on hFEB.
 date: 2026-05-05T00:00:00+00:00
 lastmod: 2026-05-20T00:00:00+00:00
 draft: false
@@ -90,6 +90,8 @@ SIDEBOARD
 - [MoxlessGuy — YouTube](https://www.youtube.com/@moxlessguy)
 - [Impulse Crew — YouTube](https://www.youtube.com/@ImpulseCrewGaming)
 - [Dunkers — Twitch](https://m.twitch.tv/umeboshi55/home)
+- [VcT — Youtube](https://youtube.com/@vcT_mtg)
+- [Mike Oxlittle — Youtube](https://youtube.com/@mikeoxlittlelol)
 
 </div>
 </details>
